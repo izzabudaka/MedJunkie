@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10949841" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 37-year-old male presents feeling generally unwell with ‘flu-like illness that has persisted for over 6 weeks. He feels tired and has some shortness of breath on exertion. He has been intermittently feverish for the last month and has noticed a 10kg weight loss over the same time period.</p>
+        <p>
+          On examination:
+          <br/>
+          <br/>
+          Patient looks pale with areas of bruising over the skin
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          Observations: normal
+        </p>
+        <p>
+          On Full Blood Count:
+          <br/>
+          <br/>
+          Hb 8.0 g/dL (normal range for male 13–18g/dL)
+          <br/>
+          <br/>
+          WCC 9.0 x 109/L (normal range for WCC: 4.0–11.0 x 10
+          <sup>9</sup>
+          /L)
+          <br/>
+          <br/>
+          Platelets 51 x 10
+          <sup>9</sup>
+          /L (normal range 150–400 x 10
+          <sup>9</sup>
+          /L)
+        </p>
+        <p>Bone Marrow Aspirate: Auer rods in blast cells</p>
+        <p>A diagnosis of acute myeloid leukaemia (AML) is made. Which of the following is a feature of AML?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Philadelphia chromosome (Ph)</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">High white cell count of granulocytic lineage in the peripheral blood</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Blast cells with Auer rod in bone marrow aspirate</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">High white cell count with mainly mature lymphocytes with ‘smear’ cells in peripheral blood film</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Red granules in blast cells from marrow aspirate using periodic acid-Schiff (PAS) stain</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Blast cells with Auer rod in bone marrow aspirate) is Correct.</b>
+      This finding indicates acute myeloid leukaemia (AML). The presence of immature white cells; leukaemic blast cells, in the peripheral blood is a feature of acute leukemia. Further investigations will be needed to differentiate between myeloid and lymphoid forms:
+    </p>
+    <ul>
+      <li>Bone marrow biopsy will usually show increased cellularity with most cells being abnormal blast cells.</li>
+      <li>Cytochemical staining (using different stains that detect specific proteins, carbohydrates and lipids characteristic of particular cell lineages) helps to distinguish different forms of leukaemia; AML blast cells with Auer rods, acute lymphoblastic leukaemia (ALL) blasts and so on.</li>
+    </ul>
+    <p>
+      <b>Option A (Philadelphia chromosome (Ph)) is Incorrect.</b>
+      The presence of the Philadelphia chromosome is associated with chronic myeloid leukemia (CML).
+    </p>
+    <p>
+      <b>Option B (High white cell count of granulocytic lineage in the peripheral blood) is Incorrect.</b>
+      A very high white count up to >100x10
+      <sup>9</sup>
+      /L is characteristic of chronic leukaemia. Mainly granulocytic cells at all stages of development are features of chronic myeloid leukaemia (CML).
+      <br/>
+      <br/>
+      <b>Option D (High white cell count with mainly mature lymphocytes with ‘smear’ cells in peripheral blood film) is Incorrect.</b>
+      A very high white count up to >100x10
+      <sup>9</sup>
+      /L is characteristic of chronic leukaemia. A high proportion of mature lymphocytes with ‘smear’ cells produced when the blood film is made indicates chronic lymphocytic leukaemia (CLL).
+      <br/>
+      <br/>
+      <b>Option E (Red granules in blast cells from marrow aspirate using periodic acid-Schiff (PAS) stain) is Incorrect.</b>
+      Acute lymphocytic leukaemic (ALL) blasts contain glycogen, which is stained red by PAS. Normal lymphocytes do not contain glycogen.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Blast cells with Auer rod in bone marrow aspirate) is Correct.</b>
+      This finding indicates acute myeloid leukaemia (AML). The presence of immature white cells; leukaemic blast cells, in the peripheral blood is a feature of acute leukemia. Further investigations will be needed to differentiate between myeloid and lymphoid forms:
+    </p>
+    <ul>
+      <li>Bone marrow biopsy will usually show increased cellularity with most cells being abnormal blast cells.</li>
+      <li>Cytochemical staining (using different stains that detect specific proteins, carbohydrates and lipids characteristic of particular cell lineages) helps to distinguish different forms of leukaemia; AML blast cells with Auer rods, acute lymphoblastic leukaemia (ALL) blasts and so on.</li>
+    </ul>
+    <p>
+      <b>Option A (Philadelphia chromosome (Ph)) is Incorrect.</b>
+      The presence of the Philadelphia chromosome is associated with chronic myeloid leukemia (CML).
+    </p>
+    <p>
+      <b>Option B (High white cell count of granulocytic lineage in the peripheral blood) is Incorrect.</b>
+      A very high white count up to >100x10
+      <sup>9</sup>
+      /L is characteristic of chronic leukaemia. Mainly granulocytic cells at all stages of development are features of chronic myeloid leukaemia (CML).
+      <br/>
+      <br/>
+      <b>Option D (High white cell count with mainly mature lymphocytes with ‘smear’ cells in peripheral blood film) is Incorrect.</b>
+      A very high white count up to >100x10
+      <sup>9</sup>
+      /L is characteristic of chronic leukaemia. A high proportion of mature lymphocytes with ‘smear’ cells produced when the blood film is made indicates chronic lymphocytic leukaemia (CLL).
+      <br/>
+      <br/>
+      <b>Option E (Red granules in blast cells from marrow aspirate using periodic acid-Schiff (PAS) stain) is Incorrect.</b>
+      Acute lymphocytic leukaemic (ALL) blasts contain glycogen, which is stained red by PAS. Normal lymphocytes do not contain glycogen.
+    </p>
+  </modalFeedback>
+</assessmentItem>

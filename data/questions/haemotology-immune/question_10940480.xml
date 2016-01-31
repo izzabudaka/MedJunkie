@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10940480" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_006</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_010" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_011" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              A 30-year-old vegan presents to the clinic with several years' history of sore tongue, loose stools and poor balance with pins and needles in her feet. On examination, a smooth tongue is noted. Neurological examination reveals decreased vibration sense and proprioception in the toes bilaterally.
+              <br/>
+              A full blood count reveals a megaloblastic anaemia, leucopenia and thrombocytopenia. Blood film showed ‘Tear drop’ poikilocytes, Basophilic stippling and Howell Jolly bodies, hypersegmented neutrophils.
+            </div>
+          </li>
+          <li>
+            <div>
+              During a routine clinic appointment, a 45-year-old man with a history of systemic lupus erythematosus (SLE) mentions that he has had increasing breathlessness and fatigue over the last several months. Examination is unremarkable apart from pallor and a palpable splenic notch.
+              <br/>
+              Full blood count revealed a normocytic anaemia with a blood film showing spherocytes and polychromatic red cells. Further tests showed high reticulocyte count and LDH, and low haptoglobin levels with a positive direct Coombs' test.
+            </div>
+          </li>
+          <li>
+            <div>
+              A 60-year-old man is brought to A&amp;E following a 999 call by his wife when he collapsed at home. He is normally fit and well apart from a history of peptic ulcer disease and osteoarthritis. Recently he has complained of increasing fatigue and breathlessness but put this down to age and being slightly overweight. He saw his GP 3 weeks ago for his hip arthritis and had been prescribed diclofenac 50 mg t.d.s. and co-codamol 30/500 mg p.r.n. He is on no other medication and has no known allergies.
+              <br/>
+              On examination, he is pale and clammy with a pulse of 100 bpm and blood pressure of 90/56 mmHg. Cardiovascular examination reveals a sinus tachycardia, and chest auscultation is clear. His abdomen is distended and tender with signs of peritonism. Digital rectal examination reveals offensive dark-coloured stool.
+            </div>
+          </li>
+          <li>
+            <div>
+              A newborn baby of a Japanese couple is admitted to the Neonatal Special Care Unit with kernicterus and splenomegaly. Blood tests revealed he has a raised mean cell volume (MCV), mean cell haemaglobin concentration (MCHC) and reticulocyte count. An osmotic fragility test confirmed the diagnosis (see diagram below).
+              <br/>
+              <img src="0_pat018_.jpg"/>
+            </div>
+          </li>
+          <li>
+            <div>A 25-year-old woman with a history of fibroids presents to her GP complaining of increasing fatigue over the last 6 months. Full blood count shows a microcytic hypochromic anaemia and the film shows small pale red cells, with pencil cells and target cells.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Acute blood loss</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Aplastic anaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Fanconi anaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Folate deficiency</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Glucose-6-phosphate dehydrogenase deficiency</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Acquired autoimmune haemolytic anaemia (AIHA)</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Hereditary spherocytosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Iron deficiency</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Sickle cell anaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Sideroblastic anaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_010">
+        <div>Thalassaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_011">
+        <div>
+          Vitamin B
+          <sub>12</sub>
+          deficiency
+        </div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>
+        Option G (
+        <b>Hereditary spherocytosis</b>
+        ) is correct.
+      </b>
+      Spectrin deficiency is the most common cause. Osmotic fragility test = the patient's red cells are more prone to rupture (lysis) than the control red cells at the same saline concentration because the patient's red cells are spherical rather than disc-shaped.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>
+        Option G (
+        <b>Hereditary spherocytosis</b>
+        ) is correct.
+      </b>
+      Spectrin deficiency is the most common cause. Osmotic fragility test = the patient's red cells are more prone to rupture (lysis) than the control red cells at the same saline concentration because the patient's red cells are spherical rather than disc-shaped.
+    </p>
+  </modalFeedback>
+</assessmentItem>

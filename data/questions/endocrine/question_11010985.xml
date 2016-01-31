@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010985" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          A 70-year-old Caucasian man is brought into the Accident and Emergency Department from his residential home, as the staff are concerned that he has been getting progressively more confused and disorientated over the last few weeks. He has not been eating or drinking well as a result. He has a history of hypertension and chronic obstructive pulmonary disease (COPD). He is on bendroflumethiazide, enalapril, salbutamol p.r.n. and beclometasone. Three weeks ago, the visiting primary care physician diagnosed an exacerbation of COPD and prescribed a 5-day course of 30 mg prednisolone.
+          <br/>
+          <br/>
+          On examination, he has a Glasgow Coma Score of 13/15, and is afebrile, dry and haemodynamically stable. His blood results are as follows:
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          Na                   155 mmol/l      (normal range 135–145 mmol/l)
+          <br/>
+          <br/>
+          K                     5.0 mmol/l       (normal range 3.6–5.1 mmol/l)
+          <br/>
+          <br/>
+          Cl                    110 mmol/l      (normal range 95–107 mmol/l)
+          <br/>
+          <br/>
+          HCO
+          <sub>3</sub>
+                        29 mmol/l        (normal range 21–29 mmol/l)
+          <br/>
+          <br/>
+          Urea                15 mmol/l        (normal range 2.5–6.6 mmol/l)
+          <br/>
+          <br/>
+          Glucose           50 mmol/l        (normal range 3.6–5.8 mmol/l)
+          <br/>
+          <br/>
+          Arterial pH      7.35                (normal range 7.35–7.45)
+          <br/>
+          <br/>
+          <br/>
+          <br/>
+          What is the most likely diagnosis?
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Diabetic ketoacidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Lactic acidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Metabolic alkalosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Non-ketotic hyperosmolar coma</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Respiratory acidosis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      This is a typical case of HONK (uncontrolled type 2 diabetes – non-ketotic hyperosmolar diabetic coma) in a previously undiagnosed diabetic; it is often precipitated by thiazides, steroids or infection in older patients.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Diabetic ketoacidosis only occurs in type 1 diabetes mellitus. Its diagnosis requires ketosis and acidosis.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      The patient is not acidotic. Causes of lactic acidosis include medication (metformin, salbutamol), toxins (alcohol, cyanide), sepsis, hypoxia and shock. The blood lactate is > 5 mmol/l and pH &lt; 7.35.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      The patient is not alkalotic and has a normal serum pH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      The patient is not acidotic and has a normal serum pH.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      This is a typical case of HONK (uncontrolled type 2 diabetes – non-ketotic hyperosmolar diabetic coma) in a previously undiagnosed diabetic; it is often precipitated by thiazides, steroids or infection in older patients.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Diabetic ketoacidosis only occurs in type 1 diabetes mellitus. Its diagnosis requires ketosis and acidosis.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      The patient is not acidotic. Causes of lactic acidosis include medication (metformin, salbutamol), toxins (alcohol, cyanide), sepsis, hypoxia and shock. The blood lactate is > 5 mmol/l and pH &lt; 7.35.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      The patient is not alkalotic and has a normal serum pH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      The patient is not acidotic and has a normal serum pH.
+    </p>
+  </modalFeedback>
+</assessmentItem>

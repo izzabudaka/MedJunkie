@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10969318" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>In health, the bone marrow regulates the number of cells in the peripheral blood to match requirements. Marrow malfunction may lead to production of excess numbers of cells (myeloproliferative disease), or functionally defective cells (myelodysplastic syndromes). Leukaemia is a myeloproliferative disease in which there are enormous numbers of white cells in the peripheral blood.</p>
+        <p>What is a feature of chronic myeloid leukaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Clonal expansion of lymphoid cells, mainly B cells</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Commonest adult leukaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Mainly affects children</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Malignant plasma cells accumulate in the bone marrow and suppress cell production</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Uncommon clonal stem cell disorder making up 15% of all leukaemias</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Uncommon clonal stem cell disorder making up 15% of all leukaemias) is Correct.</b>
+    </p>
+    <ul>
+      <li>Acute myeloid leukaemia (AML) occurs mainly in adults and acute lymphoblastic leukaemia (ALL) affects mainly children.</li>
+      <li>Chronic myeloid leukaemia (CML) is an uncommon clonal stem cell disorder making up 15% of all leukaemias. Presentation is more common in adults between the ages of 40 and 60 years.</li>
+      <li>Chronic lymphocytic leukaemia (CLL) is the commonest adult leukaemia in Western societies with a peak incidence in patients aged between 60 and 80 years of age, and a male to female ratio of 2:1. CLL is a slow-growing disorder characterized by progressive accumulation of neoplastic cells in the bone marrow, spleen, liver and lymph nodes.</li>
+    </ul>
+    <br/>
+    <p>
+      <b>Option A (Clonal expansion of lymphoid cells, mainly B cells) is Incorrect.</b>
+      Clonal expansion of lymphoid cells, mainly B cells, is characteristic of chronic lymphocytic leukaemia.
+      <br/>
+      <br/>
+      <b>Option B (Commonest adult leukaemia) is Incorrect.</b>
+      Chronic lymphocytic leukaemia is the commonest adult leukaemia.
+      <br/>
+      <br/>
+      <b>Option C (Mainly affects children) is Incorrect.</b>
+      Chronic myeloid leukaemia mainly affects adults.
+      <br/>
+      <br/>
+      <b>Option D (Malignant plasma cells accumulate in the bone marrow and suppress cell production) is Incorrect.</b>
+      Malignant plasma cells accumulate in the bone marrow and suppress cell production in chronic lymphocytic leukaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Uncommon clonal stem cell disorder making up 15% of all leukaemias) is Correct.</b>
+    </p>
+    <ul>
+      <li>Acute myeloid leukaemia (AML) occurs mainly in adults and acute lymphoblastic leukaemia (ALL) affects mainly children.</li>
+      <li>Chronic myeloid leukaemia (CML) is an uncommon clonal stem cell disorder making up 15% of all leukaemias. Presentation is more common in adults between the ages of 40 and 60 years.</li>
+      <li>Chronic lymphocytic leukaemia (CLL) is the commonest adult leukaemia in Western societies with a peak incidence in patients aged between 60 and 80 years of age, and a male to female ratio of 2:1. CLL is a slow-growing disorder characterized by progressive accumulation of neoplastic cells in the bone marrow, spleen, liver and lymph nodes.</li>
+    </ul>
+    <br/>
+    <p>
+      <b>Option A (Clonal expansion of lymphoid cells, mainly B cells) is Incorrect.</b>
+      Clonal expansion of lymphoid cells, mainly B cells, is characteristic of chronic lymphocytic leukaemia.
+      <br/>
+      <br/>
+      <b>Option B (Commonest adult leukaemia) is Incorrect.</b>
+      Chronic lymphocytic leukaemia is the commonest adult leukaemia.
+      <br/>
+      <br/>
+      <b>Option C (Mainly affects children) is Incorrect.</b>
+      Chronic myeloid leukaemia mainly affects adults.
+      <br/>
+      <br/>
+      <b>Option D (Malignant plasma cells accumulate in the bone marrow and suppress cell production) is Incorrect.</b>
+      Malignant plasma cells accumulate in the bone marrow and suppress cell production in chronic lymphocytic leukaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

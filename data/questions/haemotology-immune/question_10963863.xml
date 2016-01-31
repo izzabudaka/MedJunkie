@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10963863" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Like most cell membranes, the red cell membrane is a lipid bilayer made up of phospholipids, cholesterol and glycolipids.</p>
+        <p>What is not a principal cytoskeletal protein of a red cell membrane?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Actin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Ankyrin</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Protein 4.1</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Spectrin</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Valine</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Valine) is Correct.</b>
+      Spectrin is the major structural protein in the red cell membrane. It is 100 nm long, is highly pliable, and comprises two subunits: a and β. Each subunit is made up of tandem repeats (106 amino acid repeats). The subunits are aligned side by side and form heterodimers, cross-linked at their tail ends by actin filaments. The membrane cytoskeleton is linked to integral proteins in the lipid bilayer by ankyrin and protein 4.1. Ankyrin binds to β-spectrin near a self-association site and links it to the cytoplasmic portion of band 3. This meshwork of proteins that underlies the plasma membrane restricts the lateral mobility of the integral proteins.
+      <br/>
+      <br/>
+      <b>Option A (Actin) is Incorrect.</b>
+      Actin is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option B (Ankyrin) is Incorrect.</b>
+      Ankyrin is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option C (Protein 4.</b>
+      1
+      <b>) is Incorrect.</b>
+      Protein 4.1 is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option D (Spectrin) is Incorrect.</b>
+      Spectrin is a major red cell membrane protein.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Valine) is Correct.</b>
+      Spectrin is the major structural protein in the red cell membrane. It is 100 nm long, is highly pliable, and comprises two subunits: a and β. Each subunit is made up of tandem repeats (106 amino acid repeats). The subunits are aligned side by side and form heterodimers, cross-linked at their tail ends by actin filaments. The membrane cytoskeleton is linked to integral proteins in the lipid bilayer by ankyrin and protein 4.1. Ankyrin binds to β-spectrin near a self-association site and links it to the cytoplasmic portion of band 3. This meshwork of proteins that underlies the plasma membrane restricts the lateral mobility of the integral proteins.
+      <br/>
+      <br/>
+      <b>Option A (Actin) is Incorrect.</b>
+      Actin is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option B (Ankyrin) is Incorrect.</b>
+      Ankyrin is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option C (Protein 4.</b>
+      1
+      <b>) is Incorrect.</b>
+      Protein 4.1 is a red cell membrane protein.
+      <br/>
+      <br/>
+      <b>Option D (Spectrin) is Incorrect.</b>
+      Spectrin is a major red cell membrane protein.
+    </p>
+  </modalFeedback>
+</assessmentItem>

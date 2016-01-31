@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10976860" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_008</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 28-year-old woman complains of restlessness and anxiety. She is 20 weeks pregnant. On examination her pulse is irregular and 110 beats/min, blood pressure is 128/86 mmHg, respiration rate is 15 breaths/min and she is afebrile. She has a tremor, warm peripheries and exophthalmos.</div>
+          </li>
+          <li>
+            <div>A 42-year-old man presents to his GP complaining of increasing frequency of headaches. He has had increasing tingling in his hands, especially when in bed. He also mentions that his shoes no longer fit him. On examination there is macroglossia, a prominent supraciliary ridge.</div>
+          </li>
+          <li>
+            <div>A 56-year-old woman is taken to the Emergency Department after falling at home after losing her balance getting up from a chair. She complains of dyspnoea and left thoracic pain. She is otherwise fit and well. On examination she is obese, pulse is 96 beats/min, blood pressure is 148/92 mmHg and she is apyrexial. She is tender over the left hemithorax but the chest is clear on auscultation. There is bruising over her arms, legs and trunk. BM is 10.5. Urine dip shows glycosuria. A chest X-ray confirms a fracture of the fourth to sixth left ribs.</div>
+          </li>
+          <li>
+            <div>A 50-year-old woman presents complaining of weight gain, lethargy and feeling low. On further questioning she has been constipated over the last 3 weeks. On examination she has a puffy face, with thin eyebrows and dry skin.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Calciferol</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Calcium gluconate</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Carbimazole</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Desmopressin</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Hydrocortisone</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Metyrapone</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Octreotide</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Propranolol</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Propylthiouracil</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Thyroxine</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option I (Propylthiouracil) is Correct.</b>
+      Propylthiouracil; this patient has hyperthyroidism. This drug is not contraindicated in pregnancy, unlike carbimazole.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option I (Propylthiouracil) is Correct.</b>
+      Propylthiouracil; this patient has hyperthyroidism. This drug is not contraindicated in pregnancy, unlike carbimazole.
+    </p>
+  </modalFeedback>
+</assessmentItem>

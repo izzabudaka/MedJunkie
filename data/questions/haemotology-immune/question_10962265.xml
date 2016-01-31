@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10962265" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>In patients with chronic obstructive pulmonary disease, the packed cell volume (PCV; i.e. haematocrit) is often raised.</p>
+        <p>What does the haematocrit measure?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">The ratio of the volume of red blood cells to the volume of whole blood</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">The size of red blood cells</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">The risk of blood clot formation</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">The percentage of haemoglobin saturated with oxygen</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">The fraction of plasma capable of carrying oxygen</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (The ratio of the volume of red blood cells to the volume of whole blood) is Correct.</b>
+      The ratio of the volume of red blood cells to the volume of whole blood is referred to as the haematocrit and is usually between 0.36 and 0.53. When oxygen levels are low (as in chronic obstructive pulmonary disease, high altitude and other situations), the kidneys respond to low oxygen tension by increasing the production of erythropoietin and thus the number of red cells (polycythaemia), which increases the packed cell volume (haematocrit).
+      <br/>
+      <br/>
+      <b>Option B (The size of red blood cells) is Incorrect.</b>
+      The size of red blood cells is referred to as the mean corpuscular volume (MCV).
+      <br/>
+      <br/>
+      <b>Option C (The risk of blood clot formation) is Incorrect.</b>
+      The risk of blood clot formation is indicated by the prothrombin time.
+      <br/>
+      <br/>
+      <b>Option D (The percentage of haemoglobin saturated with oxygen) is Incorrect.</b>
+      The percentage of haemoglobin saturated with oxygen is measured by pulse oximetry.
+      <br/>
+      <br/>
+      <b>Option E (The fraction of plasma capable of carrying oxygen) is Incorrect.</b>
+      The amount of oxygen dissolved in plasma is very small.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (The ratio of the volume of red blood cells to the volume of whole blood) is Correct.</b>
+      The ratio of the volume of red blood cells to the volume of whole blood is referred to as the haematocrit and is usually between 0.36 and 0.53. When oxygen levels are low (as in chronic obstructive pulmonary disease, high altitude and other situations), the kidneys respond to low oxygen tension by increasing the production of erythropoietin and thus the number of red cells (polycythaemia), which increases the packed cell volume (haematocrit).
+      <br/>
+      <br/>
+      <b>Option B (The size of red blood cells) is Incorrect.</b>
+      The size of red blood cells is referred to as the mean corpuscular volume (MCV).
+      <br/>
+      <br/>
+      <b>Option C (The risk of blood clot formation) is Incorrect.</b>
+      The risk of blood clot formation is indicated by the prothrombin time.
+      <br/>
+      <br/>
+      <b>Option D (The percentage of haemoglobin saturated with oxygen) is Incorrect.</b>
+      The percentage of haemoglobin saturated with oxygen is measured by pulse oximetry.
+      <br/>
+      <br/>
+      <b>Option E (The fraction of plasma capable of carrying oxygen) is Incorrect.</b>
+      The amount of oxygen dissolved in plasma is very small.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10969346" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Haemophilia is a bleeding disease that occurs almost exclusively in males.</p>
+        <p>What factor is deficient in Haemophilia A?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Von Willebrand factor</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Factor V</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Factor VIII</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Factor IX</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Factor X</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Factor VIII) is Correct.</b>
+      Factor VIII deficiency is present in 85% of all cases of Haemophilia.
+      <br/>
+      <br/>
+      <b>Option A (Von Willebrand factor) is Incorrect.</b>
+      Von Willebrand factor is deficient in Von Willebrand disease.
+      <br/>
+      <br/>
+      <b>Option B (Factor V) is Incorrect.</b>
+      Factor V Leiden is a condition in which there is a variant of Factor V leading to hypercoagulability.
+      <br/>
+      <br/>
+      <b>Option D (Factor IX) is Incorrect.</b>
+      Factor IX is deficient in Haemophilia B, also known as Christmas disease.
+      <br/>
+      <br/>
+      <b>Option E (Factor X) is Incorrect.</b>
+      Deficiency of Factor X is very uncommon.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Factor VIII) is Correct.</b>
+      Factor VIII deficiency is present in 85% of all cases of Haemophilia.
+      <br/>
+      <br/>
+      <b>Option A (Von Willebrand factor) is Incorrect.</b>
+      Von Willebrand factor is deficient in Von Willebrand disease.
+      <br/>
+      <br/>
+      <b>Option B (Factor V) is Incorrect.</b>
+      Factor V Leiden is a condition in which there is a variant of Factor V leading to hypercoagulability.
+      <br/>
+      <br/>
+      <b>Option D (Factor IX) is Incorrect.</b>
+      Factor IX is deficient in Haemophilia B, also known as Christmas disease.
+      <br/>
+      <br/>
+      <b>Option E (Factor X) is Incorrect.</b>
+      Deficiency of Factor X is very uncommon.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10950202" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          Vitamin B
+          <sub>12</sub>
+          deficiency can lead to neuropathy.
+        </p>
+        <p>
+          What is a consequence of vitamin B
+          <sub>12</sub>
+          deficiency?
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Neural tube defects in a fetus</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Optic neuritis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Subacute degeneration of the spinal cord</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Subsclerosing panencephalitis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Wernicke's encephalopathy</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Subacute degeneration of the spinal cord) is Correct.</b>
+      Vitamin B
+      <sub>12</sub>
+      deficiency leads to subacute combined degeneration of the spinal cord, and folate deficiency leads to neural tube defects in a fetus.
+      <br/>
+      <br/>
+      <b>Option A (Neural tube defects in a fetus) is Incorrect.</b>
+      Folic acid deficiency leads to neural tube defects in a fetus.
+      <br/>
+      <br/>
+      <b>Option B (Optic neuritis) is Incorrect.</b>
+      Optic neuritis is seen in multiple sclerosis and diabetes, among other conditions.
+      <br/>
+      <br/>
+      <b>Option D (Subsclerosing panencephalitis) is Incorrect.</b>
+      Subsclerosing panencephalitis is a consequence of measles.
+      <br/>
+      <br/>
+      <b>Option E (Wernicke's encephalopathy) is Incorrect.</b>
+      Wernicke's encephalopathy is a deficiency in thiamine (vitamin B
+      <sub>1</sub>
+      ) often seen in chronic alcohol abuse.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Subacute degeneration of the spinal cord) is Correct.</b>
+      Vitamin B
+      <sub>12</sub>
+      deficiency leads to subacute combined degeneration of the spinal cord, and folate deficiency leads to neural tube defects in a fetus.
+      <br/>
+      <br/>
+      <b>Option A (Neural tube defects in a fetus) is Incorrect.</b>
+      Folic acid deficiency leads to neural tube defects in a fetus.
+      <br/>
+      <br/>
+      <b>Option B (Optic neuritis) is Incorrect.</b>
+      Optic neuritis is seen in multiple sclerosis and diabetes, among other conditions.
+      <br/>
+      <br/>
+      <b>Option D (Subsclerosing panencephalitis) is Incorrect.</b>
+      Subsclerosing panencephalitis is a consequence of measles.
+      <br/>
+      <br/>
+      <b>Option E (Wernicke's encephalopathy) is Incorrect.</b>
+      Wernicke's encephalopathy is a deficiency in thiamine (vitamin B
+      <sub>1</sub>
+      ) often seen in chronic alcohol abuse.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010998" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>You are called to see a 45-year-old woman who is on the ward one day post total thyroidectomy. The nursing staff says she has begun to act strangely and is twitching. She appears comfortable and in minimal discomfort; however, she is experiencing paraesthesia around her mouth.  On clinical examination, her heart rate is 78 beats/min, blood pressure is 136/84 mmHg and temperature is 37°C. Her neck is not swollen and she has no evidence of stridor. She has developed an involuntary twitch in her right arm and on checking her blood pressure on her left arm, her hand goes into spasm. A thorough neurological examination reveals all reflexes are exaggerated. You decide to check her blood results.</p>
+        <p>From the following list, which abnormal serum blood investigation is expected given this clinical history and examination findings.</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">High serum calcium</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">High serum sodium</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Low serum calcium</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Low serum potassium</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Low serum sodium</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      These findings are typical of hypocalcaemia post total thyroidectomy. The presence of perioral tingling with carpopedal spasm (Trousseau's sign) and facial spasm when tapping the parotid gland (Chvostek's sign) is characteristic. This can occur post thyroid surgery as the parathyroid glands are ‘bruised’ and stunted, effectively decreasing the amount of parathyroid hormone released and therefore serum calcium.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Hypercalcaemia tends to present with bony pain, psychiatric disturbance, renal or ureteric calculi and constipation, and may be due to an underlying malignancy, myeloma, hyperparathyroidism or renal dysfunction.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is not a typical presentation of a hypernatraemic patient. This is often seen in the dehydrated patient and findings consistent with dehydration.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Hypokalaemia usually presents with arrhythmias and/or a paralytic ileus. There is no reason for this particular patient to be hypokalaemic given the clinical vignette.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      These symptoms are not specific to hyponatraemia which has a varied presentation from perioral tingling, confusion, seizures and coma.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      These findings are typical of hypocalcaemia post total thyroidectomy. The presence of perioral tingling with carpopedal spasm (Trousseau's sign) and facial spasm when tapping the parotid gland (Chvostek's sign) is characteristic. This can occur post thyroid surgery as the parathyroid glands are ‘bruised’ and stunted, effectively decreasing the amount of parathyroid hormone released and therefore serum calcium.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Hypercalcaemia tends to present with bony pain, psychiatric disturbance, renal or ureteric calculi and constipation, and may be due to an underlying malignancy, myeloma, hyperparathyroidism or renal dysfunction.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is not a typical presentation of a hypernatraemic patient. This is often seen in the dehydrated patient and findings consistent with dehydration.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Hypokalaemia usually presents with arrhythmias and/or a paralytic ileus. There is no reason for this particular patient to be hypokalaemic given the clinical vignette.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      These symptoms are not specific to hyponatraemia which has a varied presentation from perioral tingling, confusion, seizures and coma.
+    </p>
+  </modalFeedback>
+</assessmentItem>

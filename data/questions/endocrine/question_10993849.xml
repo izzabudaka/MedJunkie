@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10993849" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 66-year-old woman is found collapsed at home by her carer. No other history is available. On admission her pulse is 135 beats/min and blood pressure is 80/40 mmHg. Results of her blood tests are shown below.</p>
+        <p>Sodium: 152 mmol/L (normal range 135–145 mmol/L)</p>
+        <p>Potassium: 4.8 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+        <p>Urea: 14.8 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+        <p>Creatinine: 150 μmol/L (normal range 60–120 μmol/L)</p>
+        <p>Glucose: 55 mmol/L (normal range 7–11 mmol/L (non fasting))</p>
+        <p>Urinalysis: negative</p>
+        <p>What is the most appropriate treatment?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">0.9% saline 1000 mL stat</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Actrapid 1 U/h IV</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Actrapid 10 U/h IV</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Actrapid 10 U SC stat</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Urgent dialysis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (0.9% saline 1000mL stat) is Correct.</b>
+      Fluid resuscitation is the vital first step – these patients are often significantly volume deplete and require often quite aggressive fluid resuscitation. Saline is preferred in general as first line against haemodynamic parameters but invasive central venous pressure monitoring may be required.
+    </p>
+    <p>
+      <b>Option B (Actrapid 1 U/h IV) is Incorrect.</b>
+      Careful insulin therapy and attention to the risk of venous thromboembolism are the mainstays of treatment once correction of the circulating volume has begun.
+    </p>
+    <p>
+      <b>Option C 9Actrapid 10 U/h IV) is Incorrect.</b>
+      This is hyperosmolar non-ketotic coma. As rapid restoration of normoglycaemia may produce cerebral oedema, low doses of insulin are used in the first instance.
+    </p>
+    <p>
+      <b>Option D (Actrapid 10 U SC stat) is Incorrect.</b>
+      This is hyperosmolar non-ketotic coma. As rapid restoration of normoglycaemia may produce cerebral oedema, low doses of insulin are used in the first instance.
+    </p>
+    <p>
+      <b>Option E (Urgent dialysis) is Incorrect.</b>
+      This is not required at this point – moreover, attempting dialysis in a volume-deplete patient may cause significant haemodynamic instability.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (0.9% saline 1000mL stat) is Correct.</b>
+      Fluid resuscitation is the vital first step – these patients are often significantly volume deplete and require often quite aggressive fluid resuscitation. Saline is preferred in general as first line against haemodynamic parameters but invasive central venous pressure monitoring may be required.
+    </p>
+    <p>
+      <b>Option B (Actrapid 1 U/h IV) is Incorrect.</b>
+      Careful insulin therapy and attention to the risk of venous thromboembolism are the mainstays of treatment once correction of the circulating volume has begun.
+    </p>
+    <p>
+      <b>Option C 9Actrapid 10 U/h IV) is Incorrect.</b>
+      This is hyperosmolar non-ketotic coma. As rapid restoration of normoglycaemia may produce cerebral oedema, low doses of insulin are used in the first instance.
+    </p>
+    <p>
+      <b>Option D (Actrapid 10 U SC stat) is Incorrect.</b>
+      This is hyperosmolar non-ketotic coma. As rapid restoration of normoglycaemia may produce cerebral oedema, low doses of insulin are used in the first instance.
+    </p>
+    <p>
+      <b>Option E (Urgent dialysis) is Incorrect.</b>
+      This is not required at this point – moreover, attempting dialysis in a volume-deplete patient may cause significant haemodynamic instability.
+    </p>
+  </modalFeedback>
+</assessmentItem>

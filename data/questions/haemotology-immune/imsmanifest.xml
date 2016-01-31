@@ -1,0 +1,4386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:imsqti="http://www.imsglobal.org/xsd/imsqti_metadata_v2p1">
+  <resources>
+    <resource identifier="question_10960359" type="imsqti_item_xmlv2p1" href="question_10960359.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10960359</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10960359.xml"/>
+    </resource>
+    <resource identifier="question_10970794" type="imsqti_item_xmlv2p1" href="question_10970794.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10970794</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10970794.xml"/>
+    </resource>
+    <resource identifier="question_10960322" type="imsqti_item_xmlv2p1" href="question_10960322.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10960322</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Neurology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10960322.xml"/>
+    </resource>
+    <resource identifier="question_10970743" type="imsqti_item_xmlv2p1" href="question_10970743.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10970743</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Histology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10970743.xml"/>
+    </resource>
+    <resource identifier="question_10942589" type="imsqti_item_xmlv2p1" href="question_10942589.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10942589</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10942589.xml"/>
+    </resource>
+    <resource identifier="question_10942586" type="imsqti_item_xmlv2p1" href="question_10942586.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10942586</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10942586.xml"/>
+    </resource>
+    <resource identifier="question_10942583" type="imsqti_item_xmlv2p1" href="question_10942583.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10942583</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10942583.xml"/>
+    </resource>
+    <resource identifier="question_10970326" type="imsqti_item_xmlv2p1" href="question_10970326.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10970326</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10970326.xml"/>
+    </resource>
+    <resource identifier="question_10958304" type="imsqti_item_xmlv2p1" href="question_10958304.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10958304</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10958304.xml"/>
+    </resource>
+    <resource identifier="question_10970320" type="imsqti_item_xmlv2p1" href="question_10970320.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10970320</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10970320.xml"/>
+    </resource>
+    <resource identifier="question_10959359" type="imsqti_item_xmlv2p1" href="question_10959359.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10959359</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10959359.xml"/>
+    </resource>
+    <resource identifier="question_10941047" type="imsqti_item_xmlv2p1" href="question_10941047.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10941047</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10941047.xml"/>
+    </resource>
+    <resource identifier="question_10941044" type="imsqti_item_xmlv2p1" href="question_10941044.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10941044</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10941044.xml"/>
+    </resource>
+    <resource identifier="question_10941041" type="imsqti_item_xmlv2p1" href="question_10941041.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10941041</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10941041.xml"/>
+    </resource>
+    <resource identifier="question_10941038" type="imsqti_item_xmlv2p1" href="question_10941038.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10941038</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10941038.xml"/>
+    </resource>
+    <resource identifier="question_10941035" type="imsqti_item_xmlv2p1" href="question_10941035.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10941035</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10941035.xml"/>
+    </resource>
+    <resource identifier="question_10957839" type="imsqti_item_xmlv2p1" href="question_10957839.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10957839</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10957839.xml"/>
+    </resource>
+    <resource identifier="question_10940483" type="imsqti_item_xmlv2p1" href="question_10940483.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10940483</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10940483.xml"/>
+      <dependency identifierref="dependency_pat018__jpg_0"/>
+    </resource>
+    <resource identifier="question_10940474" type="imsqti_item_xmlv2p1" href="question_10940474.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10940474</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10940474.xml"/>
+      <dependency identifierref="dependency_pat018__jpg_0"/>
+    </resource>
+    <resource identifier="question_10940471" type="imsqti_item_xmlv2p1" href="question_10940471.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10940471</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10940471.xml"/>
+      <dependency identifierref="dependency_pat018__jpg_0"/>
+    </resource>
+    <resource identifier="question_10969780" type="imsqti_item_xmlv2p1" href="question_10969780.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10969780</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10969780.xml"/>
+    </resource>
+    <resource identifier="question_10958785" type="imsqti_item_xmlv2p1" href="question_10958785.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10958785</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10958785.xml"/>
+    </resource>
+    <resource identifier="question_10969766" type="imsqti_item_xmlv2p1" href="question_10969766.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10969766</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10969766.xml"/>
+    </resource>
+    <resource identifier="question_10940477" type="imsqti_item_xmlv2p1" href="question_10940477.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10940477</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10940477.xml"/>
+      <dependency identifierref="dependency_pat018__jpg_0"/>
+    </resource>
+    <resource identifier="question_10957359" type="imsqti_item_xmlv2p1" href="question_10957359.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10957359</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Genetics</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10957359.xml"/>
+    </resource>
+    <resource identifier="question_10940480" type="imsqti_item_xmlv2p1" href="question_10940480.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10940480</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10940480.xml"/>
+      <dependency identifierref="dependency_pat018__jpg_0"/>
+    </resource>
+    <resource identifier="question_10957305" type="imsqti_item_xmlv2p1" href="question_10957305.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10957305</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10957305.xml"/>
+    </resource>
+    <resource identifier="question_10969346" type="imsqti_item_xmlv2p1" href="question_10969346.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10969346</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10969346.xml"/>
+    </resource>
+    <resource identifier="question_10956707" type="imsqti_item_xmlv2p1" href="question_10956707.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10956707</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10956707.xml"/>
+    </resource>
+    <resource identifier="question_10969327" type="imsqti_item_xmlv2p1" href="question_10969327.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10969327</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10969327.xml"/>
+    </resource>
+    <resource identifier="question_10969318" type="imsqti_item_xmlv2p1" href="question_10969318.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10969318</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10969318.xml"/>
+    </resource>
+    <resource identifier="question_10956374" type="imsqti_item_xmlv2p1" href="question_10956374.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10956374</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10956374.xml"/>
+    </resource>
+    <resource identifier="question_10956371" type="imsqti_item_xmlv2p1" href="question_10956371.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10956371</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10956371.xml"/>
+    </resource>
+    <resource identifier="question_10956314" type="imsqti_item_xmlv2p1" href="question_10956314.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10956314</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10956314.xml"/>
+    </resource>
+    <resource identifier="question_10956306" type="imsqti_item_xmlv2p1" href="question_10956306.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10956306</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10956306.xml"/>
+    </resource>
+    <resource identifier="question_10968771" type="imsqti_item_xmlv2p1" href="question_10968771.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10968771</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10968771.xml"/>
+    </resource>
+    <resource identifier="question_10955741" type="imsqti_item_xmlv2p1" href="question_10955741.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10955741</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Gross anatomy</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10955741.xml"/>
+    </resource>
+    <resource identifier="question_10955726" type="imsqti_item_xmlv2p1" href="question_10955726.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10955726</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10955726.xml"/>
+    </resource>
+    <resource identifier="question_10935035" type="imsqti_item_xmlv2p1" href="question_10935035.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10935035</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10935035.xml"/>
+    </resource>
+    <resource identifier="question_10935032" type="imsqti_item_xmlv2p1" href="question_10935032.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10935032</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10935032.xml"/>
+    </resource>
+    <resource identifier="question_10935029" type="imsqti_item_xmlv2p1" href="question_10935029.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10935029</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10935029.xml"/>
+    </resource>
+    <resource identifier="question_10935026" type="imsqti_item_xmlv2p1" href="question_10935026.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10935026</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10935026.xml"/>
+    </resource>
+    <resource identifier="question_10935023" type="imsqti_item_xmlv2p1" href="question_10935023.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10935023</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10935023.xml"/>
+    </resource>
+    <resource identifier="question_10942580" type="imsqti_item_xmlv2p1" href="question_10942580.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10942580</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10942580.xml"/>
+    </resource>
+    <resource identifier="question_10942577" type="imsqti_item_xmlv2p1" href="question_10942577.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10942577</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10942577.xml"/>
+    </resource>
+    <resource identifier="question_10968326" type="imsqti_item_xmlv2p1" href="question_10968326.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10968326</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Genetics</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10968326.xml"/>
+    </resource>
+    <resource identifier="question_10967754" type="imsqti_item_xmlv2p1" href="question_10967754.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10967754</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Cell biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10967754.xml"/>
+    </resource>
+    <resource identifier="question_10953860" type="imsqti_item_xmlv2p1" href="question_10953860.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10953860</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10953860.xml"/>
+    </resource>
+    <resource identifier="question_10953264" type="imsqti_item_xmlv2p1" href="question_10953264.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10953264</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10953264.xml"/>
+    </resource>
+    <resource identifier="question_10953210" type="imsqti_item_xmlv2p1" href="question_10953210.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10953210</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Nutrition</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10953210.xml"/>
+    </resource>
+    <resource identifier="question_10952291" type="imsqti_item_xmlv2p1" href="question_10952291.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10952291</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10952291.xml"/>
+    </resource>
+    <resource identifier="question_10960315" type="imsqti_item_xmlv2p1" href="question_10960315.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10960315</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10960315.xml"/>
+    </resource>
+    <resource identifier="question_10952277" type="imsqti_item_xmlv2p1" href="question_10952277.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10952277</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10952277.xml"/>
+    </resource>
+    <resource identifier="question_10952246" type="imsqti_item_xmlv2p1" href="question_10952246.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10952246</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10952246.xml"/>
+    </resource>
+    <resource identifier="question_10966732" type="imsqti_item_xmlv2p1" href="question_10966732.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10966732</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Biochemistry</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10966732.xml"/>
+    </resource>
+    <resource identifier="question_10952231" type="imsqti_item_xmlv2p1" href="question_10952231.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10952231</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10952231.xml"/>
+      <dependency identifierref="dependency_PAT_020_image001_jpg_1"/>
+      <dependency identifierref="dependency_PAT_020_image002_jpg_2"/>
+      <dependency identifierref="dependency_PAT_020_image0031_jpg_3"/>
+    </resource>
+    <resource identifier="question_10966353" type="imsqti_item_xmlv2p1" href="question_10966353.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10966353</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10966353.xml"/>
+    </resource>
+    <resource identifier="question_10951374" type="imsqti_item_xmlv2p1" href="question_10951374.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10951374</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10951374.xml"/>
+    </resource>
+    <resource identifier="question_10958703" type="imsqti_item_xmlv2p1" href="question_10958703.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10958703</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10958703.xml"/>
+    </resource>
+    <resource identifier="question_10950841" type="imsqti_item_xmlv2p1" href="question_10950841.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10950841</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10950841.xml"/>
+    </resource>
+    <resource identifier="question_10959826" type="imsqti_item_xmlv2p1" href="question_10959826.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10959826</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathophysiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10959826.xml"/>
+    </resource>
+    <resource identifier="question_10965823" type="imsqti_item_xmlv2p1" href="question_10965823.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10965823</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Gross anatomy</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10965823.xml"/>
+    </resource>
+    <resource identifier="question_10950235" type="imsqti_item_xmlv2p1" href="question_10950235.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10950235</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pharmacology/Therapeutics</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10950235.xml"/>
+    </resource>
+    <resource identifier="question_10950202" type="imsqti_item_xmlv2p1" href="question_10950202.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10950202</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10950202.xml"/>
+    </resource>
+    <resource identifier="question_10965293" type="imsqti_item_xmlv2p1" href="question_10965293.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10965293</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10965293.xml"/>
+    </resource>
+    <resource identifier="question_10949845" type="imsqti_item_xmlv2p1" href="question_10949845.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10949845</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Genetics</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10949845.xml"/>
+    </resource>
+    <resource identifier="question_10949841" type="imsqti_item_xmlv2p1" href="question_10949841.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10949841</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Histology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10949841.xml"/>
+    </resource>
+    <resource identifier="question_10943139" type="imsqti_item_xmlv2p1" href="question_10943139.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10943139</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10943139.xml"/>
+    </resource>
+    <resource identifier="question_10943136" type="imsqti_item_xmlv2p1" href="question_10943136.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10943136</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10943136.xml"/>
+    </resource>
+    <resource identifier="question_10943133" type="imsqti_item_xmlv2p1" href="question_10943133.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10943133</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10943133.xml"/>
+    </resource>
+    <resource identifier="question_10943130" type="imsqti_item_xmlv2p1" href="question_10943130.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10943130</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10943130.xml"/>
+    </resource>
+    <resource identifier="question_10943127" type="imsqti_item_xmlv2p1" href="question_10943127.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10943127</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10943127.xml"/>
+    </resource>
+    <resource identifier="question_10964397" type="imsqti_item_xmlv2p1" href="question_10964397.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10964397</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10964397.xml"/>
+    </resource>
+    <resource identifier="question_10964821" type="imsqti_item_xmlv2p1" href="question_10964821.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10964821</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pathology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10964821.xml"/>
+    </resource>
+    <resource identifier="question_10964348" type="imsqti_item_xmlv2p1" href="question_10964348.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10964348</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10964348.xml"/>
+    </resource>
+    <resource identifier="question_10971713" type="imsqti_item_xmlv2p1" href="question_10971713.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10971713</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10971713.xml"/>
+    </resource>
+    <resource identifier="question_10964328" type="imsqti_item_xmlv2p1" href="question_10964328.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10964328</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10964328.xml"/>
+    </resource>
+    <resource identifier="question_10963866" type="imsqti_item_xmlv2p1" href="question_10963866.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10963866</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10963866.xml"/>
+    </resource>
+    <resource identifier="question_10963863" type="imsqti_item_xmlv2p1" href="question_10963863.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10963863</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10963863.xml"/>
+    </resource>
+    <resource identifier="question_10963848" type="imsqti_item_xmlv2p1" href="question_10963848.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10963848</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10963848.xml"/>
+    </resource>
+    <resource identifier="question_10963828" type="imsqti_item_xmlv2p1" href="question_10963828.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10963828</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Microbiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10963828.xml"/>
+    </resource>
+    <resource identifier="question_10963303" type="imsqti_item_xmlv2p1" href="question_10963303.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10963303</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Pharmacology/Therapeutics</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10963303.xml"/>
+    </resource>
+    <resource identifier="question_10962862" type="imsqti_item_xmlv2p1" href="question_10962862.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10962862</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10962862.xml"/>
+    </resource>
+    <resource identifier="question_10962265" type="imsqti_item_xmlv2p1" href="question_10962265.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10962265</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10962265.xml"/>
+    </resource>
+    <resource identifier="question_10962222" type="imsqti_item_xmlv2p1" href="question_10962222.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10962222</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10962222.xml"/>
+    </resource>
+    <resource identifier="question_10961848" type="imsqti_item_xmlv2p1" href="question_10961848.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10961848</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10961848.xml"/>
+    </resource>
+    <resource identifier="question_10961834" type="imsqti_item_xmlv2p1" href="question_10961834.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10961834</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Molecular biology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10961834.xml"/>
+    </resource>
+    <resource identifier="question_10961831" type="imsqti_item_xmlv2p1" href="question_10961831.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10961831</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10961831.xml"/>
+    </resource>
+    <resource identifier="question_10961252" type="imsqti_item_xmlv2p1" href="question_10961252.xml">
+      <metadata>
+        <imsmd:lom>
+          <imsmd:general>
+            <imsmd:identifier>question_10961252</imsmd:identifier>
+            <imsmd:catalogentry>
+              <imsmd:catalog>BS Exam Date</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>2011-01-01</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Randt Exam</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>BSUK</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Systems</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Haematological system</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Basic Science: Discipline</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Physiology</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Difficulty</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>5</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+            <imsmd:catalogentry>
+              <imsmd:catalog>Question Type</imsmd:catalog>
+              <imsmd:entry>
+                <imsmd:langstring>Multiple Choice</imsmd:langstring>
+              </imsmd:entry>
+            </imsmd:catalogentry>
+          </imsmd:general>
+        </imsmd:lom>
+        <imsqti:qtiMetadata>
+          <imsqti:interactionType>choiceInteraction</imsqti:interactionType>
+        </imsqti:qtiMetadata>
+      </metadata>
+      <file href="question_10961252.xml"/>
+    </resource>
+    <resource type="webcontent" identifier="dependency_pat018__jpg_0">
+      <file href="0_pat018_.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="dependency_PAT_020_image001_jpg_1">
+      <file href="1_PAT_020_image001.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="dependency_PAT_020_image002_jpg_2">
+      <file href="2_PAT_020_image002.jpg"/>
+    </resource>
+    <resource type="webcontent" identifier="dependency_PAT_020_image0031_jpg_3">
+      <file href="3_PAT_020_image0031.jpg"/>
+    </resource>
+  </resources>
+</manifest>

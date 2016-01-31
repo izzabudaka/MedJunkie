@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10966732" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>The composition of intracellular and extracellular fluids differs in order to maintain an osmotic gradient: oncotic pressure, which facilitates movement of fluid between compartments.</p>
+        <p>What is the extracellular concentration of sodium?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">145 mM</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">116 mM</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">139 mM</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">1.8 mM</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">12 mM</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (145 mM) is Correct.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM, but may vary between laboratories.
+      <br/>
+      <br/>
+      <b>Option B (116 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+      <br/>
+      <br/>
+      <b>Option C (139 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+      <br/>
+      <br/>
+      <b>Option D (1.8 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145mnM.
+      <br/>
+      <br/>
+      <b>Option E (12 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (145 mM) is Correct.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM, but may vary between laboratories.
+      <br/>
+      <br/>
+      <b>Option B (116 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+      <br/>
+      <br/>
+      <b>Option C (139 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+      <br/>
+      <br/>
+      <b>Option D (1.8 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145mnM.
+      <br/>
+      <br/>
+      <b>Option E (12 mM) is Incorrect.</b>
+      Extracellular Na
+      <sup>+</sup>
+      concentration is about 145 mM.
+    </p>
+  </modalFeedback>
+</assessmentItem>

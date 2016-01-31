@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11000377" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 26-year-old type 1 diabetic is admitted following a 48-h history of diarrhoea and vomiting. During this time she has missed her insulin doses.</p>
+        <p>On examination she is pyrexial at 38.5°C, drowsy with a Glasgow Coma Scale score of E3 M5 V4 and tachypnoeic. Clinically she appears to be dehydrated with a blood pressure of 80/65 mmHg.</p>
+        <p>What is the initial treatment priority?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">0.9% saline IV</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">1.4% sodium bicarbonate</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">5% dextrose IV</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Actrapid 10 U SC</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Co-amoxiclav 1.2 g IV</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (0.9% saline IV) is Correct.</b>
+      This is the fluid replacement of choice in this situation.
+    </p>
+    <p>
+      <b>Option B 1.4% sodium bicarbonate) is Incorrect.</b>
+      This may be used in severe diabetic ketoacidosis guided by blood gas therapy but should only be instituted following review by a senior clinician.
+    </p>
+    <p>
+      <b>Option C (5% dextrose IV) is Incorrect.</b>
+      The likely diagnosis is diabetic ketoacidosis – she requires fluid replacement initially with 0.9% saline, followed by 5% dextrose once normoglycaemia is achieved.
+    </p>
+    <p>
+      <b>Option D (Actrapid 10 U SC) is Incorrect.</b>
+      Insulin is required but the initial step should be to begin restoration of the circulating volume.
+    </p>
+    <p>
+      <b>Option E (Co-amoxiclav 1.2g IV) is Incorrect.</b>
+      While antibiotic therapy may be required, this is not an immediate treatment priority.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (0.9% saline IV) is Correct.</b>
+      This is the fluid replacement of choice in this situation.
+    </p>
+    <p>
+      <b>Option B 1.4% sodium bicarbonate) is Incorrect.</b>
+      This may be used in severe diabetic ketoacidosis guided by blood gas therapy but should only be instituted following review by a senior clinician.
+    </p>
+    <p>
+      <b>Option C (5% dextrose IV) is Incorrect.</b>
+      The likely diagnosis is diabetic ketoacidosis – she requires fluid replacement initially with 0.9% saline, followed by 5% dextrose once normoglycaemia is achieved.
+    </p>
+    <p>
+      <b>Option D (Actrapid 10 U SC) is Incorrect.</b>
+      Insulin is required but the initial step should be to begin restoration of the circulating volume.
+    </p>
+    <p>
+      <b>Option E (Co-amoxiclav 1.2g IV) is Incorrect.</b>
+      While antibiotic therapy may be required, this is not an immediate treatment priority.
+    </p>
+  </modalFeedback>
+</assessmentItem>

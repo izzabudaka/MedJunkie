@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10958703" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A medical student is shadowing a hospital pharmacist.</p>
+        <p>Which of the following drugs causes hyperkalaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Ciprofloxacin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Codeine phosphate</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Heparin</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Levothyroxine</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Salbutamol</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Heparin) is Correct.</b>
+      This is due to inhibition of aldosterone secretion, which results in hyperkalaemia.
+    </p>
+    <p>
+      <b>Option A (Ciprofloxacin) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option B (Codeine phosphate) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option D (Levothyroxine) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option E (Salbutamol) is Incorrect.</b>
+      This can cause hypokalaemia. Salbutamol is used as treatment of hyperkalaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Heparin) is Correct.</b>
+      This is due to inhibition of aldosterone secretion, which results in hyperkalaemia.
+    </p>
+    <p>
+      <b>Option A (Ciprofloxacin) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option B (Codeine phosphate) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option D (Levothyroxine) is Incorrect.</b>
+      This has no effect on potassium levels.
+    </p>
+    <p>
+      <b>Option E (Salbutamol) is Incorrect.</b>
+      This can cause hypokalaemia. Salbutamol is used as treatment of hyperkalaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10964348" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A full blood count and blood film are used to investigate iron deficiency anaemia.</p>
+        <p>What type of cell is not seen in a blood film for iron deficiency?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Hypochromic</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Microcytic</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Pencil</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Reed-Sternberg</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Target</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Reed-Sternberg) is Correct.</b>
+      Reed-Sternberg cells are not seen in a blood film for iron deficiency.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>source</b>
+          </td>
+          <td>
+            <b>finding</b>
+          </td>
+          <td>
+            <b>explanation</b>
+          </td>
+        </tr>
+        <tr>
+          <td>blood count</td>
+          <td>low haemoglobin concentration</td>
+          <td>insufficient precursor iron</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>low red cell indices, mean cell volume and mean corpuscular haemoglobin</td>
+          <td rowspan="2">A reduced rate of haemoglobin synthesis due to lack of precursors results in more cell division time as red cells develop until they reach the critical haemoglobin concentration - resulting in smaller cells. Lower levels of haemoglobin in the cells make them appear pale</td>
+        </tr>
+        <tr>
+          <td>blood film</td>
+          <td>microcytic hypochromic red cells</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>pencil cells</td>
+          <td>unbalanced surface membrane to cytoplasmic volume due to reduced haemoglobin</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>target cells</td>
+          <td>decreased cytoplasmic volume due to reduced haemoglobin</td>
+        </tr>
+        <tr>
+          <td>biochemical</td>
+          <td>Low serum ferritin. Normal levels do not exclude iron deficiency as ferritin is an acute phase protein that may be raised for other reasons</td>
+          <td>low iron represses ferritin production</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>low serum iron</td>
+          <td>reduced iron availability</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>increased serum total iron-binding capacity</td>
+          <td>more free transferrin available to bind to iron</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.10 Laboratory findings in iron deficiency.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Hypochromic) is Incorrect.</b>
+      Hypochromic cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option B (Microcytic) is Incorrect.</b>
+      Microcytic cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option C (Pencil) is Incorrect.</b>
+      Pencil cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option E (Target) is Incorrect.</b>
+      Target calls are seen in iron deficiency anaemia.
+    </p>
+    <br/>
+    <br/>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Reed-Sternberg) is Correct.</b>
+      Reed-Sternberg cells are not seen in a blood film for iron deficiency.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>source</b>
+          </td>
+          <td>
+            <b>finding</b>
+          </td>
+          <td>
+            <b>explanation</b>
+          </td>
+        </tr>
+        <tr>
+          <td>blood count</td>
+          <td>low haemoglobin concentration</td>
+          <td>insufficient precursor iron</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>low red cell indices, mean cell volume and mean corpuscular haemoglobin</td>
+          <td rowspan="2">A reduced rate of haemoglobin synthesis due to lack of precursors results in more cell division time as red cells develop until they reach the critical haemoglobin concentration - resulting in smaller cells. Lower levels of haemoglobin in the cells make them appear pale</td>
+        </tr>
+        <tr>
+          <td>blood film</td>
+          <td>microcytic hypochromic red cells</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>pencil cells</td>
+          <td>unbalanced surface membrane to cytoplasmic volume due to reduced haemoglobin</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>target cells</td>
+          <td>decreased cytoplasmic volume due to reduced haemoglobin</td>
+        </tr>
+        <tr>
+          <td>biochemical</td>
+          <td>Low serum ferritin. Normal levels do not exclude iron deficiency as ferritin is an acute phase protein that may be raised for other reasons</td>
+          <td>low iron represses ferritin production</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>low serum iron</td>
+          <td>reduced iron availability</td>
+        </tr>
+        <tr>
+          <td>-</td>
+          <td>increased serum total iron-binding capacity</td>
+          <td>more free transferrin available to bind to iron</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.10 Laboratory findings in iron deficiency.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Hypochromic) is Incorrect.</b>
+      Hypochromic cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option B (Microcytic) is Incorrect.</b>
+      Microcytic cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option C (Pencil) is Incorrect.</b>
+      Pencil cells are seen in iron deficiency anaemia.
+      <br/>
+      <br/>
+      <b>Option E (Target) is Incorrect.</b>
+      Target calls are seen in iron deficiency anaemia.
+    </p>
+    <br/>
+    <br/>
+  </modalFeedback>
+</assessmentItem>

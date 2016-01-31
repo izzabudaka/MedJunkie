@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10964328" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Viscosity is a measure of the internal friction within a fluid. In plasma, the presence of plasma proteins makes its viscosity slightly greater than that of water; however, the viscosity of whole blood (relative viscosity) is about four times that of water, an important factor for blood flow. Blood viscosity is mainly determined by the haematocrit, which is normally about 0.42–0.53 in men and 0.36–0.45 in women.</p>
+        <p>What is the characteristic feature of haematocrit?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">High fibrinogen levels</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Increase in the number of red cells</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Low viscosity levels, leading to reduced perfusion</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Reduced apparent viscosity of blood, leading to high levels of shear</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Volume of packed red cells per unit volume of blood</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Volume of packed red cells per unit volume of blood) is Correct.</b>
+    </p>
+    <ul>
+      <li>The relative viscosity of whole blood is about four times that of water and is mainly determined by the volume of packed red cells per unit volume of blood (PCV), known as the haematocrit. This is normally about 0.42–0.53 in men and 0.36–0.45 in women.</li>
+      <li>Polycythaemia is an increase in the number of red cells, which can occur as a response to hypoxia, e.g. at high altitudes, when the haematocrit may increase to levels as high as 0.70. At such levels the viscosity is doubled and the resistance to flow therefore increases, resulting in reduced perfusion.</li>
+      <li>When blood is moving fast, the central lamina moves faster than the layers closer to the wall. The relative velocity of these adjacent layers is called the shear rate. At high levels of shear the apparent viscosity of the blood is reduced (shear thinning). This is partly a result of the axial streaming, but is also due to the fact that at low velocities red cells tend to aggregate, forming stacks of cells, known as rouleaux. The tendency of red cells to aggregate depends on the levels of plasma proteins, particularly fibrinogen. When fibrinogen levels are high, such as in inflammation or infection, the increased rouleaux formation is measured as an increase in the erythrocyte sedimentation rate (ESR).</li>
+    </ul>
+    <p>
+      <b>Option A (High fibrinogen levels) is Incorrect.</b>
+      High fibrinogen levels lead to red cell aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Increase in the number of red cells) is Incorrect.</b>
+      An increase in the number of red cells is known as polycythaemia.
+      <br/>
+      <br/>
+      <b>Option C (Low viscosity levels, leading to reduced perfusion) is Incorrect.</b>
+      High viscosity leads to reduced perfusion.
+      <br/>
+      <br/>
+      <b>Option D (Reduced apparent viscosity of blood, leading to high levels of shear) is Incorrect.</b>
+      When blood is moving fast, the central lamina moves faster than the layers closer to the wall. The relative velocity of these adjacent layers is called the shear rate.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Volume of packed red cells per unit volume of blood) is Correct.</b>
+    </p>
+    <ul>
+      <li>The relative viscosity of whole blood is about four times that of water and is mainly determined by the volume of packed red cells per unit volume of blood (PCV), known as the haematocrit. This is normally about 0.42–0.53 in men and 0.36–0.45 in women.</li>
+      <li>Polycythaemia is an increase in the number of red cells, which can occur as a response to hypoxia, e.g. at high altitudes, when the haematocrit may increase to levels as high as 0.70. At such levels the viscosity is doubled and the resistance to flow therefore increases, resulting in reduced perfusion.</li>
+      <li>When blood is moving fast, the central lamina moves faster than the layers closer to the wall. The relative velocity of these adjacent layers is called the shear rate. At high levels of shear the apparent viscosity of the blood is reduced (shear thinning). This is partly a result of the axial streaming, but is also due to the fact that at low velocities red cells tend to aggregate, forming stacks of cells, known as rouleaux. The tendency of red cells to aggregate depends on the levels of plasma proteins, particularly fibrinogen. When fibrinogen levels are high, such as in inflammation or infection, the increased rouleaux formation is measured as an increase in the erythrocyte sedimentation rate (ESR).</li>
+    </ul>
+    <p>
+      <b>Option A (High fibrinogen levels) is Incorrect.</b>
+      High fibrinogen levels lead to red cell aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Increase in the number of red cells) is Incorrect.</b>
+      An increase in the number of red cells is known as polycythaemia.
+      <br/>
+      <br/>
+      <b>Option C (Low viscosity levels, leading to reduced perfusion) is Incorrect.</b>
+      High viscosity leads to reduced perfusion.
+      <br/>
+      <br/>
+      <b>Option D (Reduced apparent viscosity of blood, leading to high levels of shear) is Incorrect.</b>
+      When blood is moving fast, the central lamina moves faster than the layers closer to the wall. The relative velocity of these adjacent layers is called the shear rate.
+    </p>
+  </modalFeedback>
+</assessmentItem>

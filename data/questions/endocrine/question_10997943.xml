@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997943" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 32-year-old woman presents with a 5 day history of a rapidly enlarging swelling in her right breast. She is currently breast feeding. On examination the lump is 3 ′ 3 cm in size, fluctuant and tender. There is some overlying skin erythema.</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Breast abscess</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Breast cyst</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Fat necrosis</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Fibroadenoma</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Fibroadenosis</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Breast abscess) is Correct.</b>
+      Presents as a tender, swollen lump. Often has a significant amount of overlying skin erythema. There may be a fluctuant area, surrounded by hard areas of induration. Common in breastfeeding women.
+    </p>
+    <p>
+      <b>Option B (Breast cyst) is Incorrect.</b>
+      Breast cysts are discrete fluid filled swellings within the breast. They are smooth and mobile and can lead to localized tenderness. They are common in premenopausal women.
+    </p>
+    <p>
+      <b>Option C (Fat necrosis) is Incorrect.</b>
+      Occurs following trauma to the breast. Presents as a hard lump which is attached to the skin.
+    </p>
+    <p>
+      <b>Option D (Fibroadenoma) is Incorrect.</b>
+      A fibroadenoma is a benign solitary, solid, rubbery breast lesion, which is characteristically smooth, non-tender and freely mobile. Common in young women.
+    </p>
+    <p>
+      <b>Option E (Fibroadenosis) is Incorrect.</b>
+      Fibroadenosis is a benign breast condition where one or more lumps are present with symptoms of pain and nodularity, which are characteristically associated with the patient's menstrual cycle. Presents in pre-menopausal women.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Breast abscess) is Correct.</b>
+      Presents as a tender, swollen lump. Often has a significant amount of overlying skin erythema. There may be a fluctuant area, surrounded by hard areas of induration. Common in breastfeeding women.
+    </p>
+    <p>
+      <b>Option B (Breast cyst) is Incorrect.</b>
+      Breast cysts are discrete fluid filled swellings within the breast. They are smooth and mobile and can lead to localized tenderness. They are common in premenopausal women.
+    </p>
+    <p>
+      <b>Option C (Fat necrosis) is Incorrect.</b>
+      Occurs following trauma to the breast. Presents as a hard lump which is attached to the skin.
+    </p>
+    <p>
+      <b>Option D (Fibroadenoma) is Incorrect.</b>
+      A fibroadenoma is a benign solitary, solid, rubbery breast lesion, which is characteristically smooth, non-tender and freely mobile. Common in young women.
+    </p>
+    <p>
+      <b>Option E (Fibroadenosis) is Incorrect.</b>
+      Fibroadenosis is a benign breast condition where one or more lumps are present with symptoms of pain and nodularity, which are characteristically associated with the patient's menstrual cycle. Presents in pre-menopausal women.
+    </p>
+  </modalFeedback>
+</assessmentItem>

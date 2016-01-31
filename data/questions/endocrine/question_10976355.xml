@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10976355" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              <p>A 25-year-old man presents with a history of weight gain, fatigue and depression. His past medical history includes chronic asthma. His drug history includes salbutamol and prednisolone. On examination he has a plethoric, moon-shaped face, multiple bruises and thin skin. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.0 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 200 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Mean cell volume: 100 fl (normal range 78–98 fl)</p>
+              <p>Sodium: 146 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.0 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 10.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 85 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>Urinary cortisol >20 nmol cortisol/mmol creatinine.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 61-year-old man presents to his GP complaining of weight loss and dyspnoea with occasional haemoptysis. On examination he has a plethoric face, thin skin, oral mucosa pigmentation and multiple bruises. His pulse is 76 beats/min, respiration 14 breaths/min, saturations 98% on air, and blood pressure 165/95 mmHg. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.0 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 200 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Mean cell volume: 90 fl (normal range 78–98 fl)</p>
+              <p>Sodium: 148 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.0 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 10.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 85 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>Serum cortisol >20 nmol cortisol/mmol creatinine</p>
+              <p>Adrenocorticotrophic hormone (ACTH): 22.5 pmol/L (normal range 1.5–11.2 pmol/L; 0700–1000 hrs) and is not reduced by a dexamethasone suppression test</p>
+              <p>An MRI scan reveals a normal pituitary gland.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 59-year-old man presents with muscle weakness, fatigue and weight loss. He is on medication for hypothyroidism. Observations include pulse 80 beats/min, respiratory rate 14 breaths/min, saturations 98% on air and blood pressure 90/60 mmHg. On examination there is buccal mucosa pigmentation. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13.8 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 10.2 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 202 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Glucose: 2.1 mmol/L (normal range (fasting) 3.6–5.8 mmol/L)</p>
+              <p>Calcium: 2.22 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>Sodium: 133 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 5.7 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 8.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 90 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 35-year-old man presents with a history of weight gain, fatigue and depression. On examination he has a plethoric, moon-shaped face, multiple bruises and thin skin. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.0 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 200 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Mean cell volume: 90 fl (normal range 78–98 fl)</p>
+              <p>Sodium: 148 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.0 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 10.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 85 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>Serum cortisol >20 nmol cortisol/mmol creatinine</p>
+              <p>Adrenocorticotrophic hormone (ACTH): 25.7 pmol/L (normal range 1.5–11.2 pmol/L; 0700–1000 hrs) and is reduced by a dexamethasone suppression test</p>
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Addison's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Adrenal carcinoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Cushing's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Ectopic adrenocorticotrophic hormone secretion</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Kallmann's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Lactotroph pituitary adenoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Pseudo-Cushing's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Sheehan's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Thyrotroph pituitary adenoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Waterhouse–Friderichsen syndrome</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Cushing's disease) is Correct.</b>
+      Cushing's disease due to an anterior pituitary adenoma has high cortisol levels that are suppressed by dexamethasone (differentiates it from Cushing's syndrome). Trans-sphenoidal surgery removes the adenoma.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Cushing's disease) is Correct.</b>
+      Cushing's disease due to an anterior pituitary adenoma has high cortisol levels that are suppressed by dexamethasone (differentiates it from Cushing's syndrome). Trans-sphenoidal surgery removes the adenoma.
+    </p>
+  </modalFeedback>
+</assessmentItem>

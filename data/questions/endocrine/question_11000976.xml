@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11000976" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 24-year-old man presents to his GP with generalized lethargy and weakness. He has no past medical history and denies any recreational drug use, gastrointestinal or genitourinary symptoms. On examination he appears relatively well although his blood pressure is 195/98 mmHg. His body mass index (BMI) is 24. Blood test results are shown below. What is the most likely diagnosis?</p>
+        <p>Sodium           148 mmol/l        (normal range 135–145 mmol/l)</p>
+        <p>Potassium        2.9 mmol/l         (normal range 3.3–6.0 mmol/l)</p>
+        <p>Bicarbonate      35 mmol/l          (normal range 21–29 mmol/l)</p>
+        <p>Urea                 2.8 mmol/l         (normal range 2.5–6.6 mmol/l)</p>
+        <p>Creatinine         98 μmol/l           (normal range 60–120 μmol/l)</p>
+        <p>Glucose            5.8 mmol/l         (normal range 4.0–6.0 mmol/l)</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Cirrhosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Conn's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Cushing's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Malnutrition</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Small bowel fistula</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Conn's syndrome) is Correct.</b>
+      Hyperaldosteronism (Conn's syndrome) is associated with hypokalaemia and metabolic alkalosis.
+    </p>
+    <p>
+      <b>Option A (Cirrhosis) is Incorrect.</b>
+      We would expect other clinical signs of this. Cirrhotics also tend to be hypotensive.
+    </p>
+    <p>
+      <b>Option C (Cushing's disease) is Incorrect.</b>
+      Hypokalaemia and hypertension might occur but obesity, glucose intolerance and other clinical features of Cushing's would be expected.
+    </p>
+    <p>
+      <b>Option D (Malnutrition) is Incorrect.</b>
+      This is possible but relatively unlikely. It would also not explain his extremely high blood pressure for his age group.
+    </p>
+    <p>
+      <b>Option E (Small bowel fistula) is Incorrect.</b>
+      This is unlikely as we would expect other signs and gastrointestinal symptoms.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Conn's syndrome) is Correct.</b>
+      Hyperaldosteronism (Conn's syndrome) is associated with hypokalaemia and metabolic alkalosis.
+    </p>
+    <p>
+      <b>Option A (Cirrhosis) is Incorrect.</b>
+      We would expect other clinical signs of this. Cirrhotics also tend to be hypotensive.
+    </p>
+    <p>
+      <b>Option C (Cushing's disease) is Incorrect.</b>
+      Hypokalaemia and hypertension might occur but obesity, glucose intolerance and other clinical features of Cushing's would be expected.
+    </p>
+    <p>
+      <b>Option D (Malnutrition) is Incorrect.</b>
+      This is possible but relatively unlikely. It would also not explain his extremely high blood pressure for his age group.
+    </p>
+    <p>
+      <b>Option E (Small bowel fistula) is Incorrect.</b>
+      This is unlikely as we would expect other signs and gastrointestinal symptoms.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11002302" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 65-year-old smoker with a 6-month history of worsening cough is found to have a plasma sodium of 129 mmol/l (normal range 135–145 mmol/l) on blood tests at his annual physical examination. He takes salbutamol, tiotropium bromide and beclometasone inhalers. His urine osmolality is greater than plasma osmolality. A diagnosis of syndrome of inappropriate antidiuretic hormone (ADH) production is suspected.</p>
+        <p>Which of the following is the most likely underlying condition?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Adenocarcinoma of lung</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Drug reaction</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Lung abscess</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Small cell lung carcinoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Subarachnoid haemorrhage</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This does not usually cause SIADH.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      SIADH can be caused by selective serotonin reuptake inhibitors, carbamazepine, chlorpropamide and cyclophosphamide. There is no record of these medications in the patient's history.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not usually cause SIADH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Cerebral haemorrhage, infection and trauma can rarely cause SIADH. However, subarachnoid haemorrhage is not suggested by the history.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This does not usually cause SIADH.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      SIADH can be caused by selective serotonin reuptake inhibitors, carbamazepine, chlorpropamide and cyclophosphamide. There is no record of these medications in the patient's history.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not usually cause SIADH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Cerebral haemorrhage, infection and trauma can rarely cause SIADH. However, subarachnoid haemorrhage is not suggested by the history.
+    </p>
+  </modalFeedback>
+</assessmentItem>

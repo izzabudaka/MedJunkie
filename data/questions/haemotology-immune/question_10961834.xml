@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10961834" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Coordination of growth factors for haemopoiesis is controlled by hormones and their interaction with specific receptors.</p>
+        <p>What is a function of interleukin 3 (IL3)?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acts with other growth factors on early progenitors to produce mature red cells, granulocytes, monocytes and platelets</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Directed at producing neutrophils</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Responsible for erythroid development</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Responsible for megakaryocytic development</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Targeted at monocyte growth and development</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acts with other growth factors on early progenitors to produce mature red cells, granulocytes, monocytes and platelets) is Correct.</b>
+      Interleukin 3 (IL3) acts with other growth factors on early progenitors to produce mature red cells, granulocytes, monocytes and platelets.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>growth factor</b>
+          </td>
+          <td>
+            <b>function</b>
+          </td>
+        </tr>
+        <tr>
+          <td>Stem cell factor (SCF)</td>
+          <td>
+            In the fetus: helps haematopoietic cells move from yolk sac to liver and then bone marrow
+            <br/>
+            After birth: needed at all stages for normal blood cell production
+          </td>
+        </tr>
+        <tr>
+          <td>Interleukin 3 (IL3)</td>
+          <td>with other growth factors acts on early progenitors to produce mature red cells, granulocytes, monocytes and platelets</td>
+        </tr>
+        <tr>
+          <td>Granulocyte macrophage colony stimulating factor (GM-CSF)</td>
+          <td>like IL3 but acts to produce neutrophils, eosinophils and monocytes</td>
+        </tr>
+        <tr>
+          <td>Granulocyte stimulating factor (G-CSF)</td>
+          <td>similar to GM-CSF but directed mainly at producing neutrophils</td>
+        </tr>
+        <tr>
+          <td>Monocyte stimulating factor (M-CSF)</td>
+          <td>targeted at monocyte growth and development</td>
+        </tr>
+        <tr>
+          <td>Erythropoietin (EPO)</td>
+          <td>responsible for erythroid cell development</td>
+        </tr>
+        <tr>
+          <td>Thrombopoietin (TPO)</td>
+          <td>responsible for megakaryocytic development</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.2 Growth factors and their function.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option B (Directed at producing neutrophils) is Incorrect.</b>
+      Granulocyte stimulating factor (G-CSF) is directed at producing neutrophils.
+      <br/>
+      <br/>
+      <b>Option C (Responsible for erythroid development) is Incorrect.</b>
+      Erythropoietin (EPO) is responsible for erythroid development.
+      <br/>
+      <br/>
+      <b>Option D (Responsible for megakaryocytic development) is Incorrect.</b>
+      Thrombopoietin (TPO) is responsible for megakaryocytic development.
+      <br/>
+      <br/>
+      <b>Option E (Targeted at monocyte growth and development) is Incorrect.</b>
+      Monocyte stimulating factor (M-CSF) is targeted at monocyte growth and development.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acts with other growth factors on early progenitors to produce mature red cells, granulocytes, monocytes and platelets) is Correct.</b>
+      Interleukin 3 (IL3) acts with other growth factors on early progenitors to produce mature red cells, granulocytes, monocytes and platelets.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>growth factor</b>
+          </td>
+          <td>
+            <b>function</b>
+          </td>
+        </tr>
+        <tr>
+          <td>Stem cell factor (SCF)</td>
+          <td>
+            In the fetus: helps haematopoietic cells move from yolk sac to liver and then bone marrow
+            <br/>
+            After birth: needed at all stages for normal blood cell production
+          </td>
+        </tr>
+        <tr>
+          <td>Interleukin 3 (IL3)</td>
+          <td>with other growth factors acts on early progenitors to produce mature red cells, granulocytes, monocytes and platelets</td>
+        </tr>
+        <tr>
+          <td>Granulocyte macrophage colony stimulating factor (GM-CSF)</td>
+          <td>like IL3 but acts to produce neutrophils, eosinophils and monocytes</td>
+        </tr>
+        <tr>
+          <td>Granulocyte stimulating factor (G-CSF)</td>
+          <td>similar to GM-CSF but directed mainly at producing neutrophils</td>
+        </tr>
+        <tr>
+          <td>Monocyte stimulating factor (M-CSF)</td>
+          <td>targeted at monocyte growth and development</td>
+        </tr>
+        <tr>
+          <td>Erythropoietin (EPO)</td>
+          <td>responsible for erythroid cell development</td>
+        </tr>
+        <tr>
+          <td>Thrombopoietin (TPO)</td>
+          <td>responsible for megakaryocytic development</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.2 Growth factors and their function.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option B (Directed at producing neutrophils) is Incorrect.</b>
+      Granulocyte stimulating factor (G-CSF) is directed at producing neutrophils.
+      <br/>
+      <br/>
+      <b>Option C (Responsible for erythroid development) is Incorrect.</b>
+      Erythropoietin (EPO) is responsible for erythroid development.
+      <br/>
+      <br/>
+      <b>Option D (Responsible for megakaryocytic development) is Incorrect.</b>
+      Thrombopoietin (TPO) is responsible for megakaryocytic development.
+      <br/>
+      <br/>
+      <b>Option E (Targeted at monocyte growth and development) is Incorrect.</b>
+      Monocyte stimulating factor (M-CSF) is targeted at monocyte growth and development.
+    </p>
+  </modalFeedback>
+</assessmentItem>

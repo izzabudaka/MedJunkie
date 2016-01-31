@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0010" version="5.2" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3863-2.00002-7</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3863-2.00002-7</ce:doi>
+        <ce:isbn>978-0-7234-3863-2</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 2.1</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0010">Mechanism of action of antidepressants at the synaptic cleft
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-01-9780723436362" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 2.2</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0015">Classification and pharmacodynamics of the antidepressants</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-02-9780723436362" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 2.3</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0020">Common side-effects of the SSRIs</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-03-9780723436362" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 2.4</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0025">Common side-effects of tricyclic antidepressants</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-04-9780723436362" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 2.5</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0030">Drugs and food that may precipitate a hypertensive crisis in combination
+                    with MAOIs
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-05-9780723436362" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 2.6</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0035">Side-effects and signs of toxicity of lithium</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-06-9780723436362" id="lk0035"/>
+        </ce:figure>
+        <ce:figure id="f0040">
+            <ce:label>Fig. 2.7</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0040">Side-effects of valproate, carbamazepine and lamotrigine</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-07-9780723436362" id="lk0040"/>
+        </ce:figure>
+        <ce:figure id="f0045">
+            <ce:label>Fig. 2.8</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0045">Commonly used antipsychotics</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-08-9780723436362" id="lk0045"/>
+        </ce:figure>
+        <ce:figure id="f0050">
+            <ce:label>Fig. 2.9</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0050">The clinical effects and side-effects of conventional antipsychotics
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-09-9780723436362" id="lk0050"/>
+        </ce:figure>
+        <ce:figure id="f0055">
+            <ce:label>Fig. 2.10</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0055">Antipsychotic-induced extrapyramidal side-effects and treatment
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-10-9780723436362" id="lk0055"/>
+        </ce:figure>
+        <ce:figure id="f0060">
+            <ce:label>Fig. 2.11</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0060">Distinguishing neuroleptic malignant syndrome from serotonin syndrome
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-11-9780723436362" id="lk0060"/>
+        </ce:figure>
+        <ce:figure id="f0065">
+            <ce:label>Fig. 2.12</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0065">Classification of the benzodiazepines and Z drugs</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-12-9780723436362" id="lk0065"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>2</ce:label>
+    <ce:title>Pharmacological therapy and electroconvulsive therapy</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">After this chapter you should have an understanding of:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">The history, classification, mechanism of action, side-effects, indications and
+                        contraindications of:
+                        <ce:list id="l0130">
+                            <ce:list-item id="u0015">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0020">Antidepressants</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0020">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0025">Mood stabilizers</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0025">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0030">Antipsychotics</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0030">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0035">Anxiolytics</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0035">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0040">Electroconvulsive therapy</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:para id="p0045">Psychotropic (mind-altering) medication can be divided into the following groups:
+            <ce:list id="l0015">
+                <ce:list-item id="u0040">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0050">Antidepressants</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0045">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0055">Mood stabilizers</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0050">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0060">Antipsychotics</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0055">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0065">Anxiolytics and hypnotics</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0060">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0070">Other</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+        <ce:para id="p0075">Despite its simplicity, this arbitrary method of grouping drugs is flawed because many drugs
+            from one class are now used to treat disorders in another class, e.g. antidepressants are first line
+            therapies for many anxiety disorders and some antipsychotics also have mood stabilizing and antidepressant
+            effects.
+        </ce:para>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">ANTIDEPRESSANTS</ce:section-title>
+            <ce:section id="s0015">
+                <ce:section-title id="st0020">History</ce:section-title>
+                <ce:para id="p0080">Antidepressants were first used in the late 1950s, with the appearance of the
+                    tricyclic antidepressant (TCA) imipramine and the monoamine oxidase inhibitor (MAOI) phenelzine.
+                    Research into TCAs throughout the 1960s and 1970s developed many more tricyclic agents and related
+                    compounds. A major development in the late 1980s was the arrival of the first selective serotonin
+                    reuptake inhibitor (SSRI), fluoxetine (Prozac®). There has since been considerable expansion of the
+                    SSRI class, and development of antidepressants with other mechanisms such as mirtazapine.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Classification and mechanism of action</ce:section-title>
+                <ce:para id="p0085">At present we classify antidepressants according to their pharmacological actions,
+                    as we do not as yet have an adequate explanation as to what exactly makes antidepressants work.
+                    Although there are at least eight different classes of antidepressants, their common action is to
+                    elevate the levels of one or more monoamine neurotransmitters in the synaptic cleft.
+                    <ce:cross-ref refid="f0010">Figure 2.1</ce:cross-ref>
+                    <ce:float-anchor refid="f0010"/>
+                    illustrates the mechanism of action of antidepressants at synapses. The latest research has focused
+                    on monoamine neurotransmitter activation of ‘second messenger’ signal transduction mechanisms. This
+                    results in the production of transcription factors that lead to the activation of genes controlling
+                    the expression of downstream targets such as ‘brain-derived neurotrophic factor’ (BDNF). BDNF is
+                    neuroprotective and might be one key target of antidepressant action.
+                    <ce:cross-ref refid="f0015">Figure 2.2</ce:cross-ref>
+                    <ce:float-anchor refid="f0015"/>
+                    summarizes the classification and pharmacodynamics of the important antidepressants.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0010">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0090">Certain tricyclic antidepressants (e.g. clomipramine) have more
+                                        potency for blocking the serotonin reuptake pump; whereas others are more
+                                        selective for noradrenaline (norepinephrine) (e.g. desipramine, nortriptyline).
+                                        Most, however, block both noradrenaline (norepinephrine) and serotonin reuptake.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Indications</ce:section-title>
+                <ce:para id="p0095">SSRIs are used in the treatment of:
+                    <ce:list id="l0020">
+                        <ce:list-item id="u0065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0100">Depression – see pages<ce:intra-ref id="ia9200"
+                                                                                    xlink:href="pii:B978-0-7234-3863-2.00018-0#s0070">
+                                135–136</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0070">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0105">Anxiety disorders – see pages<ce:intra-ref id="ia9805"
+                                                                                           xlink:href="pii:B978-0-7234-3863-2.00020-9#f0015">
+                                149–150</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0075">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0110">Obsessive-compulsive disorder – see pages<ce:intra-ref id="ia9910"
+                                                                                                       xlink:href="pii:B978-0-7234-3863-2.00020-9#f0015">
+                                149–150</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0080">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0115">Bulimia nervosa (fluoxetine) – see<ce:intra-ref id="ia9010"
+                                                                                                xlink:href="pii:B978-0-7234-3863-2.00023-4#f0015">
+                                p. 165</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Mirtazapine is used in the treatment of:
+                    <ce:list id="l0025">
+                        <ce:list-item id="u0085">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0125">Depression (particularly where sedation or increased oral intake is
+                                desirable).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Tricyclic antidepressants are used in the treatment of:
+                    <ce:list id="l0030">
+                        <ce:list-item id="u0090">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0135">Depression – see pages<ce:intra-ref id="ia9205"
+                                                                                    xlink:href="pii:B978-0-7234-3863-2.00018-0#s0070">
+                                135–136</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0095">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0140">Anxiety disorders – see pages<ce:intra-ref id="ia9820"
+                                                                                           xlink:href="pii:B978-0-7234-3863-2.00020-9#f0015">
+                                149–150</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0100">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0145">Obsessive-compulsive disorder (clomipramine) – see pages<ce:intra-ref
+                                    id="ia9130" xlink:href="pii:B978-0-7234-3863-2.00020-9#f0015">149–150</ce:intra-ref>
+                                .
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0105">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0150">Other: chronic pain, nocturnal enuresis (see<ce:intra-ref id="ia9015"
+                                                                                                          xlink:href="pii:B978-0-7234-3863-2.00027-1#s0145">
+                                p. 191</ce:intra-ref>), narcolepsy (see<ce:intra-ref id="ia9020"
+                                                                                     xlink:href="pii:B978-0-7234-3863-2.00030-1#p0420">
+                                p. 204</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    MAOIs are used in the treatment of:
+                    <ce:list id="l0035">
+                        <ce:list-item id="u0110">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0160">Depression (especially atypical depression, characterized by
+                                hypersomnia, overeating, anxiety) – see pages<ce:intra-ref id="ia9210"
+                                                                                           xlink:href="pii:B978-0-7234-3863-2.00018-0#s0070">
+                                    135–136</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0115">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0165">Anxiety disorders – see pages<ce:intra-ref id="ia9140"
+                                                                                           xlink:href="pii:B978-0-7234-3863-2.00020-9#f0015">
+                                149–150</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0120">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0170">Other: eating disorders, chronic pain, Parkinson's disease, migraine
+                                prophylaxis, tuberculosis.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">Side-effects and contraindications</ce:section-title>
+                <ce:section id="s0035">
+                    <ce:section-title id="st0040">SSRIs</ce:section-title>
+                    <ce:para id="p0175">SSRIs have fewer anticholinergic effects than the TCAs, and are not sedating.
+                        The majority of patients find them alerting, so they are prescribed in the morning. Soon after
+                        initiation, or when taken at high doses, some patients can feel alerted to the point of
+                        agitation/anxiety. This may be associated with an increased risk of suicide, particularly in
+                        adolescents. The only SSRI recommended in under 18s is fluoxetine. Due to their low
+                        cardiotoxicity, SSRIs are the antidepressant of choice in patients with cardiac disease and in
+                        those who are at risk of taking an overdose. However, they do have their own side-effects that
+                        may be unacceptable to some patients. These are summarized in
+                        <ce:cross-ref refid="f0020">Figure 2.3</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>. Venlafaxine is a selective serotonin and noradrenaline
+                        reuptake inhibitor, which has similar side-effects to SSRIs but they tend to be more severe.
+                    </ce:para>
+                    <ce:para id="p0180">Contraindications: mania.</ce:para>
+                </ce:section>
+                <ce:section id="s0040">
+                    <ce:section-title id="st0045">Mirtazapine</ce:section-title>
+                    <ce:para id="p0185">Mirtazapine is very commonly associated with increased appetite, weight gain,
+                        and sedation (via histamine antagonism). These side-effects can be used to advantage in many
+                        patients. It is also associated with headache and a dry mouth, and less commonly dizziness,
+                        postural hypotension, tremor and peripheral oedema. It has negligible anticholinergic effects.
+                    </ce:para>
+                    <ce:para id="p0190">Contraindications: mania.</ce:para>
+                </ce:section>
+                <ce:section id="s0045">
+                    <ce:section-title id="st0050">Tricyclic antidepressants</ce:section-title>
+                    <ce:para id="p0195">
+                        <ce:cross-ref refid="f0025">Figure 2.4</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>
+                        summarizes the common side-effects of the TCAs, most of which are related to the multi-receptor
+                        blocking effects of these drugs. The side-effect of sedation can be useful if patients have
+                        insomnia. TCAs with prominent sedative effects include amitriptyline and clomipramine. Those
+                        with less sedative effects include lofepramine and imipramine. Due to their cardiotoxic effects,
+                        TCAs are dangerous in overdose, although lofepramine (a newer TCA) has fewer antimuscarinic
+                        effects and so is relatively safer.
+                    </ce:para>
+                    <ce:para id="p0200">Contraindications: recent myocardial infarction, arrhythmias, severe liver
+                        disease, mania and high risk of overdose.
+                    </ce:para>
+                    <ce:para id="p0205">Trazodone is molecularly similar to tricyclics but clinically quite different.
+                        It is a relatively weak antidepressant but a good sedative. It is relatively safe in overdose
+                        and has negligible anticholinergic side-effects. It is often used as an adjunctive
+                        antidepressant in those receiving a non-sedative primary antidepressant, e.g. an SSRI.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0015">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0210">Antidepressants should be used with caution in patients with
+                                            epilepsy, as they tend to lower the seizure threshold.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">MAOIs/RIMA</ce:section-title>
+                    <ce:para id="p0215">Due to the risk of serious interactions with certain foods and other drugs, the
+                        MAOIs have become second line antidepressants. Their inhibition of monoamine oxidase A results
+                        in the accumulation of amine neurotransmitters and impairs the metabolism of some amines found
+                        in certain drugs (e.g. decongestants) and foodstuffs (e.g. tyramine). Because MAOIs bind
+                        irreversibly to monoamine oxidase A and B, amines may accumulate to dangerously high levels,
+                        which may precipitate a life-threatening hypertensive crisis. An example of this occurs when the
+                        ingestion of dietary tyramine results in a massive release of noradrenaline (norepinephrine)
+                        from endogenous stores. This is termed the ‘cheese reaction’ because some mature cheeses
+                        typically contain high levels of tyramine. Note that an early warning sign is a throbbing
+                        headache.
+                        <ce:cross-ref refid="f0030">Figure 2.5</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>
+                        lists the drugs and foodstuffs that should be avoided in patients taking MAOIs.
+                    </ce:para>
+                    <ce:para id="p0220">The RIMA moclobemide reversibly inhibits monoamine oxidase A. Therefore, the
+                        drug will be displaced from the enzyme as amine levels start to increase. So, although there is
+                        a small risk of developing a hypertensive crisis if high levels of tyramine are ingested,
+                        dietary restrictions are much less onerous.
+                    </ce:para>
+                    <ce:para id="p0225">When other antidepressants that have a strong serotonergic effect (e.g. SSRIs,
+                        clomipramine, imipramine) are administered simultaneously with an MAOI, the risk of developing
+                        the potentially lethal ‘serotonin syndrome’ is increased. In common with the neuroleptic
+                        malignant syndrome, it is associated with the triad of neuromuscular abnormalities, altered
+                        consciousness level and autonomic instability but the two are usually easily distinguished on
+                        the basis of the history (see
+                        <ce:cross-ref refid="f0060">Fig. 2.11</ce:cross-ref>
+                        <ce:float-anchor refid="f0060"/>). Therefore, other antidepressants should not be started for 2
+                        weeks after an MAOI has been stopped (3 weeks in the case of clomipramine and imipramine).
+                        Conversely, an MAOI should not be started for 2 weeks after the termination of another
+                        antidepressant (3 weeks in the case of clomipramine and imipramine; 5 weeks in the case of
+                        fluoxetine, because of its long half-life). The coadministration of opiates and an MAOI can also
+                        result in the serotonin syndrome. This is because opiates (especially pethidine and tramadol)
+                        have some intrinsic serotonin reuptake inhibitory activity.
+                    </ce:para>
+                    <ce:para id="p0230">MAOIs may have further side-effects similar to the TCAs, including postural
+                        hypotension and anticholinergic effects.
+                    </ce:para>
+                    <ce:para id="p0235">Contraindications (MAOIs): phaeochromocytoma, cerebrovascular disease, hepatic
+                        impairment, mania.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0020">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0240">The abrupt withdrawal of any antidepressant may result in a
+                                            discontinuation syndrome with symptoms such as gastrointestinal disturbance,
+                                            agitation, dizziness, headache, tremor and insomnia. SSRIs with short
+                                            half-lives (e.g. paroxetine, sertraline) and venlafaxine are particular
+                                            culprits. Therefore, all antidepressants (with the exception of fluoxetine,
+                                            which has a long half-life and many active metabolites) should be gradually
+                                            tapered down before being withdrawn completely. Although certain
+                                            antidepressants may cause a withdrawal syndrome, they do not cause a
+                                            dependence syndrome or ‘addiction’ in that patients do not become tolerant
+                                            to them or crave them.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0055">
+            <ce:section-title id="st0060">MOOD STABILIZERS</ce:section-title>
+            <ce:para id="p0245">These include lithium and the anticonvulsants valproate, carbamazepine and lamotrigine.
+                Other anticonvulsants, such as gabapentin, topiramate and vigabatrin, are also being investigated for
+                mood stabilizing properties.
+            </ce:para>
+            <ce:section id="s0060">
+                <ce:section-title id="st0065">History</ce:section-title>
+                <ce:para id="p0250">In 1949, John Cade discovered that lithium salts caused lethargy when injected into
+                    animals, and later reported lithium's antimanic properties in humans. Trials in the 1950s and 1960s
+                    led to the drug entering mainstream practice in 1970.
+                </ce:para>
+                <ce:para id="p0255">Valproate was first recognized as an effective anticonvulsant in 1962. Along with
+                    carbamazepine and lamotrigine, it was later shown to be effective in bipolar affective disorder.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0065">
+                <ce:section-title id="st0070">Mechanism of action</ce:section-title>
+                <ce:para id="p0260">It is not known how any of the mood stabilizers work. Lithium appears to modulate
+                    the neurotransmitter-induced activation of second messenger systems. Valproate and carbamazepine may
+                    exert their effect via the GABA system; carbamazepine is a GABA agonist and valproate inhibits GABA
+                    transaminase. Lamotrigine reduces neural activation via inhibition of sodium channels.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0070">
+                <ce:section-title id="st0075">Indications</ce:section-title>
+                <ce:para id="p0265">Lithium is used in the treatment of:
+                    <ce:list id="l0040">
+                        <ce:list-item id="u0125">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0270">Acute mania – see page<ce:intra-ref id="ia9025"
+                                                                                    xlink:href="pii:B978-0-7234-3863-2.00018-0#s0090">
+                                137</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0130">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0275">Prophylaxis of bipolar affective disorder (prevention of relapse) – see
+                                page<ce:intra-ref id="ia9030" xlink:href="pii:B978-0-7234-3863-2.00018-0#s0135">
+                                    138</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0135">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0280">Treatment-resistant depression (lithium augmentation) – see page
+                                <ce:intra-ref id="ia9135" xlink:href="pii:B978-0-7234-3863-2.00018-0#f0025">
+                                    136</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0140">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0285">Other: adjunct to antipsychotics in schizoaffective disorder and
+                                schizophrenia; and aggression/impulsivity – see page
+                                <ce:intra-ref id="ia9045" xlink:href="pii:B978-0-7234-3863-2.00019-2#f0015">144
+                                </ce:intra-ref>
+                                and page<ce:intra-ref id="ia9040" xlink:href="pii:B978-0-7234-3863-2.00022-2#s0040">
+                                    161</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Valproate is used in the treatment of:
+                    <ce:list id="l0045">
+                        <ce:list-item id="u0145">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0295">Epilepsy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0150">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0300">Acute mania – see page<ce:intra-ref id="ia9550"
+                                                                                    xlink:href="pii:B978-0-7234-3863-2.00018-0#s0090">
+                                137</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0155">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0305">Prophylaxis of bipolar of affective disorder (unlicensed indication) –
+                                see page<ce:intra-ref id="ia9155" xlink:href="pii:B978-0-7234-3863-2.00018-0#s0135">
+                                    138</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Carbamazepine is used in the treatment of:
+                    <ce:list id="l0050">
+                        <ce:list-item id="u0160">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0315">Epilepsy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0165">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0320">Prophylaxis of bipolar affective disorder (not first line) – see page
+                                <ce:intra-ref id="ia9160" xlink:href="pii:B978-0-7234-3863-2.00018-0#s0135">
+                                    138</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Lamotrigine is used in the treatment of:
+                    <ce:list id="l0055">
+                        <ce:list-item id="u0180">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0340">Epilepsy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0185">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0345">Prophylaxis of depressive episodes in bipolar affective disorder – see
+                                page<ce:intra-ref id="ia9175" xlink:href="pii:B978-0-7234-3863-2.00018-0#s0135">
+                                    138</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0025">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0350">Valproate is available in formulations as sodium valproate,
+                                        valproic acid and semisodium valproate (Depakote®), which comprises equimolar
+                                        amounts of sodium valproate and valproic acid. Different formulations have
+                                        different equivalent doses, so prescribe by brand.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0075">
+                <ce:section-title id="st0080">Side-effects and contraindications</ce:section-title>
+                <ce:section id="s0080">
+                    <ce:section-title id="st0085">Lithium</ce:section-title>
+                    <ce:para id="p0355">Lithium has a narrow therapeutic window between non-therapeutic and toxic blood
+                        levels. Lower levels can be toxic in older patients.
+                        <ce:list id="l0060">
+                            <ce:list-item id="u0190">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0360">Therapeutic levels: 0.5–1.0<ce:hsp sp="0.25"/>mmol/L.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0195">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0365">Toxic levels: &gt;<ce:hsp sp="0.10"/>1.5<ce:hsp sp="0.25"/>mmol/L.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0200">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0370">Dangerously toxic levels: &gt;<ce:hsp sp="0.10"/>2<ce:hsp
+                                        sp="0.25"/>mmol/L.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        Lithium is only taken orally and is excreted almost entirely by the kidneys. Clearance of
+                        lithium is decreased with renal impairment (e.g. in older adults, dehydration) and sodium
+                        depletion. Certain drugs such as diuretics (especially thiazides), nonsteroidal
+                        anti-inflammatory drugs (NSAIDs), and ACE-inhibitors can also increase lithium levels and should
+                        ideally be avoided or prescribed with utmost caution. Furthermore, antipsychotics may
+                        synergistically increase lithium-induced neurotoxicity; this is important as lithium and
+                        antipsychotics are often coadministered in acute mania.
+                        <ce:cross-ref refid="f0035">Figure 2.6</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>
+                        summarizes the side-effects and signs of toxicity of lithium.
+                    </ce:para>
+                    <ce:para id="p0380">It follows that the following investigations are needed prior to initiating
+                        therapy:
+                        <ce:list id="l0065">
+                            <ce:list-item id="u0205">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0385">Full blood count.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0390">Renal function and electrolytes.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0215">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0395">Thyroid function.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0220">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0400">Pregnancy test (in women of childbearing age).</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0225">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0405">Electrocardiogram (ECG) (if cardiac risk factors).</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        Blood levels are monitored weekly after starting treatment until a therapeutic level has been
+                        stable for 4 weeks. Lithium blood levels should then be monitored every 3 months; renal function
+                        every 6 months; and thyroid function every 12 months.
+                    </ce:para>
+                    <ce:para id="p0415">Contraindications/cautions: pregnancy, breastfeeding (see page<ce:intra-ref
+                            id="ia9060" xlink:href="pii:B978-0-7234-3863-2.00024-6#u0050">168</ce:intra-ref>), impaired
+                        renal function, thyroid disease, cardiac conditions, neurological conditions (e.g. Parkinson's
+                        or Huntington's disease).
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0030">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0420">Mood stabilizers have potentially serious pharmacokinetic
+                                            and pharmacodynamic interactions with many other drugs. Therefore, before
+                                            prescribing new medication for patients on mood stabilizers, check a drug
+                                            interactions reference (e.g. Appendix 1 in the British National Formulary
+                                            (BNF)).
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0085">
+                    <ce:section-title id="st0090">Sodium valproate, carbamazepine and lamotrigine</ce:section-title>
+                    <ce:para id="p0425">
+                        <ce:cross-ref refid="f0040">Figure 2.7</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/>
+                        summarizes the side-effects of carbamazepine, valproate and lamotrigine. It is important to
+                        check liver and haematological functions prior to, and soon after, starting valproate or
+                        carbamazepine due to the risk of serious blood and hepatic disorders. Lamotrigine can, rarely,
+                        be associated with Stevens–Johnson syndrome, particularly in the first 8 weeks. Patients should
+                        be advised to stop if there is development of a rash, and reintroduction of lamotrigine at a
+                        later date considered only by a specialist.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0090">
+            <ce:section-title id="st0095">ANTIPSYCHOTICS</ce:section-title>
+            <ce:section id="s0095">
+                <ce:section-title id="st0100">History and classification</ce:section-title>
+                <ce:para id="p0430">Antipsychotics or neuroleptics (originally known as ‘major tranquillizers’) appeared
+                    in the early 1950s with the introduction of the phenothiazine chlorpromazine. A number of
+                    antipsychotics with a similar pharmacodynamic action soon followed, e.g. the butyrophenone
+                    haloperidol in the 1960s. Their ability to treat psychotic symptoms had a profound impact on
+                    psychiatry, accelerating the movement of patients out of asylums and into the community. However,
+                    serious motor side-effects (extrapyramidal side-effects (EPSE)), soon became apparent with all these
+                    drugs.
+                </ce:para>
+                <ce:para id="p0435">Clozapine was the first antipsychotic with fewer EPSE, and thus was termed
+                    ‘atypical’. It led to the introduction of several other atypical (or ‘second generation’)
+                    antipsychotics, including risperidone, olanzapine and quetiapine. The older antipsychotics such as
+                    haloperidol and chlorpromazine became known as the conventional, ‘first generation’, or ‘typical’
+                    antipsychotics. However, this distinction is increasingly viewed as artificial – all antipsychotics
+                    can induce extrapyramidal motor side-effects if given at high enough doses. Clozapine is the only
+                    ‘true’ atypical antipsychotic in that it has a distinct receptor binding profile and can be
+                    effective in two-thirds of the patients for whom other antipsychotics have failed.
+                    <ce:cross-ref refid="f0045">Figure 2.8</ce:cross-ref>
+                    <ce:float-anchor refid="f0045"/>
+                    lists common antipsychotics.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0100">
+                <ce:section-title id="st0105">Mechanism of action and side-effects</ce:section-title>
+                <ce:para id="p0440">The primary mechanism of action of all antipsychotics, with the possible exception
+                    of clozapine, is antagonism of dopamine D
+                    <ce:inf>2</ce:inf>
+                    receptors in the mesolimbic dopamine pathway. Clozapine is a comparatively weak D
+                    <ce:inf>2</ce:inf>
+                    antagonist but has a high affinity for serotonin type 2 receptors (5-HT<ce:inf>2</ce:inf>) and D
+                    <ce:inf>4</ce:inf>
+                    receptors, among many other receptor targets. Most second generation antipsychotics also block 5-HT
+                    <ce:inf>2</ce:inf>
+                    receptors.
+                </ce:para>
+                <ce:para id="p0445">Unfortunately, blockade of dopamine D
+                    <ce:inf>2</ce:inf>
+                    receptors occurs throughout the brain, resulting in diverse side-effects. In addition,
+                    antipsychotics also cause side-effects by blocking muscarinic, histaminergic and α-adrenergic
+                    receptors (as do TCAs).
+                    <ce:cross-ref refid="f0050">Figure 2.9</ce:cross-ref>
+                    <ce:float-anchor refid="f0050"/>
+                    summarizes both the useful and troublesome clinical effects of D<ce:inf>2</ce:inf>-receptor
+                    antagonism as well as the side-effects caused by the blockage of other receptors. Learn this table
+                    well; these effects are often asked for in exams.
+                </ce:para>
+                <ce:para id="p0450">The risk of metabolic syndrome (obesity, diabetes, hypertension and dyslipidaemia)
+                    is particularly high with clozapine and other second generation antipsychotics. Metabolic syndrome
+                    is associated with increased cardiovascular mortality so it is important to monitor and manage the
+                    components of this syndrome.
+                </ce:para>
+                <ce:para id="p0455">Clozapine is associated with some rare serious side-effects such as agranulocytosis,
+                    myocarditis and cardiomyopathy which mean it is reserved for treatment-resistant cases.
+                </ce:para>
+                <ce:para id="p0460">Contraindications/cautions: severely reduced consciousness level (sedating),
+                    phaeochromocytoma, Parkinson's disease (can exacerbate), epilepsy (seizure threshold lowered),
+                    cardiac disease (can induce arrhythmias – consider baseline ECG) and metabolic syndrome). Clozapine
+                    should not be re-prescribed to someone with a history of agranulocytosis.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0035">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0465">If you can remember the side-effects of tricyclic
+                                        antidepressants you can remember many of the side-effects of antipsychotics as
+                                        both are multi-receptor blockers. Both groups are anticholinergic (dry mouth,
+                                        constipation, blurred vision, urinary retention), anti-adrenergic (postural
+                                        hypotension) and anti-histaminergic (sedation, weight gain).
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0040">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0470">The extrapyramidal side-effects (EPSE) of parkinsonian motor
+                                        symptoms and acute dystonia are due to a relative deficiency of dopamine and an
+                                        excess of acetylcholine induced by dopamine antagonism in the nigrostriatal
+                                        pathway. This is why anticholinergic drugs are effective treatments.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+                <ce:para id="p0475">
+                    <ce:cross-ref refid="f0055">Figure 2.10</ce:cross-ref>
+                    <ce:float-anchor refid="f0055"/>
+                    summarizes the antipsychotic-induced extrapyramidal side-effects and treatment. See also
+                    <ce:cross-ref refid="f0060">Figure 2.11</ce:cross-ref>.
+                </ce:para>
+                <ce:para id="p0480">Certain antipsychotics are available in a slow-release form, as an intramuscular
+                    depot preparation that can be administered every 1–4 weeks, e.g. flupentixol (Depixol®),
+                    zuclopenthixol (Clopixol®). They are used for patients who are poorly concordant with oral therapy.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0045">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0485">Clozapine is a very effective antipsychotic but, due to the
+                                        life-threatening risk of bone marrow suppression with agranulocytosis (0.8% of
+                                        patients), is only used in treatment-resistant schizophrenia. Patients should be
+                                        registered with a clozapine monitoring service and have a full blood count (FBC)
+                                        prior to starting treatment. This is followed by weekly FBCs for several weeks,
+                                        followed by monthly FBCs for the duration of treatment. With monitoring,
+                                        fatalities from agranulocytosis are very rare (less than 1 in 5000 patients on
+                                        clozapine).
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0105">
+                <ce:section-title id="st0110">Indications</ce:section-title>
+                <ce:section id="s0110">
+                    <ce:section-title id="st0115">Psychiatric indications</ce:section-title>
+                    <ce:para id="p0490">
+                        <ce:list id="l0070">
+                            <ce:list-item id="u0230">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0495">Schizophrenia, schizoaffective disorder, delusional disorder – see
+                                    page<ce:intra-ref id="ia9165" xlink:href="pii:B978-0-7234-3863-2.00019-2#b0015">
+                                        143</ce:intra-ref>.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0500">Depression or mania with psychotic features – see page
+                                    <ce:intra-ref id="ia9145" xlink:href="pii:B978-0-7234-3863-2.00018-0#f0025">136
+                                    </ce:intra-ref>
+                                    and page<ce:intra-ref id="ia9235" xlink:href="pii:B978-0-7234-3863-2.00018-0#s0090">
+                                        137</ce:intra-ref>.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0240">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0505">Psychotic episodes secondary to a medical condition or psychoactive
+                                    substance use.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0245">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0510">Delirium – see page
+                                    <ce:intra-ref id="ia9070" xlink:href="pii:B978-0-7234-3863-2.00025-8#s0110">178
+                                    </ce:intra-ref>
+                                    (caution in alcohol withdrawal as lowers seizure threshold).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0250">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0515">Behavioural disturbance in dementia – see page
+                                    <ce:intra-ref id="ia9075" xlink:href="pii:B978-0-7234-3863-2.00025-8#u0155">177
+                                    </ce:intra-ref>
+                                    (caution as increased risk of cerebrovascular accident).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0255">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0520">Severe agitation, anxiety and violent or impulsive behaviour – see
+                                    page<ce:intra-ref id="ia9265" xlink:href="pii:B978-0-7234-3863-2.00019-2#u0125">
+                                        145</ce:intra-ref>.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0115">
+                    <ce:section-title id="st0120">Non-psychiatric indications</ce:section-title>
+                    <ce:para id="p0525">
+                        <ce:list id="l0075">
+                            <ce:list-item id="u0260">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0530">Motor tics (Gilles de la Tourette's syndrome) – see page
+                                    <ce:intra-ref id="ia9080" xlink:href="pii:B978-0-7234-3863-2.00027-1#s0145">
+                                        191</ce:intra-ref>.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0265">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0535">Nausea and vomiting, e.g. prochlorperazine.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0270">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0540">Intractable hiccups and pruritus, e.g. chlorpromazine,
+                                    haloperidol.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0120">
+            <ce:section-title id="st0125">ANXIOLYTIC AND HYPNOTIC DRUGS</ce:section-title>
+            <ce:para id="p0545">A hypnotic drug is one that induces sleep. An anxiolytic or sedative drug is one that
+                reduces anxiety. This differentiation is not particularly helpful as anxiolytic drugs can induce sleep
+                when given in higher doses and hypnotics can have a calming effect when given in lower doses, e.g. the
+                benzodiazepines, which are anxiolytic in low doses and hypnotic in high doses. All of these drugs can
+                result in tolerance, dependence and withdrawal symptoms. Furthermore, their effects, when used in
+                combination or with alcohol, are additive. The most important drugs in this group are the
+                benzodiazepines and ‘Z drugs” (zopiclone, zolpidem and zaleplon), which have very similar actions and
+                indications.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0050">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0550">In the past, the antipsychotics have been referred to as the ‘major
+                                    tranquillizers’ and the anxiolytics as the ‘minor tranquillizers’. This is
+                                    misleading because: (1) these drugs are not pharmacologically related; (2) the
+                                    antipsychotics do far more than just tranquillize; and (3) the effect and use of
+                                    anxiolytics is in no way minor.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+            <ce:section id="s0125">
+                <ce:section-title id="st0130">History</ce:section-title>
+                <ce:para id="p0555">In the 1960s the benzodiazepines replaced the often abused barbiturates as the drugs
+                    of choice for the treatment of anxiety and insomnia. However, this initial enthusiasm was tempered
+                    by the observations that they were associated with serious dependence and withdrawal syndromes, and
+                    had gained a market as drugs of abuse. Z drugs were introduced in the 1990s and initially thought to
+                    be less likely to cause dependence – this is not true. Today, benzodiazepines and Z drugs are
+                    recognized as highly effective and relatively safe drugs when prescribed judiciously, for short
+                    periods, and with good patient education.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0130">
+                <ce:section-title id="st0135">Classification</ce:section-title>
+                <ce:para id="p0560">From a clinical perspective, it is important to classify benzodiazepines and Z drugs
+                    according to their strength, their length of action and their routes of administration.
+                    <ce:cross-ref refid="f0065">Figure 2.12</ce:cross-ref>
+                    <ce:float-anchor refid="f0065"/>
+                    summarizes these qualities in some common drugs.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0135">
+                <ce:section-title id="st0140">Mechanism of action</ce:section-title>
+                <ce:para id="p0565">Benzodiazepines potentiate the action of GABA (γ-aminobutyric acid), the main
+                    inhibitory neurotransmitter in the brain. They bind to specific benzodiazepine receptors on the GABA
+                    <ce:inf>A</ce:inf>
+                    receptor complex, which results in an increased affinity of the complex for GABA, and so an
+                    increased flow of chloride ions into the cell. This hyperpolarizes the post-synaptic membrane and
+                    reduces neuronal excitability. Z drugs act at a different site on the benzodiazepine receptor in the
+                    GABA
+                    <ce:inf>A</ce:inf>
+                    receptor complex, also potentiating chloride entry.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0140">
+                <ce:section-title id="st0145">Indications of benzodiazepines</ce:section-title>
+                <ce:para id="p0570">
+                    <ce:list id="l0080">
+                        <ce:list-item id="u0275">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0575">Insomnia, especially short-acting benzodiazepines (short-term use) – see
+                                page<ce:intra-ref id="ia9085" xlink:href="pii:B978-0-7234-3863-2.00030-1#f0015">
+                                    203</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0280">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0580">Anxiety disorders – see page<ce:intra-ref id="ia9690"
+                                                                                          xlink:href="pii:B978-0-7234-3863-2.00020-9#s0045">
+                                150</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0285">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0585">Alcohol withdrawal, especially chlordiazepoxide – see page<ce:intra-ref
+                                    id="ia9095" xlink:href="pii:B978-0-7234-3863-2.00021-0#u0115">154</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0290">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0590">Akathisia – see<ce:cross-ref refid="f0055">Figure 2.10</ce:cross-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0295">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0595">Acute mania or psychosis (sedation) – see page<ce:intra-ref id="ia9650"
+                                                                                                            xlink:href="pii:B978-0-7234-3863-2.00018-0#s0090">
+                                137</ce:intra-ref>,<ce:intra-ref id="ia9365"
+                                                                 xlink:href="pii:B978-0-7234-3863-2.00019-2#b0015">143
+                                and page 145</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0300">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0600">Other: epilepsy prophylaxis, seizures, muscle spasm (diazepam),
+                                anaesthetic premedication.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0145">
+                <ce:section-title id="st0150">Indications of Z drugs</ce:section-title>
+                <ce:para id="p0605">
+                    <ce:list id="l0085">
+                        <ce:list-item id="u0305">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0610">Insomnia (short-term use) – see page<ce:intra-ref id="ia9100"
+                                                                                                  xlink:href="pii:B978-0-7234-3863-2.00030-1#f0015">
+                                203</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0150">
+                <ce:section-title id="st0155">Side-effects of benzodiazepines and Z drugs</ce:section-title>
+                <ce:para id="p0615">
+                    <ce:list id="l0090">
+                        <ce:list-item id="u0310">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0620">Risk of developing dependence, especially with prolonged use and shorter
+                                acting drugs.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0315">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0625">Patients should be warned about the potential dangers of driving or
+                                operating machinery due to drowsiness, ataxia and reduced motor coordination.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0320">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0630">Use with great caution in older adults where drowsiness, confusion and
+                                ataxia can precipitate falls or delirium.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0325">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0635">Use with caution in patients with chronic respiratory disease (e.g.
+                                COPD, sleep apnoea) as they may depress respiration.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0055">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0640">Benzodiazepines or Z drugs (zopiclone, zolpidem and zaleplon),
+                                        are seldom fatal in overdose if taken alone, but can be when taken in
+                                        combination with other sedatives. Flumazenil is an antagonist at the
+                                        benzodiazepine receptor, and can reverse the effects of both benzodiazepines and
+                                        Z drugs.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0060">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0645">Alcohol, opiates, barbiturates, tricyclic antidepressants,
+                                        antihistamines and other sedatives may all enhance the effects of
+                                        benzodiazepines and Z drugs; therefore, moderate doses of benzodiazepines in
+                                        combination with some of these substances can result in respiratory depression.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0155">
+                <ce:section-title id="st0160">Other hypnotic and anxiolytic agents</ce:section-title>
+                <ce:para id="p0650">
+                    <ce:list id="l0095">
+                        <ce:list-item id="u0330">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0655">Buspirone is a 5-HT
+                                <ce:inf>1A</ce:inf>
+                                receptor agonist that is used to treat generalized anxiety disorder. It is unrelated to
+                                the benzodiazepines, does not have hypnotic, anticonvulsant or muscle relaxant
+                                properties, and is not associated with dependence or abuse. Response to treatment may
+                                take up to 2 weeks, unlike the benzodiazepines which have an immediate anxiolytic
+                                effect.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0335">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0660">Sedating antihistamines (e.g. diphenhydramine (Nytol®)) are available
+                                for insomnia without a prescription. Unfortunately, their long duration of action may
+                                lead to drowsiness the following day.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0160">
+            <ce:section-title id="st0165">OTHER DRUGS USED IN PSYCHIATRY</ce:section-title>
+            <ce:para id="p0665">
+                <ce:list id="l0100">
+                    <ce:list-item id="u0340">
+                        <ce:para id="p0670"><ce:bold>Alcohol dependence</ce:bold>: acamprosate, disulfiram – see page
+                            <ce:intra-ref id="ia9605" xlink:href="pii:B978-0-7234-3863-2.00022-2#b0010">
+                                155</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0345">
+                        <ce:para id="p0675"><ce:bold>Opiate dependence</ce:bold>: methadone, buprenorphine, lofexidine,
+                            naltrexone – see page<ce:intra-ref id="ia9710"
+                                                               xlink:href="pii:B978-0-7234-3863-2.00021-0#f0020">
+                                157</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0350">
+                        <ce:para id="p0680"><ce:bold>Dementia</ce:bold>: cholinesterase inhibitors (donepezil,
+                            rivastigmine, galantamine), memantine – see page<ce:intra-ref id="ia9115"
+                                                                                          xlink:href="pii:B978-0-7234-3863-2.00025-8#u0155">
+                                177</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0355">
+                        <ce:para id="p0685"><ce:bold>Psychostimulants</ce:bold>: methylphenidate, dexamfetamine – see
+                            page<ce:intra-ref id="ia9220" xlink:href="pii:B978-0-7234-3863-2.00027-1#o0045">189 and page
+                                204</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0360">
+                        <ce:para id="p0690"><ce:bold>Generalized anxiety disorder</ce:bold>: pregabalin – see page
+                            <ce:intra-ref id="ia9590" xlink:href="pii:B978-0-7234-3863-2.00020-9#s0045">
+                                150</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0165">
+            <ce:section-title id="st0170">ELECTROCONVULSIVE THERAPY</ce:section-title>
+            <ce:section id="s0170">
+                <ce:section-title id="st0175">History</ce:section-title>
+                <ce:para id="p0695">The possibility that seizures could improve psychiatric symptoms arose from the
+                    observation that convulsions appeared to lead to an improvement of psychotic symptoms in patients
+                    with comorbid epilepsy and schizophrenia. This led to seizures being induced pharmacologically with
+                    intramuscular camphor in the early 1930s. An electric stimulus was later discovered to be an
+                    effective way of inducing seizures, although it proved to be a crude and often dangerous procedure
+                    without modern-day anaesthetic induction agents and muscle relaxants. Today, ECT is a safe and often
+                    life-saving treatment for patients with serious mental illness. It is the most effective treatment
+                    known for severe depression.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0175">
+                <ce:section-title id="st0180">Indications</ce:section-title>
+                <ce:para id="p0700">ECT is predominantly used for depression, and can be particularly effective in older
+                    adults. Although antidepressants are usually tried first, ECT is considered for the following
+                    features of depression:
+                    <ce:list id="l0105">
+                        <ce:list-item id="u0365">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0705">Life-threatening poor fluid intake.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0370">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0710">Strong suicidal intent.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0375">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0715">Psychotic features or stupor.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0380">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0720">Antidepressants are ineffective or not tolerated.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+                <ce:para id="p0725">Although ECT may precipitate a manic episode in patients with bipolar affective
+                    disorder, it is an effective treatment for established mania. ECT is also an effective treatment for
+                    certain types of schizophrenia, specifically catatonic states, positive psychotic symptoms and
+                    schizoaffective disorder. ECT is also used for puerperal psychosis (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3863-2.00024-6" id="ia0010">Ch. 24</ce:intra-ref>) with
+                    prominent mood symptoms or severe postnatal depression where a rapid improvement is necessary to
+                    reunite the mother with her baby.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0180">
+                <ce:section-title id="st0185">Administration and mechanism of action</ce:section-title>
+                <ce:para id="p0730">ECT is administered 2–3 times per week. Most patients need between 4 and 12
+                    treatments. An anaesthetist administers a short-acting induction agent and muscle relaxant that
+                    ensure about 5 minutes of general anaesthesia. During this time, a psychiatrist applies two
+                    electrodes to the patient's scalp, in a bilateral or unilateral placement, and delivers an electric
+                    current of sufficient charge to effect a generalized seizure of at least 15 seconds in duration.
+                </ce:para>
+                <ce:para id="p0735">It is still not clear how ECT works. It causes a release of neurotransmitters as
+                    well as hypothalamic and pituitary hormones; it also affects neurotransmitter receptors and second
+                    messenger systems, and results in a transient increase in blood–brain barrier permeability.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0185">
+                <ce:section-title id="st0190">Side-effects</ce:section-title>
+                <ce:para id="p0740">The mortality rate associated with ECT is the same as that for any minor surgical
+                    procedure under general anaesthesia (i.e. around 1 in 100<ce:hsp sp="0.12"/>000). Loss of memory is
+                    a common complaint, particularly for events surrounding the ECT. Some patients also report some
+                    impairment of autobiographical memory. Unfortunately, studies that examine the long-term effects of
+                    ECT are difficult to perform. Memory impairment can be reduced by unilateral electrode placement (as
+                    opposed to bilateral).
+                </ce:para>
+                <ce:para id="p0745">Minor complaints such as confusion, headache, nausea and muscle pains are
+                    experienced by 80% of patients. Anaesthetic complications (e.g. arrhythmias, aspiration) can be
+                    reduced by good preoperative assessment. Prolonged seizures may occur, especially in patients who
+                    are on drugs that lower the seizure threshold (e.g. antidepressants and antipsychotics). In
+                    contrast, benzodiazepines increase the seizure threshold, making it more difficult to induce a
+                    seizure of adequate length.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0190">
+                <ce:section-title id="st0195">Contraindications</ce:section-title>
+                <ce:para id="p0750">There are no absolute contraindications to ECT. Relative contraindications include:
+                    <ce:list id="l0110">
+                        <ce:list-item id="u0385">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0755">Heart disease (recent myocardial infarction, heart failure, ischaemic
+                                heart disease).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0390">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0760">Raised intracranial pressure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0395">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0765">Risk of cerebral bleeding (hypertension, recent stroke).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0425">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0770">Poor anaesthetic risk.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+    </ce:sections>
+</chapter>

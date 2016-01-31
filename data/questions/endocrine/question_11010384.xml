@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010384" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 24-year-old man presents to the Accident &amp; Emergency Department after ingesting 50 tablets of 300 mg aspirin.</p>
+        <p>What is the initial disturbance of acid–base balance most likely to be?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Metabolic acidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Metabolic alkalosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">No acid–base disorder</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Respiratory acidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Respiratory alkalosis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      Respiratory alkalosis occurs early due to effects on the brainstem which cause hyperventilation.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Metabolic acidosis occurs later as the salicylic acid is metabolized. The initial disorder is respiratory alkalosis.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Metabolic alkalosis and respiratory acidosis do not occur.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Acid–base disorders are a major problem with aspirin overdose.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Metabolic alkalosis and respiratory acidosis do not occur.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      Respiratory alkalosis occurs early due to effects on the brainstem which cause hyperventilation.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Metabolic acidosis occurs later as the salicylic acid is metabolized. The initial disorder is respiratory alkalosis.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Metabolic alkalosis and respiratory acidosis do not occur.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Acid–base disorders are a major problem with aspirin overdose.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Metabolic alkalosis and respiratory acidosis do not occur.
+    </p>
+  </modalFeedback>
+</assessmentItem>

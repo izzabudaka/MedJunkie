@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10955726" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Adult haemoglobin (HbA) is a tetramer (2α-like + 2β-like globins) associated with a haem group. Fetal haemoglobin (HbF) is different.</p>
+        <p>What is the haemoglobin structure of fetal haemoglobin (HbF)?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">α2β2</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        α
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        <sub>2</sub>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        α
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>C</sup>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">α2δ2</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">α2γ2</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (a2α2) is Correct.</b>
+      Adult Hb comprises HbA (a2β2), and makes up the majority of Hb, along with HbA
+      <sub>2</sub>
+      (a2d2). Sickle cell disease, due to abnormal haemoglobins resulting from a base change in the β globin gene, is not detected at the time of birth since the main haemoglobin in early life is HbF (a2α2), which does not contain the β chain.
+      <br/>
+      <br/>
+      Sickle cell disease is generally the result of homozygous HbSS (a
+      <sub>2</sub>
+      β
+      <sup>S</sup>
+      <sub>2</sub>
+      ), but may also be caused by interactions with other abnormal haemoglobins, such as:
+    </p>
+    <ul>
+      <li>
+        HbC (resulting in HbSC, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>C</sup>
+        )
+      </li>
+      <li>
+        β thalassaemia (resulting in Hb Sβ+ thalassaemia, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β+thal or β° thal)
+      </li>
+      <li>
+        HbD (resulting in HbSD, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>D</sup>
+        ).
+      </li>
+    </ul>
+    <p>
+      All of these produce significant symptoms but SS and Sβ° are the most severe. The parents of individuals with HbSS SCD are both carriers of the β
+      <sup>S</sup>
+      gene, i.e. they usually both have sickle cell trait.
+      <br/>
+      <br/>
+      <b>Option A (a2β2) is Incorrect.</b>
+      This is normal adult haemoglobin.
+      <br/>
+      <br/>
+      <b>
+        Option B (a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        <sub>2</sub>
+        ) is Incorrect.
+      </b>
+      This is HbSS.
+      <br/>
+      <br/>
+      <b>
+        Option C (a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>C</sup>
+        ) is Incorrect.
+      </b>
+      This is HbSC.
+      <br/>
+      <br/>
+      <b>Option D (a2d2) is Incorrect.</b>
+      This is a variation of HbA, HbA
+      <sub>2</sub>
+      .
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (a2α2) is Correct.</b>
+      Adult Hb comprises HbA (a2β2), and makes up the majority of Hb, along with HbA
+      <sub>2</sub>
+      (a2d2). Sickle cell disease, due to abnormal haemoglobins resulting from a base change in the β globin gene, is not detected at the time of birth since the main haemoglobin in early life is HbF (a2α2), which does not contain the β chain.
+      <br/>
+      <br/>
+      Sickle cell disease is generally the result of homozygous HbSS (a
+      <sub>2</sub>
+      β
+      <sup>S</sup>
+      <sub>2</sub>
+      ), but may also be caused by interactions with other abnormal haemoglobins, such as:
+    </p>
+    <ul>
+      <li>
+        HbC (resulting in HbSC, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>C</sup>
+        )
+      </li>
+      <li>
+        β thalassaemia (resulting in Hb Sβ+ thalassaemia, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β+thal or β° thal)
+      </li>
+      <li>
+        HbD (resulting in HbSD, a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>D</sup>
+        ).
+      </li>
+    </ul>
+    <p>
+      All of these produce significant symptoms but SS and Sβ° are the most severe. The parents of individuals with HbSS SCD are both carriers of the β
+      <sup>S</sup>
+      gene, i.e. they usually both have sickle cell trait.
+      <br/>
+      <br/>
+      <b>Option A (a2β2) is Incorrect.</b>
+      This is normal adult haemoglobin.
+      <br/>
+      <br/>
+      <b>
+        Option B (a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        <sub>2</sub>
+        ) is Incorrect.
+      </b>
+      This is HbSS.
+      <br/>
+      <br/>
+      <b>
+        Option C (a
+        <sub>2</sub>
+        β
+        <sup>S</sup>
+        β
+        <sup>C</sup>
+        ) is Incorrect.
+      </b>
+      This is HbSC.
+      <br/>
+      <br/>
+      <b>Option D (a2d2) is Incorrect.</b>
+      This is a variation of HbA, HbA
+      <sub>2</sub>
+      .
+    </p>
+  </modalFeedback>
+</assessmentItem>

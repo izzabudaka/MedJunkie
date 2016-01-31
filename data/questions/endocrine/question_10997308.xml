@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997308" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 34-year-old man presents with a history of palpitations, pallor and sweating. He also describes headaches and intermittent bouts of anxiety. Although his blood pressure is normal in clinic, you note it has previously been 178/95 mmHg and 158/101 mmHg.</p>
+        <p>What investigation would you request to obtain a definitive diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">24-hour urine collection</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">ECG</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">ECHO</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Plasma cortisol</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Urea and electrolytes</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      This is the ideal investigation to confirm a high level of metadrenalines, secreted in those with a phaeochromocytoma.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      An ECG will not ascertain the cause of the symptoms seen, although it may characterize rhythm abnormalities.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      While an ECHO will characterize heart blood defects, it cannot be used to diagnose a phaeochromocytoma, which is a tumour of the adrenal medulla.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      The underlying diagnosis is phaeochromocytoma. A random plasma cortisol will not detect the metabolites of adrenaline and noradrenaline characteristically associated with a phaeochromocytoma.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This will not help obtain a diagnosis here.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      This is the ideal investigation to confirm a high level of metadrenalines, secreted in those with a phaeochromocytoma.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      An ECG will not ascertain the cause of the symptoms seen, although it may characterize rhythm abnormalities.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      While an ECHO will characterize heart blood defects, it cannot be used to diagnose a phaeochromocytoma, which is a tumour of the adrenal medulla.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      The underlying diagnosis is phaeochromocytoma. A random plasma cortisol will not detect the metabolites of adrenaline and noradrenaline characteristically associated with a phaeochromocytoma.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This will not help obtain a diagnosis here.
+    </p>
+  </modalFeedback>
+</assessmentItem>

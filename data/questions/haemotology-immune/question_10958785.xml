@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10958785" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 40-year-old lady presents to her GP with several months' history of tiredness on exertion, shortness of breath and palpitations. A systematic review reveals that she suffers from menorrhagia.</p>
+        <p>Blood tests reveal that her Hb is 9.8 g/dL (normal range 11.5–16.5 g/dL) and her MCV is 70 fl (normal range 80–96).</p>
+        <p>Which of the following is the most likely cause of her anaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Folate deficiency</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Iron-deficiency anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Pregnancy</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sideroblastic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        B
+        <sub>12</sub>
+        deficiency
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Iron-deficiency anaemia) is Correct.</b>
+      Iron deficiency is the most likely cause of her anaemia. Menorrhagia leads to this. It is very common in women of this age.
+      <br/>
+      <br/>
+      <b>Option A (Folate deficiency) is Incorrect.</b>
+      It causes macrocytic anaemia.
+      <br/>
+      <br/>
+      <b>Option C (Pregnancy) is Incorrect.</b>
+      It causes normocytic anaemia.
+      <br/>
+      <br/>
+      <b>Option D (Sideroblastic anaemia) is Incorrect.</b>
+      It is a possible cause of microcytic anaemia but is much less common than iron deficiency.
+      <br/>
+      <br/>
+      <b>
+        Option E (B
+        <sub>12</sub>
+        deficiency) is Incorrect.
+      </b>
+      It causes macrocytic anaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Iron-deficiency anaemia) is Correct.</b>
+      Iron deficiency is the most likely cause of her anaemia. Menorrhagia leads to this. It is very common in women of this age.
+      <br/>
+      <br/>
+      <b>Option A (Folate deficiency) is Incorrect.</b>
+      It causes macrocytic anaemia.
+      <br/>
+      <br/>
+      <b>Option C (Pregnancy) is Incorrect.</b>
+      It causes normocytic anaemia.
+      <br/>
+      <br/>
+      <b>Option D (Sideroblastic anaemia) is Incorrect.</b>
+      It is a possible cause of microcytic anaemia but is much less common than iron deficiency.
+      <br/>
+      <br/>
+      <b>
+        Option E (B
+        <sub>12</sub>
+        deficiency) is Incorrect.
+      </b>
+      It causes macrocytic anaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

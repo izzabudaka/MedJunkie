@@ -1,0 +1,24 @@
+template: This is a dummy healthcheck for %s!
+defaultName: MedJunkieApp
+mode: debug
+
+# Logging settings.
+logging:
+
+  # The default level of all loggers. Can be OFF, ERROR, WARN, INFO, DEBUG, TRACE, or ALL.
+  level: DEBUG
+
+  # Logger-specific levels.
+  loggers:
+    # Sets the level for our app to DEBUG.
+    com.tuffle.revolut: DEBUG
+
+  appenders:
+    - type: console
+      threshold: DEBUG
+    - type: file
+      threshold: INFO
+      logFormat: "%-6level [%d{HH:mm:ss.SSS}] [%t] %logger{5} - %X{code} %msg %n"
+      currentLogFilename: /tmp/medxjunkie-app.log
+      archivedLogFilenamePattern: /tmp/medxjunkie-app-%d{yyyy-MM-dd}-%i.log.gz
+      archivedFileCount: 7

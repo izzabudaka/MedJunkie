@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10957305" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Two major genes have been implicated in neoplasia: oncogenes and tumour suppressor genes. These occur through mutations, chromosome translocation or viral activation.</p>
+        <p>What disease is associated with the Philadelphia chromosome?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Chronic myeloid leukaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Haemophilia B</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hodgkin's lymphoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Myelofibrosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Polycythaemia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Chronic myeloid leukaemia) is Correct.</b>
+      Chronic myeloid leukaemia (CML) is an uncommon clonal stem cell disorder making up 15% of all leukaemias. Presentation is more common in adults between the ages of 40 and 60 years. CML is characterized by a high white cell count, of granulocytic lineage, and the presence of the Philadelphia chromosome (Ph).
+      <br/>
+      <br/>
+      <b>Option B (Haemophilia B) is Incorrect.</b>
+      Mutation of factor IX gene is associated with haemophilia B.
+      <br/>
+      <br/>
+      <b>Option C (Hodgkin's lymphoma) is Incorrect.</b>
+      The cause of Hodgkin's lymphoma is unknown, but it is possibly the result of Epstein–Barr virus infection.
+      <br/>
+      <br/>
+      <b>Option D (Myelofibrosis) is Incorrect.</b>
+      Chronic myeloid leukaemia is associated with the Philadelphia chromosome.
+      <br/>
+      <br/>
+      <b>Option E (Polycythaemia) is Incorrect.</b>
+      The cause of polycythaemia is unknown.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Chronic myeloid leukaemia) is Correct.</b>
+      Chronic myeloid leukaemia (CML) is an uncommon clonal stem cell disorder making up 15% of all leukaemias. Presentation is more common in adults between the ages of 40 and 60 years. CML is characterized by a high white cell count, of granulocytic lineage, and the presence of the Philadelphia chromosome (Ph).
+      <br/>
+      <br/>
+      <b>Option B (Haemophilia B) is Incorrect.</b>
+      Mutation of factor IX gene is associated with haemophilia B.
+      <br/>
+      <br/>
+      <b>Option C (Hodgkin's lymphoma) is Incorrect.</b>
+      The cause of Hodgkin's lymphoma is unknown, but it is possibly the result of Epstein–Barr virus infection.
+      <br/>
+      <br/>
+      <b>Option D (Myelofibrosis) is Incorrect.</b>
+      Chronic myeloid leukaemia is associated with the Philadelphia chromosome.
+      <br/>
+      <br/>
+      <b>Option E (Polycythaemia) is Incorrect.</b>
+      The cause of polycythaemia is unknown.
+    </p>
+  </modalFeedback>
+</assessmentItem>

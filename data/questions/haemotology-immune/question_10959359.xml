@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10959359" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>The production of red cells from stem cells is driven by transcription factors.</p>
+        <p>What is a feature of GATA-2?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Forms a complex with Tal-1/SCL; responsible for producing blood when in utero</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Found in association with multipotent progenitors; its absence leads to a failure of erythroid cell production with cells not developing beyond the primitive</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Found in multipotent stem cells; increased impression leads to proliferation of these cells and reduction results in a loss of haematopoiesis proerythroblast</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Over-expression leads to cells developing down the myeloid lineage</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thought to be important at very early stages of erythropoiesis, at the multipotent or myeloid–erythroid stem cell level</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Found in multipotent stem cells; increased impression leads to proliferation of these cells and reduction results in a loss of haematopoiesis) is Correct.</b>
+      Laboratory animals, such as zebrafish, provide the opportunity for much molecular research. GATA-2 expression in this animal is associated with areas of haematopoiesis. It is also found on multipotent stem cells. Increased expression of GATA-2 leads to proliferation of these cells, and a reduction results in a loss of haematopoiesis.
+      <br/>
+      <br/>
+      <b>Option A (Forms a complex with Tal-1/SCL; responsible for producing blood when in utero) is Incorrect.</b>
+      Rbtn2/LMO2 forms a complex with Tal-1/SCL; responsible for producing blood when in utero.
+      <br/>
+      <br/>
+      <b>Option B (Found in association with multipotent progenitors; its absence leads to a failure of erythroid cell production with cells not developing beyond the primitive proerythroblast) is Incorrect.</b>
+      GATA-1 is found in association with multipotent progenitors; its absence leads to a failure of erythroid cell production with cells not developing beyond the primitive proerythroblast.
+      <br/>
+      <br/>
+      <b>Option D (Over-expression leads to cells developing down the myeloid lineage) is Incorrect.</b>
+      Over-expression of PU.1 leads to cells developing down the myeloid lineage.
+      <br/>
+      <br/>
+      <b>Option E (Thought to be important at very early stages of erythropoiesis, at the multipotent or myeloid–erythroid stem cell level) is Incorrect.</b>
+      Tal-1/SCL is thought to be important at very early stages of erythropoiesis, at the multipotent or myeloid–erythroid stem cell level.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Found in multipotent stem cells; increased impression leads to proliferation of these cells and reduction results in a loss of haematopoiesis) is Correct.</b>
+      Laboratory animals, such as zebrafish, provide the opportunity for much molecular research. GATA-2 expression in this animal is associated with areas of haematopoiesis. It is also found on multipotent stem cells. Increased expression of GATA-2 leads to proliferation of these cells, and a reduction results in a loss of haematopoiesis.
+      <br/>
+      <br/>
+      <b>Option A (Forms a complex with Tal-1/SCL; responsible for producing blood when in utero) is Incorrect.</b>
+      Rbtn2/LMO2 forms a complex with Tal-1/SCL; responsible for producing blood when in utero.
+      <br/>
+      <br/>
+      <b>Option B (Found in association with multipotent progenitors; its absence leads to a failure of erythroid cell production with cells not developing beyond the primitive proerythroblast) is Incorrect.</b>
+      GATA-1 is found in association with multipotent progenitors; its absence leads to a failure of erythroid cell production with cells not developing beyond the primitive proerythroblast.
+      <br/>
+      <br/>
+      <b>Option D (Over-expression leads to cells developing down the myeloid lineage) is Incorrect.</b>
+      Over-expression of PU.1 leads to cells developing down the myeloid lineage.
+      <br/>
+      <br/>
+      <b>Option E (Thought to be important at very early stages of erythropoiesis, at the multipotent or myeloid–erythroid stem cell level) is Incorrect.</b>
+      Tal-1/SCL is thought to be important at very early stages of erythropoiesis, at the multipotent or myeloid–erythroid stem cell level.
+    </p>
+  </modalFeedback>
+</assessmentItem>

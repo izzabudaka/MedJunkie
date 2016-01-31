@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10956314" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>In a 70 kg adult human being, about 60% is total body water, made up of intracellular and extracellular fluids. The extracellular fluids are divided into interstitial fluid and blood plasma.</p>
+        <p>Which anion and which cation are the major constituents of intracellular fluid?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Potassium and chloride</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Potassium and sodium</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Sodium and phosphate</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Phosphate and potassium</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Sodium and chloride</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Sodium and phosphate) is Correct.</b>
+      The major intracellular ions are sodium (Na
+      <sup>+</sup>
+      ) and large anions such as protein and phosphate.
+      <br/>
+      <br/>
+      <b>Option A (Potassium and chloride) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option B (Potassium and sodium) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option D (Phosphate and potassium) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option E (Sodium and chloride) is Incorrect.</b>
+      Chloride is mainly extracellular.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Sodium and phosphate) is Correct.</b>
+      The major intracellular ions are sodium (Na
+      <sup>+</sup>
+      ) and large anions such as protein and phosphate.
+      <br/>
+      <br/>
+      <b>Option A (Potassium and chloride) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option B (Potassium and sodium) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option D (Phosphate and potassium) is Incorrect.</b>
+      Potassium is mainly extracellular.
+      <br/>
+      <br/>
+      <b>Option E (Sodium and chloride) is Incorrect.</b>
+      Chloride is mainly extracellular.
+    </p>
+  </modalFeedback>
+</assessmentItem>

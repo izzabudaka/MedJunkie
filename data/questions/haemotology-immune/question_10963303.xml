@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10963303" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 4-year-old boy is brought to hospital after a fall. The doctors are worried as the bleeding from a cut is taking a while to stop. They note his right knee is swollen and deformed. No other bruising is evident. His mother says she has noticed he does bleed for a bit longer when injured but she has always managed to stop the bleeding. She says his knee became swollen after a fall in school six months ago. When asked about a family history of bleeding disorders, she thinks her uncle has ‘something wrong with his blood’ but cannot give any more details.</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Thrombocytopenia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Vitamin K deficiency</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Haemophilia A (Factor VIII deficiency)</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Haemophilia B (Factor IX deficiency)</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">von Willebrand's disease</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Haemophilia A (Factor VIII deficiency)) is Correct.</b>
+      Haemophilia is a bleeding disease that occurs almost exclusively in males. In 85 percent of cases, it is caused by an abnormality or deficiency of Factor VIII; this type of haemophilia is called haemophilia A or classic haemophilia. About 1 in every 10,000 males in the United States has classic haemophilia. In the other 15 percent of haemophilia patients, the bleeding tendency is caused by deficiency of Factor IX. Both of these factors are transmitted genetically by way of the female chromosome.
+    </p>
+    <p>The bleeding trait in haemophilia can have various degrees of severity, depending on the character of the genetic deficiency. Bleeding usually does not occur except after trauma, but in some patients, the degree of trauma required to cause severe and prolonged bleeding may be so mild that it is hardly noticeable. For instance, bleeding can often last for days after extraction of a tooth.</p>
+    <p>
+      <b>Option A (Thrombocytopenia) is Incorrect.</b>
+      Thrombocytopenia means the presence of very low numbers of platelets in the circulating blood. People with thrombocytopenia have a tendency to bleed, as do haemophiliacs, except that the bleeding is usually from many small venules or capillaries, rather than from larger vessels, as in haemophilia. As a result, small punctate haemorrhages occur throughout all the body tissues. The skin of such a person displays many small, purplish blotches, giving the disease the name thrombocytopenic purpura. As stated earlier, platelets are especially important for repair of minute breaks in capillaries and other small vessels.
+    </p>
+    <p>
+      <b>Option B (Vitamin K deficiency) is Incorrect.</b>
+      This is usually caused by liver disease and is unlikely in young children.
+    </p>
+    <p>
+      <b>Option D (Haemophilia B (Factor IX deficiency)) is Incorrect.</b>
+      Haemophilia A is more common than Haemophilia B.
+    </p>
+    <p>
+      <b>Option E (von Willebrand's disease) is Incorrect.</b>
+      Factor VIII has two active components: a large component with a molecular weight in the millions and a smaller component with a molecular weight of about 230,000. The smaller component is most important in the intrinsic pathway for clotting, and it is deficiency of this part of Factor VIII that causes classic haemophilia. Another bleeding disease with somewhat different characteristics, called von Willebrand's disease, results from loss of the large component.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Haemophilia A (Factor VIII deficiency)) is Correct.</b>
+      Haemophilia is a bleeding disease that occurs almost exclusively in males. In 85 percent of cases, it is caused by an abnormality or deficiency of Factor VIII; this type of haemophilia is called haemophilia A or classic haemophilia. About 1 in every 10,000 males in the United States has classic haemophilia. In the other 15 percent of haemophilia patients, the bleeding tendency is caused by deficiency of Factor IX. Both of these factors are transmitted genetically by way of the female chromosome.
+    </p>
+    <p>The bleeding trait in haemophilia can have various degrees of severity, depending on the character of the genetic deficiency. Bleeding usually does not occur except after trauma, but in some patients, the degree of trauma required to cause severe and prolonged bleeding may be so mild that it is hardly noticeable. For instance, bleeding can often last for days after extraction of a tooth.</p>
+    <p>
+      <b>Option A (Thrombocytopenia) is Incorrect.</b>
+      Thrombocytopenia means the presence of very low numbers of platelets in the circulating blood. People with thrombocytopenia have a tendency to bleed, as do haemophiliacs, except that the bleeding is usually from many small venules or capillaries, rather than from larger vessels, as in haemophilia. As a result, small punctate haemorrhages occur throughout all the body tissues. The skin of such a person displays many small, purplish blotches, giving the disease the name thrombocytopenic purpura. As stated earlier, platelets are especially important for repair of minute breaks in capillaries and other small vessels.
+    </p>
+    <p>
+      <b>Option B (Vitamin K deficiency) is Incorrect.</b>
+      This is usually caused by liver disease and is unlikely in young children.
+    </p>
+    <p>
+      <b>Option D (Haemophilia B (Factor IX deficiency)) is Incorrect.</b>
+      Haemophilia A is more common than Haemophilia B.
+    </p>
+    <p>
+      <b>Option E (von Willebrand's disease) is Incorrect.</b>
+      Factor VIII has two active components: a large component with a molecular weight in the millions and a smaller component with a molecular weight of about 230,000. The smaller component is most important in the intrinsic pathway for clotting, and it is deficiency of this part of Factor VIII that causes classic haemophilia. Another bleeding disease with somewhat different characteristics, called von Willebrand's disease, results from loss of the large component.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11001936" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 19-year-old female university student presents with a unilateral thyroid mass. On examination, she is found to have a non-tender, small, hard lesion.</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Anaplastic</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Follicular</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Medullary</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Papillary</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid lymphoma</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Papillary) is Correct.</b>
+      This is the most common form of thyroid cancer. It typically presents in young women and in patients with previous irradiation to the neck. Treatment is total or hemithyroidectomy. It has a good prognosis.
+    </p>
+    <p>
+      <b>Option A (Anaplastic) is Incorrect.</b>
+      This is an aggressive tumour that carries a very poor prognosis. It is most common in elderly women. Anaplastic thyroid cancer is rapidly growing and locally invasive, with early lymphatic metastases. Treatment is usually palliative.
+    </p>
+    <p>
+      <b>Option B (Follicular) is Incorrect.</b>
+      This is indistinguishable from thyroid follicular adenoma. If follicular cells are isolated on cytology, a thyroidectomy is advised as it often multifocal.
+    </p>
+    <p>
+      <b>Option C (Medullary) is Incorrect.</b>
+      Medullary cancer arises in parafollicular C cells of the thyroid. It is associated with phaeochromocytoma as part of the MEN2 syndrome.
+    </p>
+    <p>
+      <b>Option E (Thyroid lymphoma) is Incorrect.</b>
+      This is a solid tumour of lymphatic cells found in the thyroid gland.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Papillary) is Correct.</b>
+      This is the most common form of thyroid cancer. It typically presents in young women and in patients with previous irradiation to the neck. Treatment is total or hemithyroidectomy. It has a good prognosis.
+    </p>
+    <p>
+      <b>Option A (Anaplastic) is Incorrect.</b>
+      This is an aggressive tumour that carries a very poor prognosis. It is most common in elderly women. Anaplastic thyroid cancer is rapidly growing and locally invasive, with early lymphatic metastases. Treatment is usually palliative.
+    </p>
+    <p>
+      <b>Option B (Follicular) is Incorrect.</b>
+      This is indistinguishable from thyroid follicular adenoma. If follicular cells are isolated on cytology, a thyroidectomy is advised as it often multifocal.
+    </p>
+    <p>
+      <b>Option C (Medullary) is Incorrect.</b>
+      Medullary cancer arises in parafollicular C cells of the thyroid. It is associated with phaeochromocytoma as part of the MEN2 syndrome.
+    </p>
+    <p>
+      <b>Option E (Thyroid lymphoma) is Incorrect.</b>
+      This is a solid tumour of lymphatic cells found in the thyroid gland.
+    </p>
+  </modalFeedback>
+</assessmentItem>

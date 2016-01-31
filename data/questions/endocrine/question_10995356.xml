@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10995356" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 52-year-old man presents with a 2-year history of excessive sweating, carpal tunnel syndrome and joint pain. He tells you that he can no longer wear his wedding ring and that his shoe size has increased.</p>
+        <p>Which of the following investigations would you request?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Gamma-glutamyl transferase (GGT) and growth hormone</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Gamma-glutamyl transferase (GGT) and thyroid function tests (TFTs)</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Prolactin</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Random growth hormone</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Sex hormone binding globulin</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      GGT and growth hormone measurements confirm excessive growth hormone production and therefore acromegaly.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      TFTs are not useful in diagnosing acromegaly.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Prolactin secretion is associated with a prolactinoma from the posterior part of the pituitary gland; acromegaly is due to the secretion of growth hormone from the anterior pituitary.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      A random growth hormone is not helpful in diagnosing acromegaly as it may be high in normal people.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      SHBG is used when investigating polycystic ovarian syndrome; it is not useful in diagnosing acromegaly.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      GGT and growth hormone measurements confirm excessive growth hormone production and therefore acromegaly.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      TFTs are not useful in diagnosing acromegaly.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Prolactin secretion is associated with a prolactinoma from the posterior part of the pituitary gland; acromegaly is due to the secretion of growth hormone from the anterior pituitary.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      A random growth hormone is not helpful in diagnosing acromegaly as it may be high in normal people.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      SHBG is used when investigating polycystic ovarian syndrome; it is not useful in diagnosing acromegaly.
+    </p>
+  </modalFeedback>
+</assessmentItem>

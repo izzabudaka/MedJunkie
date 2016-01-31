@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997352" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 58-year-old man on amiodarone for supraventricular tachycardia presents with insomnia, sweating, diarrhoea and palpitations. On examination, there is atrial fibrillation, a tremor and moist skin. Thyroid function tests reveal:</p>
+        <p>Thyroid-stimulating hormone 0.3 mU/L (normal range 0.2–4.5 mU/L)</p>
+        <p>Free thyroxine 40 pmol/L (normal range 9-21 pmol/L)</p>
+        <p>Tri-iodiothyronine 3 nmol/L (normal range 0.9-2.4nmol/L)</p>
+        <p>What is the most appropriate management?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Aspirin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Levothyroxine</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Propanolol</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Radioiodine</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Stop amiodarone</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Stop amiodarone) is Correct.</b>
+      Amiodarone has a high concentration of iodine and it has a long half-life. This patient has iodine-induced thyrotoxicosis. Termination of amiodarone is necessary to control his thyrotoxic state. Given the long half-life of amiodarone, he may require carbimazole.
+    </p>
+    <p>
+      <b>Option A (Aspirin) is Incorrect.</b>
+      This is used to treat de Quervain's thyroiditis. This disease is due to a self-limiting upper respiratory tract infection. It results in a painful thyroid swelling.
+    </p>
+    <p>
+      <b>Option B (Levothyroxine) is Incorrect.</b>
+      This is used to treat hypothyroidism. The patient has a pulse that is not bradycardic, which is a feature of hypothyroidism.
+    </p>
+    <p>
+      <b>Option C (Propanolol) is Incorrect.</b>
+      This is used in hyperthyroidism and thyroid crisis. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option D (Radioiodine) is Incorrect.</b>
+      Iodine 131 is used to treat thyrotoxicosis and thyroid carcinoma. Its use may cause thyroiditis. In this patient r adioiodine is not effective due to reduced uptake by the thyroid gland.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Stop amiodarone) is Correct.</b>
+      Amiodarone has a high concentration of iodine and it has a long half-life. This patient has iodine-induced thyrotoxicosis. Termination of amiodarone is necessary to control his thyrotoxic state. Given the long half-life of amiodarone, he may require carbimazole.
+    </p>
+    <p>
+      <b>Option A (Aspirin) is Incorrect.</b>
+      This is used to treat de Quervain's thyroiditis. This disease is due to a self-limiting upper respiratory tract infection. It results in a painful thyroid swelling.
+    </p>
+    <p>
+      <b>Option B (Levothyroxine) is Incorrect.</b>
+      This is used to treat hypothyroidism. The patient has a pulse that is not bradycardic, which is a feature of hypothyroidism.
+    </p>
+    <p>
+      <b>Option C (Propanolol) is Incorrect.</b>
+      This is used in hyperthyroidism and thyroid crisis. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option D (Radioiodine) is Incorrect.</b>
+      Iodine 131 is used to treat thyrotoxicosis and thyroid carcinoma. Its use may cause thyroiditis. In this patient r adioiodine is not effective due to reduced uptake by the thyroid gland.
+    </p>
+  </modalFeedback>
+</assessmentItem>

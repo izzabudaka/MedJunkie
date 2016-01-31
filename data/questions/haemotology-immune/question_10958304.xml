@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10958304" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Normal red cells live for around 120 days, showing signs of age towards the end of this time.</p>
+        <p>What is the fate of an old red cell?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">ATP levels decrease and glycolysis slows down</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Become more flaccid</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Engulfed by neutrophils</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Make their way towards the liver for engulfment</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Membrane lipid levels rise</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (ATP levels decrease and glycolysis slows down) is Correct.</b>
+      The fate of red cells as they age is:
+    </p>
+    <ul>
+      <li>they become more rigid</li>
+      <li>glycolysis slows down</li>
+      <li>ATP levels fall</li>
+      <li>membrane lipid levels reduce</li>
+      <li>they gradually desiccate</li>
+      <li>haemoglobin cross-links to spectrin</li>
+      <li>antibodies are produced against neoantigens (new antigens) that have been revealed by ageing.</li>
+    </ul>
+    <p>
+      Senescent red cells are phagocytized and digested by macrophages in the spleen.
+      <br/>
+      <br/>
+      <b>Option B (Become more flaccid) is Incorrect.</b>
+      Red cells become more rigid as they age.
+      <br/>
+      <br/>
+      <b>Option C (Engulfed by neutrophils) is Incorrect.</b>
+      Senescent red cells are phagocytized by macrophages.
+      <br/>
+      <br/>
+      <b>Option D (Make their way towards the liver for engulfment) is Incorrect.</b>
+      Senescent red cells make their way towards the spleen (the graveyard of red cells).
+      <br/>
+      <br/>
+      <b>Option E (Membrane lipid levels rise) is Incorrect.</b>
+      Membrane lipid levels reduce as red cells age.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (ATP levels decrease and glycolysis slows down) is Correct.</b>
+      The fate of red cells as they age is:
+    </p>
+    <ul>
+      <li>they become more rigid</li>
+      <li>glycolysis slows down</li>
+      <li>ATP levels fall</li>
+      <li>membrane lipid levels reduce</li>
+      <li>they gradually desiccate</li>
+      <li>haemoglobin cross-links to spectrin</li>
+      <li>antibodies are produced against neoantigens (new antigens) that have been revealed by ageing.</li>
+    </ul>
+    <p>
+      Senescent red cells are phagocytized and digested by macrophages in the spleen.
+      <br/>
+      <br/>
+      <b>Option B (Become more flaccid) is Incorrect.</b>
+      Red cells become more rigid as they age.
+      <br/>
+      <br/>
+      <b>Option C (Engulfed by neutrophils) is Incorrect.</b>
+      Senescent red cells are phagocytized by macrophages.
+      <br/>
+      <br/>
+      <b>Option D (Make their way towards the liver for engulfment) is Incorrect.</b>
+      Senescent red cells make their way towards the spleen (the graveyard of red cells).
+      <br/>
+      <br/>
+      <b>Option E (Membrane lipid levels rise) is Incorrect.</b>
+      Membrane lipid levels reduce as red cells age.
+    </p>
+  </modalFeedback>
+</assessmentItem>

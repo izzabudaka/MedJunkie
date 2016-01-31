@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0075" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3869-4.00015-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3869-4.00015-X</ce:doi>
+        <ce:isbn>978-0-7234-3869-4</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 15.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010" role="title">The effect of sample size on statistical testing.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-01-9780723437352" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 15.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015" role="title">Flowchart for selection of statistical tests comparing one
+                    group to a hypothetical value.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-02-9780723437352" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 15.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020" role="title">Flowchart for selection of statistical tests comparing two
+                    groups.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-03-9780723437352" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 15.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025" role="title">Observed frequencies in a contingency table.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-04-9780723437352" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 15.5</ce:label>
+            <ce:caption id="ca0030">
+                <ce:simple-para id="sp0030" role="title">Expected frequencies in a contingency table.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-05-9780723437352" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 15.6</ce:label>
+            <ce:caption id="ca0035">
+                <ce:simple-para id="sp0035" role="title">Flowchart for selection of statistical tests comparing three or
+                    more groups.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-06-9780723437352" id="lk0035"/>
+        </ce:figure>
+        <ce:figure id="f0040">
+            <ce:label>Fig. 15.7</ce:label>
+            <ce:caption id="ca0040">
+                <ce:simple-para id="sp0040" role="title">Flowchart for selection of statistical tests measuring the
+                    association between two variables.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f15-07-9780723437352" id="lk0040"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>Chapter 15</ce:label>
+    <ce:title>Statistical techniques</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">By the end of this chapter you should:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">Understand the steps involved in selecting the most appropriate statistical test
+                        when analysing data.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Know when it is necessary to choose a non-parametric test over a parametric
+                        test.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">Know the implications of sample size when interpreting the results of
+                        parametric, non-parametric and normality tests.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0030">Be able to follow the flowcharts provided to assist you when choosing the
+                        correct statistical test for a data set.
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">CHOOSING APPROPRIATE STATISTICAL TESTS</ce:section-title>
+            <ce:para id="p0035">
+                <ce:list id="l0015">
+                    <ce:list-item id="u0030">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0040">In previous chapters we discussed how to calculate and interpret the
+                            different measures of association, including the risk ratio (<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3869-4.00007-0" id="ia0010">Chapter 7</ce:intra-ref>)
+                            and odds ratio (<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00008-2" id="ia0015">
+                                Chapter 8</ce:intra-ref>). On some occasions we compare two competing variables by
+                            calculating the difference between the group means (or group proportions) (<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3869-4.00003-3" id="ia0020">Chapter 3</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0035">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0045">We can also calculate the 95% confidence interval for these measures of
+                            association to determine how precisely we have determined the differences of interest. It
+                            combines the variability (standard deviation) and sample size to generate a confidence
+                            interval for the population measure (<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3869-4.00003-3" id="ia0025">Chapter 3</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0040">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0050">We use the measure of association and the confidence interval to put the
+                            result in a scientific context.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0045">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0055">However, we must also determine whether the results obtained are
+                            statistically significant by calculating the<ce:italic>P</ce:italic>-value (please refer to
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00003-3" id="ia0030">Chapter 3
+                            </ce:intra-ref>
+                            for a discussion on how to interpret the<ce:italic>P</ce:italic>-value).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0050">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0060">Having defined the null and alternative hypotheses for your comparison, an
+                            appropriate statistical test is used to compute the<ce:italic>P</ce:italic>-value from the
+                            sample data. The<ce:italic>P</ce:italic>-value provides a measure of evidence for or against
+                            the null hypothesis. If the<ce:italic>P</ce:italic>-value shows evidence against the null
+                            hypothesis being tested, then the alternative hypothesis must be true.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0055">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0065">In some undergraduate curriculums you are expected to know which statistical
+                            tests to use (to calculate the<ce:italic>P</ce:italic>-value) when analysing different data
+                            sets.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0060">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0070">Selecting the most appropriate statistical test depends on three key pieces
+                            of information:
+                            <ce:list id="l0020">
+                                <ce:list-item id="o0010">
+                                    <ce:label>1.</ce:label>
+                                    <ce:para id="p0075">The goal of the data analysis</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0015">
+                                    <ce:label>2.</ce:label>
+                                    <ce:para id="p0080">The type of variable you are analysing</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0020">
+                                    <ce:label>3.</ce:label>
+                                    <ce:para id="p0085">The distribution of the data.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0015">
+                <ce:section-title id="st0020">Data analysis goal</ce:section-title>
+                <ce:para id="p0090">
+                    <ce:list id="l0025">
+                        <ce:list-item id="u0065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0095">What is the aim of your analysis? Are you:
+                                <ce:list id="l0030">
+                                    <ce:list-item id="u0070">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0100">comparing one group to a hypothetical value?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0075">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0105">comparing two unpaired groups?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0080">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0110">comparing two paired groups?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0085">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0115">comparing three or more unmatched groups?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0090">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0120">comparing three or more matched groups?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0095">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0125">quantifying the association between two variables?</ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0010">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0130">If the groups are paired (or matched), this implies they are
+                                        dependent, i.e. repeated measurements of the same variable in the same subject.
+                                    </ce:para>
+                                    <ce:para id="p0135">If the groups are unpaired (or unmatched), this implies they are
+                                        independent; i.e. the same variable is measured in two different groups of
+                                        subjects.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Type of variable</ce:section-title>
+                <ce:para id="p0140">
+                    <ce:list id="l0035">
+                        <ce:list-item id="u0100">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0145">It is important to define the type of variable you are analysing.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0105">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0150">Research data usually fall into one of the four types of variables:
+                                <ce:display>
+                                    <ce:figure id="f9000">
+                                        <ce:link locator="u15-03-9780723437352" id="lk9000"/>
+                                    </ce:figure>
+                                </ce:display>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0110">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0155">Please refer to
+                                <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00002-1" id="ia0035">Chapter 2
+                                </ce:intra-ref>
+                                for a discussion on these different types of variables.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0015">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0180">It can sometimes be difficult to distinguish between an interval
+                                        and ratio variable. For the purpose of choosing an appropriate statistical test
+                                        for your data, it is important to only identify whether your data is numerical
+                                        or not.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Data distribution</ce:section-title>
+                <ce:section id="s0030">
+                    <ce:section-title id="st0035">Gaussian versus non-Gaussian distributions</ce:section-title>
+                    <ce:para id="p0185">
+                        <ce:list id="l0060">
+                            <ce:list-item id="u0135">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0190">Choosing the right statistical test to compare measurements also
+                                    depends on the distribution of the data.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0140">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0195">There is no need to check the distribution of the data when dealing
+                                    with nominal or ordinal variables.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0145">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0200">The distribution of the data should only be checked for interval or
+                                    ratio variables.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0150">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0205">Statistical tests based upon the assumption that the data are
+                                    sampled from a Gaussian (or normal) distribution are referred to as parametric
+                                    tests. Some parametric tests also assume that the variance (or standard deviation)
+                                    is equal in all groups being compared.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0155">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0210">Statistical tests that do not assume that the data follow a Gaussian
+                                    distribution are referred to as non-parametric tests.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0160">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0215">Commonly used non-parametric tests involve ranking the outcome
+                                    variable values from low to high and then analysing the distribution of the ranks.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0035">
+                    <ce:section-title id="st0040">When to choose a non-parametric test</ce:section-title>
+                    <ce:para id="p0220">
+                        <ce:list id="l0065">
+                            <ce:list-item id="u0165">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0225">Formal statistical tests, such as the D'Agostino–Pearson test or the
+                                    Kolmogorov–Smirnov test, are frequently used to check the distribution of the data.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0170">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0230">The null hypothesis of these tests (known as normality tests) state
+                                    that the data are taken from a population that follows a Gaussian (normal)
+                                    distribution.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0175">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0235">If the<ce:italic>P</ce:italic>-value is low, demonstrating that the
+                                    data do not follow a Gaussian distribution, a non-parametric test is usually chosen.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0180">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0240">However, normality tests should not be used to automatically decide
+                                    whether to use a non-parametric test or not.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0185">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0245">While the normality test can assist you in making your decision, the
+                                    following considerations should also be made:
+                                    <ce:list id="l0070">
+                                        <ce:list-item id="u0190">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0250">If your data do not follow a Gaussian distribution (i.e.
+                                                the distribution is skewed), consider transforming the data, perhaps
+                                                using reciprocals or logarithms, to convert non-Gaussian data to a
+                                                Gaussian distribution (discussed in<ce:intra-ref
+                                                        xlink:href="pii:B978-0-7234-3869-4.00002-1" id="ia0040">Chapter
+                                                    2</ce:intra-ref>). The data can subsequently be analysed using a
+                                                parametric statistical test.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0195">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0255">The results from a single normality test should be
+                                                interpreted in context. This is usually an issue if additional data from
+                                                another experiment need to be analysed in the same way. Consequently,
+                                                you cannot rely on the results from a single normality test.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0200">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0260">Whether or not to choose a non-parametric test matters
+                                                the most when the samples are small.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0205">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0265">On some occasions, you may decide to use a non-parametric test if,
+                                    in addition to the data not having a Gaussian distribution, the variances are not
+                                    equal between the groups being compared. Considering skewness and differences in
+                                    variances often coexist, correcting for one (e.g. by transforming the data) may also
+                                    correct the other! However, some parametric tests can still be used if they are
+                                    adjusted to take account of these unequal variances.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0040">
+                    <ce:section-title id="st0045">Sample size matters</ce:section-title>
+                    <ce:para id="p0270">
+                        <ce:list id="l0075">
+                            <ce:list-item id="u0210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0275">When the sample size is small (i.e.
+                                    <ce:italic>n</ce:italic>
+                                    &lt; 15):
+                                    <ce:list id="l0080">
+                                        <ce:list-item id="u0215">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0280">parametric tests are not very robust when analysing data
+                                                that do not follow a Gaussian distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0220">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0285">non-parametric tests have little power to detect a
+                                                significant difference when analysing data that follow a Gaussian
+                                                distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0225">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0290">you are likely to get a high<ce:italic>P</ce:italic>
+                                                -value when using a non-parametric test to analyse data that follow a
+                                                Gaussian distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0230">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0295">normality tests have little power to detect whether a
+                                                sample comes from a Gaussian distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0300">When the sample size is large (i.e.
+                                    <ce:italic>n</ce:italic>
+                                    <ce:hsp sp="0.12"/>&gt;<ce:hsp sp="0.12"/>100):
+                                    <ce:list id="l0085">
+                                        <ce:list-item id="u0240">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0305">parametric tests are robust when analysing data that do
+                                                not follow a Gaussian distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0245">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0310">non-parametric tests almost have as much power as
+                                                parametric tests when analysing data that follow a Gaussian
+                                                distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0250">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0315">normality tests have high power to detect whether or not
+                                                a sample comes from a Gaussian distribution.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0255">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0320">
+                                    <ce:cross-ref refid="f0010">Figure 15.1</ce:cross-ref>
+                                    <ce:float-anchor refid="f0010"/>
+                                    summarises the implications of sample size when interpreting the results of
+                                    parametric, non-parametric and normality tests.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0020">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0325">When dealing with large sample sizes, the decision to choose
+                                            a parametric or non-parametric test matters less.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                        <ce:display>
+                            <ce:textbox role="alt2" id="b0025">
+                                <ce:textbox-head>
+                                    <ce:title>Data analysis</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0330">You can access online calculators, which will assist you in
+                                            calculating a number of the statistical tests outlined in this chapter.
+                                            GraphPad have an online version of their statistical package that can be
+                                            accessed at
+                                            <ce:inter-ref xlink:href="http://www.graphpad.com/quickcalcs/" id="ir0010">
+                                                http://www.graphpad.com/quickcalcs/
+                                            </ce:inter-ref>
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0045">
+            <ce:section-title id="st0050">COMPARISON OF ONE GROUP TO A HYPOTHETICAL VALUE</ce:section-title>
+            <ce:para id="p0335">When the primary aim of your analysis is to compare one group to a hypothetical value,
+                the flowchart in
+                <ce:cross-ref refid="f0015">Fig. 15.2</ce:cross-ref>
+                <ce:float-anchor refid="f0015"/>
+                should be followed to identify the most suitable statistical test for your data.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0050">
+            <ce:section-title id="st0055">COMPARISON OF TWO GROUPS</ce:section-title>
+            <ce:para id="p0340">When the primary aim of your analysis is to compare two groups, the flowchart in
+                <ce:cross-ref refid="f0020">Fig. 15.3</ce:cross-ref>
+                <ce:float-anchor refid="f0020"/>
+                should be followed to identify the most suitable statistical test for your data.
+            </ce:para>
+            <ce:section id="s0055">
+                <ce:section-title id="st0060">Chi-squared test and Fisher's exact test</ce:section-title>
+                <ce:para id="p0345">
+                    <ce:list id="l0090">
+                        <ce:list-item id="u0260">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0350">The chi-squared test and Fisher's exact test compare the proportions of
+                                outcomes in different groups. In other words, they test for an association between two
+                                categorical variables.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0265">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0355">The data are obtained, initially, as ‘observed’ frequencies; i.e. the
+                                numbers with and without the outcome in each of the two groups (exposed and unexposed)
+                                being compared.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0270">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0360">These frequencies can be entered into a contingency table. If the table
+                                has two rows and two columns, it is known as a 2<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>2
+                                contingency table (
+                                <ce:cross-ref refid="f0025">Fig. 15.4</ce:cross-ref>
+                                <ce:float-anchor refid="f0025"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0275">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0365">For an example of a contingency table used as part of a study, please
+                                refer to<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00008-2#f0050" id="ia9000">Fig.
+                                    8.9</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0280">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0370">We can subsequently calculate the frequency that we would expect in each
+                                of the four cells of the contingency table if the null hypothesis were true. These are
+                                known as the ‘expected’ (‘E’) frequencies (
+                                <ce:cross-ref refid="f0030">Fig. 15.5</ce:cross-ref>
+                                <ce:float-anchor refid="f0030"/>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0060">
+            <ce:section-title id="st0065">COMPARISON OF THREE OR MORE GROUPS</ce:section-title>
+            <ce:para id="p0375">When the primary aim of your analysis is to compare three or more groups, the flowchart
+                in
+                <ce:cross-ref refid="f0035">Fig. 15.6</ce:cross-ref>
+                <ce:float-anchor refid="f0035"/>
+                should be followed to identify the most suitable statistical test for your data.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0065">
+            <ce:section-title id="st0070">MEASURES OF ASSOCIATION</ce:section-title>
+            <ce:para id="p0380">When the primary aim of your analysis is to quantify the association between two
+                variables, the flowchart in
+                <ce:cross-ref refid="f0040">Fig. 15.7</ce:cross-ref>
+                <ce:float-anchor refid="f0040"/>
+                should be followed to identify the most suitable statistical test for your data.
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

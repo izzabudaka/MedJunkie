@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11005820" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 70-year-old woman is admitted to the Orthopaedic ward for elective arthroplasty. Her blood results reveal a potassium level of 6.7 mmol/l (normal range 3.3–4.7 mmol/l). An ECG is performed by the doctor on call, which shows flattening of the P waves, tall tented T waves and wide QRS.</p>
+        <p>What is the most appropriate immediate management while more senior help is awaited?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Calcium gluconate IV (10 ml of 10% solution)</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Calcium resonium p.o. or p.r.</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Dextrose IV (50 ml of 50% dextrose) and insulin (5 U Actrapid)</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Haemodialysis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        Inhaled beta
+        <sub>2</sub>
+        agonist, e.g. salbutamol
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      As ECG changes suggestive of hyperkalaemia are present, calcium gluconate must be administered to stabilize the conductive membranes of the myocardium. This is the single life-saving treatment measure. Thereafter and under the supervision of a senior doctor, definitive treatment should be provided to lower the potassium level.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Calcium resonium is only used as maintenance therapy to keep potassium levels low after emergency treatment.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      A valid emergency treatment to drive potassium into cells, dextrose and insulin should be administered only once cardioprotective calcium gluconate has been initiated.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Dialysis is the definitive treatment for refractory hyperkalaemia. However, it takes time to set up emergency dialysis and initial cardioprotective measures are indicated immediately.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A valid emergency treatment to drive potassium into cells, an inhaled beta
+      <sub>2</sub>
+      agonist should be administered only once cardioprotective calcium gluconate has been initiated.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      As ECG changes suggestive of hyperkalaemia are present, calcium gluconate must be administered to stabilize the conductive membranes of the myocardium. This is the single life-saving treatment measure. Thereafter and under the supervision of a senior doctor, definitive treatment should be provided to lower the potassium level.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Calcium resonium is only used as maintenance therapy to keep potassium levels low after emergency treatment.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      A valid emergency treatment to drive potassium into cells, dextrose and insulin should be administered only once cardioprotective calcium gluconate has been initiated.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Dialysis is the definitive treatment for refractory hyperkalaemia. However, it takes time to set up emergency dialysis and initial cardioprotective measures are indicated immediately.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A valid emergency treatment to drive potassium into cells, an inhaled beta
+      <sub>2</sub>
+      agonist should be administered only once cardioprotective calcium gluconate has been initiated.
+    </p>
+  </modalFeedback>
+</assessmentItem>

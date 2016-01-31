@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10953210" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Iron is essential for many metabolic processes, especially for the oxygen-carrying capacity of haemoglobin.</p>
+        <p>Which one of the following is a consequence of iron deficiency?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Microcytic normochromic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Normocytic normochromic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Macrocytic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Microcytic hypochromic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Macrocytic hypochromic anaemia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Microcytic hypochromic anaemia) is Correct.</b>
+      Iron deficiency anaemia can occur with dietary deficiency, increased demand or excessive blood loss, and results in a microcytic hypochromic anaemia.
+      <br/>
+      <br/>
+      <b>Option A (Microcytic normochromic anaemia) is Incorrect.</b>
+      Normocytic anaemias are associated with renal failure.
+      <br/>
+      <br/>
+      <b>Option B (Normocytic normochromic anaemia) is Incorrect.</b>
+      Normocytic normochromic anaemia is associated with acute blood loss or chronic disease.
+      <br/>
+      <br/>
+      <b>Option C (Macrocytic anaemia) is Incorrect.</b>
+      Macrocytic anaemia is associated with vitamin B deficiency: folate and B
+      <sub>12</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option E (Macrocytic hypochromic anaemia) is Incorrect.</b>
+      Macrocytic hypochromic anaemia may be due to marrow failure.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Microcytic hypochromic anaemia) is Correct.</b>
+      Iron deficiency anaemia can occur with dietary deficiency, increased demand or excessive blood loss, and results in a microcytic hypochromic anaemia.
+      <br/>
+      <br/>
+      <b>Option A (Microcytic normochromic anaemia) is Incorrect.</b>
+      Normocytic anaemias are associated with renal failure.
+      <br/>
+      <br/>
+      <b>Option B (Normocytic normochromic anaemia) is Incorrect.</b>
+      Normocytic normochromic anaemia is associated with acute blood loss or chronic disease.
+      <br/>
+      <br/>
+      <b>Option C (Macrocytic anaemia) is Incorrect.</b>
+      Macrocytic anaemia is associated with vitamin B deficiency: folate and B
+      <sub>12</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option E (Macrocytic hypochromic anaemia) is Incorrect.</b>
+      Macrocytic hypochromic anaemia may be due to marrow failure.
+    </p>
+  </modalFeedback>
+</assessmentItem>

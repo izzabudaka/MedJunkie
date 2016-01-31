@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10960322" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          An 87-year-old woman is seen in the Haematology clinic with chronic anaemia. She is found to have a sensory ataxia and loss of vibration sense. Investigations lead to a diagnosis of vitamin B
+          <sub>12</sub>
+          deficiency from pernicious anaemia causing subacute combined degeneration of the cord.
+        </p>
+        <p>Which one of the following pathways/tracts is responsible for this?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Dorsal column-medial lemniscus pathway</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Trigeminal lemniscus pathway</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Anterolateral spinothalamic pathway</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Vestibulospinal tract</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Spinocerebellar tract</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Dorsal column-medial lemniscus pathway) is Correct.</b>
+      Vitamin B
+      <sub>12</sub>
+      deficiency caused by pernicious anaemia or severe malnutrition can lead to subacute combined degeneration of the spinal cord in which loss of dorsal column functions is accompanied by peripheral neuropathy, with associated loss of sensation, pain and poor muscle control.
+      <br/>
+      <br/>
+      <b>Option B (Trigeminal lemniscus pathway) is Incorrect.</b>
+      This is responsible for mechanoreceptors serving the face and anterior regions of the head.
+      <br/>
+      <br/>
+      <b>Option C (Anterolateral spinothalamic pathway) is Incorrect.</b>
+      This is responsible for temperature and pain sensation.
+      <br/>
+      <br/>
+      <b>Option D (Vestibulospinal tract) is Incorrect.</b>
+      This is involved in balance.
+      <br/>
+      <br/>
+      <b>Option E (Spinocerebellar tract) is Incorrect.</b>
+      This is involved in balance.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Dorsal column-medial lemniscus pathway) is Correct.</b>
+      Vitamin B
+      <sub>12</sub>
+      deficiency caused by pernicious anaemia or severe malnutrition can lead to subacute combined degeneration of the spinal cord in which loss of dorsal column functions is accompanied by peripheral neuropathy, with associated loss of sensation, pain and poor muscle control.
+      <br/>
+      <br/>
+      <b>Option B (Trigeminal lemniscus pathway) is Incorrect.</b>
+      This is responsible for mechanoreceptors serving the face and anterior regions of the head.
+      <br/>
+      <br/>
+      <b>Option C (Anterolateral spinothalamic pathway) is Incorrect.</b>
+      This is responsible for temperature and pain sensation.
+      <br/>
+      <br/>
+      <b>Option D (Vestibulospinal tract) is Incorrect.</b>
+      This is involved in balance.
+      <br/>
+      <br/>
+      <b>Option E (Spinocerebellar tract) is Incorrect.</b>
+      This is involved in balance.
+    </p>
+  </modalFeedback>
+</assessmentItem>

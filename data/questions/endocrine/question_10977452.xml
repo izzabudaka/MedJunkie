@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10977452" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              <p>A 36-year-old woman is started on trimethoprim for a urinary tract infection. Routine blood tests 2 days later reveal the following:</p>
+              <p>Sodium    135 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium        6.4 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea        6.4 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine 125 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 26-year-old woman presents with fatigue and feeling generally out of sorts. On examination she is clinically dehydrated with a postural drop in her blood pressure. Her blood tests are below:</p>
+              <p>Sodium    135 mmol/ L (normal range 135–145 mmol/L)</p>
+              <p>Potassium        6.5 mmol/ L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea        8.4 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine 96 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>An 28-year-old woman is admitted with community acquired pneumonia. On arrival she is tachycardic at 140/min with a blood pressure of 95/60 mmHg. Blood tests show:</p>
+              <p>Sodium    135 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium        7.2 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea        20.2 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine 200 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 25-year-old is admitted with a 2-day history of dry cough and fever. The CXR shows right lower lobe consolidation. Blood tests show:</p>
+              <p>Sodium    145 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium        6.8 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Acute renal failure</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Addison's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Autoimmune haemolytic anaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Familial hyperkalaemic periodic paralysis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Rhabdomyolysis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Tumour lysis syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Type 1 renal tubular acidosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Type 2 renal tubular acidosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Type 4 renal tubular acidosis</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Addison's disease) is Correct.</b>
+      Addison's disease has a strong autoimmune association.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Addison's disease) is Correct.</b>
+      Addison's disease has a strong autoimmune association.
+    </p>
+  </modalFeedback>
+</assessmentItem>

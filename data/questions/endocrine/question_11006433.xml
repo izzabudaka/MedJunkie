@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11006433" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 54-year-old with type 2 diabetes is in recovery immediately after a right total hip replacement for which he had a spinal anaesthetic. He normally takes metformin 500 mg t.i.d. and amlodipine 10 mg OD for high blood pressure. He had been started on sliding scale insulin preoperatively and is due for discharge to the ward.</p>
+        <p>What is the most appropriate management strategy at this point?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Continue sliding scale insulin for next 24 hours</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Convert to SC insulin temporarily</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Give usual medication with next meal</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Keep nil by mouth for next 24 hours</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Omit diabetic medication for 24 hours</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The IV insulin should be discontinued and the patient fed.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This patient no longer needs to be nil by mouth and therefore can be switched back onto diet and his usual medications.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is not required and unnecessarily complex.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is not required.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is inappropriate.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The IV insulin should be discontinued and the patient fed.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This patient no longer needs to be nil by mouth and therefore can be switched back onto diet and his usual medications.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is not required and unnecessarily complex.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is not required.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is inappropriate.
+    </p>
+  </modalFeedback>
+</assessmentItem>

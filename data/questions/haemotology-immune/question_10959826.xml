@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10959826" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Anaemia means deficiency of haemoglobin in the blood, which can be caused by either too few red blood cells or too little haemoglobin in the cells.</p>
+        <p>Which of the following anaemias is characterized by an abnormal type of haemoglobin called haemoglobin S?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Aplastic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Pernicious anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hereditary spherocytosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sickle cell anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Erythroblastosis fetalis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sickle cell anaemia) is Correct.</b>
+      In sickle cell anaemia there is an abnormal haemoglobin due to faulty beta chains in the haemogloblin molecule. When this haemoglobin is exposed to low concentrations of oxygen, it precipitates into long crystals inside the red blood cell. These crystals elongate the cell and give it the appearance of a sickle rather than a biconcave disc.
+      <br/>
+      <br/>
+      <b>Option A (Aplastic anaemia) is Incorrect.</b>
+      Aplastic anaemia is due to a lack of functioning of the bone marrow.
+      <br/>
+      <br/>
+      <b>Option B (Pernicious anaemia) is Incorrect.</b>
+      Pernicious anaemia is characterized by red blood cells that are oversized (macrocytic), have bizarre shapes (peripheral blood contains immature forms (megaloblastic)), and have fragile membranes and is caused by defective absorption of vitamin B
+      <sub>12</sub>
+      due to a lack of intrinsic factor due to atrophy of stomach mucosa.
+      <br/>
+      <br/>
+      <b>Option C (Hereditary spherocytosis) is Incorrect.</b>
+      Hereditary spherocytosis is characterized by dysfunction or deficient skeletal proteins in red blood cell walls. Spectrin deficiency is the commonest defect leading to instability in the red cell cytoskeleton, producing spherocytes.
+      <br/>
+      <br/>
+      <b>Option E (Erythroblastosis fetalis) is Incorrect.</b>
+      Erythroblastosis fetalis is characterized by destruction by maternal antibodies of Rh-positive red blood cells in the fetus of an Rh-negative mother. These antibodies make the Rh-positive cells fragile leading to rapid rupture, causing the child to be born with serious anaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sickle cell anaemia) is Correct.</b>
+      In sickle cell anaemia there is an abnormal haemoglobin due to faulty beta chains in the haemogloblin molecule. When this haemoglobin is exposed to low concentrations of oxygen, it precipitates into long crystals inside the red blood cell. These crystals elongate the cell and give it the appearance of a sickle rather than a biconcave disc.
+      <br/>
+      <br/>
+      <b>Option A (Aplastic anaemia) is Incorrect.</b>
+      Aplastic anaemia is due to a lack of functioning of the bone marrow.
+      <br/>
+      <br/>
+      <b>Option B (Pernicious anaemia) is Incorrect.</b>
+      Pernicious anaemia is characterized by red blood cells that are oversized (macrocytic), have bizarre shapes (peripheral blood contains immature forms (megaloblastic)), and have fragile membranes and is caused by defective absorption of vitamin B
+      <sub>12</sub>
+      due to a lack of intrinsic factor due to atrophy of stomach mucosa.
+      <br/>
+      <br/>
+      <b>Option C (Hereditary spherocytosis) is Incorrect.</b>
+      Hereditary spherocytosis is characterized by dysfunction or deficient skeletal proteins in red blood cell walls. Spectrin deficiency is the commonest defect leading to instability in the red cell cytoskeleton, producing spherocytes.
+      <br/>
+      <br/>
+      <b>Option E (Erythroblastosis fetalis) is Incorrect.</b>
+      Erythroblastosis fetalis is characterized by destruction by maternal antibodies of Rh-positive red blood cells in the fetus of an Rh-negative mother. These antibodies make the Rh-positive cells fragile leading to rapid rupture, causing the child to be born with serious anaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

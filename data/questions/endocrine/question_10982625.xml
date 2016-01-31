@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10982625" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_005</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 19-year-old man presents to the ENT outpatient clinic with a gradually increasing midline neck swelling. On examination, the swelling is 1 × 1 cm, non-tender and immobile. It moves on protrusion of the tongue.</div>
+          </li>
+          <li>
+            <div>A 45-year-old man presents with a long-standing history of a painless swelling under his left ear. On examination, the swelling is 1 × 3 cm, firm, non-tender and not attached to the overlying skin. It extends inferolaterally from the pre-auricular area to under the left ear.</div>
+          </li>
+          <li>
+            <div>A 25-year-old woman presents with a long-standing swelling in her left lower neck and intermittent symptoms of coldness and some paraesthesia in the left hand. On examination, the radial pulse becomes impalpable on abduction of the left arm, and the left hand becomes pale and cold.</div>
+          </li>
+          <li>
+            <div>A 70-year-old man presents with a 2-year history of an intermittent swelling in the left lower neck, behind the sternocleidomastoid muscle. He also complains of the regurgitation of recently eaten food and of halitosis.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>
+          <b>Carotid body tumour</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>
+          <b>Cervical rib</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>
+          <b>Cystic hygroma</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>
+          <b>Goitre</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>
+          <b>Lymphadenopathy</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>
+          <b>Pharyngeal pouch</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>
+          <b>Pleomorphic adenoma</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>
+          <b>Sebaceous cyst</b>
+        </div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>
+          <b>Thyroglossal cyst</b>
+        </div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option F is Correct.</b>
+      A diverticulum of pharyngeal mucosa forms at the upper border of the cricopharyngeus muscle. The pouch fills with recently swallowed food debris, resulting in the intermittent regurgitation of this material. Halitosis results from the action of bacteria on this food debris.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option F is Correct.</b>
+      A diverticulum of pharyngeal mucosa forms at the upper border of the cricopharyngeus muscle. The pouch fills with recently swallowed food debris, resulting in the intermittent regurgitation of this material. Halitosis results from the action of bacteria on this food debris.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10956371" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Blood group antigens are usually found on red cells. There are 26 blood group systems, of which the most important in transfusion medicine are ABO and Rhesus.</p>
+        <p>What antibodies are found in people with blood group O?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Anti-A</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Anti-B</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Anti-O</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Anti-A and anti-B</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">None</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Anti-A and anti-B) is Correct.</b>
+      Anti-A and anti-B antibodies are found in people with blood group O.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>ABO group</b>
+          </td>
+          <td>
+            <b>antibodies in serum</b>
+          </td>
+        </tr>
+        <tr>
+          <td>O</td>
+          <td>anti-A, anti-B</td>
+        </tr>
+        <tr>
+          <td>A</td>
+          <td>anti-B</td>
+        </tr>
+        <tr>
+          <td>B</td>
+          <td>anti-A</td>
+        </tr>
+        <tr>
+          <td>ABO</td>
+          <td>none</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.22 Antibodies found in people with different ABO groups.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Anti-A) is Incorrect.</b>
+      Anti-A antibodies are found in people with blood group B.
+      <br/>
+      <br/>
+      <b>Option B (Anti-B) is Incorrect.</b>
+      Anti-B antibodies are found in people with blood group A.
+      <br/>
+      <br/>
+      <b>Option C (Anti-O) is Incorrect.</b>
+      There is no such antibody as anti-O.
+      <br/>
+      <br/>
+      <b>Option E (None) is Incorrect.</b>
+      No antibodies are found in people with blood group ABO.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Anti-A and anti-B) is Correct.</b>
+      Anti-A and anti-B antibodies are found in people with blood group O.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>ABO group</b>
+          </td>
+          <td>
+            <b>antibodies in serum</b>
+          </td>
+        </tr>
+        <tr>
+          <td>O</td>
+          <td>anti-A, anti-B</td>
+        </tr>
+        <tr>
+          <td>A</td>
+          <td>anti-B</td>
+        </tr>
+        <tr>
+          <td>B</td>
+          <td>anti-A</td>
+        </tr>
+        <tr>
+          <td>ABO</td>
+          <td>none</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.22 Antibodies found in people with different ABO groups.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Anti-A) is Incorrect.</b>
+      Anti-A antibodies are found in people with blood group B.
+      <br/>
+      <br/>
+      <b>Option B (Anti-B) is Incorrect.</b>
+      Anti-B antibodies are found in people with blood group A.
+      <br/>
+      <br/>
+      <b>Option C (Anti-O) is Incorrect.</b>
+      There is no such antibody as anti-O.
+      <br/>
+      <br/>
+      <b>Option E (None) is Incorrect.</b>
+      No antibodies are found in people with blood group ABO.
+    </p>
+  </modalFeedback>
+</assessmentItem>

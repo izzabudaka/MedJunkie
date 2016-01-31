@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10953860" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Myoglobin is a respiratory pigment, similar to haemoglobin.</p>
+        <p>Of the options below, which describes myoglobin?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">It is mainly found in skeletal muscles</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">It can bind up to four oxygen molecules per molecule of myoglobin</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">It has a sigmoid oxygen–haemoglobin dissociation curve</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">It has an oxygen dissociation curve to the right of the haemoglobin curve</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">It can easily deliver oxygen to haemoglobin in the blood</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (It is mainly found in skeletal muscles) is Correct.</b>
+      Myoglobin is mainly found in the skeletal muscle. Its function is to extract oxygen from haemoglobin in the blood and deliver it to the exercising skeletal muscles. Each myoglobin molecule can only bind to one oxygen molecule, and thus has a hyperbolic oxygen–haemoglobin dissociation curve. The oxygen dissociation curve of myoglobin is well to the left of the haemoglobin curve, and it is therefore efficient in extracting oxygen from haemoglobin.
+      <br/>
+      <br/>
+      <b>Option B (It can bind up to four oxygen molecules per molecule of myoglobin) is Incorrect.</b>
+      It can only bind with one oxygen molecule per molecule of myoglobin.
+      <br/>
+      <br/>
+      <b>Option C (It has a sigmoid oxygen–haemoglobin dissociation curve) is Incorrect.</b>
+      It has a hyperbolic curve.
+      <br/>
+      <br/>
+      <b>Option D (It has an oxygen dissociation curve to the right of the haemoglobin curve) is Incorrect.</b>
+      It has an oxygen dissociation curve to the left of the haemoglobin curve.
+      <br/>
+      <br/>
+      <b>Option E (It can easily deliver oxygen to haemoglobin in the blood) is Incorrect.</b>
+      Its function is extracting oxygen from the blood (to the exercising skeletal muscle).
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (It is mainly found in skeletal muscles) is Correct.</b>
+      Myoglobin is mainly found in the skeletal muscle. Its function is to extract oxygen from haemoglobin in the blood and deliver it to the exercising skeletal muscles. Each myoglobin molecule can only bind to one oxygen molecule, and thus has a hyperbolic oxygen–haemoglobin dissociation curve. The oxygen dissociation curve of myoglobin is well to the left of the haemoglobin curve, and it is therefore efficient in extracting oxygen from haemoglobin.
+      <br/>
+      <br/>
+      <b>Option B (It can bind up to four oxygen molecules per molecule of myoglobin) is Incorrect.</b>
+      It can only bind with one oxygen molecule per molecule of myoglobin.
+      <br/>
+      <br/>
+      <b>Option C (It has a sigmoid oxygen–haemoglobin dissociation curve) is Incorrect.</b>
+      It has a hyperbolic curve.
+      <br/>
+      <br/>
+      <b>Option D (It has an oxygen dissociation curve to the right of the haemoglobin curve) is Incorrect.</b>
+      It has an oxygen dissociation curve to the left of the haemoglobin curve.
+      <br/>
+      <br/>
+      <b>Option E (It can easily deliver oxygen to haemoglobin in the blood) is Incorrect.</b>
+      Its function is extracting oxygen from the blood (to the exercising skeletal muscle).
+    </p>
+  </modalFeedback>
+</assessmentItem>

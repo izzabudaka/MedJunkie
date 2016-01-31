@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10952277" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Coagulation disorders may be inherited or acquired, and are the result of deficient or defective functioning of coagulation factors.</p>
+        <p>What is Bernard–Soulier syndrome?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor (vWF)</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Autosomal recessive inherited disorder where there is reduced complex of Gp1b, factor IX, and factor V which serves as a receptor for vWF leading to lack of platelet plug formation</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Autosomal recessive inherited disorder where there is reduced complex of Gp1b, factor IX, and factor V which serves as a receptor for vWF leading to lack of platelet plug formation) is Correct.</b>
+      Bernard–Soulier Syndrome is an autosomal recessive inherited disorder where there is reduced complex of Gp1b, factor IX, and factor V which serves as a receptor for vWF leading to lack of platelet plug formation. Other coagulation disorders include:
+    </p>
+    <ul>
+      <li>Haemophilia A: this is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.</li>
+      <li>Haemophilia B: this is an inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade.</li>
+      <li>Von Willebrand Disease (vWD): this is an autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor (vWF).</li>
+      <li>Glanzmann's thrombasthenia: this is an autosomal recessive inherited disorder associated with an abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation.</li>
+    </ul>
+    <p>
+      <b>Option A (Abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation) is Incorrect.</b>
+      Glanzmann's thrombasthenia is an autosomal recessive inherited disorder associated with an abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor – vWF) is Incorrect.</b>
+      Von Willebrand's disease is an autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor (vWF).
+      <br/>
+      <br/>
+      <b>Option D (Inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade) is Incorrect.</b>
+      Haemophilia A is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.
+      <br/>
+      <br/>
+      <b>Option E (Inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade) is Incorrect.</b>
+      Haemophila B (Christmas disease) is an inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Autosomal recessive inherited disorder where there is reduced complex of Gp1b, factor IX, and factor V which serves as a receptor for vWF leading to lack of platelet plug formation) is Correct.</b>
+      Bernard–Soulier Syndrome is an autosomal recessive inherited disorder where there is reduced complex of Gp1b, factor IX, and factor V which serves as a receptor for vWF leading to lack of platelet plug formation. Other coagulation disorders include:
+    </p>
+    <ul>
+      <li>Haemophilia A: this is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.</li>
+      <li>Haemophilia B: this is an inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade.</li>
+      <li>Von Willebrand Disease (vWD): this is an autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor (vWF).</li>
+      <li>Glanzmann's thrombasthenia: this is an autosomal recessive inherited disorder associated with an abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation.</li>
+    </ul>
+    <p>
+      <b>Option A (Abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation) is Incorrect.</b>
+      Glanzmann's thrombasthenia is an autosomal recessive inherited disorder associated with an abnormality in platelet Gp IIb-IIIa interaction preventing platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor – vWF) is Incorrect.</b>
+      Von Willebrand's disease is an autosomal dominant inherited disorder (although some forms are recessive) associated with a deficiency in circulating von Willebrand factor (vWF).
+      <br/>
+      <br/>
+      <b>Option D (Inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade) is Incorrect.</b>
+      Haemophilia A is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.
+      <br/>
+      <br/>
+      <b>Option E (Inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade) is Incorrect.</b>
+      Haemophila B (Christmas disease) is an inherited X-linked disorder where mutations within the factor IX gene lead to defective function of the factor IX molecule in the coagulation cascade.
+    </p>
+  </modalFeedback>
+</assessmentItem>

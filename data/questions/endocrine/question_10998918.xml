@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10998918" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 45-year-old man presents with weakness in his upper and lower limbs and complains that his vision has changed in the last 7 days. His wife feels that his face has changed too and seems coarse. On further discussion he has had to buy large shoes. There is no previous medical history. On examination he has large hands and feet. There is muscle wasting proximally and weakness.</p>
+        <p>What is the cause of his proximal myopathy?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Acromegaly</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Cushing's disease</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Diabetes mellitus</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Hyperthyroidism</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Motor neuron disease</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acromegaly) is Correct.</b>
+      A pituitary adenoma is the primary cause of acromegaly. It can present with headaches and peripheral visual field disturbance (due to optic chiasma compression).
+    </p>
+    <p>
+      <b>Option B (Cushing's disease) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option D (Hyperthyroidism) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option E (Motor neuron disease) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acromegaly) is Correct.</b>
+      A pituitary adenoma is the primary cause of acromegaly. It can present with headaches and peripheral visual field disturbance (due to optic chiasma compression).
+    </p>
+    <p>
+      <b>Option B (Cushing's disease) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option D (Hyperthyroidism) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+    <p>
+      <b>Option E (Motor neuron disease) is Incorrect.</b>
+      There are no features of this disease present.
+    </p>
+  </modalFeedback>
+</assessmentItem>

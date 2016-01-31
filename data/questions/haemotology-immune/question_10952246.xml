@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10952246" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          DNA synthesis is impaired in megaloblastic anaemias. The metabolic pathway for DNA replication involves both vitamins B
+          <sub>12</sub>
+          (cobalamin, Cbl) and folate.
+        </p>
+        <p>In which of the following organs is cobalamin released?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Stomach</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Duodenum</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Jejunum</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Ileum</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Liver</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Stomach) is Correct.</b>
+      Cobalamin is released from food in the stomach.
+    </p>
+    <ul>
+      <li>In the stomach Cbl is released from non-specific binding proteins due to the acid environment.</li>
+      <li>Cbl then binds to pepsin-resistant R protein.</li>
+      <li>
+        In the duodenum trypsin digests the R protein and vitamin B
+        <sub>12</sub>
+        is then bound to intrinsic factor (IF), which is produced by gastric parietal cells.
+      </li>
+      <li>Once it reaches the terminal ileum, the cobalamin-IF complex binds to a receptor, named ‘cubulin’ after the CUB domains that make up most of the protein. A CUB domain is a highly conserved sequence consisting of 110 amino acid residues and found in many regulatory proteins, but in a particularly high concentration in this protein.</li>
+      <li>
+        Cbl dissociates from IF and the Cbl is transported by transcobalamin II (TC II), which carries the B
+        <sub>12</sub>
+        into the portal circulation.
+      </li>
+      <li>Transcobalamin II binds to specific receptors on the cell surface and is internalized. Then Cbl is released and the transport protein is degraded by cellular enzymes. Within the liver cell, Cbl acts as a coenzyme in the complex pathway leading to DNA synthesis.</li>
+    </ul>
+    <p>
+      <b>Option B (Duodenum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option C (Jejunum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option D (Ileum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option E (Liver) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Stomach) is Correct.</b>
+      Cobalamin is released from food in the stomach.
+    </p>
+    <ul>
+      <li>In the stomach Cbl is released from non-specific binding proteins due to the acid environment.</li>
+      <li>Cbl then binds to pepsin-resistant R protein.</li>
+      <li>
+        In the duodenum trypsin digests the R protein and vitamin B
+        <sub>12</sub>
+        is then bound to intrinsic factor (IF), which is produced by gastric parietal cells.
+      </li>
+      <li>Once it reaches the terminal ileum, the cobalamin-IF complex binds to a receptor, named ‘cubulin’ after the CUB domains that make up most of the protein. A CUB domain is a highly conserved sequence consisting of 110 amino acid residues and found in many regulatory proteins, but in a particularly high concentration in this protein.</li>
+      <li>
+        Cbl dissociates from IF and the Cbl is transported by transcobalamin II (TC II), which carries the B
+        <sub>12</sub>
+        into the portal circulation.
+      </li>
+      <li>Transcobalamin II binds to specific receptors on the cell surface and is internalized. Then Cbl is released and the transport protein is degraded by cellular enzymes. Within the liver cell, Cbl acts as a coenzyme in the complex pathway leading to DNA synthesis.</li>
+    </ul>
+    <p>
+      <b>Option B (Duodenum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option C (Jejunum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option D (Ileum) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+    <p>
+      <b>Option E (Liver) is Incorrect.</b>
+      Cobalamin is released in the stomach.
+    </p>
+  </modalFeedback>
+</assessmentItem>

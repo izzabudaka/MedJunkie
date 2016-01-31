@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10969780" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Athletes are known to cheat by injecting synthetic erythropoietin (EPO) to stimulate red cell production in order to increase blood oxygen-carrying capacity. This increases the haematocrit, leading to polycythaemia.</p>
+        <p>What are the potential clinical risks of polycythaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Increased core body temperature leads to dehydration</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Decreased ventilation leads to respiratory acidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Decreased core body temperature leads to multi-organ failure</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Increased number of red cells and viscosity of the blood lead to a danger of blood clots, strokes and heart failure</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Decreased number of white blood cells leads to a lethal immunocompromised state</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Increased number of red cells and viscosity of the blood lead to a danger of blood clots, strokes and heart failure) is Correct.</b>
+      Anything that either increases the number of red cells, a condition called polycythaemia, or decreases the plasma volume will increase the viscosity of the blood. If the haematocrit rises to 0.70, then the viscosity more than doubles. The blood becomes stickier and harder to move, and there is a danger of blood clots, strokes and heart failure.
+      <br/>
+      <br/>
+      <b>Option A (Increased core body temperature leads to dehydration) is Incorrect.</b>
+      Increased core body temperature and dehydration are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option B (Decreased ventilation leads to respiratory acidosis) is Incorrect.</b>
+      Decreased ventilation and respiratory acidosis are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option C (Decreased core body temperature leads to multi-organ failure) is Incorrect.</b>
+      Decreased core body temperature and multi-organ failure are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option E (Decreased number of white blood cells leads to a lethal immunocompromised state) is Incorrect.</b>
+      Decreased number of white blood cells and a lethal immunocompromised state are unrelated to polycythaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Increased number of red cells and viscosity of the blood lead to a danger of blood clots, strokes and heart failure) is Correct.</b>
+      Anything that either increases the number of red cells, a condition called polycythaemia, or decreases the plasma volume will increase the viscosity of the blood. If the haematocrit rises to 0.70, then the viscosity more than doubles. The blood becomes stickier and harder to move, and there is a danger of blood clots, strokes and heart failure.
+      <br/>
+      <br/>
+      <b>Option A (Increased core body temperature leads to dehydration) is Incorrect.</b>
+      Increased core body temperature and dehydration are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option B (Decreased ventilation leads to respiratory acidosis) is Incorrect.</b>
+      Decreased ventilation and respiratory acidosis are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option C (Decreased core body temperature leads to multi-organ failure) is Incorrect.</b>
+      Decreased core body temperature and multi-organ failure are unrelated to polycythaemia.
+      <br/>
+      <br/>
+      <b>Option E (Decreased number of white blood cells leads to a lethal immunocompromised state) is Incorrect.</b>
+      Decreased number of white blood cells and a lethal immunocompromised state are unrelated to polycythaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

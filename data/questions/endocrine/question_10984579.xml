@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10984579" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              <p>A 47-year-old woman presents with a history of recurrent headaches and gradual loss of vision over 7 months. She has lost weight despite a good appetite and has a 3-month history of diarrhoea. On examination there is bitemporal hemianopia, tremor and hyperreflexia. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.0 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 200 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Sodium: 134 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.5 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 5.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 80 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>
+                Tri-iodothyronine (T
+                <sub>3</sub>
+                ): 4.8 nmol/L (normal range 0.9–2.4 nmol/L)
+              </p>
+              <p>
+                Free thyroxine (free T
+                <sub>4</sub>
+                ): 41 pmol/L (normal range 9–21 pmol/L)
+              </p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 24-year-old man is involved in a road traffic accident and sustains a head injury. He is making a slow recovery and now presents to his GP because he feels thirsty all the time. There has been an increase in his micturition frequency since the accident. Clinical examination is unremarkable. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13.3 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.4 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 212 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Sodium: 154 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.5 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 13.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 130 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 25-year-old woman who is 14 months post partum presents to her GP complaining of weight gain, amenorrhoea and fatigue. She had a complicated delivery requiring a 3 unit blood transfusion. She was unable to breast feed. On examination she has dry skin and breast atrophy. Her pulse is 80 beats/min, blood pressure 90/60 mmHg, oxygen saturations 98% on air, respiration rate 14 breaths/min. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 12.8 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.9 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 240 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Sodium: 124 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.5 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 10.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 100 μmol/L (normal range 60–120 μmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>A 60-year-old man presents with increasing skin pigmentation, headache and diplopia. In his past medical history he has Cushing's syndrome and underwent a bilateral adrenalectomy. On examination there is an increase in pigmentation of the skin and oral mucosa. Ocular examination reveals an inability to abduct the left eye. An MRI scan demonstrates a sella turcica mass invading the left cavernous sinus.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Acromegaly</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Craniopharyngioma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Cushing's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Diabetes insipidus</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Kallman's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Lactotroph adenoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Nelson's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Sheehan's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Syndrome of inappropriate antidiuretic hormone secretion</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Thyrotroph adenoma</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Diabetes insipidus) is Correct.</b>
+      Cranial diabetes insipidus is caused by head injury, infection (meningitis or abscess), cerebrovascular accident or malignancy. There is a high plasma osmolality and low urine osmolality due to impaired vasopressin secretion from the posterior pituitary. A water deprivation test is used to investigate disease presence.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Diabetes insipidus) is Correct.</b>
+      Cranial diabetes insipidus is caused by head injury, infection (meningitis or abscess), cerebrovascular accident or malignancy. There is a high plasma osmolality and low urine osmolality due to impaired vasopressin secretion from the posterior pituitary. A water deprivation test is used to investigate disease presence.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10971713" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Coagulation disorders may be inherited or acquired, and are the result of deficient or defective functioning of coagulation factors.</p>
+        <p>What coagulation factor is deficient in haemophilia A?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">von Willebrand factor</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Factor V</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Factor VII</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Factor VIII</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Factor IX</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Factor VIII) is Correct.</b>
+      Haemophilia A is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.
+      <br/>
+      <br/>
+      <b>Option A (von Willebrand factor) is Incorrect.</b>
+      Von Willebrand factor is deficient in von Willebrand's disease.
+      <br/>
+      <br/>
+      <b>Option B (Factor V) is Incorrect.</b>
+      Factor V is a cofactor that is deficient in parahaemophilia (Owren parahaemophilia).
+      <br/>
+      <br/>
+      <b>Option C (Factor VII) is Incorrect.</b>
+      A factor VII deficiency causes a mild, haemophilia-like disorder.
+      <br/>
+      <br/>
+      <b>Option E (Factor IX) is Incorrect.</b>
+      Factor IX is deficient in Christmas disease (haemophilia B).
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Factor VIII) is Correct.</b>
+      Haemophilia A is an inherited X-linked disorder where mutations within the factor VIII gene lead to defective function of the factor VIII-C molecule in the coagulation cascade.
+      <br/>
+      <br/>
+      <b>Option A (von Willebrand factor) is Incorrect.</b>
+      Von Willebrand factor is deficient in von Willebrand's disease.
+      <br/>
+      <br/>
+      <b>Option B (Factor V) is Incorrect.</b>
+      Factor V is a cofactor that is deficient in parahaemophilia (Owren parahaemophilia).
+      <br/>
+      <br/>
+      <b>Option C (Factor VII) is Incorrect.</b>
+      A factor VII deficiency causes a mild, haemophilia-like disorder.
+      <br/>
+      <br/>
+      <b>Option E (Factor IX) is Incorrect.</b>
+      Factor IX is deficient in Christmas disease (haemophilia B).
+    </p>
+  </modalFeedback>
+</assessmentItem>

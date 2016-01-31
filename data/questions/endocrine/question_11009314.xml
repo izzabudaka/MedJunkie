@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11009314" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 55-year-old man with generalized weakness in his limbs complains of difficulty swallowing. He has lost 12 lb in weight over the last 8 months. There is no previous medical history. On examination there is muscle wasting proximally, weakness and fasciculation. Haematological investigation is normal.</p>
+        <p>What is the cause of his proximal myopathy?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Alcoholic myopathy</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Cushing's disease</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Diabetes mellitus</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Hyperthyroidism</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Motor neuron disease</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Motor neuron disease) is Correct.</b>
+      He has both upper and lower motor neuron signs. There is no sensory deficit. Difficulty in swallowing implies brainstem nuclei involvement.
+    </p>
+    <p>
+      <b>Option A (Alcoholic myopathy) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option B (Cushing's disease) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option D (Hyperthyroidism) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Motor neuron disease) is Correct.</b>
+      He has both upper and lower motor neuron signs. There is no sensory deficit. Difficulty in swallowing implies brainstem nuclei involvement.
+    </p>
+    <p>
+      <b>Option A (Alcoholic myopathy) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option B (Cushing's disease) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option D (Hyperthyroidism) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+  </modalFeedback>
+</assessmentItem>

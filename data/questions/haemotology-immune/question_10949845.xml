@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10949845" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A healthy young couple attend for preconception genetic counselling. They are concerned because the woman's father died of haemophilia A. Her mother and older brother are healthy. Her paternal uncle has also been diagnosed with the disease. There is no history of relevance in the partner's family.</p>
+        <p>If the couple have a son, what is the likelihood that he will have haemophilia A?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">100%</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">75%</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">50%</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">25%</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">5%</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (50%) is Correct.</b>
+      Haemophilia A is an X-linked recessive condition and only males will be significantly affected. The woman is an obligate carrier as her father would have passed her his abnormal X chromosome, carrying a mutation in the gene for factor VIII. Her brother will have inherited the normal Y chromosome so is not affected. As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option A (100%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option B (75%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option D (25%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option E (5%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (50%) is Correct.</b>
+      Haemophilia A is an X-linked recessive condition and only males will be significantly affected. The woman is an obligate carrier as her father would have passed her his abnormal X chromosome, carrying a mutation in the gene for factor VIII. Her brother will have inherited the normal Y chromosome so is not affected. As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option A (100%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option B (75%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option D (25%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+      <br/>
+      <br/>
+      <b>Option E (5%) is Incorrect.</b>
+      As the woman is a carrier, with one normal and one affected X chromosome, her son will have a 50% chance of receiving the faulty X chromosome.
+    </p>
+  </modalFeedback>
+</assessmentItem>

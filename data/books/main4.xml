@@ -1,0 +1,2938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0010" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3864-9.00002-2</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3864-9.00002-2</ce:doi>
+        <ce:isbn>978-0-7234-3864-9</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 2.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010">Common ‘spot diagnoses’.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-01-9780723436331" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 2.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0025">Causes of palmar erythema.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-02-9780723436331" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 2.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0030">Causes of hypoalbuminaemia.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-03-9780723436331" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 2.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0035">Causes of clubbing.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-04-9780723436331" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 2.5</ce:label>
+            <ce:caption id="ca0030">
+                <ce:simple-para id="sp0040">Causes of a collapsing pulse.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-05-9780723436331" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 2.6</ce:label>
+            <ce:caption id="ca0035">
+                <ce:simple-para id="sp0045">Differences between jugular venous pressure and carotid pulsation.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-06-9780723436331" id="lk0035"/>
+        </ce:figure>
+        <ce:figure id="f0040">
+            <ce:label>Fig. 2.7</ce:label>
+            <ce:caption id="ca0040">
+                <ce:simple-para id="sp0050">Causes of a raised jugular venous pressure.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-07-9780723436331" id="lk0040"/>
+        </ce:figure>
+        <ce:figure id="f0045">
+            <ce:label>Fig. 2.8</ce:label>
+            <ce:caption id="ca0045">
+                <ce:simple-para id="sp0055">Abnormalities of jugular venous waveform.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-08-9780723436331" id="lk0045"/>
+        </ce:figure>
+        <ce:figure id="f0050">
+            <ce:label>Fig. 2.9</ce:label>
+            <ce:caption id="ca0050">
+                <ce:simple-para id="sp0065">Positions of auscultation of the cardiac valves.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-09-9780723436331" id="lk0050"/>
+        </ce:figure>
+        <ce:figure id="f0055">
+            <ce:label>Fig. 2.10</ce:label>
+            <ce:caption id="ca0055">
+                <ce:simple-para id="sp0070">Causes of tracheal deviation.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-10-9780723436331" id="lk0055"/>
+        </ce:figure>
+        <ce:figure id="f0060">
+            <ce:label>Fig. 2.11</ce:label>
+            <ce:caption id="ca0060">
+                <ce:simple-para id="sp0075">Findings on clinical examination of common respiratory diseases.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-11-9780723436331" id="lk0060"/>
+        </ce:figure>
+        <ce:figure id="f0065">
+            <ce:label>Fig. 2.12</ce:label>
+            <ce:caption id="ca0065">
+                <ce:simple-para id="sp0085">Causes of generalized abdominal swelling.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-12-9780723436331" id="lk0065"/>
+        </ce:figure>
+        <ce:figure id="f0070">
+            <ce:label>Fig. 2.13</ce:label>
+            <ce:caption id="ca0070">
+                <ce:simple-para id="sp0090">Features to determine for any mass.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-13-9780723436331" id="lk0070"/>
+        </ce:figure>
+        <ce:figure id="f0075">
+            <ce:label>Fig. 2.14</ce:label>
+            <ce:caption id="ca0080">
+                <ce:simple-para id="sp0100">Causes of hepatomegaly.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-14-9780723436331" id="lk0075"/>
+        </ce:figure>
+        <ce:figure id="f0080">
+            <ce:label>Fig. 2.15</ce:label>
+            <ce:caption id="ca0085">
+                <ce:simple-para id="sp0110">Causes of unilateral and bilateral palpable kidneys.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-15-9780723436331" id="lk0080"/>
+        </ce:figure>
+        <ce:figure id="f0085">
+            <ce:label>Fig. 2.16</ce:label>
+            <ce:caption id="ca0090">
+                <ce:simple-para id="sp0115">Causes of ascites.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-16-9780723436331" id="lk0085"/>
+        </ce:figure>
+        <ce:figure id="f0090">
+            <ce:label>Fig. 2.17</ce:label>
+            <ce:caption id="ca0095">
+                <ce:simple-para id="sp0120">Causes of ileus.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-17-9780723436331" id="lk0090"/>
+        </ce:figure>
+        <ce:figure id="f0095">
+            <ce:label>Fig. 2.18</ce:label>
+            <ce:caption id="ca0100">
+                <ce:simple-para id="sp0125">Causes of lower limb oedema.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-18-9780723436331" id="lk0095"/>
+        </ce:figure>
+        <ce:figure id="f0100">
+            <ce:label>Fig. 2.19</ce:label>
+            <ce:caption id="ca0105">
+                <ce:simple-para id="sp0130">Visual field defects.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-19-9780723436331" id="lk0100"/>
+        </ce:figure>
+        <ce:figure id="f0105">
+            <ce:label>Fig. 2.20</ce:label>
+            <ce:caption id="ca0110">
+                <ce:simple-para id="sp0135">Causes of papilloedema.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-20-9780723436331" id="lk0105"/>
+        </ce:figure>
+        <ce:figure id="f0110">
+            <ce:label>Fig. 2.21</ce:label>
+            <ce:caption id="ca0115">
+                <ce:simple-para id="sp0140">Causes of optic atrophy.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-21-9780723436331" id="lk0110"/>
+        </ce:figure>
+        <ce:figure id="f0115">
+            <ce:label>Fig. 2.22</ce:label>
+            <ce:caption id="ca0120">
+                <ce:simple-para id="sp0145">Stages of diabetic retinopathy.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-22-9780723436331" id="lk0115"/>
+        </ce:figure>
+        <ce:figure id="f0120">
+            <ce:label>Fig. 2.23</ce:label>
+            <ce:caption id="ca0125">
+                <ce:simple-para id="sp0160">Causes of a trigeminal nerve lesion.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-23-9780723436331" id="lk0120"/>
+        </ce:figure>
+        <ce:figure id="f0125">
+            <ce:label>Fig. 2.24</ce:label>
+            <ce:caption id="ca0130">
+                <ce:simple-para id="sp0165">Causes of facial nerve palsies.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-24-9780723436331" id="lk0125"/>
+        </ce:figure>
+        <ce:figure id="f0130">
+            <ce:label>Fig. 2.25</ce:label>
+            <ce:caption id="ca0135">
+                <ce:simple-para id="sp0170">Causes of deafness.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-25-9780723436331" id="lk0130"/>
+        </ce:figure>
+        <ce:figure id="f0135">
+            <ce:label>Fig. 2.26</ce:label>
+            <ce:caption id="ca0140">
+                <ce:simple-para id="sp0175">Causes of glossopharyngeal, vagus and accessory nerve palsies.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-26-9780723436331" id="lk0135"/>
+        </ce:figure>
+        <ce:figure id="f0140">
+            <ce:label>Fig. 2.27</ce:label>
+            <ce:caption id="ca0145">
+                <ce:simple-para id="sp0180">Causes of tremor.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-27-9780723436331" id="lk0140"/>
+        </ce:figure>
+        <ce:figure id="f0145">
+            <ce:label>Fig. 2.28</ce:label>
+            <ce:caption id="ca0150">
+                <ce:simple-para id="sp0185">Grading muscle power.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-28-9780723436331" id="lk0145"/>
+        </ce:figure>
+        <ce:figure id="f0150">
+            <ce:label>Fig. 2.29</ce:label>
+            <ce:caption id="ca0155">
+                <ce:simple-para id="sp0190">Nerve roots for each muscle group movement.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-29-9780723436331" id="lk0150"/>
+        </ce:figure>
+        <ce:figure id="f0155">
+            <ce:label>Fig. 2.30</ce:label>
+            <ce:caption id="ca0160">
+                <ce:simple-para id="sp0195">Eliciting reflexes. (A) Upper limb tendon reflexes. (B) A simple way to
+                    remember root values of reflexes. (C) Testing ankle jerk with reinforcement. (D) Abdominal reflexes:
+                    test in four quadrants shown. (E) The normal response is a downgoing hallux. In an upper motor
+                    neurone lesion, the hallux dorsiflexes and other toes fan out (the Babinski response).
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-30-9780723436331" id="lk0155"/>
+        </ce:figure>
+        <ce:figure id="f0160">
+            <ce:label>Fig. 2.31</ce:label>
+            <ce:caption id="ca0165">
+                <ce:simple-para id="sp0200">Dermatomes of the upper and lower limbs.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-31-9780723436331" id="lk0160"/>
+        </ce:figure>
+        <ce:figure id="f0165">
+            <ce:label>Fig. 2.32</ce:label>
+            <ce:caption id="ca0170">
+                <ce:simple-para id="sp0205">Anatomy of sensory pathways within the spinal cord.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-32-9780723436331" id="lk0165"/>
+        </ce:figure>
+        <ce:figure id="f0170">
+            <ce:label>Fig. 2.33</ce:label>
+            <ce:caption id="ca0175">
+                <ce:simple-para id="sp0210">Tests for different sensory modalities.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-33-9780723436331" id="lk0170"/>
+        </ce:figure>
+        <ce:figure id="f0175">
+            <ce:label>Fig. 2.34</ce:label>
+            <ce:caption id="ca0180">
+                <ce:simple-para id="sp0215">Examination of lymph node sites.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-34-9780723436331" id="lk0175"/>
+        </ce:figure>
+        <ce:figure id="f0180">
+            <ce:label>Fig. 2.35</ce:label>
+            <ce:caption id="ca0185">
+                <ce:simple-para id="sp0220">Causes of thyroid gland enlargement.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-35-9780723436331" id="lk0180"/>
+        </ce:figure>
+        <ce:figure id="f0185">
+            <ce:label>Fig. 2.36</ce:label>
+            <ce:caption id="ca0190">
+                <ce:simple-para id="sp0225">Examination of thyroid status.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f02-36-9780723436331" id="lk0185"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>2</ce:label>
+    <ce:title>Examination of the patient</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0140">The key learning points for this chapter:
+            <ce:list id="l0055">
+                <ce:list-item id="u0140">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0145">How to perform a thorough physical examination smoothly while being able to
+                        focus on the findings.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0145">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0150">The anatomy and pathophysiology underlying physical signs and their
+                        interpretation.
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">INTRODUCTION</ce:section-title>
+            <ce:para id="p0155">When it comes to examining patients, practice really does make perfect. Examiners will
+                be able to tell whether you have examined many patients or not within the first 30 seconds of seeing you
+                in action! Therefore, take every opportunity you have to rehearse your technique. Let others watch you
+                examine and critique. These could be your teachers, fellow students, and even patients can give you
+                valuable feedback.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">FIRST THINGS FIRST</ce:section-title>
+            <ce:para id="p0160">There are four essential things you must do whenever you see a patient:
+                <ce:list id="l0060">
+                    <ce:list-item id="u0150">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0165">Introduce yourself, wash your hands, shake hands and explain to the patient
+                            what you would like to do and why, thereby obtaining their consent for the examination.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0155">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0170">Ask the patient to move into the position required for the system you are
+                            looking at, expose the area concerned and then make sure that the patient is comfortable and
+                            that their privacy is respected and modesty maintained.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0160">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0175">Ask the patient if they have any pain. A good phrase to use is ‘Are you in
+                            any pain currently? If I cause you any discomfort during my examination, please let me know
+                            and I will stop immediately’.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0165">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0180">From the moment you first see the patient, try to decide whether they look
+                            well or ill. There is plenty of time while an examiner introduces you to the patient, and
+                            while the patient undresses and gets on to the couch, for you to gain a lot of information.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                You will probably find that all clinical teachers will show you a slightly different format for
+                examination technique. The important thing is to develop an approach that you are comfortable with and
+                then keep practising it until it becomes second nature.
+            </ce:para>
+            <ce:para id="p0190">In examinations you will almost always be asked to examine a particular system: ‘Examine
+                this gentleman's chest’, ‘What do you notice about this lady's face?’ This chapter describes the
+                technique for each system and how to interpret the clinical signs you will find. Of course, once
+                qualified, you should do a full examination for all your patients.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0020">
+            <ce:section-title id="st0025">VISUAL SURVEY</ce:section-title>
+            <ce:para id="p0195">It is accepted practice that all clinical examinations are performed from the right-hand
+                side of the patient. The most important thing is to decide is how well or ill the patient is, as
+                described above. Other specific abnormalities should then be looked for.
+            </ce:para>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Patient position, general behaviour and around the bed</ce:section-title>
+                <ce:para id="p0200">Is the patient comfortable? Are they anxious? Are they breathless? Are they in pain?
+                    Can they see? Are they deaf? Can the patient walk? Are there any handy clues around the bed
+                    (diabetic drinks, wheelchair, nebulizer, catheter, oxygen, drains)? Taking time to assess these
+                    factors has several advantages: it will help you with the diagnosis, it helps to prioritize your
+                    approach as a practising clinician, and it will calm your nerves in clinical examinations.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">Cyanosis</ce:section-title>
+                <ce:para id="p0205">This is a bluish discoloration which is seen when the absolute concentration of
+                    reduced (deoxygenated) haemoglobin in the blood is greater than 5<ce:hsp sp="0.25"/>g/dL. Central
+                    cyanosis is seen best in the tongue. It is caused by underlying respiratory or cardiovascular
+                    disease. Peripheral cyanosis can be due to either central cyanosis or reduced peripheral
+                    circulation, as poorly perfused peripheral tissue will take up oxygen more readily. Remember that a
+                    patient with central cyanosis is always peripherally cyanosed, yet peripheral cyanosis can occur in
+                    the absence of central cyanosis. Reduced peripheral circulation is seen in shock, cold weather and
+                    vascular abnormalities. Cyanosis is seen rarely in anaemia but occurs more readily in polycythaemia.
+                </ce:para>
+                <ce:para id="p0210">Very rarely, other forms of reduced haemoglobin, such as methaemoglobin or
+                    sulphaemoglobin, can cause cyanosis.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0035">
+                <ce:section-title id="st0040">Jaundice</ce:section-title>
+                <ce:para id="p0215">Jaundice is a yellow discoloration of the skin, sclera and mucous membranes due to
+                    serum bilirubin concentrations greater than 30<ce:hsp sp="0.25"/>μmol/L, which becomes more obvious
+                    at concentrations greater than 50<ce:hsp sp="0.25"/>μmol/L. Jaundice can be due to increased
+                    bilirubin production (prehepatic), abnormal bilirubin metabolism in the liver (hepatic) or reduced
+                    bilirubin excretion (posthepatic) (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00013-7"
+                                                                        id="ia0010">Ch. 13</ce:intra-ref>). It is much
+                    easier to see in natural as opposed to artificial lighting.
+                </ce:para>
+                <ce:para id="p0220">Yellow skin (particularly palms and soles) with normal sclera can be due to
+                    carotenaemia (excessive consumption of carrots, or hypothyroidism) or uraemia.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0040">
+                <ce:section-title id="st0045">Pallor</ce:section-title>
+                <ce:para id="p0225">Generalized pallor can be racial, inherited (albinism) or due to anaemia, shock,
+                    myxoedema or hypopituitarism. Localized pallor is seen in disruption of the arterial supply, as in
+                    Raynaud's phenomenon.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0045">
+                <ce:section-title id="st0050">Hydration</ce:section-title>
+                <ce:para id="p0230">Signs of dehydration include dry mucous membranes, tachycardia, postural hypotension
+                    and reduced skin turgor. If the patient is in hospital, hydration status should be monitored more
+                    accurately using urine output, fluid balance charts and central venous pressure (if very ill).
+                </ce:para>
+                <ce:para id="p0235">Overhydration can sometimes result from the overenthusiastic administration of IV
+                    fluids, particularly in the elderly. Clinical signs include pulmonary or peripheral oedema, raised
+                    jugular venous pressure (JVP) and a third heart sound.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0050">
+                <ce:section-title id="st0055">Pigmentation</ce:section-title>
+                <ce:para id="p0240">Generalized pigmentation is usually of racial origin but may also arise in
+                    haemochromatosis (greyish-bronze), occupational exposure (slate-grey appearance with argyria in
+                    silver workers) and with some drugs (slate-grey with amiodarone).
+                </ce:para>
+                <ce:para id="p0245">Pigmentation may also be raised with increased ACTH levels, as in Addison's disease,
+                    Cushing's disease (ACTH-secreting pituitary tumour), ectopic ACTH production and Nelson's syndrome
+                    (following bilateral adrenalectomy for Cushing's disease).
+                </ce:para>
+                <ce:para id="p0250">Chronic illness may be associated with pigmentation, common examples being chronic
+                    liver disease, chronic uraemia or chronic haemolysis.
+                </ce:para>
+                <ce:para id="p0255">As well as Addison's disease, local areas of pigmentation may be seen in
+                    Peutz–Jeghers syndrome (brown lesions around the lips) and neurofibromatosis (café au lait patches).
+                </ce:para>
+                <ce:para id="p0260">Localized areas of depigmentation, particularly affecting the back of the hand and
+                    neck, are seen in vitiligo. It may be associated with other autoimmune diseases.
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0055">
+            <ce:section-title id="st0060">THE FACE AND BODY HABITUS</ce:section-title>
+            <ce:para id="p0265">Examiners will often take you to a patient and simply ask ‘What is the diagnosis in this
+                patient?’ or ‘What do you notice about this patient's face?’ The conditions in
+                <ce:cross-ref refid="f0010">Fig. 2.1</ce:cross-ref>
+                <ce:float-anchor refid="f0010"/>
+                are often known as ‘spot diagnoses’ – they have characteristic physical features and often come up in
+                examinations.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0060">
+            <ce:section-title id="st0065">THE HANDS</ce:section-title>
+            <ce:para id="p0270">The hands can provide a wealth of information for the alert clinician. When you are
+                asked to examine the hands, consider the normal structures present and examine them in turn. Where
+                appropriate, go on to examine the functional use of the hand (e.g. undoing a button or picking up a
+                pen). This is particularly important in neurological abnormalities and destructive arthritides (e.g.
+                rheumatoid arthritis).
+            </ce:para>
+            <ce:section id="s0065">
+                <ce:section-title id="st0070">Hands</ce:section-title>
+                <ce:para id="p0275">
+                    <ce:list id="l0065">
+                        <ce:list-item id="u0170">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0280">Blue: peripheral cyanosis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0175">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0285">Pallor: anaemia (skin creases) and Raynaud's phenomenon.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0180">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0290">Pigmentation: Addison's disease (skin creases).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0185">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0295">Depigmentation: vitiligo.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0190">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0300">Palmar erythema (
+                                <ce:cross-ref refid="f0015">Fig. 2.2</ce:cross-ref>
+                                <ce:float-anchor refid="f0015"/>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0070">
+                <ce:section-title id="st0075">Nail</ce:section-title>
+                <ce:para id="p0305">
+                    <ce:list id="l0070">
+                        <ce:list-item id="u0195">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0310">Koilonychia: spoon-shaped nails seen in iron deficiency.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0200">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0315">Leuconychia: white nails due to hypoalbuminaemia (
+                                <ce:cross-ref refid="f0020">Fig. 2.3</ce:cross-ref>
+                                <ce:float-anchor refid="f0020"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0205">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0320">Clubbing: loss of the nail bed angle. The causes are shown in
+                                <ce:cross-ref refid="f0025">Fig. 2.4</ce:cross-ref>
+                                <ce:float-anchor refid="f0025"/>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0210">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0325">Splinter haemorrhages: terminal lesions usually due to trauma, proximal
+                                lesions found in infective endocarditis and vasculitis.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0215">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0330">Quincke's sign: capillary pulsation in the nail bed due to aortic
+                                regurgitation.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0220">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0335">Beau's lines: horizontal grooves in the nails caused by temporary arrest
+                                of nail growth as a result of acute severe illness.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0225">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0340">Onycholysis: separation of the nail from the nail bed as a result of
+                                psoriasis, trauma, fungal infection and hyperthyroidism.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0230">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0345">Yellow nails: yellow nail syndrome with lymphatic hypoplasia (peripheral
+                                oedema and pleural effusions).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0235">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0350">Half-and-half nails: the proximal nail is white and the distal nail is
+                                brown or red as a result of chronic renal failure.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0075">
+                <ce:section-title id="st0080">Tendons</ce:section-title>
+                <ce:para id="p0355">
+                    <ce:list id="l0075">
+                        <ce:list-item id="u0240">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0360">Xanthomata: hypercholesterolaemia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0245">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0365">Dupuytren's contractures (thickening of the palmar fascia): associated
+                                with alcoholic liver disease, epileptics treated with phenytoin, vibrating tools and
+                                familial and idiopathic causes.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0080">
+                <ce:section-title id="st0085">Joints</ce:section-title>
+                <ce:para id="p0370">
+                    <ce:list id="l0080">
+                        <ce:list-item id="u0250">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0375">Destructive arthropathy: e.g. rheumatoid arthritis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0255">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0380">Heberden's nodes: osteophytes of the distal interphalangeal joints.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0260">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0385">Bouchard's nodes: osteophytes of the proximal interphalangeal joints.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0085">
+                <ce:section-title id="st0090">Neuromuscular</ce:section-title>
+                <ce:para id="p0390">
+                    <ce:list id="l0085">
+                        <ce:list-item id="u0265">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0395">Localized wasting: ulnar or median nerve lesions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0270">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0400">Generalized wasting: C8/T1 anterior horn cell, nerve root or brachial
+                                plexus damage, combined median and ulnar nerve damage, disuse atrophy in severe
+                                arthritis, profound cachexia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0275">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0405">Myotonia: failure to relax after voluntary contraction. It is seen in
+                                myotonic dystrophy, for instance, after shaking the patient's hand.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0090">
+                <ce:section-title id="st0095">Other signs</ce:section-title>
+                <ce:para id="p0410">
+                    <ce:list id="l0090">
+                        <ce:list-item id="u0280">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0415">Sclerodactyly (tightening of the skin causing tapering of the fingers):
+                                look also for calcinosis, Raynaud's phenomenon, oesophageal dysmotility (ask the patient
+                                if they have difficulty on swallowing) and telangiectasia – hence CREST syndrome.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0285">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0420">Large hands with doughy swelling: acromegaly (often called spade-like
+                                hands).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0290">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0425">Asterixis: a coarse flapping tremor seen when the hand is outstretched
+                                with the wrist extended and fingers apart. It is caused by metabolic encephalopathy
+                                (e.g. liver failure, carbon dioxide retention, uraemia).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0295">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0430">Action tremor: this is rapid and fine in amplitude. It is worsened by
+                                holding the hands in a particular posture (e.g. hands outstretched) or by movement. It
+                                is characteristic of benign essential tremor, thyrotoxicosis and excessive caffeine
+                                intake and is an exaggeration of physiological tremor.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0300">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0435">Resting tremor: the thumb moves across the tips of the fingers. This
+                                ‘pill-rolling’ tremor is worst at rest and is characteristic of parkinsonism.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0305">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0440">Intention tremor: this is absent at rest, present on maintaining a
+                                posture and exaggerated by movement. It is characteristic of disorders of the cerebellum
+                                and its connections.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0010">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0445">When examining the hands, always look at the elbows for a
+                                        psoriatic rash, rheumatoid nodules or gouty tophi.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0095">
+            <ce:section-title id="st0100">THE CARDIOVASCULAR SYSTEM</ce:section-title>
+            <ce:section id="s0100">
+                <ce:section-title id="st0105">General inspection</ce:section-title>
+                <ce:para id="p0450">
+                    <ce:list id="l0095">
+                        <ce:list-item id="u0310">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0455">Does the patient look well or ill?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0315">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0460">Are they lying flat?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0320">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0465">Are they cachectic (cardiac cachexia)?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0325">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0470">Is there evidence of a congenital syndrome associated with cardiac
+                                abnormalities such as Marfan's syndrome or Down's syndrome?
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0105">
+                <ce:section-title id="st0110">Position</ce:section-title>
+                <ce:para id="p0475">Help the patient to adopt a comfortable position at 45° with the chest exposed. In
+                    women, cover the chest until ready to examine the praecordium.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0110">
+                <ce:section-title id="st0115">Hands</ce:section-title>
+                <ce:para id="p0480">
+                    <ce:list id="l0100">
+                        <ce:list-item id="u0330">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0485">Clubbing: subacute bacterial endocarditis (SBE) and congenital cyanotic
+                                heart disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0335">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0490">Cyanosis: peripheral vasoconstriction, pulmonary oedema and
+                                right-to-left shunt.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0340">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0495">Splinter haemorrhages: SBE.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0345">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0500">Janeway's lesions: non-tender macules in the palms due to SBE.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0350">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0505">Osler's nodes: painful nodules on the pulps of the fingers due to SBE.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0355">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0510">Quincke's sign: aortic regurgitation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0360">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0515">Xanthomata: hypercholesterolaemia (vascular disease).</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0115">
+                <ce:section-title id="st0120">Radial pulse</ce:section-title>
+                <ce:para id="p0520">
+                    <ce:list id="l0105">
+                        <ce:list-item id="u0365">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0525">Rate: normally between 60 and 100<ce:hsp sp="0.25"/>bpm (see
+                                <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00006-X" id="ia0015">Ch.
+                                    6</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0370">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0530">Rhythm: regular or irregular (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00006-X" id="ia0020">Ch. 6</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0375">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0535">Radioradial delay: dissecting thoracic aortic aneurysm.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0380">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0540">Radiofemoral delay: coarctation of the aorta.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0385">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0545">Character: best determined by palpation of a larger artery (e.g.
+                                brachial or carotid arteries).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0120">
+                <ce:section-title id="st0125">Blood pressure</ce:section-title>
+                <ce:para id="p0550">
+                    <ce:list id="l0110">
+                        <ce:list-item id="u0390">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0555">Level: hypertension is a risk factor for vascular disease.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0395">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0560">Lying and standing: postural hypotension.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0400">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0565">Right and left: left may be lower than right in aortic dissection.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0405">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0570">Wide pulse pressure: in the elderly and aortic regurgitation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0410">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0575">Narrow pulse pressure: aortic stenosis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0415">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0580">Pulsus paradoxus: exaggerated fall in pulse pressure during inspiration
+                                resulting in a faint or absent pulse in inspiration; caused by severe asthma or cardiac
+                                tamponade.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0125">
+                <ce:section-title id="st0130">Brachial and carotid artery</ce:section-title>
+                <ce:para id="p0585">
+                    <ce:list id="l0115">
+                        <ce:list-item id="u0420">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0590">Character: collapsing (
+                                <ce:cross-ref refid="f0030">Fig. 2.5</ce:cross-ref>
+                                <ce:float-anchor refid="f0030"/>), slow-rising (aortic stenosis), bisferiens (mixed
+                                aortic valve disease), alternans (severe left ventricular failure), jerky (hypertrophic
+                                obstructive cardiomyopathy).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0425">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0595">Corrigan's sign: prominent carotid pulsation due to aortic
+                                regurgitation.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0130">
+                <ce:section-title id="st0135">Jugular venous pressure</ce:section-title>
+                <ce:para id="p0600">When assessing JVP, the patient should be at 45° with their head resting on a pillow
+                    (this relaxes the sternocleidomastoid muscles). Pulsation should be up to 3<ce:hsp sp="0.25"/>cm
+                    above the sternal angle (8<ce:hsp sp="0.25"/>cm above right atrium). Differences between JVP and
+                    carotid pulsation in normal subjects are shown in
+                    <ce:cross-ref refid="f0035">Fig. 2.6</ce:cross-ref>
+                    <ce:float-anchor refid="f0035"/>. JVP acts as a manometer for right atrial pressure and is raised
+                    when right atrial pressure is raised (
+                    <ce:cross-ref refid="f0040">Fig. 2.7</ce:cross-ref>
+                    <ce:float-anchor refid="f0040"/>). Abnormalities in the waveform result from specific underlying
+                    pathologies (
+                    <ce:cross-ref refid="f0045">Fig. 2.8</ce:cross-ref>
+                    <ce:float-anchor refid="f0045"/>).
+                </ce:para>
+                <ce:para id="p0605">Restrictive cardiomyopathy, constrictive pericarditis and pericardial tamponade are
+                    all associated with Kussmaul's sign (JVP rises during inspiration).
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0015">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0610">If the JVP is not visible at 45°, try sitting the patient
+                                        upright, laying the patient flat and eliciting the hepatojugular reflux, as it
+                                        may be either too high or too low to be seen.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0135">
+                <ce:section-title id="st0140">Face</ce:section-title>
+                <ce:para id="p0615">
+                    <ce:list id="l0120">
+                        <ce:list-item id="u0430">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0620">Central cyanosis: right-to-left shunt.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0435">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0625">Anaemia: possible high-output cardiac failure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0440">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0630">Malar flush: mitral valve disease.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0445">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0635">Jaundice: haemolysis due to mechanical valves.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0450">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0640">Xanthelasmata: hypercholesterolaemia (vascular disease).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0455">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0645">Mouth: high-arched palate in Marfan's syndrome.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0460">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0650">De Musset's sign: head nodding due to aortic regurgitation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0465">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0655">Roth's spots in the retina: bacterial endocarditis.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0140">
+                <ce:section-title id="st0145">Praecordium</ce:section-title>
+                <ce:para id="p0660">Look for scars and deformities, including:
+                    <ce:list id="l0125">
+                        <ce:list-item id="u0470">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0665">Sternotomy scar: arterial bypass grafts and valve replacements.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0475">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0670">Mitral valvotomy scar under the left breast: always look for it, as it
+                                indicates a previously closed mitral valvotomy.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0480">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0675">Skeletal deformities: can cause an ejection systolic flow murmur.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0145">
+                <ce:section-title id="st0150">Apex beat</ce:section-title>
+                <ce:para id="p0685">The apex beat should be at the mid-clavicular line in the fifth left intercostal
+                    space.
+                    <ce:list id="l0130">
+                        <ce:list-item id="u0485">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0690">Lateral displacement: left or severe right ventricular dilatation. Lung
+                                pathology may also cause displacement.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0490">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0695">Impalpable: obesity, pleural effusion, pericardial effusion, chronic
+                                obstructive airways disease and dextrocardia (palpable on the right!).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0495">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0700">Tapping: mitral stenosis (palpable first heart sound).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0500">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0705">Heaving: ‘pressure overload’ in aortic stenosis or hypertension.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0505">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0710">Thrusting: ‘volume overload’ in aortic regurgitation, mitral
+                                regurgitation (ventricle usually markedly displaced).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0510">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0715">Diffuse: left ventricular dilatation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0515">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0720">Double impulse: left ventricular aneurysm or hypertrophic
+                                cardiomyopathy.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0150">
+                <ce:section-title id="st0155">Palpation</ce:section-title>
+                <ce:para id="p0725">Parasternal heave is caused by the enlargement or hypertrophy of the right
+                    ventricle.
+                </ce:para>
+                <ce:para id="p0730">A thrill is a palpable murmur and indicates significant valve disease; it can be
+                    systolic or diastolic and therefore its position in the cardiac cycle should be assessed by timing
+                    its relation to a central pulse. Palpate in all valve areas (
+                    <ce:cross-ref refid="f0050">Fig. 2.9</ce:cross-ref>
+                    <ce:float-anchor refid="f0050"/>).
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0155">
+                <ce:section-title id="st0160">Auscultation</ce:section-title>
+                <ce:para id="p0735">
+                    <ce:list id="l0135">
+                        <ce:list-item id="u0520">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0740">Listen in all four areas with the bell and diaphragm (<ce:cross-ref
+                                    refid="f0050">Fig. 2.9</ce:cross-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0525">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0745">Roll the patient to the left-hand side to listen with the bell at the
+                                axilla for mitral stenosis.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0530">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0750">Sit the patient forward to listen with the diaphragm at the left sternal
+                                edge in expiration (with breath held) for aortic regurgitation.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0535">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0755">Listen to the first and second sounds, then for third and fourth
+                                sounds.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0540">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0760">Are there any murmurs? (See<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00030-7" id="ia0025">Ch. 30</ce:intra-ref>.)
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0545">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0765">Listen for additional sounds including opening snap, ejection click,
+                                pericardial knock or rub, and mechanical valves.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0550">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0770">Time any abnormalities against the carotid pulsation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0555">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0775">Listen to the carotid arteries for bruits (atheroma) or radiation of
+                                aortic stenotic murmur.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0160">
+                <ce:section-title id="st0165">To conclude…</ce:section-title>
+                <ce:para id="p0780">
+                    <ce:list id="l0140">
+                        <ce:list-item id="u0560">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0785">Examine the lung bases for pulmonary oedema and pleural effusions
+                                indicating left ventricular failure.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0565">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0790">Look for sacral oedema.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0570">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0795">Palpate for hepatomegaly, which occurs in right ventricular failure.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0575">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0800">Look for pitting oedema and note the level (e.g. to knees).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0580">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0805">Palpate the peripheral pulses: pulses in the legs may be diminished in
+                                peripheral vascular disease. Systolic and diastolic murmurs may be heard in the femoral
+                                arteries that are due to aortic regurgitation (pistol shots and Duroziez's sign).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0585">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0810">Full set of observations and ECG.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0590">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0815">Dip the urine for haematuria (endocarditis).</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0165">
+            <ce:section-title id="st0170">THE RESPIRATORY SYSTEM</ce:section-title>
+            <ce:section id="s0170">
+                <ce:section-title id="st0175">Visual survey</ce:section-title>
+                <ce:para id="p0820">
+                    <ce:list id="l0145">
+                        <ce:list-item id="u0595">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0825">Does the patient look well or ill? Is the patient alert?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0600">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0830">Respiratory rate: normally around 12–16 breaths per min.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0605">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0835">Cachexia: COPD or underlying malignancy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0610">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0840">Sputum pot: note contents.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0615">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0845">Nebulizer and medications.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0620">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0850">Distress: breathless at rest and moving around in the bed.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0625">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0855">Pursed lip breathing: chronic small airways obstruction.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0630">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0860">Voice: hoarse in bronchial carcinoma (recurrent laryngeal nerve
+                                palsy).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0635">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0865">Chest drain and contents.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0175">
+                <ce:section-title id="st0180">Position</ce:section-title>
+                <ce:para id="p0870">Help the patient to adopt a comfortable position at 45° with the chest exposed. In
+                    women, cover the chest until you are ready to examine it.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0180">
+                <ce:section-title id="st0185">Hands</ce:section-title>
+                <ce:para id="p0875">
+                    <ce:list id="l0150">
+                        <ce:list-item id="u0640">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0880">Clubbing: see<ce:cross-ref refid="f0025">Fig. 2.4</ce:cross-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0645">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0885">Cyanosis: respiratory failure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0650">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0890">Wasting of small muscles: infiltration of T1 by bronchial neoplasm
+                                (Pancoast's tumour).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0655">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0895">Tar-stained fingers: increased likelihood of malignancy and obstructive
+                                airways disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0660">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0900">Asterixis (flap): carbon dioxide retention.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0665">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0905">Evidence of conditions which may involve the lungs (e.g. systemic
+                                sclerosis, rheumatoid arthritis) (see<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00031-9" id="ia0030">Ch. 31</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0185">
+                <ce:section-title id="st0190">Pulse</ce:section-title>
+                <ce:para id="p0910">
+                    <ce:list id="l0155">
+                        <ce:list-item id="u0670">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0915">Tachycardia: severe respiratory disease (e.g. pulmonary embolism, acute
+                                asthma or pneumonia).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0675">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0920">Bounding: carbon dioxide retention.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0680">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0925">Atrial fibrillation: e.g. sepsis secondary to pneumonia.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0190">
+                <ce:section-title id="st0195">Blood pressure</ce:section-title>
+                <ce:para id="p0930">Pulsus paradoxus is seen in severe acute asthma.</ce:para>
+            </ce:section>
+            <ce:section id="s0195">
+                <ce:section-title id="st0200">Jugular venous pressure</ce:section-title>
+                <ce:para id="p0935">
+                    <ce:list id="l0160">
+                        <ce:list-item id="u0685">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0940">Right ventricular failure: chronic respiratory disease with pulmonary
+                                hypertension.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0690">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0945">Superior vena caval obstruction: bronchial carcinoma.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0695">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0950">Large ‘a’ waves: cor pulmonale.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0200">
+                <ce:section-title id="st0205">Face</ce:section-title>
+                <ce:para id="p0955">
+                    <ce:list id="l0165">
+                        <ce:list-item id="u0700">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0960">Central cyanosis: respiratory failure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0705">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0965">Anaemia: chronic respiratory disease, particularly malignancy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0710">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0970">Horner's syndrome: apical carcinoma (Pancoast's tumour) involving
+                                cervical sympathetic nerves (see<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00034-4" id="ia0035">Ch. 34</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0715">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0975">Fine tremor: beta-agonists.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0720">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0980">Plethoric facies: secondary polycythaemia.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0205">
+                <ce:section-title id="st0210">Trachea</ce:section-title>
+                <ce:para id="p0985">Warn the patient before you palpate the trachea! Note the following:
+                    <ce:list id="l0170">
+                        <ce:list-item id="u0725">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0990">Tracheal deviation reflects pathology in the upper mediastinum (
+                                <ce:cross-ref refid="f0055">Fig. 2.10</ce:cross-ref>
+                                <ce:float-anchor refid="f0055"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0730">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0995">Feel for tracheal tug in acute respiratory distress.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0735">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1000">The distance from the cricoid cartilage to the suprasternal notch should
+                                be 2–3<ce:hsp sp="0.25"/>cm – this distance reduces in hyperinflation.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt1" id="b0025">
+                            <ce:textbox-head>
+                                <ce:title>COMMUNICATION</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1005">Always take care to explain what you are doing to the patient
+                                        when you are examining the trachea. If done badly, it may be uncomfortable, and
+                                        if you hurt the patient you are likely to fail.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0210">
+                <ce:section-title id="st0215">Thorax</ce:section-title>
+                <ce:para id="p1010">Perform inspection, palpation, percussion and auscultation on the front of the chest
+                    first. Then sit the patient forward, palpate for lymphadenopathy and then repeat the examination on
+                    the back of the chest. Typical patterns of respiratory abnormalities are shown in
+                    <ce:cross-ref refid="f0060">Fig. 2.11</ce:cross-ref>
+                    <ce:float-anchor refid="f0060"/>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0215">
+                <ce:section-title id="st0220">Inspection</ce:section-title>
+                <ce:para id="p1015">On inspecting the chest, assess the following:
+                    <ce:list id="l0175">
+                        <ce:list-item id="u0740">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1020">Respiration: use of accessory muscles (respiratory distress).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0745">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1025">Recession: intercostal and subcostal (respiratory distress).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0750">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1030">Scars: including previous surgery and chest drains.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0755">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1035">Deformity: barrel chest (seen in long-standing airways obstruction as a
+                                result of hyperinflation), pectus excavatum, pectus carinatum.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0760">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1040">Radiotherapy: tattoos or skin changes indicate previous treatment for
+                                malignancy.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0220">
+                <ce:section-title id="st0225">Expansion</ce:section-title>
+                <ce:para id="p1045">
+                    <ce:list id="l0180">
+                        <ce:list-item id="u0765">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1050">Ask the patient to take a deep breath in and note symmetry and
+                                comfort.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0770">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1055">The chest circumference should expand by at least 5<ce:hsp sp="0.25"/>cm
+                                on deep inspiration.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0775">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1060">Any significant pulmonary disease will reduce expansion.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0780">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1065">In unilateral disease, the affected side will move less than the
+                                other.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0785">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1070">Note any chest wall tenderness, which is usually caused by
+                                musculoskeletal abnormalities.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0225">
+                <ce:section-title id="st0230">Vocal fremitus</ce:section-title>
+                <ce:para id="p1075">Ask the patient to say ‘99’ and palpate with the ulnar border of the hand. Increased
+                    vocal fremitus indicates consolidation; decreased indicates pleural effusion or collapse. This part
+                    of the examination has been largely superseded by auscultating for vocal resonance.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0230">
+                <ce:section-title id="st0235">Percussion</ce:section-title>
+                <ce:para id="p1080">Compare one side with the other and remember the axillae. The following signs are
+                    important:
+                    <ce:list id="l0185">
+                        <ce:list-item id="u0790">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1085">Hyper-resonance: pneumothorax.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0795">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1090">Dull: solid organ (liver or heart), consolidation, collapse, pleural
+                                thickening, peripheral tumours, severe fibrosis, previous old pneumonectomy.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0800">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1095">Stony dull: pleural effusion.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0235">
+                <ce:section-title id="st0240">Auscultation</ce:section-title>
+                <ce:para id="p1100">
+                    <ce:list id="l0190">
+                        <ce:list-item id="u0805">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1105">Normal breath sounds are termed ‘vesicular’.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0810">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1110">Bronchial breathing, whispering pectoriloquy, increased vocal resonance:
+                                consolidation (sometimes fibrosis and above pleural effusion).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0815">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1115">Wheeze: small airways obstruction (polyphonic), large airway obstruction
+                                (e.g. bronchial carcinoma (monophonic or localized)) and cardiac failure.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0820">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1120">Fine crackles: pulmonary fibrosis, pulmonary oedema.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0825">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1125">Coarse crackles: infection.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0830">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1130">Absent breath sounds: pleural effusion.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0835">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1135">Pleural rub: pleural irritation due to pneumonia or pulmonary embolus.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0240">
+                <ce:section-title id="st0245">To conclude…</ce:section-title>
+                <ce:para id="p1140">
+                    <ce:list id="l0195">
+                        <ce:list-item id="u0840">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1145">Pitting oedema indicates right ventricular failure.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0845">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1150">Sputum inspection, peak flow, oxygen saturation, temperature and chest
+                                X-ray: these can be remembered by the mnemonic SPOT-X.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0030">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1155">The upper border of the liver is normally at the 6th intercostal
+                                        space in the right midclavicular line. If the percussion note remains resonant
+                                        below this, the lungs are hyperinflated.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0245">
+            <ce:section-title id="st0250">THE ABDOMEN</ce:section-title>
+            <ce:section id="s0250">
+                <ce:section-title id="st0255">Visual survey</ce:section-title>
+                <ce:para id="p1160">
+                    <ce:list id="l0200">
+                        <ce:list-item id="u0850">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1165">Appearance: does the patient look well or ill?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0855">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1170">Is the patient in pain?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0860">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1175">Patient's position: think of peritonism if very still, appendicitis
+                                (psoas irritation) if knees flexed and renal colic if rolling around in agony.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0865">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1180">Cachexia: chronic disease, particularly malignancy.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0870">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1185">Drowsy: encephalopathy (hepatic or uraemia).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0875">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1190">Hydration status.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0255">
+                <ce:section-title id="st0260">Position</ce:section-title>
+                <ce:para id="p1195">The patient can initially be assessed sitting at 45°. For examination of the abdomen
+                    itself, the patient should be as flat as can be tolerated comfortably (this relaxes the abdominal
+                    muscles). Exposure should be from ‘nipples to knees’ but bear in mind the patient's dignity.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0260">
+                <ce:section-title id="st0265">Hands</ce:section-title>
+                <ce:para id="p1200">
+                    <ce:list id="l0205">
+                        <ce:list-item id="u0880">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1205">Clubbing: cirrhosis, inflammatory bowel disease.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0885">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1210">Leuconychia: liver failure, nephrotic syndrome, protein-losing
+                                enteropathy.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0890">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1215">Koilonychia: chronic iron deficiency, consider occult neoplasm,
+                                particularly in the stomach and caecum.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0895">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1220">Palmar erythema: cirrhosis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0900">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1225">Asterixis: hepatic encephalopathy and uraemia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0905">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1230">Dupuytren's contracture: alcoholic liver disease.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0910">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1235">Half-and-half nails: renal failure.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0265">
+                <ce:section-title id="st0270">Arms</ce:section-title>
+                <ce:para id="p1240">
+                    <ce:list id="l0210">
+                        <ce:list-item id="u0915">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1245">Scratch marks: obstructive jaundice (particularly primary biliary
+                                cirrhosis) and lymphoma.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0920">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1250">Needle track marks: viral hepatitis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0925">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1255">Muscle wasting: proximal myopathy due to alcohol, steroid excess or
+                                underlying malignancy (paraneoplastic).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0930">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1260">Bruising: hepatic impairment.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0270">
+                <ce:section-title id="st0275">Face</ce:section-title>
+                <ce:para id="p1265">
+                    <ce:list id="l0215">
+                        <ce:list-item id="u0935">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1270">Jaundice: prehepatic, hepatic or posthepatic (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00013-7" id="ia0040">Ch. 13</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0940">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1275">Anaemia: from any cause (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00029-0" id="ia0045">Ch. 29</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0945">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1280">Xanthelasmata: hypercholesterolaemia (primary biliary cirrhosis or
+                                nephrotic syndrome).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0950">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1285">Kayser–Fleischer rings: Wilson's disease (best seen by slit-lamp
+                                examination).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0275">
+                <ce:section-title id="st0280">Mouth</ce:section-title>
+                <ce:para id="p1290">
+                    <ce:list id="l0220">
+                        <ce:list-item id="u0955">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1295">Hydration.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0960">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1300">Glossitis and stomatitis: iron deficiency and megaloblastic anaemia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0965">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1305">Pigmentation: Addison's disease, chronic liver disease, chronic renal
+                                failure and Peutz–Jeghers syndrome.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0970">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1310">Telangiectasia: hereditary haemorrhagic telangiectasia
+                                (Osler–Weber–Rendu disease).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0975">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1315">Crohn's disease: lip swelling and mucosal ulceration.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0980">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1320">Gingival hypertrophy.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0280">
+                <ce:section-title id="st0285">Neck</ce:section-title>
+                <ce:para id="p1325">Look for left supraclavicular lymphadenopathy – caused by metastasis from underlying
+                    gastrointestinal carcinoma (Virchow's node or Troisier's sign).
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0035">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1330">Always palpate the neck from behind the patient with the neck
+                                        slightly flexed to relax the sternocleidomastoid muscles.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0285">
+                <ce:section-title id="st0290">Trunk and back</ce:section-title>
+                <ce:para id="p1335">Spider naevi arise in the distribution of the superior vena cava – five or more
+                    suggest underlying chronic liver disease, pregnancy or hyperthyroidism.
+                </ce:para>
+                <ce:para id="p1340">Gynaecomastia and sexual hair loss indicate chronic liver disease.</ce:para>
+            </ce:section>
+            <ce:section id="s0290">
+                <ce:section-title id="st0295">The abdomen</ce:section-title>
+                <ce:section id="s0295">
+                    <ce:section-title id="st0300">Inspection</ce:section-title>
+                    <ce:para id="p1350">Observe closely, looking for the following:
+                        <ce:list id="l0225">
+                            <ce:list-item id="u0985">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1355">Scars: previous surgery or trauma.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0990">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1360">Distension (
+                                    <ce:cross-ref refid="f0065">Fig. 2.12</ce:cross-ref>
+                                    <ce:float-anchor refid="f0065"/>).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0995">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1365">Obvious mass: including movement with respiration.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1000">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1370">Bruising: Cullen's (para-umbilical) and Grey Turner's (flanks) signs
+                                    in acute pancreatitis (these are rare).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1005">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1375">Dilated veins and caput medusae: portal hypertension or inferior
+                                    vena cava obstruction (venous flow is upwards).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1010">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1380">Expansile pulsation: abdominal aortic aneurysm.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1015">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1385">Striae: pregnancy or Cushing's syndrome.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1020">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1390">Node: umbilical nodule (Sister Mary Joseph's nodule) is a metastasis
+                                    from intra-abdominal malignancy.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1025">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1395">Peristalsis: if visible this indicates an obstruction, though it may
+                                    be normal in a thin or elderly patient.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0300">
+                <ce:section-title id="st0305">Palpation</ce:section-title>
+                <ce:para id="p1400">
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0040">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1405">Always look at the patient's face when palpating the abdomen to
+                                        ensure that you know immediately if you are causing discomfort.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+                <ce:para id="p1410">Before you touch the patient, ask if they are tender anywhere and start palpation
+                    away from that area. Feel gently in each of the four quadrants, noting tenderness or masses. Then
+                    feel more deeply in each quadrant to determine the characteristics of any mass found (
+                    <ce:cross-ref refid="f0070">Fig. 2.13</ce:cross-ref>
+                    <ce:float-anchor refid="f0070"/>).
+                </ce:para>
+                <ce:para id="p1415">If a mass is present, consider what structures normally lie at that site and what
+                    disease processes might affect that structure (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00014-9" id="ia0050">Ch. 14</ce:intra-ref>). Next,
+                    palpate for hepatomegaly and splenomegaly, starting in the right iliac fossa. Examine for renal
+                    masses by bimanual palpation. If hepatomegaly or splenomegaly is present, comment on consistency
+                    (smooth or irregular) and size in centimetres (not finger breadths) beneath the costal margin (the
+                    causes of hepatomegaly are shown in
+                    <ce:cross-ref refid="f0075">Fig. 2.14</ce:cross-ref>
+                    <ce:float-anchor refid="f0075"/>; the causes of splenomegaly are discussed in detail in<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00025-3" id="ia0055">Ch. 25</ce:intra-ref>). A palpable
+                    liver must also be assessed for pulsatility (tricuspid regurgitation), tenderness and bruits.
+                </ce:para>
+                <ce:para id="p1420">Do not forget the distinguishing features of the spleen and kidney (see<ce:intra-ref
+                        xlink:href="pii:B978-0-7234-3864-9.00025-3" id="ia0060">Fig. 25.2</ce:intra-ref>); the causes of
+                    a renal mass are summarized in
+                    <ce:cross-ref refid="f0080">Fig. 2.15</ce:cross-ref>
+                    <ce:float-anchor refid="f0080"/>.
+                </ce:para>
+                <ce:para id="p1425">Finally, palpate for abdominal aortic aneurysm and examine the groins for
+                    lymphadenopathy and herniae.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0305">
+                <ce:section-title id="st0310">Percussion</ce:section-title>
+                <ce:para id="p1430">Always percuss from resonance to dullness. Use percussion to determine the size of
+                    the liver and spleen, starting at the chest, moving inferiorly. Percuss over any masses to determine
+                    their consistency. Always assess for ascites by looking for a fluid thrill and shifting dullness.
+                    <ce:cross-ref refid="f0085">Fig. 2.16</ce:cross-ref>
+                    <ce:float-anchor refid="f0085"/>
+                    summarizes the causes of ascites. Look for tenderness on percussion; this is a useful clinical sign
+                    that may indicate peritoneal irritation.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0310">
+                <ce:section-title id="st0315">Auscultation</ce:section-title>
+                <ce:para id="p1435">
+                    <ce:list id="l0230">
+                        <ce:list-item id="u1030">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1440">Bowel sounds may be normal, increased or decreased: increased in bowel
+                                obstruction (high-pitched and tinkling) and absent in the ileus (functional motor
+                                paralysis of the bowel) of any cause (
+                                <ce:cross-ref refid="f0090">Fig. 2.17</ce:cross-ref>
+                                <ce:float-anchor refid="f0090"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1035">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1445">Arterial bruits: may be heard over stenosed vessels such as renal
+                                arteries.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1040">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1450">Succussion splash: any cause of gastric outlet obstruction.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0315">
+                <ce:section-title id="st0320">To conclude…</ce:section-title>
+                <ce:para id="p1455">
+                    <ce:list id="l0235">
+                        <ce:list-item id="u1045">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1460">Digital rectal examination often provides useful clinical information
+                                and in some circumstances is essential, such as rectal bleeding, iron deficiency or
+                                change in bowel habit. Genital examination may also be needed in some circumstances. In
+                                the clinical examinations, if you say that you would also like to examine the genitalia
+                                and perform a rectal examination, you will usually be taken to the next case.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1050">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1465">If there is hepatosplenomegaly, go on to examine all lymph node sites,
+                                bearing in mind the multitude of potential causes (see<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00025-3" id="ia0065">Ch. 25</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1055">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1470">Look at the legs for pitting oedema (
+                                <ce:cross-ref refid="f0095">Fig. 2.18</ce:cross-ref>
+                                <ce:float-anchor refid="f0095"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u9055">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p9470">Examine hernial orfices.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0320">
+            <ce:section-title id="st0325">THE NERVOUS SYSTEM</ce:section-title>
+            <ce:para id="p1475">All medical short case examinations will involve at least one neurology case.</ce:para>
+            <ce:para id="p1480">Although it is true that neuroanatomy is complicated and many different diseases can
+                affect each part, the end result is a limited repertoire of patterns of signs. The best approach is to
+                identify which signs are present using a well-rehearsed technique and consider where the lesion is
+                likely to be. You can then think of which diseases affect that part of the nervous system and look for
+                additional evidence to support the diagnosis.
+            </ce:para>
+            <ce:para id="p1485">The clinical signs and common diseases associated with different parts of the nervous
+                system are discussed in detail in<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00026-5" id="ia0070">
+                    Ch. 26</ce:intra-ref>. This section covers a practical approach to the examination technique itself.
+                It is particularly important to practise this routine over and over again.
+            </ce:para>
+            <ce:section id="s0325">
+                <ce:section-title id="st0330">Visual survey</ce:section-title>
+                <ce:para id="p1490">
+                    <ce:list id="l0240">
+                        <ce:list-item id="u1060">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1495">Appearance: does the patient look well or ill?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1500">Conscious level: is the patient alert, drowsy or unresponsive?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1070">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1505">Age: for instance a young patient is more likely to have multiple
+                                sclerosis or an inherited disease; an elderly patient is more likely to have had a
+                                stroke.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1075">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1510">General clues: such as the need of a wheelchair or diabetic drinks?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1080">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1515">Posture: how is the patient sitting? Is the patient leaning towards one
+                                side (hemiparesis)? Is there a tremor at rest (parkinsonism)?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1085">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1520">Speech: when the patient speaks does the speech sound normal? (See
+                                <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00001-0" id="ia0075">Fig.
+                                    1.5</ce:intra-ref>.)
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0330">
+                <ce:section-title id="st0335">Cranial nerves</ce:section-title>
+                <ce:para id="p1525">Features and examinations of the cranial nerves include the following.</ce:para>
+                <ce:section id="s0335">
+                    <ce:section-title id="st0340">First cranial nerve (olfactory)</ce:section-title>
+                    <ce:para id="p1530">
+                        <ce:list id="l0245">
+                            <ce:list-item id="u1090">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1535">Sensory only.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1095">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1540">This is not routinely tested but ask the patient if they have
+                                    noticed anything abnormal about their sense of smell.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1100">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1545">Sense of smell can be tested using bottles containing essences,
+                                    although this test is rarely performed. (Note that ammonia should not be used as it
+                                    also stimulates the trigeminal nerve.)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1105">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1550">Anosmia can result from head injury (fracture of the cribriform
+                                    plate), upper respiratory tract infection, tumour (olfactory groove meningioma or
+                                    glioma) or Kallmann's syndrome (anosmia with hypogonadotrophic hypogonadism).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0340">
+                    <ce:section-title id="st0345">Second cranial nerve (optic)</ce:section-title>
+                    <ce:para id="p1555">The order of examination can be remember with AFRO.
+                        <ce:list id="l0250">
+                            <ce:list-item id="u1110">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1560">Sensory only.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1115">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1565">Visual<ce:bold>A</ce:bold>cuity: ask the patient to read some print
+                                    or Snellen's chart (with spectacles if normally worn). Test each eye separately. Any
+                                    lesion from the cornea, lens, retina, optic nerve, optic chiasm, optic radiation or
+                                    occipital cortex can result in reduced acuity.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1120">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1570">Visual<ce:bold>F</ce:bold>ields: test each eye individually. Make
+                                    sure your eyes are on the same level as the patient's. Move your fingers from beyond
+                                    your visual field inwards and ask the patient to tell you when they can see them.
+                                    Check each quadrant. Use a red hatpin to determine the blind spot. Typical field
+                                    defects are shown in
+                                    <ce:cross-ref refid="f0100">Fig. 2.19</ce:cross-ref>
+                                    <ce:float-anchor refid="f0100"/>. Vision can be formally assessed using perimetry.
+                                    If the visual fields are intact, look for inattention by simultaneously stimulating
+                                    both the left and right.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1125">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1575">Pupillary<ce:bold>R</ce:bold>eflexes: the pupillary reactions to
+                                    light and accommodation should be tested. It is essential to understand the
+                                    sympathetic and parasympathetic innervation of the pupils as well as the
+                                    neurological pathways involved in the light and convergence reflexes if pupillary
+                                    abnormalities are to be understood (see<ce:italic>Crash Course: Nervous
+                                        System</ce:italic>). Pupillary abnormalities in coma patients are described in
+                                    <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00022-8#f0030" id="ia0080">Fig.
+                                        22.5</ce:intra-ref>. Other clinical abnormalities include:
+                                    <ce:list id="l9000">
+                                        <ce:list-item id="u1130">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1580">physiological anisocoria: slight difference in size.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1135">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1585">senile miosis: small, irregular pupils in old age.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1140">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1590">total afferent pupillary defect (complete lesion of
+                                                optic nerve): if for instance the left eye is affected, shining a light
+                                                in it fails to cause pupillary constriction in either eye – absent
+                                                direct and consensual reflexes. However, if light is shone in the right
+                                                eye the left pupil constricts (i.e. the right eye consensual reflex is
+                                                intact).
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1145">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1595">relative afferent pupillary defect (RAPD) occurs if
+                                                there is incomplete damage to the afferent pathway (e.g. previous
+                                                retrobulbar neuritis due to multiple sclerosis). The swinging light test
+                                                is performed (i.e. the light is moved from one eye to the other
+                                                alternately). If the left eye has a RAPD, there will be reduced
+                                                conduction along its afferent pathway. Therefore, if the light is
+                                                initially shone in the left eye, both pupils will constrict; on moving
+                                                the light to the right eye, bilateral constriction occurs again; when
+                                                the light returns to the left eye, the pupil dilates because of its
+                                                reduced afferent conduction. This is diagnostic of a RAPD.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1150">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1600">Horner's syndrome: see
+                                                <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00034-4" id="ia0085">
+                                                    Ch. 34
+                                                </ce:intra-ref>
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1155">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1605">Argyll Robertson pupil: a small, irregular pupil that
+                                                ‘accommodates but does not react’ (i.e. fixed to light but constricts on
+                                                convergence). Almost diagnostic of neurosyphilis (occasionally occurs in
+                                                diabetes mellitus).
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u1160">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1610">myotonic pupil (Holmes–Adie pupil): a dilated pupil that
+                                                reacts very slowly to light and constricts incompletely to convergence.
+                                                Most common in young females and, if combined with absent tendon
+                                                reflexes, this is Holmes–Adie syndrome.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1165">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1615"><ce:bold>O</ce:bold>phthalmoscopy: common abnormalities on
+                                    ophthalmoscopy are papilloedema (
+                                    <ce:cross-ref refid="f0105">Fig. 2.20</ce:cross-ref>
+                                    <ce:float-anchor refid="f0105"/>), optic atrophy (
+                                    <ce:cross-ref refid="f0110">Fig. 2.21</ce:cross-ref>
+                                    <ce:float-anchor refid="f0110"/>), diabetic retinopathy (
+                                    <ce:cross-ref refid="f0115">Fig. 2.22</ce:cross-ref>
+                                    <ce:float-anchor refid="f0115"/>), hypertensive retinopathy (see<ce:intra-ref
+                                            xlink:href="pii:B978-0-7234-3864-9.00030-7#f0115" id="ia0090">Fig.
+                                        30.22</ce:intra-ref>) and, in exams, retinitis pigmentosa. Pigmentary retinal
+                                    degeneration may also occur in other conditions such as Refsum's disease and
+                                    Laurence–Moon–Biedl syndrome.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt1" id="b0045">
+                                <ce:textbox-head>
+                                    <ce:title>COMMUNICATION</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p1620">Prolonged gazing with an ophthalmoscope can be uncomfortable
+                                            for the patient. Be aware of this – giving the patient a short break can be
+                                            helpful.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0345">
+                    <ce:section-title id="st0350">Third, fourth and sixth cranial nerves</ce:section-title>
+                    <ce:para id="p1625">
+                        <ce:list id="l0255">
+                            <ce:list-item id="u1170">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1630">Ask the patient to follow your finger with their eyes and tell you
+                                    if they ‘see double’.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1175">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1635">Look for nystagmus. This is involuntary rhythmic eye oscillation. It
+                                    may be pendular, with equal movement in all directions, or more commonly 'jerk
+                                    nystagmus' with a slow drift away from the point of fixation and a fast corrective
+                                    phase. It occurs physiologically at the extremes of lateral gaze and ><ce:hsp
+                                            sp="0.10"/>2 beats are required for it to be significant. It may be due to
+                                    peripheral lesions (affecting the labyrinth or 8th nerve), central vestibular or
+                                    brainstem lesions, or cerebellar lesions. As a general rule, peripheral lesions
+                                    cause unidirectional nystagmus that is horizontal or torsional, has a fast phase
+                                    away from the side of the lesion and improves with fixation. In nystagmus due to
+                                    central lesions, the fast phase is toward the side of the lesions, it may occur in
+                                    more than one direction and does not improve with fixation. Brainstem lesions may
+                                    cause unusual patterns including upbeat or downbeat nystagmus. Congenital causes and
+                                    early loss of central vision (e.g. albinism) may cause pendular nystagmus.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1180">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1640">Assess conjugate gaze by asking the patient to look at your hand and
+                                    then to a finger on your other hand, and then from one to the other as quickly as
+                                    possible. If there is an internuclear ophthalmoplegia (a lesion in the medial
+                                    longitudinal fasciculus), there will be slow movement in the adducting eye and
+                                    nystagmus in the abducting eye. If one eye is covered, or if convergence is
+                                    attempted, adduction is normal, as this is a disorder of conjugate gaze.
+                                    Internuclear ophthalmoplegia is usually caused by multiple sclerosis but may
+                                    occasionally result from vascular lesions.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1185">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1645">Diplopia in all directions of gaze may result from myasthenia
+                                    gravis, ocular myopathy or disease in the surrounding tissue of the eye, such as
+                                    Graves’ disease, tumour or orbital cellulitis.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0350">
+                    <ce:section-title id="st0355">Third cranial nerve (oculomotor)</ce:section-title>
+                    <ce:para id="p1650">
+                        <ce:list id="l0260">
+                            <ce:list-item id="u1190">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1655">Motor supply to levator palpebrae superioris, all orbital muscles
+                                    except the superior oblique and lateral rectus muscles, and parasympathetic tone to
+                                    pupillary reflex.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1195">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1660">Controls pupillary reflexes, in addition to the second cranial
+                                    nerve. Test the reaction to light and accommodation (as above).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1200">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1665">Lesion of this nerve results in ptosis and a dilated pupil with no
+                                    reaction to light or accommodation. The eye looks ‘down and out’ at rest and is
+                                    unable to look upwards or inwards.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1205">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1670">Causes of 3rd cranial nerve lesions are infarction, posterior
+                                    communicating artery aneurysm (which is painful), mononeuritis multiplex (see
+                                    <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00026-5" id="ia0095">Ch.
+                                        26</ce:intra-ref>), demyelination, tumour and neurosyphilis. Medical, as opposed
+                                    to mechanical, compression causes of 3rd nerve palsy often spare the parasympathetic
+                                    nerve fibres (i.e. there is ‘pupillary sparing’). Conversely, compressive lesions
+                                    are associated with relatively less ophthalmoplegia. This is because the
+                                    parasympathetic fibres run on the surface of the nerve.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0355">
+                    <ce:section-title id="st0360">Fourth cranial nerve (trochlear)</ce:section-title>
+                    <ce:para id="p1675">
+                        <ce:list id="l0265">
+                            <ce:list-item id="u1210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1680">Motor supply to the superior oblique muscle.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1215">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1685">Patient may have the head tilted away from the lesion.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1220">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1690">Diplopia on looking down and away from the lesion with one image at
+                                    an angle to the other.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1225">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1695">Lesions of the 4th cranial nerve are usually associated with 3rd
+                                    cranial nerve lesions and have a similar aetiology.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1230">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1700">Patients with a 4th cranial nerve palsy have difficulty with vision
+                                    when walking downstairs or reading a book.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0360">
+                    <ce:section-title id="st0365">Sixth cranial nerve (abducens)</ce:section-title>
+                    <ce:para id="p1705">
+                        <ce:list id="l0270">
+                            <ce:list-item id="u1235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1710">Motor supply to the lateral rectus.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1240">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1715">There is diplopia on abduction of the affected eye with two images
+                                    side by side.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1245">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1720">Lesions of the 6th cranial nerve are caused by mononeuritis
+                                    multiplex, diabetes mellitus, demyelination, tumour, infarction, thiamine deficiency
+                                    (Wernicke's encephalopathy), raised intracranial pressure (false localizing sign)
+                                    and neurosyphilis.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0365">
+                    <ce:section-title id="st0370">Fifth cranial nerve (trigeminal)</ce:section-title>
+                    <ce:para id="p1725">
+                        <ce:list id="l0275">
+                            <ce:list-item id="u1250">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1730">Sensation to the face (ophthalmic, maxillary and mandibular
+                                    branches).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1255">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1735">Motor supply to the muscles of mastication (temporalis, masseter and
+                                    pterygoid muscles).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1260">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1740">Test sensation in the distribution of each division comparing one
+                                    side with the other.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1265">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1745">Remember the corneal reflex, which requires intact motor function of
+                                    the 7th cranial nerve (as well as intact sensory function of the trigeminal nerve)
+                                    for blinking.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1270">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1750">Ask the patient to clench the teeth.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1275">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1755">Ask them to hold the mouth open while you try to push it shut.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1280">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1760">Test jaw jerk, which is increased in pseudobulbar palsy and reduced
+                                    or absent in bulbar palsy.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1285">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1765">The causes of 5th cranial nerve lesions are shown in
+                                    <ce:cross-ref refid="f0120">Fig. 2.23</ce:cross-ref>
+                                    <ce:float-anchor refid="f0120"/>.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0370">
+                    <ce:section-title id="st0375">Seventh cranial nerve (facial)</ce:section-title>
+                    <ce:para id="p1770">
+                        <ce:list id="l0280">
+                            <ce:list-item id="u1290">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1775">Sensation of taste from the floor of the mouth, the soft palate and
+                                    anterior two-thirds of the tongue.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1295">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1780">Motor supply to the muscles of facial expression and the stapedius
+                                    muscle.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1300">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1785">Parasympathetic supply to the salivary and lacrimal glands.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1305">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1790">Ask the patient to wrinkle the forehead, screw the eyes tightly
+                                    shut, show the teeth and blow the cheeks out.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1310">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1795">In lower motor neurone lesions all the muscles are affected.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1315">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1800">In upper motor neurone lesions, the upper half of the face and
+                                    emotional expressions are spared (e.g. normal eye closure and wrinkling of the
+                                    forehead).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1320">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1805">Taste is not usually examined formally but ask if the patient has
+                                    noticed any recent change. Involvement of the nerve to stapedius causes hyperacusis
+                                    (increased sensitivity to high-pitched or loud sounds).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1325">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1810">
+                                    <ce:cross-ref refid="f0125">Fig. 2.24</ce:cross-ref>
+                                    <ce:float-anchor refid="f0125"/>
+                                    summarizes the causes of facial nerve palsies.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0050">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p1815">Crossed signs – cranial nerve abnormalities contralateral to
+                                            limb abnormalities – should alert you to the possibility of a brainstem
+                                            lesion.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0375">
+                    <ce:section-title id="st0380">Eighth cranial nerve (vestibulocochlear)</ce:section-title>
+                    <ce:para id="p1820">
+                        <ce:list id="l0285">
+                            <ce:list-item id="u1330">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1825">Sensory to the utricle, saccule and semicircular canals
+                                    (vestibular), and to the organ of Corti (cochlea).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1335">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1830">Ask if the patient has noticed any difficulty with hearing.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1340">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1835">Assess the ability of the patient to hear whispered numbers with the
+                                    other ear covered.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1345">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1840">Rinne's test: place a vibrating tuning fork on the mastoid process
+                                    and then at the external auditory meatus – the test is positive if the sound is
+                                    louder when the fork is held at the external auditory meatus (i.e. air conduction)
+                                    than when placed on the mastoid process (i.e. bone conduction). This is normal. An
+                                    abnormal test (Rinne negative) indicates conductive deafness.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1350">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1845">Weber's test: place a vibrating tuning fork at the centre of the
+                                    forehead; the sound will be heard towards the normal ear in sensorineural deafness
+                                    or towards the affected ear in conductive deafness.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1355">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1850">The causes of vestibular disease are shown in<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00027-7#f0010" id="ia0100">Fig.
+                                    27.1</ce:intra-ref>.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1360">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1855">The causes of conductive and sensorineural deafness are described in
+                                    <ce:cross-ref refid="f0130">Fig. 2.25</ce:cross-ref>
+                                    <ce:float-anchor refid="f0130"/>.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0380">
+                    <ce:section-title id="st0385">Ninth and tenth cranial nerves</ce:section-title>
+                    <ce:para id="p1860">
+                        <ce:list id="l0290">
+                            <ce:list-item id="u1365">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1865">Look at palatal movement (ask the patient to say ‘Aah’).</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1370">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1870">Lesions cause reduced palatal elevation on the affected side, with
+                                    the uvula pulled towards the normal side.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1375">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1875">Check the gag reflex (9th, sensory; 10th, motor).</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1380">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1880">The causes of 9th and 10th nerve lesions are summarized in
+                                    <ce:cross-ref refid="f0135">Fig. 2.26</ce:cross-ref>
+                                    <ce:float-anchor refid="f0135"/>.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0385">
+                    <ce:section-title id="st0390">Ninth cranial nerve (glossopharyngeal)</ce:section-title>
+                    <ce:para id="p1885">
+                        <ce:list id="l0295">
+                            <ce:list-item id="u1385">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1890">Sensory to pharynx and carotid sinus and taste to the posterior
+                                    third of the tongue.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1390">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1895">Motor supply to the stylopharyngeus muscle.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1395">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1900">Parasympathetic to the parotid gland.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0390">
+                    <ce:section-title id="st0395">Tenth cranial nerve (vagus)</ce:section-title>
+                    <ce:para id="p1905">
+                        <ce:list id="l0300">
+                            <ce:list-item id="u1400">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1910">Sensory to the larynx.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1405">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1915">Motor supply to the cricothyroid and the muscles of the pharynx and
+                                    larynx.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1410">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1920">Parasympathetic to the bronchi, heart and gastrointestinal tract.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0395">
+                    <ce:section-title id="st0400">Eleventh cranial nerve (accessory)</ce:section-title>
+                    <ce:para id="p1925">
+                        <ce:list id="l0305">
+                            <ce:list-item id="u1415">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1930">Cranial root provides the motor supply to some muscles of the soft
+                                    palate and larynx.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1420">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1935">Spinal root provides the motor supply to the trapezius and
+                                    sternocleidomastoid muscles.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1425">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1940">Ask the patient to shrug the shoulders and test against
+                                    resistance.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1430">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1945">Ask the patient to turn his or her head against your resisting hand
+                                    and test the sternocleidomastoid muscle bulk.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0400">
+                    <ce:section-title id="st0405">Twelfth cranial nerve (hypoglossal)</ce:section-title>
+                    <ce:para id="p1950">
+                        <ce:list id="l0310">
+                            <ce:list-item id="u1435">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1955">Provides the motor supply to the styloglossus, hyoglossus and all
+                                    intrinsic muscles of the tongue.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1440">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1960">Ask the patient to open the mouth. Look for wasting and
+                                    fasciculation, indicating a lower motor neurone lesion of the tongue.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1445">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1965">Then ask the patient to protrude the tongue. If there is a
+                                    unilateral lesion the tongue will deviate towards the side of the lesion.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1450">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1970">Upper motor neurone lesions are due to stroke, tumour or motor
+                                    neurone disease.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u1455">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p1975">Lower motor neurone lesions are due to diseases in the posterior
+                                    fossa, skull base and neck, including tumour, motor neurone disease, syringobulbia,
+                                    trauma and poliomyelitis.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0405">
+            <ce:section-title id="st0410">THE LIMBS</ce:section-title>
+            <ce:section id="s0410">
+                <ce:section-title id="st0415">Inspection</ce:section-title>
+                <ce:para id="p1980">
+                    <ce:list id="l0315">
+                        <ce:list-item id="u1460">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1985">Wasting: lower motor neurone lesion, muscle disease and disuse.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1465">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1990">Fasciculation: lower motor neurone lesion.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1470">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1995">Scars: particularly from surgery.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1475">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2000">Deformity: may cause mononeuropathy by entrapment, and contractures may
+                                be the result of neurological disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1480">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2005">Tremor (
+                                <ce:cross-ref refid="f0140">Fig. 2.27</ce:cross-ref>
+                                <ce:float-anchor refid="f0140"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1485">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2010">Pes cavus: Charcot–Marie–Tooth disease, (hereditary motor and sensory
+                                neuropathy) Refsum's disease.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0415">
+                <ce:section-title id="st0420">Tone</ce:section-title>
+                <ce:para id="p2015">Reduced tone is a feature of a lower motor neurone lesion or cerebellar lesion.
+                    Hypertonia may manifest as either spasticity or rigidity. Spasticity describes the sudden build up
+                    of increased tone during the first few degrees of passive movement. The resistance lessens as the
+                    movement is continued and this is characteristic of upper motor neurone lesions. This is often
+                    described as the ‘clasp-knife’ phenomenon. Rigidity describes the sustained resistance to passive
+                    movement seen in extrapyramidal conditions (e.g. parkinsonism). This may be described as ‘lead pipe’
+                    rigidity and when associated with a tremor gives rise to ‘cogwheel’ rigidity. Test for clonus
+                    (usually at ankle, but can also do at patella), signifying an upper motor neurone lesion.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0420">
+                <ce:section-title id="st0425">Power</ce:section-title>
+                <ce:para id="p2020">All muscle groups should be tested and scored (
+                    <ce:cross-ref refid="f0145">Fig. 2.28</ce:cross-ref>
+                    <ce:float-anchor refid="f0145"/>). You will need to learn the root value for each movement (
+                    <ce:cross-ref refid="f0150">Fig. 2.29</ce:cross-ref>
+                    <ce:float-anchor refid="f0150"/>). Remember to compare muscle power of one side to the other for
+                    each group.
+                </ce:para>
+                <ce:para id="p2025">Look for pronator drift by asking the patient to hold their arms outstretched, palms
+                    upward, and close their eyes. Marked weakness will be easily apparent. If an upper motor neurone
+                    lesion affecting the parietal lobe is present, the arm will drift downwards and the hand will
+                    pronate.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0425">
+                <ce:section-title id="st0430">Coordination</ce:section-title>
+                <ce:para id="p2030">Ask the patient to alternately touch their nose and your finger. In cerebellar
+                    disease, there will be an intention tremor and past pointing (i.e. the patient overshoots the
+                    examining clinician's finger consistently towards the side of the lesion). Ask the patient to tap
+                    one palm with alternating sides of the other hand as quickly as possible (demonstrate to the patient
+                    what you would like them to do). In cerebellar disease, this will be slow, poorly coordinated and
+                    the action of the moving hand has a high amplitude – this is dysdiadochokinesis.
+                </ce:para>
+                <ce:para id="p2035">To check coordination in the lower limbs, ask the patient to lift the leg, place the
+                    heel on the knee of the opposite leg and gently run it down the shin and repeat this motion. In
+                    cerebellar disease, this will be slow and clumsy.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0430">
+                <ce:section-title id="st0435">Reflexes</ce:section-title>
+                <ce:para id="p2040">Practise as often as you can. Learn the root value of each reflex (
+                    <ce:cross-ref refid="f0155">Fig. 2.30</ce:cross-ref>
+                    <ce:float-anchor refid="f0155"/>). Reflexes can be reduced, normal or increased. They will be
+                    reduced or absent in lower motor neurone lesions, sensory neuropathy and severe muscle disease
+                    (disruption of reflex arc), and will be exaggerated in upper motor neurone lesions. Check plantar
+                    response, which is normally downgoing but will be upgoing in upper motor neurone lesions.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0435">
+                <ce:section-title id="st0440">Sensation</ce:section-title>
+                <ce:para id="p2045">Test each dermatome (
+                    <ce:cross-ref refid="f0160">Fig. 2.31</ce:cross-ref>
+                    <ce:float-anchor refid="f0160"/>) for the sensation of light touch, pinprick (and temperature).
+                    Then, starting distally, check vibration and joint position sense. Remember the different pathways
+                    these senses take (
+                    <ce:cross-ref refid="f0165">Fig. 2.32</ce:cross-ref>
+                    <ce:float-anchor refid="f0165"/>). The tests for the various sensory modalities are shown in
+                    <ce:cross-ref refid="f0170">Fig. 2.33</ce:cross-ref>
+                    <ce:float-anchor refid="f0170"/>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0440">
+                <ce:section-title id="st0445">Gait</ce:section-title>
+                <ce:para id="p2050">
+                    <ce:list id="l0320">
+                        <ce:list-item id="u1490">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2055">Ask the patient to walk for 2–3<ce:hsp sp="0.25"/>m, turn and walk back,
+                                then walk heel to toe (cerebellar ataxia) and finally stand on toes and on heels (any
+                                muscle weakness will now manifest itself).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1495">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2060">Make sure you walk with the patient so you can catch them if they
+                                fall.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1500">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2065">An immense amount of information can be gained by careful study of these
+                                aspects of gait (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00026-5#f0020"
+                                                                  id="ia0105">Fig. 26.3</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1505">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2070">Romberg's test: this assesses posterior column function
+                                (proprioception).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0055">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p2075">Sensory testing is difficult and subjective. A thorough
+                                        inspection and examination of tone, power, coordination and reflexes may help to
+                                        predict which sensory abnormality should be expected.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0445">
+            <ce:section-title id="st0450">THE JOINTS</ce:section-title>
+            <ce:para id="p2080">Diseases affecting the musculoskeletal system and how to distinguish between different
+                disease processes on clinical examination have been discussed in detail in<ce:intra-ref
+                        xlink:href="pii:B978-0-7234-3864-9.00019-8" id="ia0110">Ch. 19</ce:intra-ref>. However, remember
+                the following broad components to the examination of joints.
+            </ce:para>
+            <ce:section id="s0450">
+                <ce:section-title id="st0455">Visual survey</ce:section-title>
+                <ce:para id="p2085">
+                    <ce:list id="l0325">
+                        <ce:list-item id="u1510">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2090">Does the patient look well or ill?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1515">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2095">Anaemia: chronic disease, blood loss (peptic ulcer due to non-steroidal
+                                anti-inflammatory drug use), bone marrow suppression (immunosuppressive therapy),
+                                haemolysis (autoimmune associated with systemic lupus erythematosus) and hypersplenism
+                                (Felty's syndrome in rheumatoid arthritis).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1520">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2100">Face: scleroderma, systemic lupus erythematosus, cushingoid facies
+                                (long-term steroid therapy).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1525">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2105">Stooped: ankylosing spondylitis and osteoporosis.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1530">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2110">Psoriatic rash.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1535">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2115">Subcutaneous rheumatoid nodules: particularly at the elbow.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1540">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2120">Gouty tophi: on the pinna and elbow.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1545">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2125">Look for evidence of long-term steroid treatment (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00035-6#f0095" id="ia0115">Fig.
+                                35.18</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0455">
+                <ce:section-title id="st0460">Look</ce:section-title>
+                <ce:para id="p2130">
+                    <ce:list id="l0330">
+                        <ce:list-item id="u1550">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2135">Deformity.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1555">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2140">Scars: previous surgery.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1560">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2145">Erythema: acute inflammation or infection.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1565">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2150">Swelling: osteophytes, synovial hypertrophy and acute inflammation.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1570">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2155">Muscle wasting: disuse, nerve entrapment, mononeuritis multiplex or
+                                long-term steroid therapy.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0460">
+                <ce:section-title id="st0465">Feel</ce:section-title>
+                <ce:para id="p2160">
+                    <ce:list id="l0335">
+                        <ce:list-item id="u1575">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2165">Increased temperature: acute inflammation or infection.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1580">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2170">Tenderness.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1585">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2175">Effusions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1590">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2180">Crepitus on movement.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0465">
+                <ce:section-title id="st0470">Move</ce:section-title>
+                <ce:para id="p2185">
+                    <ce:list id="l0340">
+                        <ce:list-item id="u1595">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2190">Active and passive movement.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1600">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2195">Is pain associated with movement?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1605">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p2200">Is the joint stable? Are there intact ligaments and supporting
+                                musculature?
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0470">
+                <ce:section-title id="st0475">Assessment of disability</ce:section-title>
+                <ce:para id="p2205">It is very important to get an impression of how limiting the joint problem is. For
+                    example, in a patient with rheumatoid arthritis, ask the patient to undo some buttons or write their
+                    name with a pen.
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0475">
+            <ce:section-title id="st0480">THE SKIN</ce:section-title>
+            <ce:para id="p2210">The clinical approach to skin rashes will be discussed in detail in<ce:intra-ref
+                    xlink:href="pii:B978-0-7234-3864-9.00036-8" id="ia0120">Ch. 36</ce:intra-ref>. When asked to look at
+                a rash, you will be awarded marks for giving a good description, even if you are unable to make a
+                diagnosis. Remember to describe the following:
+                <ce:list id="l0345">
+                    <ce:list-item id="u1610">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2215">Distribution: this can be diagnostic in itself.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1615">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2220">Shape.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1620">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2225">Size.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1625">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2230">Colour.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1630">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2235">Consistency.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1635">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2240">Temperature.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1640">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2245">Tenderness.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1645">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2250">Margins.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1650">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2255">Relation to the surface: raised, flat, or ulcerated.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u1655">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p2260">Fixation to underlying structures.</ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt1" id="b0060">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p2265">Remember that patients with skin lesions and rashes are often very
+                                    sensitive about their appearance.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0480">
+            <ce:section-title id="st0485">LYMPHADENOPATHY</ce:section-title>
+            <ce:para id="p2270">Examine all lymph node sites (
+                <ce:cross-ref refid="f0175">Fig. 2.34</ce:cross-ref>
+                <ce:float-anchor refid="f0175"/>). Always examine the cervical lymph nodes standing behind the patient.
+                The causes of generalized and localized lymphadenopathy are discussed in<ce:intra-ref
+                        xlink:href="pii:B978-0-7234-3864-9.00025-3" id="ia0125">Ch. 25</ce:intra-ref>. If
+                lymphadenopathy is present, pay special attention to examination of the spleen and liver.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0485">
+            <ce:section-title id="st0490">BREAST EXAMINATION</ce:section-title>
+            <ce:para id="p2275">Breast examination should be performed in women who have symptoms of breast disease or
+                when an underlying malignancy is suspected. Do not forget that breast tissue extends into the axillae.
+                Breast examination must be approached sensitively with a full explanation. Male students and doctors
+                should have a female chaperone to help put the patient at ease (and to protect themselves from
+                accusations of inappropriate behaviour).
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0490">
+            <ce:section-title id="st0495">NECK EXAMINATION</ce:section-title>
+            <ce:para id="p2280">In clinical exams, when asked to examine the neck there will usually be a thyroid mass
+                or lymphadenopathy. However, do not forget the salivary glands, branchial cyst, pharyngeal pouch,
+                cervical rib, carotid body tumour and cystic hygroma. Causes of lymphadenopathy are described in
+                <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00025-3" id="ia0130">Ch. 25</ce:intra-ref>.
+                <ce:cross-ref refid="f0180">Fig. 2.35</ce:cross-ref>
+                <ce:float-anchor refid="f0180"/>
+                lists the causes of thyroid enlargement.
+            </ce:para>
+            <ce:para id="p2285">First, look very carefully at the neck, lifting the hair out of the way if necessary.
+                Look for obvious masses, scars, skin changes or deformity. If there is a mass in the region of the
+                thyroid gland, ask the patient to take a sip of water into their mouth and then swallow – a goitre will
+                move upwards on swallowing. In addition, ask the patient to open the mouth and then watch as the tongue
+                protrudes – a thyroglossal cyst will move upwards. If a mass is present, assess its properties as
+                described in<ce:cross-ref refid="f0070">Fig. 2.13</ce:cross-ref>. Percussion is useful to determine
+                retrosternal extension of a goitre. Bruits may be audible in the thyroid gland (thyrotoxicosis) or
+                carotid artery (atheroma). If you find a thyroid mass, you should go on to assess thyroid status as
+                shown in
+                <ce:cross-ref refid="f0185">Fig. 2.36</ce:cross-ref>
+                <ce:float-anchor refid="f0185"/>.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0065">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p2290">If the neck is normal, examine the JVP, listen to the carotid artery
+                                    for bruits and re-examine for cervical rib.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

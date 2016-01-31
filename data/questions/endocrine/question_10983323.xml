@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10983323" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_006</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              <p>A 16-year-old boy presents to his GP with a history of renal stones. He is found to have the following biochemical test results:</p>
+              <p>Corrected calcium 2.91 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>Phosphate 0.65 mmol/L (normal range 0.8–1.4 mmol/L)</p>
+              <p>Parathyroid hormone level 6 pmol/L (normal range 1.0–6.5 pmol/L)</p>
+              <p>His family also has a history of renal stones.</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 64-year-old man presents with gradual onset bone pain. He complains of hearing loss and finds that his hats no longer fit him. He has the following biochemical test results:</p>
+              <p>Corrected calcium 2.51 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>Phosphate 1.06 mmol/L (normal range 0.8–1.4 mmol/L)</p>
+              <p>Parathyroid hormone level 4 pmol/L (normal range 1.0–6.5 pmol/L)</p>
+              <p>Alkaline phosphatase 150 (normal range 40–125 iu/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 64-year-old woman presents with abdominal pains, fatigue and muscle weakness. She has the following biochemical test results:</p>
+              <p>Corrected calcium 2.70 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>Phosphate 0.61 mmol/L (normal range 0.8–1.4 mmol/L)</p>
+              <p>Parathyroid hormone level 7 pmol/L (normal range 1.0–6.5 pmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 45-year-old man presents with insidious onset of bone pains, backaches and muscle weakness. He has a previous history of coeliac disease.</p>
+              <p>He has the following biochemical test results:</p>
+              <p>Corrected calcium 2.10 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>Phosphate 0.64 mmol/L (normal range 0.8–1.4 mmol/L)</p>
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Familial hypocalciuric hypercalcaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Hyperthyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Milk-alkali syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Multiple myeloma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Osteomalacia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Paget's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Primary hyperparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>PTHrP secretion</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Secondary hyperparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Vitamin D intoxication</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option G (Primary hyperparathyroidism) is Correct.</b>
+      Excessive PTH secretion results in increased osteoclastic resorption (thus elevating serum calcium) and decreased phosphate reabsorption in the kidneys (leading to low phosphate levels). Primary hyperparathyroidism can be due to adenoma or hyperplasia; secondary hyperparathyroidism can be due to persistent hypocalcaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option G (Primary hyperparathyroidism) is Correct.</b>
+      Excessive PTH secretion results in increased osteoclastic resorption (thus elevating serum calcium) and decreased phosphate reabsorption in the kidneys (leading to low phosphate levels). Primary hyperparathyroidism can be due to adenoma or hyperplasia; secondary hyperparathyroidism can be due to persistent hypocalcaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

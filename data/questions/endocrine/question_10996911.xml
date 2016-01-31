@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10996911" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 54-year-old woman presents to her GP complaining of a sore throat and generally feeling unwell. She has had sweats and chills over the last 48 h. On examination there is erythema of the pharynx and cervical lymphadenopathy. Haematological investigation:</p>
+        <p>Hb 110 g/l (normal range 115–165 g/l)</p>
+        <p>
+          WCC 1.6 ′ 10
+          <sup>9</sup>
+          /l (normal range 4.0–11.0 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>
+          Platelets 250 ′ 10
+          <sup>9</sup>
+          /l (normal range 150–350 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>MCV 90fl (normal range 78–98 fl)</p>
+        <p>
+          Neutrophils 1.5 ′ 10
+          <sup>9</sup>
+          /l (normal range 2.0–7.5 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>What medication is the cause of the patient's presentation?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Alendronate</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Carbimazole</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Metformin</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Prednisolone</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Thyroxine</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Carbimazole) is Correct.</b>
+      Agranulocytosis is a complication of this medication used to treat hyperthyroidism. Patients are warned to seek medical attention if they become ill with symptoms and sign of infection.
+    </p>
+    <p>
+      <b>Options A (Alendronate) is Incorrect.</b>
+      Alendronate is a bisphosphonate that is used in osteoporosis. Tablets can cause erosion of the gastrointestinal tract, e.g. oesophagitis or gastric ulceration.
+    </p>
+    <p>
+      <b>Option C (Metformin) is Incorrect.</b>
+      Metformin can rarely cause lactic acidosis which requires withdrawal of this treatment.
+    </p>
+    <p>
+      <b>Option D (Prednisolone) is Incorrect.</b>
+      Prednisolone can cause iatrogenic Cushing's syndrome.
+    </p>
+    <p>
+      <b>Option E (Thyroxine) is Incorrect.</b>
+      Levothyroxine can cause symptoms and signs of thyrotoxicosis.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Carbimazole) is Correct.</b>
+      Agranulocytosis is a complication of this medication used to treat hyperthyroidism. Patients are warned to seek medical attention if they become ill with symptoms and sign of infection.
+    </p>
+    <p>
+      <b>Options A (Alendronate) is Incorrect.</b>
+      Alendronate is a bisphosphonate that is used in osteoporosis. Tablets can cause erosion of the gastrointestinal tract, e.g. oesophagitis or gastric ulceration.
+    </p>
+    <p>
+      <b>Option C (Metformin) is Incorrect.</b>
+      Metformin can rarely cause lactic acidosis which requires withdrawal of this treatment.
+    </p>
+    <p>
+      <b>Option D (Prednisolone) is Incorrect.</b>
+      Prednisolone can cause iatrogenic Cushing's syndrome.
+    </p>
+    <p>
+      <b>Option E (Thyroxine) is Incorrect.</b>
+      Levothyroxine can cause symptoms and signs of thyrotoxicosis.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0005" version="5.2" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3863-2.00001-5</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3863-2.00001-5</ce:doi>
+        <ce:isbn>978-0-7234-3863-2</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 1.1</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0010">Outline of the psychiatric assessment</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-01-9780723436362" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 1.2</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0015">Typical questions used to elicit specific psychiatric symptoms
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-02-9780723436362" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 1.3</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0020">Example of a case formulation (differential diagnosis, aetiology,
+                    management)
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-03-9780723436362" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 1.4</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0025">ICD-10 categorical classification</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-04-9780723436362" id="lk0025"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>1</ce:label>
+    <ce:title>Psychiatric assessment and diagnosis</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0045">After this chapter you should have an understanding of:
+            <ce:list id="l0045">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0050">Interview technique</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0055">The important elements of a psychiatric history</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0060">The mental state examination</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0065">The importance of a physical examination in psychiatric patients</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0030">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0070">How to present your findings</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0035">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0075">The diagnostic classification systems used in psychiatry</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:para id="p0080">The psychiatric assessment is different from a medical or surgical assessment in that: (1)
+            the history taking is often longer and is aimed at understanding psychological problems that develop in
+            patients, each with a unique background and social environment; (2) a mental state examination is performed;
+            and (3) the assessment can in itself be therapeutic.
+            <ce:cross-ref refid="f0010">Figure 1.1</ce:cross-ref>
+            <ce:float-anchor refid="f0010"/>
+            provides an outline of the psychiatric assessment, which includes a psychiatric history, mental state
+            examination, risk assessment, physical examination and formulation.
+        </ce:para>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">INTERVIEW TECHNIQUE</ce:section-title>
+            <ce:para id="p0085">
+                <ce:list id="l0050">
+                    <ce:list-item id="u0040">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0090">Whenever possible, patients should be interviewed in settings where privacy
+                            can be ensured – a patient who is distressed will be more at ease in a quiet office than in
+                            an accident and emergency cubicle.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0045">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0095">Chairs should be at the same level and arranged at an angle, so that you are
+                            not sitting directly opposite the patient.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0050">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0100">Establishing rapport is an immediate priority and requires the display of
+                            empathy and sensitivity by the interviewer.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0055">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0105">Notes may be taken during the interview; however, explain to patients that
+                            you will be doing so. Make sure that you still maintain good eye contact.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0060">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0110">Ensure that you are seated closer to the door than the patient to allow you
+                            an unobstructed exit should it be required.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0065">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0115">Carry a personal alarm and/or know where the alarm in the consulting room
+                            is, and check you know how to work the alarms.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0070">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0120">Introduce yourself to the patient and ask them how they would like to be
+                            addressed. Explain how long the interview will last. In examination situations it may prove
+                            helpful to explain to patients that you may need to interrupt them due to time constraints.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0075">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0125">Keep track of, and ration, your time appropriately.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0080">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0130">Flexibility is essential, e.g. it may be helpful to put a very anxious
+                            patient at ease by talking about their background before focusing in on the presenting
+                            complaint.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0010">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0135">Ensuring you have the seat closest to the door can be a little
+                                    awkward when entering a room with a patient. One option is to reserve it in advance
+                                    by placing something on it, like a folder.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+                Make use of both open and closed questions when appropriate:
+            </ce:para>
+            <ce:para id="p0145">
+                <ce:italic>Closed questions</ce:italic>
+                limit the scope of the response to one or two word answers. They are used to gain specific information,
+                and can be used to control the length of the interview when patients are being over-inclusive. For
+                example:
+                <ce:list id="l0055">
+                    <ce:list-item id="u0085">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0150">Do you feel low in mood? (Yes or no answer)</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0090">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0155">What time do you wake up in the morning? (Specific answer)</ce:para>
+                    </ce:list-item>
+                </ce:list>
+                Note that closed questions can be used at the very beginning of the interview as they are easier to
+                answer and help to put patients at ease, e.g. ‘Do you live locally?’; ‘Are you married?’ (see
+                ‘identifying information’ below).
+            </ce:para>
+            <ce:para id="p0165">
+                <ce:italic>Open questions</ce:italic>
+                encourage the patient to answer freely with a wide range of responses and should be used to elicit the
+                presenting complaint, as well as feelings and attitudes. For example:
+                <ce:list id="l0060">
+                    <ce:list-item id="u0095">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0170">How have you been feeling lately?</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0100">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0175">What has caused you to feel this way?</ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0015">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0180">Rapport building is vital when working in mental health. Always
+                                    think why a patient may have difficulty establishing one with you (e.g. persecutory
+                                    delusions, withdrawal, apathy). Failure to establish rapport should never be due to
+                                    the interviewer.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">PSYCHIATRIC HISTORY</ce:section-title>
+            <ce:para id="p0185">The order in which you take the history is not as important as being systematic, making
+                sure you cover all the essential subsections. A typical format for taking a psychiatric history is
+                outlined in
+                <ce:cross-ref refid="f0010">Figure 1.1</ce:cross-ref>
+                and is described in detail below.
+            </ce:para>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Identifying information</ce:section-title>
+                <ce:para id="p0190">
+                    <ce:list id="l0065">
+                        <ce:list-item id="u0105">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0195">Name.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0110">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0200">Age.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0115">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0205">Marital status and children.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0120">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0210">Occupation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0125">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0215">Reason for the patient's presence in a psychiatric setting (e.g.
+                                referral to out-patient clinic by family doctor, admitted to ward informally having
+                                presented at casualty).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0130">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0220">Legal status (i.e. if detained under mental health legislation).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+                <ce:para id="p0225">For example:</ce:para>
+                <ce:para id="p0230">
+                    <ce:italic>Mrs LM is a 32-year-old married housewife with two children aged 4 and 6 years. She was
+                        referred by her family doctor to a psychiatric out-patient clinic.
+                    </ce:italic>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Presenting complaint</ce:section-title>
+                <ce:para id="p0235">Open questions are used to elicit the presenting complaint. Whenever possible,
+                    record the main problems in the patient's own words, in one or two sentences, instead of using
+                    technical psychiatric terms, e.g.:
+                </ce:para>
+                <ce:para id="p0240">
+                    <ce:italic>Mrs LM complains of ‘feeling as though I don't know who I am, like I'm living in an empty
+                        shell’.
+                    </ce:italic>
+                </ce:para>
+                <ce:para id="p0245">Patients frequently have more than one complaint, some of which may be related. It
+                    is helpful to organize multiple presenting complaints into groups of symptoms that are related; for
+                    instance, ‘low mood’, ‘poor concentration’ and ‘lack of energy’ are common features of depression,
+                    e.g.:
+                </ce:para>
+                <ce:para id="p0250">
+                    <ce:italic>Mrs LM complains firstly of ‘low mood’, ‘difficulty sleeping’ and ‘poor self-esteem’, and
+                        secondly of ‘increased alcohol consumption’ associated with withdrawal symptoms of ‘shaking,
+                        sweating and jitteriness’ in the morning.
+                    </ce:italic>
+                </ce:para>
+                <ce:para id="p0255">It is not always easy to organize patients' difficulties into a simple presenting
+                    complaint in psychiatry. In this case, give the chief complaint(s) as the presenting complaint and
+                    cover the rest of the symptoms or problems in the history of presenting complaint.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">History of presenting complaint</ce:section-title>
+                <ce:para id="p0260">This section is concerned with eliciting the nature and development of each of the
+                    presenting complaints. The following headings may be helpful in structuring your questioning:
+                    <ce:list id="l0070">
+                        <ce:list-item id="u0135">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0265"><ce:italic>Duration</ce:italic>: when did the problems start?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0140">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0270"><ce:italic>Development</ce:italic>: how did the problems develop?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0145">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0275"><ce:italic>Mode of onset</ce:italic>: suddenly or over a period of time?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0150">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0280"><ce:italic>Course</ce:italic>: are symptoms constant, progressively
+                                worsening or intermittent?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0155">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0285"><ce:italic>Severity</ce:italic>: how much is the patient suffering? To
+                                what extent are symptoms affecting the patient's social and occupational functioning?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0160">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0290"><ce:italic>Associated symptoms</ce:italic>: certain complaints are
+                                associated with clusters of other symptoms that should be enquired about if patients do
+                                not mention them spontaneously, e.g. when ‘feeling low’ is a presenting complaint,
+                                biological, cognitive and psychotic features of depression as well as suicidal ideation
+                                should be asked about. You can also ask about symptom clusters for psychosis, anxiety,
+                                eating problems, substance use and cognitive problems, among others. Also, certain
+                                symptoms are common to many psychiatric conditions and these should be screened for,
+                                e.g. a primary complaint of insomnia may be a sign of depression, mania, psychosis or a
+                                primary sleep disorder.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0165">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0295"><ce:italic>Precipitating factors</ce:italic>: psychosocial stress
+                                frequently precipitates episodes of mental illness, e.g. bereavement, moving house,
+                                relationship difficulties.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0020">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0300">It is useful to learn to screen patients for common symptoms.
+                                        This is especially so with patients who are less forthcoming with their
+                                        complaints. Remember to ask about:
+                                        <ce:list id="l0075">
+                                            <ce:list-item id="u0170">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0305">Low mood (depression).</ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0175">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0310">Elevated mood and increased energy (hypomania and
+                                                    mania).
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0180">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0315">Delusions and hallucinations (psychosis).</ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0185">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0320">Free-floating anxiety, panic attacks or phobias
+                                                    (anxiety disorders).
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0190">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0325">Obsessions or compulsions (obsessive-compulsive
+                                                    disorder).
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0195">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0330">Alcohol or substance abuse.</ce:para>
+                                            </ce:list-item>
+                                        </ce:list>
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0035">
+                <ce:section-title id="st0040">Past psychiatric history</ce:section-title>
+                <ce:para id="p0335">This is an extremely important section as it may provide clues to the patient's
+                    current diagnosis. It should include:
+                    <ce:list id="l0080">
+                        <ce:list-item id="u0200">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0340">Previous or ongoing psychiatric diagnoses.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0205">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0345">Dates and duration of previous mental illness episodes.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0210">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0350">Details of previous treatments, including medication, psychotherapy,
+                                electroconvulsive therapy and hospitalization.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0215">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0355">Details of previous contact with psychiatric services.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0220">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0360">Details of previous assessment or treatment under mental health
+                                legislation.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0040">
+                <ce:section-title id="st0045">Past medical history</ce:section-title>
+                <ce:para id="p0365">Enquire about medical illnesses or surgical procedures. Past head injury or surgery,
+                    neurological conditions (e.g. epilepsy) and endocrine abnormalities (e.g. thyroid problems) are
+                    especially relevant to psychiatry.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0045">
+                <ce:section-title id="st0050">Current medication</ce:section-title>
+                <ce:para id="p0370">Note all the medication patients are using, including psychiatric, non-psychiatric
+                    and over-the-counter drugs. Also enquire how long patients have been on specific medication and
+                    whether it has been effective. Non-concordance as well as reactions and allergies should be
+                    recorded.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0050">
+                <ce:section-title id="st0055">Family history</ce:section-title>
+                <ce:para id="p0375">
+                    <ce:list id="l0085">
+                        <ce:list-item id="u0225">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0380">Enquire about the presence of psychiatric illness (including suicide and
+                                substance abuse) in family members, remembering that genetic factors are implicated in
+                                the aetiology of many psychiatric conditions. A family tree may be useful to summarize
+                                information.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0230">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0385">Enquire whether parents are still alive and if not, causes of death.
+                                Also ask about significant physical illnesses in the family.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0235">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0390">Ask whether the patient has any siblings and, if so, where they are in
+                                the birth order.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0240">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0395">Enquire about the quality of the patient's relationships with close
+                                family members.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0055">
+                <ce:section-title id="st0060">Personal history</ce:section-title>
+                <ce:para id="p0400">The personal history consists of a brief description of the patient's life. Time
+                    constraints will not allow an exhaustive biographical account, but you should attempt to include
+                    significant events, perhaps under the following useful headings:
+                </ce:para>
+                <ce:section id="s0060">
+                    <ce:section-title id="st0065">Infancy and early childhood (until age 5)</ce:section-title>
+                    <ce:para id="p0405">
+                        <ce:list id="l0090">
+                            <ce:list-item id="u0245">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0410">Pregnancy and birth complications (e.g. prematurity, fetal distress,
+                                    caesarean section).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0250">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0415">Developmental milestones (age of crawling, walking, speaking,
+                                    bladder and bowel control).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0255">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0420">Childhood illnesses.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0260">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0425">Unusually aggressive behaviour or impaired social interaction.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0065">
+                    <ce:section-title id="st0070">Later childhood and adolescence (until completion of higher
+                        education)
+                    </ce:section-title>
+                    <ce:para id="p0430">
+                        <ce:list id="l0095">
+                            <ce:list-item id="u0265">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0435">History of physical, sexual or emotional abuse (if appropriate to
+                                    circumstances).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0270">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0440">School record (academic performance, number and type of schools
+                                    attended, age on leaving, and final qualifications).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0275">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0445">Relationships with parents, teachers and peers. Victim or
+                                    perpetrator of bullying.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0280">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0450">Behavioural problems, including antisocial behaviour, drug use or
+                                    truancy.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0285">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0455">Higher education and training.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0070">
+                    <ce:section-title id="st0075">Occupational record</ce:section-title>
+                    <ce:para id="p0460">
+                        <ce:list id="l0100">
+                            <ce:list-item id="u0290">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0465">Details of types and duration of jobs.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0295">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0470">Details of and reasons for unemployment and/or dismissal.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0075">
+                    <ce:section-title id="st0080">Relationship, marital and sexual history</ce:section-title>
+                    <ce:para id="p0475">
+                        <ce:list id="l0105">
+                            <ce:list-item id="u0300">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0480">Puberty: significant early relationships and experiences as well as
+                                    sexual orientation (if appropriate).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0305">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0485">Details and duration of significant relationships. Reasons for
+                                    break-ups.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0310">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0490">Marriage/divorce details. Children.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0315">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0495">Ability to engage in satisfactory sexual relationships. Sexual
+                                    dysfunction, fetishes or gender identity problems (only enquire if problem is
+                                    suspected).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt1" id="b0025">
+                                <ce:textbox-head>
+                                    <ce:title>COMMUNICATION</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0500">A history of sexual abuse is important to detect. This can
+                                            be awkward. Tact and discretion are vital. You may find it useful to grade
+                                            your questions, e.g.: When was your first relationship? When was your first
+                                            sexual experience? Have you ever had an unpleasant sexual experience?
+                                            Sometimes such experiences are unpleasant because they are unwanted or
+                                            because the person is too young to understand …? Leaving the question open
+                                            allows the patient room to answer freely rather than ‘yes’ or ‘no’.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0080">
+                    <ce:section-title id="st0085">Social circumstances</ce:section-title>
+                    <ce:para id="p0505">This includes accommodation, social supports and relationships, employment and
+                        financial circumstances, and hobbies or leisure activities. It is important to identify if the
+                        patient has current frequent contact with children, in case their presentation raises any child
+                        protection concerns. This section is important in order to understand the social context in
+                        which the patient's problems developed.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0085">
+                    <ce:section-title id="st0090">Alcohol and substance use</ce:section-title>
+                    <ce:para id="p0510">This section should never be overlooked, as alcohol/substance-related
+                        psychiatric conditions are very common.
+                    </ce:para>
+                    <ce:para id="p0515">The CAGE questionnaire (see<ce:intra-ref id="ia9000"
+                                                                                 xlink:href="pii:B978-0-7234-3863-2.00015-5#p0565">
+                        p. 122</ce:intra-ref>) is a useful tool to screen for alcohol dependence. If a patient answers
+                        affirmatively to two or more questions, regard the screen as positive and go on to check if they
+                        meet criteria for alcohol dependence syndrome (see<ce:intra-ref id="ia8000"
+                                                                                        xlink:href="pii:B978-0-7234-3863-2.00015-5#f0015">
+                            p. 117</ce:intra-ref>). Try to elicit a patient's typical drinking day including daily
+                        intake of alcohol in units, type of alcohol used, time of first drink of the day and places
+                        where drinking occurs (e.g. at home alone or in a pub).
+                    </ce:para>
+                    <ce:para id="p0520">If illicit drugs have been or are being used, record the drug names, routes of
+                        administration (intravenous, inhaled, oral ingestion) and the years and frequency of use. Also
+                        enquire about possible dependence (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3863-2.00015-5#f0010" id="ia0075">p. 116, Ch.
+                            15</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0090">
+                    <ce:section-title id="st0095">Forensic history</ce:section-title>
+                    <ce:para id="p0525">Enquire about the details and dates of previous offences and antisocial
+                        behaviour, including prosecutions, convictions and prison sentences. It is important to ask
+                        specifically about violent crime and the age of the patient's first violent offence.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0095">
+                <ce:section-title id="st0100">Premorbid personality</ce:section-title>
+                <ce:para id="p0530">The premorbid personality is an indication of the patient's personality and
+                    character before the onset of mental illness. It can be difficult to ascertain retrospectively.
+                    Indirect evidence of it can be provided from the personal history (e.g. have they ever been able to
+                    hold down a job or been in a long-term relationship? Have their interests changed?). Patients may be
+                    asked directly about their personality before they became ill, or it may be useful to ask a close
+                    family member or friend about a patient's premorbid personality.
+                </ce:para>
+                <ce:para id="p0535">For example:</ce:para>
+                <ce:para id="p0540">
+                    <ce:italic>A young man with schizophrenia, with prominent negative symptoms of lack of motivation
+                        and interest, and poverty of thought, was described by his mother as being outgoing, intelligent
+                        and ambitious before becoming ill.
+                    </ce:italic>
+                    <ce:display>
+                        <ce:textbox role="alt1" id="b0030">
+                            <ce:textbox-head>
+                                <ce:title>COMMUNICATION</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0545">One way to explore premorbid personality in a patient with some
+                                        insight is to ask questions such as: How would people have described you before?
+                                        How about now?
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0100">
+            <ce:section-title id="st0105">MENTAL STATE EXAMINATION</ce:section-title>
+            <ce:para id="p0550">The mental state examination (MSE) describes an interviewer's objective impression of
+                many aspects of a patient's mental functioning at a certain period of time. Whereas the psychiatric
+                history remains relatively constant, the MSE may fluctuate from day to day or hour to hour. It is useful
+                to try and gather as much evidence as possible about the MSE while doing the psychiatric history,
+                instead of viewing this as a separate section. In fact, the MSE begins the moment you meet the patient.
+                In addition to noting their appearance, you should observe how patients first behave on meeting you.
+                This includes their body language and the way that they respond to your attempts to establish rapport.
+                <ce:display>
+                    <ce:textbox role="alt1" id="b0035">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0555">In the mental state examination (MSE) only record what the patient
+                                    demonstrates or experiences during the interview (for example, if a patient reports
+                                    having had a hallucination 5 minutes before you entered the room, that would be
+                                    described in the history, not the mental state).
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+            <ce:para id="p0560">By the time you have finished the psychiatric history, you should have completed many
+                aspects of the MSE, and you should just need to ask certain key questions to finish this process off.
+                The individual aspects of the MSE, which are summarized in<ce:cross-ref refid="f0010">Figure
+                    1.1</ce:cross-ref>, are discussed in more detail below.
+            </ce:para>
+            <ce:para id="p0565">There is some variation in the order in which the MSE is reported (e.g. speech is
+                sometimes described before mood, and sometimes before thought form). As long as you include the
+                information, the exact order is not important.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0040">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0570">Don't just ask questions and write down answers! Appearance and
+                                    behaviour are vital to the mental state examination, especially with less
+                                    communicative patients. Posture, facial expression, tone of voice, spontaneity of
+                                    speech, state of relaxation and movements made are all important. You may find it
+                                    helpful to practise with a colleague – try writing down 10 points that describe
+                                    their appearance and behaviour without mentioning anything relating to questions
+                                    asked.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+            <ce:section id="s0105">
+                <ce:section-title id="st0110">Appearance</ce:section-title>
+                <ce:para id="p0575">
+                    <ce:list id="l0110">
+                        <ce:list-item id="u0320">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0580"><ce:italic>Physical state</ce:italic>: how old does the patient appear?
+                                Do they appear physically unwell? Are they sweating? Are they too thin or obese?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0325">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0585"><ce:italic>Clothes and accessories</ce:italic>: are clothes clean?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0330">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0590">
+                                <ce:italic>Do clothes match?</ce:italic>
+                                Are clothes appropriate to the weather and circumstances or are they bizarre? Is the
+                                patient carrying strange objects?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0335">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0595"><ce:italic>Self-care and hygiene</ce:italic>: does the patient appear to
+                                have been neglecting their appearance or hygiene (e.g. unshaven, dirty tangled hair,
+                                malodorous, dishevelled)? Is there any evidence of injury or self-harm (e.g. cuts to
+                                wrists or forearms)?
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0110">
+                <ce:section-title id="st0115">Behaviour and psychomotor function</ce:section-title>
+                <ce:para id="p0600">This section focuses on all motor behaviour, including abnormal movements such as
+                    tremors, tics and twitches as well as displays of suspiciousness, aggression or fear, and catatonic
+                    features. Documenting patients' behaviour at the start of, and during, the interview is an integral
+                    part of the mental state examination and should be done in as much detail as possible, e.g.:
+                </ce:para>
+                <ce:para id="p0605">
+                    <ce:italic>Mrs LM introduced herself appropriately, although only made fleeting eye contact. She sat
+                        rigidly throughout the first half of the interview, mostly staring at the floor and speaking
+                        very softly. She became tearful halfway through the interview when talking about her lack of
+                        self-esteem. After this her posture relaxed, her eye contact improved and there were moments
+                        when she smiled. There were no abnormal movements.
+                    </ce:italic>
+                </ce:para>
+                <ce:para id="p0610">The term ‘psychomotor’ is used to describe a patient's motor activity as a
+                    consequence of their concurrent mental processes. Psychomotor abnormalities include
+                    <ce:italic>retardation</ce:italic>
+                    (slow, monotonous speech; slow or absent body movements) and
+                    <ce:italic>agitation</ce:italic>
+                    (inability to sit still; fidgeting, pacing or hand-wringing; rubbing or scratching skin or clothes).
+                </ce:para>
+                <ce:para id="p0615">Note whether you are able to establish a good rapport with patients. What is their
+                    attitude towards you? Do they make good eye contact or do they look around the room or at the floor?
+                    Patients may be described as cooperative, cordial, uninterested, aggressive, defensive, guarded,
+                    suspicious, fearful, perplexed, preoccupied, disinhibited (that is, a lowering of normal social
+                    inhibitions, e.g. being over-familiar, or making sexually inappropriate comments), etc.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0045">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0620">Observations of appearance and behaviour may also reveal other
+                                        useful information (e.g. extrapyramidal side-effects from antipsychotic
+                                        medication). It is useful to remember to look for:
+                                        <ce:list id="l0115">
+                                            <ce:list-item id="u0340">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0625"><ce:italic>Parkinsonism</ce:italic>: drug-induced
+                                                    signs are most commonly a reduced arm swing and unusually upright
+                                                    posture while walking. Tremor and rigidity are late signs, in
+                                                    contrast to idiopathic parkinsonism.
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0345">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0630"><ce:italic>Acute dystonia</ce:italic>: involuntary
+                                                    sustained muscular contractions or spasms.
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0350">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0635"><ce:italic>Akathisia</ce:italic>: subjective feeling
+                                                    of inner restlessness and muscular discomfort.
+                                                </ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u0355">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p0640"><ce:italic>Tardive dyskinesia</ce:italic>: rhythmic,
+                                                    involuntary movements of head, limbs and trunk, especially chewing,
+                                                    grimacing of mouth and protruding, darting movements of tongue.
+                                                </ce:para>
+                                            </ce:list-item>
+                                        </ce:list>
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0115">
+                <ce:section-title id="st0120">Mood and affect</ce:section-title>
+                <ce:para id="p0645">
+                    <ce:italic>Mood</ce:italic>
+                    refers to a patient's sustained, subjectively experienced emotional state over a period of time.
+                    <ce:italic>Affect</ce:italic>
+                    refers to the transient ebb and flow of emotion in response to particular stimuli (e.g. smiling at a
+                    joke or crying at a sad memory).
+                </ce:para>
+                <ce:para id="p0650">Mood is assessed by asking patients how they are feeling. So, a patient's mood might
+                    be depressed, elated, anxious, guilty, frightened, angry, etc. It is described subjectively (what
+                    the patient says they are feeling) and objectively (what your impression of their prevailing mood is
+                    during the interview), e.g.
+                    <ce:italic>her mood was subjectively ‘rock bottom’ and objectively low.</ce:italic>
+                    <ce:cross-ref refid="f0015">Figure 1.2</ce:cross-ref>
+                    <ce:float-anchor refid="f0015"/>
+                    refers to typical questions that may be used to elicit depressed, elated or anxious moods.
+                </ce:para>
+                <ce:para id="p0655">Affect is assessed by observing patients' posture, facial expression, emotional
+                    reactivity and speech. There are two components to consider when assessing affect:
+                    <ce:list id="l0120">
+                        <ce:list-item id="o0045">
+                            <ce:label>1.</ce:label>
+                            <ce:para id="p0660">The appropriateness or congruity of the observed affect to the patient's
+                                subjectively reported mood (e.g. a woman with schizophrenia who reports feeling suicidal
+                                with a happy facial expression would be described as having an
+                                <ce:italic>incongruous</ce:italic>
+                                affect).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0050">
+                            <ce:label>2.</ce:label>
+                            <ce:para id="p0665">The range of affect or range of emotional expressivity. In this sense
+                                affect may be:
+                                <ce:list id="l0125">
+                                    <ce:list-item id="u0360">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0670">Within the normal range</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0365">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0675">Blunted/flat: a noticeable reduction in the normal intensity
+                                            of emotional expression as evidenced by a monotonous voice and minimal
+                                            facial expression.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Note that a
+                    <ce:italic>labile</ce:italic>
+                    mood refers to a fluctuating mood state that alternates between extremes (e.g. a young man with a
+                    mixed affective episode alternates between feeling overjoyed with pressure of speech and miserable
+                    with suicidal ideation).
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0120">
+                <ce:section-title id="st0125">Anxiety/obsessive-compulsive phenomena</ce:section-title>
+                <ce:para id="p0685">Obsessive-compulsive and anxiety symptoms (free-floating anxiety, panic attacks,
+                    phobias, ruminatory thoughts) need not be the presenting complaint to be present to a clinically
+                    significant degree. These symptoms are common to many psychiatric disorders and, if not specifically
+                    asked patients may fail to mention them. Also record stress reactions, dissociative symptoms, and
+                    depersonalization and derealization here (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3863-2.00012-X" id="ia0080">Ch. 12</ce:intra-ref>).
+                    <ce:cross-ref refid="f0015">Figure 1.2</ce:cross-ref>
+                    can direct you to typical questions that may be used to elicit obsessive-compulsive and anxiety
+                    symptoms.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0050">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0690">Depression and obsessive-compulsive symptoms often coexist (&gt;
+                                        <ce:hsp sp="0.10"/>20%) with onset before, simultaneously or after the onset of
+                                        depression. You may find it useful to have a set of screening questions ready to
+                                        use.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0125">
+                <ce:section-title id="st0130">Speech</ce:section-title>
+                <ce:para id="p0695">Speech should be described in terms of:
+                    <ce:list id="l0130">
+                        <ce:list-item id="u0370">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0700"><ce:italic>Rate of production</ce:italic>: e.g. pressure of speech in
+                                mania; long pauses and poverty of speech in depression.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0375">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0705"><ce:italic>Quality and flow of speech</ce:italic>: volume, dysarthria
+                                (articulation difficulties), dysprosody (unusual speech rhythm, melody, intonation or
+                                pitch), stuttering.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Note that disorganized, incoherent or bizarre speech (e.g. flight of ideas) is usually regarded as a
+                    thought disorder and is, therefore, described under the thought section.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0130">
+                <ce:section-title id="st0135">Thoughts</ce:section-title>
+                <ce:para id="p0715">Problems with thinking are considered under two headings: thought form (abnormal
+                    patterns of thinking) and thought content (abnormal beliefs).
+                </ce:para>
+                <ce:section id="s0135">
+                    <ce:section-title id="st0140">Thought form</ce:section-title>
+                    <ce:para id="p0720">Disordered thinking includes circumstantial and tangential thinking, loosening
+                        of association (derailment/knight's move thinking), neologisms and idiosyncratic word use,
+                        flight of ideas, thought blocking, perseveration, echolalia, and irrelevant answers (see
+                        <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00009-X#f0020" id="ia0085">p. 70, Ch.
+                            9</ce:intra-ref>, for the definitions of these terms). Whenever possible, record patients'
+                        disorganized speech word for word, as it can be very difficult to label disorganized thinking
+                        with a single technical term and written language may be easier to evaluate than spoken
+                        language.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0140">
+                    <ce:section-title id="st0145">Thought content: delusions and overvalued ideas</ce:section-title>
+                    <ce:para id="p0725">It is diagnostically significant to classify delusions as:
+                        <ce:list id="l0135">
+                            <ce:list-item id="u0380">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0730">Primary or secondary.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0385">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0735">Mood congruent or mood incongruent.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0390">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0740">Bizarre or non-bizarre.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0395">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0745">And according to the content of the delusion (summarized in
+                                    <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00009-X#f0015" id="ia0090">Fig.
+                                        9.2, p. 69</ce:intra-ref>).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        See pages<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00009-X#u0110" id="ia0095">67–68,
+                            Chapter 9</ce:intra-ref>, for a detailed discussion.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0145">
+                <ce:section-title id="st0150">Perception</ce:section-title>
+                <ce:para id="p0755">Hallucinations are often mentioned during the history However, this is not always
+                    the case, so it is important that you specifically enquire about abnormal perceptual experiences
+                    (perceptual abnormalities are defined and classified on<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3863-2.00009-X#s0015" id="ia0100">p. 66, Ch. 9</ce:intra-ref>).
+                    If patients admit to problems with perception, it is important to ascertain:
+                    <ce:list id="l0140">
+                        <ce:list-item id="u0400">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0760">Whether the abnormal perceptions are genuine hallucinations,
+                                pseudohallucinations, illusions, or intrusive thoughts.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0405">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0765">From which sensory modality the hallucinations appear to arise (i.e. are
+                                they auditory, visual, olfactory, gustatory or somatic hallucinations – see<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3863-2.00009-X#u0110" id="ia8100">p.
+                                    67</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0410">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0770">Whether auditory hallucinations are elementary or complex. If complex,
+                                are they experienced in the first person (audible thoughts, thought echo), second person
+                                (critical, persecutory, complimentary or command hallucinations) or third person (voices
+                                arguing or discussing the patient, or giving a running commentary)?
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    It is also important to note whether patients seem to be responding to hallucinations during the
+                    interview, as evidenced by them laughing inappropriately as though they are sharing a private joke,
+                    or suddenly tilting their head as though listening, or quizzically looking at hallucinatory objects
+                    around the room.
+                </ce:para>
+                <ce:para id="p0780">
+                    <ce:cross-ref refid="f0015">Figure 1.2</ce:cross-ref>
+                    can direct you to typical questions that may be used to elicit perceptual abnormalities.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0150">
+                <ce:section-title id="st0155">Cognition</ce:section-title>
+                <ce:para id="p0785">The cognition of all patients should be screened by checking orientation to place
+                    and time. Depending on the circumstances, a more thorough cognitive assessment may be required.
+                    Cognitive tests are discussed fully in<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00014-3"
+                                                                        id="ia0105">Chapter 14</ce:intra-ref>, including
+                    tests of generalized cognitive abilities (e.g. consciousness, attention, orientation) and specific
+                    abilities (e.g. memory, language, executive function, praxis, perception).
+                    <ce:intra-refs>
+                        <ce:intra-refs-text id="ix0010">Figures 14.1, 14.2, 14.3</ce:intra-refs-text>
+                        <ce:intra-ref-end xlink:href="pii:B978-0-7234-3863-2.00014-3#f0010">
+                            <ce:intra-ref-title>Figure 14.1</ce:intra-ref-title>
+                        </ce:intra-ref-end>
+                        <ce:intra-ref-end xlink:href="pii:B978-0-7234-3863-2.00014-3#f0015">
+                            <ce:intra-ref-title>Figure 14.2</ce:intra-ref-title>
+                        </ce:intra-ref-end>
+                        <ce:intra-ref-end xlink:href="pii:B978-0-7234-3863-2.00014-3#f0020">
+                            <ce:intra-ref-title>Figure 14.3</ce:intra-ref-title>
+                        </ce:intra-ref-end>
+                        <ce:intra-refs-link/>
+                    </ce:intra-refs>
+                    and
+                    <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00014-3#f0065" id="ia9100">14.12</ce:intra-ref>
+                    describe methods of testing cognition.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0155">
+                <ce:section-title id="st0160">Insight</ce:section-title>
+                <ce:para id="p0790">Insight is not an all or nothing attribute. It is often described as good, partial
+                    or poor, although really patients lie somewhere on a spectrum and vary over time. The key questions
+                    to answer are:
+                    <ce:list id="l0145">
+                        <ce:list-item id="u0415">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0795">Does the patient believe they are unwell in any way?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0420">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0800">Do they believe they are mentally unwell?</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0425">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0805">Do they think they need treatment? (pharmacological, psychological or
+                                both?)
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0430">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0810">Do they think they need to be admitted to hospital?</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0160">
+            <ce:section-title id="st0165">RISK ASSESSMENT</ce:section-title>
+            <ce:para id="p0815">Although it is extremely difficult to make an accurate assessment of risk based on a
+                single assessment, clinicians are expected to, as far as is possible, establish some idea of a patient's
+                risk to:
+                <ce:list id="l0150">
+                    <ce:list-item id="u0435">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0820"><ce:italic>Self</ce:italic>: through self-harm, suicide, self-neglect or
+                            exploitation by others.
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00006-4" id="ia0115">Chapter 6
+                            </ce:intra-ref>
+                            explains the assessment of suicide risk in detail.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0440">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0825"><ce:italic>Others</ce:italic>: includes violent or sexual crime, stalking
+                            and harassment.<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00029-5#f0010" id="ia0120">
+                                Chapter 29, page 198</ce:intra-ref>, discusses key principles in assessing
+                            dangerousness.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0445">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0830"><ce:italic>Children</ce:italic>: includes physical, sexual or emotional
+                            abuse as well as neglect or deprivation. Child abuse is discussed in more detail in
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00027-1#b0030" id="ia0125">Chapter 27, page
+                                192</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0450">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0835"><ce:italic>Property</ce:italic>: includes arson and physical destruction of
+                            property.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0055">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0840">Risk assessment is a vital part of psychiatric assessment. Risk to
+                                    self is one part of this and you may find it helps to also have a heading for ‘risk
+                                    to others’. You should try to get used to using both when presenting to examiners.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0165">
+            <ce:section-title id="st0170">PHYSICAL EXAMINATION</ce:section-title>
+            <ce:para id="p0845">The psychiatric examination includes a general physical examination, with special focus
+                on the neurological and endocrine system. Always remember to look for signs relevant to the psychiatric
+                history, e.g. signs of liver disease in patients who abuse alcohol, opthalmoplegia or ataxia in someone
+                withdrawing from alcohol (indicating Wernicke's encephalopathy), signs of self-harm in patients with a
+                personality disorder, signs of intravenous drug use (track marks) in patients who use drugs. Also,
+                examine for side-effects of psychiatric medication (e.g. parkinsonism, tardive dyskinesia, dystonia and
+                hypotension). In an exam situation it may not be possible to complete an examination, but you should
+                always mention that you would do so. Always make a point of mentioning your positive physical findings
+                when summarizing the case.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0170">
+            <ce:section-title id="st0175">THE FORMULATION: PRESENTING THE CASE</ce:section-title>
+            <ce:para id="p0850">The ‘formulation’ is the term psychiatrists use to describe the integrated summary and
+                understanding of a particular patient's problems. It usually includes:
+                <ce:list id="l0155">
+                    <ce:list-item id="u0455">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0855">Description of the patient.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0460">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0860">Differential diagnosis.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0465">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0865">Aetiology.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0470">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0870">Management.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0475">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0875">Prognosis.</ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0175">
+                <ce:section-title id="st0180">Description of the patient</ce:section-title>
+                <ce:para id="p0880">The patient may be described: (1) in detail by recounting all of the information
+                    obtained under the various headings in the psychiatric history and mental state examination; or (2)
+                    in the form of a case summary. The case summary consists of one or two paragraphs and contains only
+                    the salient features of a case, specifically:
+                    <ce:list id="l0160">
+                        <ce:list-item id="u0480">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0885">Identifying information.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0485">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0890">Main features of the presenting complaint.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0490">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0895">Relevant background details (e.g. past psychiatric history, positive
+                                family history).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0495">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0900">Positive findings in the mental state examination and physical
+                                examination.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:cross-ref refid="f0020">Figure 1.3</ce:cross-ref>
+                    <ce:float-anchor refid="f0020"/>
+                    shows a case summary in a case formulation.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0060">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0910">When presenting your differential diagnosis, remember that two
+                                        or more psychiatric disorders can coexist (e.g. depression and alcohol abuse).
+                                        In this event, it is important to ascertain whether the conditions are
+                                        independent or related (e.g. alcohol abuse that has developed secondary to the
+                                        depressive symptoms of emptiness and difficulty sleeping).
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0180">
+                <ce:section-title id="st0185">Differential diagnosis</ce:section-title>
+                <ce:para id="p0915">The differential diagnosis is mentioned in order of decreasing probability. Only
+                    mention conditions that you have obtained evidence about in your assessment, as you should be able
+                    to provide reasons for and against all the alternatives on your list.
+                    <ce:cross-ref refid="f0020">Figure 1.3</ce:cross-ref>
+                    provides an example of a typical differential diagnosis.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0185">
+                <ce:section-title id="st0190">Aetiology</ce:section-title>
+                <ce:para id="p0920">The exact cause of most psychiatric disorders is very often unknown and most cases
+                    seem to involve a complex interplay of biological, social and psychological factors. In clinical
+                    practice, psychiatrists are especially concerned with the question: ‘What factors led to this
+                    particular patient presenting with this specific problem at this specific point in time?’ That is,
+                    what factors predisposed to the problem, what factors precipitated the problem and what factors are
+                    perpetuating the problem?
+                    <ce:cross-ref refid="f0020">Figure 1.3</ce:cross-ref>
+                    illustrates an aetiology grid that is very helpful in structuring your answers to these questions in
+                    terms of biological, social and psychological factors – the emphasis should be on
+                    <ce:italic>considering</ce:italic>
+                    all the blocks in the grid, not necessarily on filling them.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0190">
+                <ce:section-title id="st0195">Management</ce:section-title>
+                <ce:section id="s0195">
+                    <ce:section-title id="st0200">Investigations</ce:section-title>
+                    <ce:para id="p0925">Investigations are considered part of the management plan and are performed
+                        based on findings from the psychiatric assessment. It is useful to divide them into
+                        <ce:italic>physical, social</ce:italic>
+                        and
+                        <ce:italic>psychological</ce:italic>
+                        investigations (see<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00007-6#u0130" id="ia0130">
+                            p. 54, Chapter 7</ce:intra-ref>, for an example). Appropriate investigations relevant to
+                        specific conditions are given in the relevant chapters. Familiarize yourself with these, as you
+                        should be able to give reasons for any investigation you propose.
+                        <ce:display>
+                            <ce:textbox role="alt2" id="b0065">
+                                <ce:textbox-head>
+                                    <ce:title>Case summary</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0930">Mr PP is a 23-year-old, single man in full-time education,
+                                            who recently agreed to voluntary hospital admission. He presented with a
+                                            6-month history of hearing voices and bizarre beliefs that he was being
+                                            subjected to government experiments. During this time his college attendance
+                                            had been uncharacteristically poor, he had terminated his part-time work,
+                                            and he had become increasingly socially withdrawn. He has no history of past
+                                            psychiatric illness and denies the use of alcohol or illicit substances;
+                                            however he did mention that his maternal uncle suffers from schizophrenia.
+                                            On mental state examination he appeared unkempt and behaved suspiciously. He
+                                            had delusions of persecution, reference and thought control as well as
+                                            delusional perception. He also described second person command
+                                            hallucinations and third person, running commentary hallucinations. He
+                                            appeared to have no insight into his mental illness as he refused to
+                                            consider that he might be unwell. There were no abnormalities on physical
+                                            examination.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0200">
+                    <ce:section-title id="st0205">Specific management plan</ce:section-title>
+                    <ce:para id="p0935">It may help to structure your management plan by considering biological, social
+                        and psychological aspects of treatment (the
+                        <ce:italic>biopsychosocial approach)</ce:italic>
+                        in terms of immediate to short-term, and medium to long-term management. See
+                        <ce:cross-ref refid="f0020">Figure 1.3</ce:cross-ref>
+                        for an example of this method.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0205">
+                <ce:section-title id="st0210">Prognosis</ce:section-title>
+                <ce:para id="p0940">The prognosis is dependent on two factors:
+                    <ce:list id="l0165">
+                        <ce:list-item id="o0055">
+                            <ce:label>1.</ce:label>
+                            <ce:para id="p0945">The natural course of the condition, which is based on studies of
+                                patient populations; these are discussed for each disorder in the relevant chapters.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0060">
+                            <ce:label>2.</ce:label>
+                            <ce:para id="p0950">Individual patient factors (e.g. social support, concordance with
+                                treatment, comorbid substance abuse).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    See
+                    <ce:cross-ref refid="f0020">Figure 1.3</ce:cross-ref>
+                    for an example.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0070">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0960">Remember that investigations do not just include physical
+                                        investigations (e.g. blood tests), but also include social investigations (e.g.
+                                        obtaining collateral information from the patient's GP or family, obtaining
+                                        social work reports); and psychological investigations (e.g. psychometric
+                                        testing, mood rating scales).
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0210">
+            <ce:section-title id="st0215">CLASSIFICATION IN PSYCHIATRY</ce:section-title>
+            <ce:para id="p0965">There are two main categorical classification systems in psychiatry:
+                <ce:list id="l0170">
+                    <ce:list-item id="o0065">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0970">ICD-10: the tenth revision of the International Classification of Diseases,
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00005-2" id="ia0135">Chapter V
+                            </ce:intra-ref>
+                            (F) – Mental and behavioural disorders (published by the World Health Organization). The
+                            eleventh revision, ICD-11, is under preparation at the time of writing.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0070">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0975">DSM-IV: the fourth edition of the Diagnostic and Statistical Manual of
+                            Mental Disorders (published by the American Psychiatric Association). The text of the next
+                            edition, DSM-V, is under preparation at the time of writing.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                Both the ICD-10 and DSM-IV make use of a
+                <ce:italic>categorical classification</ce:italic>
+                system, which refers to the process of dividing mental disorders into discrete entities by means of
+                accurate descriptions of specific categories. In contrast, a
+                <ce:italic>dimensional approach</ce:italic>
+                rejects the idea of separate categories, hypothesizing that mental conditions exist on a continuum that
+                merges into normality.
+            </ce:para>
+            <ce:para id="p0985">The ICD-10 categorizes mental disorders according to descriptive statements and
+                diagnostic guidelines. The DSM-IV categorizes mental disorders according to<ce:italic>operational
+                    definitions</ce:italic>, which means that mental disorders are defined by a series of precise
+                inclusion and exclusion criteria. Note that the research version of the ICD-10 (Diagnostic criteria for
+                research) also makes use of operational definitions.
+            </ce:para>
+            <ce:para id="p0990">In general, both the ICD-10 and the DSM-IV propose a
+                <ce:italic>hierarchical</ce:italic>
+                diagnostic system, whereby disorders higher on the hierarchical ladder tend to be given precedence. As a
+                broad rule, organic and substance-related conditions take precedence over conditions such as
+                schizophrenia and mood disorders, which take precedence over anxiety disorders. This does not mean that
+                patients may not have more than one diagnosis; they may. It means that clinicians should:
+                <ce:list id="l0175">
+                    <ce:list-item id="u0500">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0995">Always consider a medical, or substance-related, cause of psychological
+                            symptoms, before any other.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0505">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p1000">Remember that certain conditions have symptoms in common. For example,
+                            schizophrenia commonly presents with features of depression and anxiety, and depression
+                            commonly presents with features of anxiety; in both cases, the treatment of the primary
+                            condition results in resolution of the symptoms – a separate diagnosis for every symptom is
+                            not needed.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                The ICD-10 and the DSM-IV share similar diagnostic categories and are, for the most part, technically
+                compatible.
+                <ce:cross-ref refid="f0025">Figure 1.4</ce:cross-ref>
+                <ce:float-anchor refid="f0025"/>
+                summarizes the main diagnostic categories in the ICD-10.
+            </ce:para>
+            <ce:para id="p1010">The DSM-IV uses a multi-axial diagnostic system with five axes. Axes I and II comprise
+                the entire spectrum of mental disorders. Axis I includes all mental disorders except personality
+                disorders and mental retardation, which fall under Axis II. Axis III includes any concurrent physical
+                disorder or medical condition, whether causative of the mental condition or not. Axis IV includes any
+                social or environmental problems that contribute to the mental condition. Axis V consists of a score
+                from 0 to 100, obtained from a global assessment of functioning (GAF) scale.
+                <ce:display>
+                    <ce:textbox role="alt1" id="b0075">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p1015">The term ‘neurosis’ is no longer used in the DSM-IV, although
+                                    retained in the ICD-10 as the group heading title for the anxiety disorders: F4 –
+                                    Neurotic, stress related and somatoform disorders. When first introduced, ‘neurosis’
+                                    was the label given to all ‘diseases of the nerves’. However, in modern times, it
+                                    generally refers to mental disorders:
+                                    <ce:list id="l0180">
+                                        <ce:list-item id="u0510">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1020">That do not have an identified organic or
+                                                substance-related aetiology
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0515">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1025">In which contact with reality is maintained (that is,
+                                                non-psychotic disorders)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0520">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p1030">That are characterized by symptoms within the range of
+                                                normal experience (e.g. anxiety).
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                    It is best to avoid using this vague term. Instead, use the specific term that
+                                    accurately describes the condition (e.g. generalized anxiety disorder or
+                                    obsessive-compulsive disorder).
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10962222" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Viral infection can lead to a chronic antigenic stimulation and dysregulation of cytokines, resulting in B or T cell proliferation. Several viruses are implicated and their geographical locations may influence the development of lymphomas.</p>
+        <p>What virus is not implicated in lymphomas?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Epstein–Barr virus</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hepatitis C virus</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Herpes simplex</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Human T-cell leukaemia virus type 1</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Kaposi's sarcoma-associated herpes virus</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Herpes simplex) is Correct.</b>
+      Herpes simplex virus is not implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option A (Epstein–Barr virus) is Incorrect.</b>
+      Epstein–Barr virus is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option B (Hepatitis C virus) is Incorrect.</b>
+      Hepatitis C virus is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option D (Human T-cell leukaemia virus type 1) is Incorrect.</b>
+      Human T-cell leukaemia virus type 1 is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option E (Kaposi's sarcoma-associated herpes virus) is Incorrect.</b>
+      Kaposi's sarcoma-associated herpes virus is implicated in lymphomas.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Herpes simplex) is Correct.</b>
+      Herpes simplex virus is not implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option A (Epstein–Barr virus) is Incorrect.</b>
+      Epstein–Barr virus is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option B (Hepatitis C virus) is Incorrect.</b>
+      Hepatitis C virus is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option D (Human T-cell leukaemia virus type 1) is Incorrect.</b>
+      Human T-cell leukaemia virus type 1 is implicated in lymphomas.
+      <br/>
+      <br/>
+      <b>Option E (Kaposi's sarcoma-associated herpes virus) is Incorrect.</b>
+      Kaposi's sarcoma-associated herpes virus is implicated in lymphomas.
+    </p>
+  </modalFeedback>
+</assessmentItem>

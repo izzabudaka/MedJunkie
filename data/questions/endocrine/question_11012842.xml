@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11012842" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          A 34-year-old lady presents with a 6-week history of recurrent sore throats and mouth ulcers. She is known to have a diagnosis of hyperthyroidism and has been taking carbimazole for 8 months. Her neutrophil count is 1 × 10
+          <sup>9</sup>
+          /L (normal range 2.0–7.5 × 10
+          <sup>9</sup>
+          /L).
+        </p>
+        <p>What would you do?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Check clotting</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Perform an HIV test</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Reduce carbimazole dose</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Request thyroid function tests</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Stop carbimazole</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Stop carbimazole) is Correct.</b>
+      All patients must seek medical help if they develop signs of bone marrow suppression. If a low neutrophil count is confirmed, treatment must be discontinued.
+    </p>
+    <p>
+      <b>Option A (Check clotting) is Incorrect.</b>
+      There is no history of excessive bruising or suggestion of abnormal bleeding.
+    </p>
+    <p>
+      <b>Option B (Perform an HIV test) is Incorrect.</b>
+      The most likely diagnosis here is agranulocytosis, due to carbimazole. This must be excluded first before investigating other potential causes.
+    </p>
+    <p>
+      <b>Option C (Reduce carbimazole dose) is Incorrect.</b>
+      This will not treat agranulocytosis; carbimazole must be stopped.
+    </p>
+    <p>
+      <b>Option D (Request thyroid function tests) is Incorrect.</b>
+      Regular thyroid function monitoring is essential in those on carbimazole. However, it does not prevent agranulocytosis, which is a side effect of carbimazole.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Stop carbimazole) is Correct.</b>
+      All patients must seek medical help if they develop signs of bone marrow suppression. If a low neutrophil count is confirmed, treatment must be discontinued.
+    </p>
+    <p>
+      <b>Option A (Check clotting) is Incorrect.</b>
+      There is no history of excessive bruising or suggestion of abnormal bleeding.
+    </p>
+    <p>
+      <b>Option B (Perform an HIV test) is Incorrect.</b>
+      The most likely diagnosis here is agranulocytosis, due to carbimazole. This must be excluded first before investigating other potential causes.
+    </p>
+    <p>
+      <b>Option C (Reduce carbimazole dose) is Incorrect.</b>
+      This will not treat agranulocytosis; carbimazole must be stopped.
+    </p>
+    <p>
+      <b>Option D (Request thyroid function tests) is Incorrect.</b>
+      Regular thyroid function monitoring is essential in those on carbimazole. However, it does not prevent agranulocytosis, which is a side effect of carbimazole.
+    </p>
+  </modalFeedback>
+</assessmentItem>

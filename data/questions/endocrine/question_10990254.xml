@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10990254" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 40-year-old woman presents with fatigue, thirst and polydipsia. On examination she is overweight, hypertensive and has corneal arcus. A random blood sugar is 12.3 mmol/L (normal range 3.6–5.8 mmol/L).</div>
+          </li>
+          <li>
+            <div>
+              <p>A 76-year-old woman presents with fatigue and feeling generally out of sorts. On examination she is pale and looks slightly yellow. She admits to feeling depressed with poor concentration. Her blood tests are below:</p>
+              <p>Thyroid stimulating hormone      6.00 mU/L (normal range 0.2–4.5 mU/L)</p>
+              <p>Glucose                              8.4 mmol/L (normal range 3.6–5.8 mmol/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>An 18-year-old woman presents with general malaise. She has a history of pernicious anaemia and vitiligo.  Routine blood tests reveal the following:</p>
+              <p>Sodium                               135 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium                          6.2 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea                                   3.2 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatine                              85 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>Thyroid stimulating hormone      2.0 mU/L (normal range 0.2–4.5 mU/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 25-year-old man is referred to his GP with hypertension at a routine company medical. On examination his blood pressure is 185/76 mmHg. Bloods tests are shown below:</p>
+              <p>Sodium          145 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium     2.8 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Bicarbonate   32 mmol/L (normal range 21–29 mmol/L)</p>
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Addison's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Conn's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Cushing's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Diabetes insipidus</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Diabetes mellitus</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Hyperparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Hyperthyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Hypothyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Reye's syndrome</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Diabetes mellitus) is Correct.</b>
+      The osmotic symptoms suggest diabetes mellitus, most likely type 2.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Diabetes mellitus) is Correct.</b>
+      The osmotic symptoms suggest diabetes mellitus, most likely type 2.
+    </p>
+  </modalFeedback>
+</assessmentItem>

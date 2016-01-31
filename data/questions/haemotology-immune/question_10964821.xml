@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10964821" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Anaemia is a reduction in red cell haemoglobin concentration relative to that found in a population of similar age and sex. Anaemias usually have an underlying cause.</p>
+        <p>What type of anaemia is associated with renal failure?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Haemolytic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Macrocytic anaemic with megaloblastic marrow</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Macrocytic anaemia with normoblastic marrow</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Microcytic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Normocytic anaemia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Normocytic anaemia) is Correct.</b>
+      Normocytic anaemia is associated with renal failure.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>small red cells</b>
+            <br/>
+            Mean cell volume &lt;76 fL
+            <br/>
+            &lt;/76>Microcytic
+          </td>
+          <td colspan="2">
+            Iron deficiency
+            <br/>
+            Thalassaemia
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>normal sized red cells</b>
+            <br/>
+            Mean cell volume normal
+            <br/>
+            Normocytic
+          </td>
+          <td colspan="2">
+            Acute blood loss
+            <br/>
+            Anaemia of chronic disease
+            <br/>
+            Renal failure
+            <br/>
+            Hypothyroidism
+            <br/>
+            Bone marrow infiltration with leukaemia, or other cancers
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="2">
+            <b>large red cells</b>
+            <br/>
+            Mean cell volume >96 fL
+            <br/>
+            Macrocytic
+          </td>
+          <td>Megaloblastic marrow</td>
+          <td>
+            Vitamin B
+            <sub>12</sub>
+            or folate deficiency
+          </td>
+        </tr>
+        <tr>
+          <td>Normoblastic marrow</td>
+          <td>
+            Alcohol
+            <br/>
+            Myelodysplasia
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.6 Causes of different forms of anaemia according to red cell volume.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Haemolytic anaemia) is Incorrect.</b>
+      Haemolytic anaemia is usually autoimmune in origin.
+      <br/>
+      <br/>
+      <b>Option B (Macrocytic anaemic with megaloblastic marrow) is Incorrect.</b>
+      Macrocytic anaemic with megaloblastic marrow is caused by a deficiency of vitamin B
+      <sub>12</sub>
+      or folic acid.
+      <br/>
+      <br/>
+      <b>Option C (Macrocytic anaemia with normoblastic marrow) is Incorrect.</b>
+      Macrocytic anaemia with normoblastic marrow is caused by myelodysplasia or alcohol.
+      <br/>
+      <br/>
+      <b>Option D (Microcytic anaemia) is Incorrect.</b>
+      Microcytic anaemia is caused by iron deficiency or thalassaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Normocytic anaemia) is Correct.</b>
+      Normocytic anaemia is associated with renal failure.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <b>small red cells</b>
+            <br/>
+            Mean cell volume &lt;76 fL
+            <br/>
+            &lt;/76>Microcytic
+          </td>
+          <td colspan="2">
+            Iron deficiency
+            <br/>
+            Thalassaemia
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>normal sized red cells</b>
+            <br/>
+            Mean cell volume normal
+            <br/>
+            Normocytic
+          </td>
+          <td colspan="2">
+            Acute blood loss
+            <br/>
+            Anaemia of chronic disease
+            <br/>
+            Renal failure
+            <br/>
+            Hypothyroidism
+            <br/>
+            Bone marrow infiltration with leukaemia, or other cancers
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="2">
+            <b>large red cells</b>
+            <br/>
+            Mean cell volume >96 fL
+            <br/>
+            Macrocytic
+          </td>
+          <td>Megaloblastic marrow</td>
+          <td>
+            Vitamin B
+            <sub>12</sub>
+            or folate deficiency
+          </td>
+        </tr>
+        <tr>
+          <td>Normoblastic marrow</td>
+          <td>
+            Alcohol
+            <br/>
+            Myelodysplasia
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Table 12.6 Causes of different forms of anaemia according to red cell volume.
+      <br/>
+      Taken from: Naish et al: Basic Medical Sciences 1E
+      <br/>
+      <br/>
+      <b>Option A (Haemolytic anaemia) is Incorrect.</b>
+      Haemolytic anaemia is usually autoimmune in origin.
+      <br/>
+      <br/>
+      <b>Option B (Macrocytic anaemic with megaloblastic marrow) is Incorrect.</b>
+      Macrocytic anaemic with megaloblastic marrow is caused by a deficiency of vitamin B
+      <sub>12</sub>
+      or folic acid.
+      <br/>
+      <br/>
+      <b>Option C (Macrocytic anaemia with normoblastic marrow) is Incorrect.</b>
+      Macrocytic anaemia with normoblastic marrow is caused by myelodysplasia or alcohol.
+      <br/>
+      <br/>
+      <b>Option D (Microcytic anaemia) is Incorrect.</b>
+      Microcytic anaemia is caused by iron deficiency or thalassaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10957359" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>In some instances, genetic variation confers protection against endemic infections.</p>
+        <p>What genetic abnormality (polymorphism) provides some protection against certain types of malaria infection?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Turner's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Sickle cell anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Fragile X syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Huntington's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Ankylosing spondylitis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Sickle cell anaemia) is Correct.</b>
+      Sickle cell disease is an example of a single nucleotide polymorphism. Individuals with the abnormal sickle cell haemoglobin are protected from
+      <i>Plasmodium falciparum</i>
+      infection. Merozoites normally interact with red cells through two interactions that are dependent on
+      <i>P. falciparum</i>
+      erythrocyte membrane protein-1. These proteins are impaired in individuals with sickle cell haemoglobin, explaining why sickle cell disease has not been lost from the tropical world through natural selection.
+      <br/>
+      <br/>
+      <b>Option A (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome is the result of the absence of one X chromosome (XO), not polymorphism.
+      <br/>
+      <br/>
+      <b>Option C (Fragile X syndrome) is Incorrect.</b>
+      Fragile X syndrome is caused by single nucleotide polymorphism, where there are insertions of nucleotides in multiples of three. It does not protect against endemic infection.
+      <br/>
+      <br/>
+      <b>Option D (Huntington's disease) is Incorrect.</b>
+      Huntington's disease is caused by triple nucleotide repeats in single nucleotide polymorphism.
+      <br/>
+      <br/>
+      <b>Option E (Ankylosing spondylitis) is Incorrect.</b>
+      Ankylosing spondylitis patients express human lymphocyte antigen (HLA)-B27 genotype. The greatest single nucleotide polymorphism diversity is found on the HLA locus. Ankylosing spondylitis is not protective against endemic infection.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Sickle cell anaemia) is Correct.</b>
+      Sickle cell disease is an example of a single nucleotide polymorphism. Individuals with the abnormal sickle cell haemoglobin are protected from
+      <i>Plasmodium falciparum</i>
+      infection. Merozoites normally interact with red cells through two interactions that are dependent on
+      <i>P. falciparum</i>
+      erythrocyte membrane protein-1. These proteins are impaired in individuals with sickle cell haemoglobin, explaining why sickle cell disease has not been lost from the tropical world through natural selection.
+      <br/>
+      <br/>
+      <b>Option A (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome is the result of the absence of one X chromosome (XO), not polymorphism.
+      <br/>
+      <br/>
+      <b>Option C (Fragile X syndrome) is Incorrect.</b>
+      Fragile X syndrome is caused by single nucleotide polymorphism, where there are insertions of nucleotides in multiples of three. It does not protect against endemic infection.
+      <br/>
+      <br/>
+      <b>Option D (Huntington's disease) is Incorrect.</b>
+      Huntington's disease is caused by triple nucleotide repeats in single nucleotide polymorphism.
+      <br/>
+      <br/>
+      <b>Option E (Ankylosing spondylitis) is Incorrect.</b>
+      Ankylosing spondylitis patients express human lymphocyte antigen (HLA)-B27 genotype. The greatest single nucleotide polymorphism diversity is found on the HLA locus. Ankylosing spondylitis is not protective against endemic infection.
+    </p>
+  </modalFeedback>
+</assessmentItem>

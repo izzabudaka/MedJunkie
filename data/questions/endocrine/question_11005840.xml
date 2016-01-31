@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11005840" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>An overweight 40-year-old woman presents with a 6-month history of worsening lethargy. She says that she constantly feels tired and cold, despite a healthy diet and no major changes in lifestyle. She also complains of hair thinning and menorrhagia. She is medically fit and does not take any medications.</p>
+        <p>Examination reveals coarse facial features with rough and dry skin. Her hair is dry and brittle, and the outer third of her eyebrows has also thinned. Reflexes are sluggish.</p>
+        <p>What investigation should be requested?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Abdominal X-ray</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Haemoglobin level</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Luteinizing hormone (LH):follicle-stimulating hormone (FSH) level</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Plasma cortisol level</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid function tests</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      The history suggests a presentation of hypothyroidism, which can be diagnosed by requesting thyroid stimulating hormone (TSH) and free T4 levels.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Abdominal X-ray will not assist the diagnosis here; the patient has not presented with gastrointestinal symptoms.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Although anaemia may explain the patient's tiredness, this does not cause coarse facial features or sluggish reflexes.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Whilst this investigation would be helpful in identifying menopause or polycystic ovarian syndrome, there is no suggestion of either of those two diagnoses in this presentation.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      There are no suggestions of Cushing's or Conn's syndrome and cortisol will therefore not be as useful as thyroid function tests in the first instance.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      The history suggests a presentation of hypothyroidism, which can be diagnosed by requesting thyroid stimulating hormone (TSH) and free T4 levels.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Abdominal X-ray will not assist the diagnosis here; the patient has not presented with gastrointestinal symptoms.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Although anaemia may explain the patient's tiredness, this does not cause coarse facial features or sluggish reflexes.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Whilst this investigation would be helpful in identifying menopause or polycystic ovarian syndrome, there is no suggestion of either of those two diagnoses in this presentation.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      There are no suggestions of Cushing's or Conn's syndrome and cortisol will therefore not be as useful as thyroid function tests in the first instance.
+    </p>
+  </modalFeedback>
+</assessmentItem>

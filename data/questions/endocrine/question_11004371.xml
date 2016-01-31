@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11004371" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 78-year-old woman presents with gradual onset of aching in both shoulders and both hips. Her erythrocyte sedimentation rate is 92 mm/hr (normal range 3–15 mm/hr). A diagnosis of polymyalgia rheumatica is made and treatment with prednisolone is recommended.</p>
+        <p>What is the major side effect of steroid therapy?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">End-stage renal failure</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hypotension</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Pancreatitis</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Schizophrenia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Weight loss</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Pancreatitis is a recognized complication of steroid therapy.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Steroids do not cause end-stage renal failure.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Steroids cause hypertension because corticosteroids have some mineralocorticoid effect with salt and water retention.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Steroids do not typically cause schizophrenia. They can cause insomnia, euphoria and mania. Depression can occur with steroid withdrawal after long-term use.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Steroids typically cause weight gain.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Pancreatitis is a recognized complication of steroid therapy.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Steroids do not cause end-stage renal failure.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Steroids cause hypertension because corticosteroids have some mineralocorticoid effect with salt and water retention.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Steroids do not typically cause schizophrenia. They can cause insomnia, euphoria and mania. Depression can occur with steroid withdrawal after long-term use.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Steroids typically cause weight gain.
+    </p>
+  </modalFeedback>
+</assessmentItem>

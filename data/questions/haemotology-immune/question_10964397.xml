@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10964397" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Lymphomas are malignancies that affect lymphoid tissue. Different chromosomal translocations and molecular rearrangements influence the pathology and disease prognosis. Lymphomas may be non-Hodgkin's or Hodgkin's.</p>
+        <p>Which of the following is the chromosome translocation of mantle cell lymphoma?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">t(2;5)</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">t(11;18)</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">t(8;14)</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">t(14;18)</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">t(11;14)</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (t(11;14) is Correct.</b>
+      Mantle cell lymphomas are due to translocation of t(11;14).
+      <br/>
+      <br/>
+      Chromosomal translocations in lymphomas:
+    </p>
+    <ul>
+      <li>
+        t(14;18) involves an apoptotic inhibitor oncogene,
+        <i>bcl</i>
+        -2, leading to its over-expression, associated with follicular lymphoma.
+      </li>
+      <li>
+        t(11;14) leads to over-expression of the cell cycle regulator,
+        <i>bcl-</i>
+        1, associated with mantle cell lymphoma.
+      </li>
+      <li>t(8;14) leads to movement of the c-myc proto-oncogene and results in its deregulation, leading to cell proliferation, associated with Burkitt and HIV-infection associated lymphomas.</li>
+      <li>
+        t(2;5) links two genes (
+        <i>NPM</i>
+        ) and (
+        <i>ALK1</i>
+        ) and produces a new protein which is found in associated anaplastic large cell lymphomas.
+      </li>
+      <li>
+        t(11;18) links an apoptosis inhibitor gene with the
+        <i>MALT1</i>
+        gene and produces a protein associated with MALT lymphomas.
+      </li>
+    </ul>
+    <p>
+      <b>Option A (t(2;5)) is Incorrect.</b>
+      Translocation of t(2;5) leads to anaplastic large cell lymphoma.
+    </p>
+    <p>
+      <b>Option B (t(11;18)) is Incorrect.</b>
+      Translocation of t(11;18) leads to MALT lymphoma.
+    </p>
+    <p>
+      <b>Option C (t(8;14)) is Incorrect.</b>
+      Translocations of t(8;14) are associated with Burkitt and HIV infection associated lymphoma.
+    </p>
+    <p>
+      <b>Option D (t(14;18)) is Incorrect.</b>
+      Translocation of t(14;18) is associated with follicular lymphoma.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (t(11;14) is Correct.</b>
+      Mantle cell lymphomas are due to translocation of t(11;14).
+      <br/>
+      <br/>
+      Chromosomal translocations in lymphomas:
+    </p>
+    <ul>
+      <li>
+        t(14;18) involves an apoptotic inhibitor oncogene,
+        <i>bcl</i>
+        -2, leading to its over-expression, associated with follicular lymphoma.
+      </li>
+      <li>
+        t(11;14) leads to over-expression of the cell cycle regulator,
+        <i>bcl-</i>
+        1, associated with mantle cell lymphoma.
+      </li>
+      <li>t(8;14) leads to movement of the c-myc proto-oncogene and results in its deregulation, leading to cell proliferation, associated with Burkitt and HIV-infection associated lymphomas.</li>
+      <li>
+        t(2;5) links two genes (
+        <i>NPM</i>
+        ) and (
+        <i>ALK1</i>
+        ) and produces a new protein which is found in associated anaplastic large cell lymphomas.
+      </li>
+      <li>
+        t(11;18) links an apoptosis inhibitor gene with the
+        <i>MALT1</i>
+        gene and produces a protein associated with MALT lymphomas.
+      </li>
+    </ul>
+    <p>
+      <b>Option A (t(2;5)) is Incorrect.</b>
+      Translocation of t(2;5) leads to anaplastic large cell lymphoma.
+    </p>
+    <p>
+      <b>Option B (t(11;18)) is Incorrect.</b>
+      Translocation of t(11;18) leads to MALT lymphoma.
+    </p>
+    <p>
+      <b>Option C (t(8;14)) is Incorrect.</b>
+      Translocations of t(8;14) are associated with Burkitt and HIV infection associated lymphoma.
+    </p>
+    <p>
+      <b>Option D (t(14;18)) is Incorrect.</b>
+      Translocation of t(14;18) is associated with follicular lymphoma.
+    </p>
+  </modalFeedback>
+</assessmentItem>

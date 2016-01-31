@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10995396" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 56-year-old man presents with a 6-month history of lethargy and excessive bruising. He is known to have diabetes and rheumatoid arthritis and is taking steroids.</p>
+        <p>On inspection the patient has truncal obesity with a buffalo hump. He is noted to have thin skin with abdominal striae and pigmentation. A neurological examination reveals proximal muscle weakness.</p>
+        <p>From the following options, select the most appropriate diagnosis.</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acromegaly</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Cerebrovascular accident</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Cushing's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hypothyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Obesity</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Cushing's syndrome) is Correct.</b>
+      This patient is taking steroids which can lead to Cushing's syndrome. the clinical findings described are typical.
+    </p>
+    <p>
+      <b>Option A (Acromegaly) is Incorrect.</b>
+      Patients with acromegaly have coarse facial features and an increase in the size of their hands and feet.
+    </p>
+    <p>
+      <b>Option B (Cerebrovascular accident) is Incorrect.</b>
+      There is no history of change in vision or speech to suggest a CVA.
+    </p>
+    <p>
+      <b>Option D (Hypothyroidism) is Incorrect.</b>
+      Hypothyroidism is not associated with truncal obesity or buffalo hump.
+    </p>
+    <p>
+      <b>Option E (Obesity) is Incorrect.</b>
+      Simple obesity is not associated with excessive bruising and abdominal striae.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Cushing's syndrome) is Correct.</b>
+      This patient is taking steroids which can lead to Cushing's syndrome. the clinical findings described are typical.
+    </p>
+    <p>
+      <b>Option A (Acromegaly) is Incorrect.</b>
+      Patients with acromegaly have coarse facial features and an increase in the size of their hands and feet.
+    </p>
+    <p>
+      <b>Option B (Cerebrovascular accident) is Incorrect.</b>
+      There is no history of change in vision or speech to suggest a CVA.
+    </p>
+    <p>
+      <b>Option D (Hypothyroidism) is Incorrect.</b>
+      Hypothyroidism is not associated with truncal obesity or buffalo hump.
+    </p>
+    <p>
+      <b>Option E (Obesity) is Incorrect.</b>
+      Simple obesity is not associated with excessive bruising and abdominal striae.
+    </p>
+  </modalFeedback>
+</assessmentItem>

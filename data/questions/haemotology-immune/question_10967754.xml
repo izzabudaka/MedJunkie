@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10967754" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>In sickle cell disease, the haemoglobin molecule is abnormal. Red cells containing sickle haemoglobin elongate under conditions of reduced oxygen tension to form the characteristic sickle shape. These cells are more readily adherent to vascular endothelium than normal red blood cells, and do not flow well through small vessels. This can lead to vascular occlusion and sickle cell crisis.</p>
+        <p>Sickle cell anaemia is a result of glutamate being replaced by which amino acid?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Tyrosine</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Cysteine</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Valine</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Serine</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Arginine</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Valine) is Correct.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option A (Tyrosine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option B (Cysteine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option D (Serine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option E (Arginine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Valine) is Correct.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option A (Tyrosine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option B (Cysteine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option D (Serine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+      <br/>
+      <br/>
+      <b>Option E (Arginine) is Incorrect.</b>
+      Sickle cell anaemia is a result of glutamate being replaced by a valine.
+    </p>
+  </modalFeedback>
+</assessmentItem>

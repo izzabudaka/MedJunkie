@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10955741" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>The fundus is the upper portion of the stomach which, together with the corpus or body, acts as a reservoir for food and swallowed air.</p>
+        <p>Which artery supplies blood to the fundus of the stomach?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Left gastric artery</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Right gastric artery</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Splenic artery</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Gastroduodenal</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Short gastric arteries</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Short gastric arteries) is Correct.</b>
+      This artery supplies blood to the fundus.
+      <br/>
+      <br/>
+      <b>Option A (Left gastric artery) is Incorrect.</b>
+      This artery supplies blood to the cardiac region.
+      <br/>
+      <br/>
+      <b>Option B (Right gastric artery) is Incorrect.</b>
+      This artery supplies the lesser curvature of the stomach.
+      <br/>
+      <br/>
+      <b>Option C (Splenic artery) is Incorrect.</b>
+      This artery supplieblood to the spleen.
+      <br/>
+      <br/>
+      <b>Option D (Gastroduodenal) is Incorrect.</b>
+      This artery supplies blood to the pylorus and duodenum.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Short gastric arteries) is Correct.</b>
+      This artery supplies blood to the fundus.
+      <br/>
+      <br/>
+      <b>Option A (Left gastric artery) is Incorrect.</b>
+      This artery supplies blood to the cardiac region.
+      <br/>
+      <br/>
+      <b>Option B (Right gastric artery) is Incorrect.</b>
+      This artery supplies the lesser curvature of the stomach.
+      <br/>
+      <br/>
+      <b>Option C (Splenic artery) is Incorrect.</b>
+      This artery supplieblood to the spleen.
+      <br/>
+      <br/>
+      <b>Option D (Gastroduodenal) is Incorrect.</b>
+      This artery supplies blood to the pylorus and duodenum.
+    </p>
+  </modalFeedback>
+</assessmentItem>

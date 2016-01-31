@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997348" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 15-year-old girl presents with a 1-year history of cyclical lower abdominal pain. She has not undergone menarche and denies having sexual intercourse. On examination, she has normal secondary sexual characteristics. Per vaginal inspection reveals a bulging blue domed translucent membrane. Oestradiol levels are normal.</p>
+        <p>What is the most appropriate diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Constitutional delay in puberty</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Imperforate hymen</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Polycystic ovary syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Primary ovarian failure</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      The blue domed mass is menstrual blood sequestered behind an intact hymen. This requires incision to evacuate the vaginal and uterine content.
+    </p>
+    <p>
+      <b>Option A is Incorrect</b>
+      , The patient has developed secondary sexual characteristics. These would be lacking if this option was true.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This can result in amenorrhoea, irregular periods or, in adolescent girls, hypermenorhoea. Haematological investigation would reveal elevated male androgens.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This would result in non-development of secondary sexual characteristics.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This results in amenorrhoea due to gonadal dysfunction and poor breast development. The patient has normal sexual characteristics.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      The blue domed mass is menstrual blood sequestered behind an intact hymen. This requires incision to evacuate the vaginal and uterine content.
+    </p>
+    <p>
+      <b>Option A is Incorrect</b>
+      , The patient has developed secondary sexual characteristics. These would be lacking if this option was true.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This can result in amenorrhoea, irregular periods or, in adolescent girls, hypermenorhoea. Haematological investigation would reveal elevated male androgens.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This would result in non-development of secondary sexual characteristics.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This results in amenorrhoea due to gonadal dysfunction and poor breast development. The patient has normal sexual characteristics.
+    </p>
+  </modalFeedback>
+</assessmentItem>

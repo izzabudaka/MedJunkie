@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10961831" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Low arterial blood pH leads to a state called acidosis. Likewise a high arterial blood pH leads to a state called alkalosis.</p>
+        <p>What is the normal range for arterial blood pH?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">7.20–7.30</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">7.25–7.35</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">7.30–7.40</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">7.35–7.45</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">7.40–7.50</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (7.35–7.45) is Correct.</b>
+      The normal range for arterial blood pH is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option A (7.20–7.30) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option B (7.25–7.35) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option C (7.30–7.40) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option E (7.40–7.50) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (7.35–7.45) is Correct.</b>
+      The normal range for arterial blood pH is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option A (7.20–7.30) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option B (7.25–7.35) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option C (7.30–7.40) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+      <br/>
+      <br/>
+      <b>Option E (7.40–7.50) is Incorrect.</b>
+      The correct range is 7.35–7.45.
+    </p>
+  </modalFeedback>
+</assessmentItem>

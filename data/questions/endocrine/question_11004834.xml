@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11004834" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 70-year-old man presents with confusion over the last 48 hours. On examination he has a temperature of 35.5°C, heart rate of 55 beats/min, respiratory rate of 9 breaths/min, and a blood pressure of 150/80 mmHg. On examination, he has a third heart sound, bi-basal crackles and bilateral pitting ankle oedema. His capillary blood glucose is 2.5 mmol/L (normal range 3.6–5.8 mmol/L) and blood tests show hyponatraemia.</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Alcohol withdrawal syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Myxoedema</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Nephrotic syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Pseudodementia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Transient ischaemic attack</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      Hypothermia, hypoventilation, bradycardia, heart failure and hypoglycaemia indicate severe hypothyroidism.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Clinical features of alcohol withdrawal syndrome include tachycardia, hypertension, confusion, hallucinations and seizures.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Nephrotic syndrome is characterized by proteinuria, hypoalbuminaemia and oedema.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Pseudodementia is a symptom of depression with apparent reversible cognitive impairment. It would not be associated with the systemic features present in this patient.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Transient ischaemic attack causes sudden focal loss of CNs function due to temporary cerebral artery occlusion. Symptoms include hemiparesis, hemisensory loss, dysphasia, amaurosis fugax, vertigo, diplopia and homonymous hemianopia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      Hypothermia, hypoventilation, bradycardia, heart failure and hypoglycaemia indicate severe hypothyroidism.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Clinical features of alcohol withdrawal syndrome include tachycardia, hypertension, confusion, hallucinations and seizures.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Nephrotic syndrome is characterized by proteinuria, hypoalbuminaemia and oedema.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Pseudodementia is a symptom of depression with apparent reversible cognitive impairment. It would not be associated with the systemic features present in this patient.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Transient ischaemic attack causes sudden focal loss of CNs function due to temporary cerebral artery occlusion. Symptoms include hemiparesis, hemisensory loss, dysphasia, amaurosis fugax, vertigo, diplopia and homonymous hemianopia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

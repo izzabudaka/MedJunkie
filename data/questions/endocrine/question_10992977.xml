@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10992977" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 17-year-old girl comes to see you with primary amenorrhoea. She describes no medical problems and does not take medications. She is not sexually active. She is 1.67 m in height and has well-developed secondary sexual characteristics, but ultrasound suggests an absent uterus. Examination under general anaesthetic reveals a blind-ending vagina, with a hypoplastic uterus.</p>
+        <p>What is your diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Down's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Klinefelter's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Patau's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Testicular feminization</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Testicular feminization) is Correct.</b>
+      Patients with testicular feminization have a blind vagina with no uterus or a hypoplastic uterus. Secondary sexual characteristics are well developed.
+    </p>
+    <p>
+      <b>Option A (Down's syndrome) is Incorrect.</b>
+      Down's syndrome is associated with congenital heart defects and gastrointestinal wall defects. Abnormal development of the uterus and vagina are not typical features, although the menstrual cycle may be erratic.
+    </p>
+    <p>
+      <b>Option B (Klinefelter's syndrome) is Incorrect.</b>
+      Those with Klinefelter's syndrome characteristically have an XXY chromosomal complement, with a male phenotype.
+    </p>
+    <p>
+      <b>Option C (Patau's syndrome) is Incorrect.</b>
+      Patau's syndrome is trisomy 13 and most babies affected die within their first year of life.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      This is characterized by the karyotype 45XO. While primary amenorrhoea is common, breast development is poor and patients have a short stature.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Testicular feminization) is Correct.</b>
+      Patients with testicular feminization have a blind vagina with no uterus or a hypoplastic uterus. Secondary sexual characteristics are well developed.
+    </p>
+    <p>
+      <b>Option A (Down's syndrome) is Incorrect.</b>
+      Down's syndrome is associated with congenital heart defects and gastrointestinal wall defects. Abnormal development of the uterus and vagina are not typical features, although the menstrual cycle may be erratic.
+    </p>
+    <p>
+      <b>Option B (Klinefelter's syndrome) is Incorrect.</b>
+      Those with Klinefelter's syndrome characteristically have an XXY chromosomal complement, with a male phenotype.
+    </p>
+    <p>
+      <b>Option C (Patau's syndrome) is Incorrect.</b>
+      Patau's syndrome is trisomy 13 and most babies affected die within their first year of life.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      This is characterized by the karyotype 45XO. While primary amenorrhoea is common, breast development is poor and patients have a short stature.
+    </p>
+  </modalFeedback>
+</assessmentItem>

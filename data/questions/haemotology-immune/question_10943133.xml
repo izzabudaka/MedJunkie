@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10943133" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_010</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_010" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_011" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 20-year-old man has returned from a year of study abroad in Bangladesh. There is massive splenomegaly, weight loss and conjunctival and palmar crease pallor. You suspect a parasitic infection.</div>
+          </li>
+          <li>
+            <div>A 60-year-old lady has anaemia, neutropenia and thrombocytopenia. An attempt at a bone marrow aspirate fails as the marrow is surprisingly hard. A core biopsy reveals fibrosis.</div>
+          </li>
+          <li>
+            <div>A 20-year-old female appears to have abnormally shaped red blood cells in a blood film, that lack the normal central pallor.</div>
+          </li>
+          <li>
+            <div>A 15-year-old girl is otherwise completely healthy. During the history, it is revealed that she has just got together with her first boyfriend.</div>
+          </li>
+          <li>
+            <div>A 50-year-old man has had a 4-month history of cervical and axillary lymphadenopathy, night sweats and weight loss.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Leishmaniasis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Sarcoidosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Infectious mononucleosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Thalassaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Budd-Chiari syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Amyloidosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Niemann-Pick disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Leukaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Gaucher's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Lymphoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_010">
+        <div>Spherocytosis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_011">
+        <div>Myelofibrosis</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>
+        Option K (
+        <b>Spherocytosis</b>
+        ) is correct.
+      </b>
+      Spherocytes are not the normal biconcave shape and so lack the central pallor where the red blood cell is thinnest.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>
+        Option K (
+        <b>Spherocytosis</b>
+        ) is correct.
+      </b>
+      Spherocytes are not the normal biconcave shape and so lack the central pallor where the red blood cell is thinnest.
+    </p>
+  </modalFeedback>
+</assessmentItem>

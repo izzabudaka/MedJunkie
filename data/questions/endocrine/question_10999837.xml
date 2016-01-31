@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10999837" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 60-year-old man presents to his GP complaining of a bilateral swelling around his nipples about which he has become self-conscious. He states that it has occurred slowly over the last 12 months. He states that it is painless and denies any discharge. He has remained systemically well and his weight is steady. His past medical history includes congestive cardiac failure, atrial fibrillation and benign prostatic hyperplasia. On examination there is gynaecomastia (see below), no lymphadenopathy, a soft abdomen with no masses and no testicular masses. The GP considers if the cause is due to his long-term medication.</p>
+        <p>What is a potential pharmacological cause of this patient's pathology?</p>
+        <img src="7_MD150_web.jpg"/>
+        <p>
+          Swash &amp; Glynn,
+          <i>Hutchinson's Clinical Methods</i>
+          , 22nd edn.
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Bendroflumethiazide</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Simvastatin</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Spironolactone</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Tamsulosin</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Warfarin</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Long-term use can result in development of gynaecomastia due to binding of and activation of oestrogen receptors. An aldosterone antagonist, gynaecomastia is a common side effect of spironolactone treatment.
+    </p>
+    <p>
+      [Fig. reproduced from Swash &amp; Glynn,
+      <i>Hutchinson's Clinical Methods</i>
+      , 22nd edn., 2007, with permission from Elsevier. Fig. 12.10 Gynaecomastia
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      The potassium-sparing diuretic spironolactone can cause gynaecomastia due to some anti-androgen activity.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Simvastatin inhibits HMG CoA reductase in the cholesterol synthesis pathway. Its most significant but rare side effect is myositis.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This an alpha-receptor antagonist used in benign prostatic hyperplasia. However, if finasteride is used to treat this condition it can cause gynaecomastia due to its anti-androgen activity.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This anticoagulant prevents carboxylation of glutamyl residues.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Long-term use can result in development of gynaecomastia due to binding of and activation of oestrogen receptors. An aldosterone antagonist, gynaecomastia is a common side effect of spironolactone treatment.
+    </p>
+    <p>
+      [Fig. reproduced from Swash &amp; Glynn,
+      <i>Hutchinson's Clinical Methods</i>
+      , 22nd edn., 2007, with permission from Elsevier. Fig. 12.10 Gynaecomastia
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      The potassium-sparing diuretic spironolactone can cause gynaecomastia due to some anti-androgen activity.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Simvastatin inhibits HMG CoA reductase in the cholesterol synthesis pathway. Its most significant but rare side effect is myositis.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This an alpha-receptor antagonist used in benign prostatic hyperplasia. However, if finasteride is used to treat this condition it can cause gynaecomastia due to its anti-androgen activity.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This anticoagulant prevents carboxylation of glutamyl residues.
+    </p>
+  </modalFeedback>
+</assessmentItem>

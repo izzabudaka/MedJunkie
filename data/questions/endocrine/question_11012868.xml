@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11012868" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 42-year-old woman presents complaining of weight gain, visual loss and change in menstrual cycle. On examination there is hair loss (male-pattern baldness), and skin pigmentation and bruising. There is truncal obesity and proximal muscle atrophy. Her blood pressure is 141/85 mmHg. Investigations show:</p>
+        <p>Sodium 150 mmol/L (normal range 135–145 mmol/L)</p>
+        <p>Potassium 3.2 mmol/L (normal range 3.6-5.1 mmol/L)</p>
+        <p>Urea 6 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+        <p>Creatinine 110 μmol/L (normal range 60–120 μmol/L)</p>
+        <p>Fasting blood glucose 7.0 mmol/L(normal range 3.6–5.8 mmol/L)</p>
+        <p>What is the most likely anatomical location of a lesion causing the patient's symptoms and signs?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Adrenal cortex</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Adrenal medulla</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Ovary</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Pituitary</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      This patient has symptoms and signs of cortisol excess. Moreover, there is skin pigmentation due to a pituitary corticotroph adenoma releasing melanocyte stimulating hormone. This would not occur with an adrenal cortex (zona fasciculata) adenoma.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Excess cortisol from the cortex would produce the symptoms and signs described except for the visual changes due to pituitary adenoma compression of the optic chiasma.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Produces catecholamines. These do not produce the symptoms and signs described.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Oestrogen is the sex hormone produced by the ovary and would not cause the symptoms described.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Thyroxine and triiodothyronine produced by the thyroid would not produce the symptoms and signs described
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      This patient has symptoms and signs of cortisol excess. Moreover, there is skin pigmentation due to a pituitary corticotroph adenoma releasing melanocyte stimulating hormone. This would not occur with an adrenal cortex (zona fasciculata) adenoma.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Excess cortisol from the cortex would produce the symptoms and signs described except for the visual changes due to pituitary adenoma compression of the optic chiasma.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Produces catecholamines. These do not produce the symptoms and signs described.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Oestrogen is the sex hormone produced by the ovary and would not cause the symptoms described.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Thyroxine and triiodothyronine produced by the thyroid would not produce the symptoms and signs described
+    </p>
+  </modalFeedback>
+</assessmentItem>

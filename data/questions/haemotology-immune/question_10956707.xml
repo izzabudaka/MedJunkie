@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10956707" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Anaemias may be caused by failures in absorption of essential nutrients, abnormalities of the red cells or failure of red cell production.</p>
+        <p>What is Fanconi's anaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        Autoimmune condition with atrophic gastritis leading to loss of intrinsic factor required for absorption of vitamin B
+        <sub>12</sub>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Autosomal recessive disease that results in skeletal, skin and organ abnormalities, and aplastic anaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Caused by the failure of the pluripotent stem cells</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Impairment of DNA synthesis but not RNA synthesis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Rare defect of red cells that makes cells vulnerable to destruction by activated complement</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Autosomal recessive disease that results in skeletal, skin and organ abnormalities, and aplastic anaemia) is Correct.</b>
+      Fanconi's anaemia is an autosomal recessive disease that results in skeletal, skin and organ abnormalities, as well as an aplastic anaemia. Several genes on different chromosomes are involved in making a complex essential for DNA repair. Individuals with this condition have cells that are hypersensitive to genotoxic agents, such as mitomycin. Cells are seen to have increased chromosome breaks.
+      <br/>
+      <br/>
+      Other causes of anaemias are:
+    </p>
+    <ul>
+      <li>
+        Reduced absorption: this, rather than dietary deficiency, is the commonest cause of vitamin B
+        <sub>12</sub>
+        deficiency in the UK. The most severe cases, resulting in a condition known as pernicious anaemia, are caused by an autoimmune condition in which the lining of the gut atrophies. This results in a loss of intrinsic factor production, which is required for absorption of B
+        <sub>12</sub>
+        .
+      </li>
+      <li>Paroxysmal nocturnal haemoglobinuria (PNH): this is a rare defect of red cells that makes cells vulnerable to destruction by activated complement. The breakdown of red cells reveals itself in dark-coloured urine (haemoglobinuria), which is particularly evident in the morning when urine is more concentrated. It was originally thought to be due to red cell breakdown at night due to increased acidosis – hence nocturnal and paroxysmal (intermittent).</li>
+      <li>Marrow failure (aplastic anaemia): this is caused by a failure of the pluripotent stem cells. This failure can affect all blood cell precursors or just one line, as in red cell aplasia. It can be caused by a variety of drugs, but is often the intentional consequence of the therapeutic use of certain cytotoxic drugs.</li>
+    </ul>
+    <p>
+      <b>
+        Option A (Autoimmune condition with atrophic gastritis leading to loss of intrinsic factor required for absorption of vitamin B
+        <sub>12</sub>
+        ) is Incorrect.
+      </b>
+      Pernicious anaemia is an autoimmune condition with atrophic gastritis leading to loss of intrinsic factor required for absorption of vitamin B
+      <sub>12</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option C (Caused by the failure of the pluripotent stem cells) is Incorrect.</b>
+      Marrow failure is caused by the failure of the pluripotent stem cells.
+      <br/>
+      <br/>
+      <b>Option D (Impairment of DNA synthesis but not RNA synthesis) is Incorrect.</b>
+      This is caused by a vitamin B
+      <sub>12</sub>
+      deficiency.
+      <br/>
+      <br/>
+      <b>Option E (Rare defect of red cells that makes cells vulnerable to destruction by activated complement) is Incorrect.</b>
+      Paroxysmal nocturnal haematuria is a rare defect of red cells that makes cells vulnerable to destruction by activated complement.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Autosomal recessive disease that results in skeletal, skin and organ abnormalities, and aplastic anaemia) is Correct.</b>
+      Fanconi's anaemia is an autosomal recessive disease that results in skeletal, skin and organ abnormalities, as well as an aplastic anaemia. Several genes on different chromosomes are involved in making a complex essential for DNA repair. Individuals with this condition have cells that are hypersensitive to genotoxic agents, such as mitomycin. Cells are seen to have increased chromosome breaks.
+      <br/>
+      <br/>
+      Other causes of anaemias are:
+    </p>
+    <ul>
+      <li>
+        Reduced absorption: this, rather than dietary deficiency, is the commonest cause of vitamin B
+        <sub>12</sub>
+        deficiency in the UK. The most severe cases, resulting in a condition known as pernicious anaemia, are caused by an autoimmune condition in which the lining of the gut atrophies. This results in a loss of intrinsic factor production, which is required for absorption of B
+        <sub>12</sub>
+        .
+      </li>
+      <li>Paroxysmal nocturnal haemoglobinuria (PNH): this is a rare defect of red cells that makes cells vulnerable to destruction by activated complement. The breakdown of red cells reveals itself in dark-coloured urine (haemoglobinuria), which is particularly evident in the morning when urine is more concentrated. It was originally thought to be due to red cell breakdown at night due to increased acidosis – hence nocturnal and paroxysmal (intermittent).</li>
+      <li>Marrow failure (aplastic anaemia): this is caused by a failure of the pluripotent stem cells. This failure can affect all blood cell precursors or just one line, as in red cell aplasia. It can be caused by a variety of drugs, but is often the intentional consequence of the therapeutic use of certain cytotoxic drugs.</li>
+    </ul>
+    <p>
+      <b>
+        Option A (Autoimmune condition with atrophic gastritis leading to loss of intrinsic factor required for absorption of vitamin B
+        <sub>12</sub>
+        ) is Incorrect.
+      </b>
+      Pernicious anaemia is an autoimmune condition with atrophic gastritis leading to loss of intrinsic factor required for absorption of vitamin B
+      <sub>12</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option C (Caused by the failure of the pluripotent stem cells) is Incorrect.</b>
+      Marrow failure is caused by the failure of the pluripotent stem cells.
+      <br/>
+      <br/>
+      <b>Option D (Impairment of DNA synthesis but not RNA synthesis) is Incorrect.</b>
+      This is caused by a vitamin B
+      <sub>12</sub>
+      deficiency.
+      <br/>
+      <br/>
+      <b>Option E (Rare defect of red cells that makes cells vulnerable to destruction by activated complement) is Incorrect.</b>
+      Paroxysmal nocturnal haematuria is a rare defect of red cells that makes cells vulnerable to destruction by activated complement.
+    </p>
+  </modalFeedback>
+</assessmentItem>

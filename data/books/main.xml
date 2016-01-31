@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0030" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3864-9.00006-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3864-9.00006-X</ce:doi>
+        <ce:isbn>978-0-7234-3864-9</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 6.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010">Differential diagnosis of palpitations.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f06-01-9780723436331" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 6.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015">Non-cardiac causes of sinus tachycardia.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f06-02-9780723436331" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 6.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020">Causes of sinus bradycardia.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f06-03-9780723436331" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 6.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025">Examining the patient with palpitations. CHB, complete heart block.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f06-04-9780723436331" id="lk0025"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>6</ce:label>
+    <ce:title>Palpitations</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">The key learning points for this chapter:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">Understand the differential diagnosis of palpitations.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Have a logical approach to assessing the patient with palpitations.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">Direct investigations in a patient with palpitations.</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">INTRODUCTION</ce:section-title>
+            <ce:para id="p0030">Always check what the patient means by ‘palpitations’, or clarify what you mean by them,
+                because the word means different things to different people. It is usually understood as an awareness of
+                the heartbeat. The most common cause is an arrhythmia or dysrhythmia, as it is also often called,
+                although other causes include conditions causing an increase in stroke volume (e.g. regurgitant valvular
+                disease) or conditions causing an increase in cardiac output, often non-cardiac causes (e.g. exercise,
+                thyrotoxicosis, anaemia or anxiety). If an arrhythmia is suspected, determine whether there is an
+                underlying cause.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">DIFFERENTIAL DIAGNOSIS BY DESCRIPTION OF THE RHYTHM</ce:section-title>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Regular rhythm</ce:section-title>
+                <ce:para id="p0035">The differential diagnosis of regular palpitations (
+                    <ce:cross-ref refid="f0010">Fig. 6.1</ce:cross-ref>
+                    <ce:float-anchor refid="f0010"/>) includes the following:
+                    <ce:list id="l0015">
+                        <ce:list-item id="u0025">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0040">Heavy heartbeats with normal rate: most often cardiac consciousness with
+                                sinus rhythm. It tends to be worse at rest, especially when in bed at night and during
+                                periods of stress.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0030">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0045">Fast heart rate: sinus tachycardia, atrial flutter with block,
+                                supraventricular tachycardia or ventricular tachycardia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0035">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0050">Bursts of fast beats: paroxysmal atrial tachycardia. There is often a
+                                very long history dating back years with a single attack followed by a long interval
+                                before the next attack. Other causes include atrial flutter, junctional rhythm or
+                                ventricular tachycardia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0040">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0055">Slow heart rate: sinus bradycardia, atrioventricular block.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Irregular rhythm</ce:section-title>
+                <ce:para id="p0060">The differential diagnosis of irregular palpitations (<ce:cross-ref refid="f0010">
+                    Fig. 6.1</ce:cross-ref>) includes the following:
+                    <ce:list id="l0020">
+                        <ce:list-item id="u0045">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0065">Missed beats, ‘thumps’: multiple ectopics from the atrium or ventricle.
+                                The symptoms are more troublesome at rest and may disappear during exercise.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0050">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0070">Fast (or normal if treated): atrial flutter with variable block, atrial
+                                fibrillation (persistent irregularity with exercise), and multiple premature beats with
+                                sinus tachycardia.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0030">
+            <ce:section-title id="st0035">HISTORY</ce:section-title>
+            <ce:para id="p0075">A careful history of the palpitations will often lead to the correct diagnosis,
+                especially as between episodes examination and investigations may be unremarkable. Are they continuous
+                or intermittent? Are they fast, normal rate or slow? Are they regular or irregular? When did the
+                palpitations start? This can vary from a few minutes to decades. Generally, if the onset dates back
+                years and there have been no serious complications (e.g. syncope) the palpitations are usually benign.
+            </ce:para>
+            <ce:para id="p0080">How often do the palpitations occur and how long do they last for? They may last for
+                days or seconds, with intervals between episodes of a few hours to years. Has the patient learned any
+                manoeuvres to terminate the attacks? Enquire about the patient's concerns as they may fear serious
+                underlying cardiac disease, although there is often a benign cause. Are there any associated features?
+                These may be related to the underlying cause (e.g. angina, features of hyperthyroidism) or be a
+                consequence of the palpitations (e.g. dizziness or syncope).
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0010">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0085">Ask the patient to tap out their heart rhythm on the desktop. This
+                                    will often give a good guide to diagnosis.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+            <ce:section id="s0035">
+                <ce:section-title id="st0040">Causes and contributing factors</ce:section-title>
+                <ce:para id="p0090">Ask about smoking, alcohol, work, stress, caffeine (tea, coffee, cola) intake and
+                    any illegal drug use. These may contribute to extrasystoles.
+                </ce:para>
+                <ce:para id="p0095">A history of ischaemic and valvular heart disease (including previous rheumatic
+                    fever) should be sought. This needs to be made prominent in the PMH as structural heart problems
+                    will predispose to pathological arrhythmias.
+                </ce:para>
+                <ce:para id="p0100">A family history of palpitations or sudden cardiac death may be important (e.g.
+                    hypertrophic obstructive cardiomyopathy or long QT syndromes).
+                </ce:para>
+                <ce:para id="p0105">A full drug history of both prescribed and over-the-counter medications is
+                    essential. Remember, many drugs, both cardiac and non-cardiac, can promote palpitations. Most
+                    anti-arrhythmic drugs are also potentially pro-arrhythmic.
+                </ce:para>
+                <ce:para id="p0110">Non-cardiac causes of sinus tachycardia and causes of sinus bradycardia are outlined
+                    in
+                    <ce:cross-ref refid="f0015">Figs 6.2</ce:cross-ref>
+                    <ce:float-anchor refid="f0015"/>
+                    and
+                    <ce:cross-ref refid="f0020">6.3</ce:cross-ref>
+                    <ce:float-anchor refid="f0020"/>, respectively.
+                </ce:para>
+                <ce:para id="p0115">Non-cardiac causes of palpitations include the following:
+                    <ce:list id="l0025">
+                        <ce:list-item id="u0055">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0120">Thyrotoxicosis: may cause sinus tachycardia, paroxysmal atrial
+                                tachycardia, and atrial flutter/fibrillation.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0060">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0125">Hypothyroidism (myxedema): may be responsible for sinus bradycardia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0130">Anxiety: a very common cause of palpitations.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0040">
+            <ce:section-title id="st0045">CONSEQUENCES OF PALPITATIONS</ce:section-title>
+            <ce:para id="p0135">Palpitations can cause a range of problems, from minor anxiety to syncope or sudden
+                death. This accounts for much of the patient's concern. If a benign arrhythmia is present, reassurance
+                that the condition is not serious is often all that is required. Changes in rate may be more serious,
+                compromising coronary blood supply and leading to symptoms of myocardial ischaemia or cardiac failure.
+            </ce:para>
+            <ce:para id="p0140">Tachycardia or bradycardia may lead to a reduction in cardiac output and cause dizziness
+                or collapse (e.g. Stokes–Adams attacks in complete heart block). Ventricular tachycardia is potentially
+                life-threatening.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0045">
+            <ce:section-title id="st0050">EXAMINING THE PATIENT WITH PALPITATIONS</ce:section-title>
+            <ce:para id="p0145">A guide to examining the patient with palpitations is given in
+                <ce:cross-ref refid="f0025">Fig. 6.4</ce:cross-ref>
+                <ce:float-anchor refid="f0025"/>. Look for signs of systemic diseases. Next feel the pulse. Note the
+                following:
+                <ce:list id="l0030">
+                    <ce:list-item id="u0070">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0150">Rate: beats per minute.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0075">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0155">Rhythm: regular, regularly irregular (e.g. Wenckebach second-degree heart
+                            block), irregularly irregular: e.g. multiple ectopic beats or atrial fibrillation.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0080">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0160">Volume/character: e.g. a collapsing pulse of hyperdynamic circulation or a
+                            low-volume pulse of shock or aortic stenosis. Remember this may be positional, so raising
+                            the arm above the heart may exaggerate a collapsing pulse.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:para id="p0165">If the patient is symptom-free at the time of examination, the pulse may be normal.
+            </ce:para>
+            <ce:para id="p0170">The blood pressure will be low if the arrhythmia leads to a reduction in cardiac output.
+                Hypertension may predispose to atrial fibrillation.
+            </ce:para>
+            <ce:para id="p0175">The jugular venous pressure may be elevated if cardiac failure is present. Irregular
+                cannon ‘a’ waves are visible with complete heart block, and ‘a’ waves are absent in atrial fibrillation.
+            </ce:para>
+            <ce:para id="p0180">A displaced apex may indicate cardiomyopathy. Feel for heaves and thrills with
+                associated right ventricular enlargement and valvular heart disease. Assess the rate and rhythm by
+                auscultation. The pulse rate felt at the radial artery may be slower than the apical rate in atrial
+                fibrillation (pulse deficit). Listen for cardiac murmurs (e.g. evidence of mitral valve disease, mitral
+                valve prolapse). Focus on any abnormal findings (see<ce:intra-ref
+                        xlink:href="pii:B978-0-7234-3864-9.00030-7" id="ia0010">Ch. 30</ce:intra-ref>).
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0015">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0185">An irregularly irregular pulse (atrial fibrillation) is irregular in
+                                    BOTH rhythm AND volume.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0050">
+            <ce:section-title id="st0055">INVESTIGATING THE PATIENT WITH PALPITATIONS</ce:section-title>
+            <ce:para id="p0190">The following tests should be performed.</ce:para>
+            <ce:section id="s0055">
+                <ce:section-title id="st0060">Vital signs</ce:section-title>
+                <ce:para id="p0195">
+                    <ce:list id="l0035">
+                        <ce:list-item id="u0085">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0200">Pulse, blood pressure, respiratory rate and saturations.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0090">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0205">Pulse oximetry.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0060">
+                <ce:section-title id="st0065">Blood tests</ce:section-title>
+                <ce:para id="p0210">
+                    <ce:list id="l0040">
+                        <ce:list-item id="u0095">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0215">Full blood count: anaemia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0100">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0220">Urea and electrolytes: disturbances of potassium or, less commonly,
+                                magnesium and calcium may contribute to refractory arrhythmias.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0105">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0225">Thyroid function tests: hypo/hyperthyroidism.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0110">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0230">Drug concentration if appropriate (e.g. digoxin levels in suspected
+                                toxicity).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0065">
+                <ce:section-title id="st0070">Other tests</ce:section-title>
+                <ce:para id="p0235">
+                    <ce:list id="l0045">
+                        <ce:list-item id="u0115">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0240">12-lead electrocardiogram (ECG): although mandatory for everyone with
+                                palpitations, this test rarely provides the diagnosis as it is unlikely that they will
+                                be caught on a resting 12-lead ECG. Wolff–Parkinson–White syndrome will be seen at rest,
+                                as will atrial fibrillation. Ectopic beats may be seen. Careful analysis of the QRS
+                                morphology and QT interval, etc., may be important.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0120">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0245">24-h ECG: for intermittent symptoms. It should be carried out with a
+                                diary of symptoms to see if they correlate with any rhythm disturbances found.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0125">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0250">Echocardiogram: to exclude any underlying structural heart disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0130">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0255">‘Cardiomemo’: if symptoms do not occur every day, a ‘cardiomemo’ can
+                                record the heart rhythm at the press of a button.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0135">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0260">Exercise test: the induction of symptoms under controlled conditions
+                                with ECG monitoring may be appropriate.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0140">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0265">Electrophysiological studies: more rarely, patients may be referred for
+                                specialized studies. These can be used to induce arrhythmias, locate the origin of any
+                                arrhythmic foci, assess the response to drug treatment or destroy any aberrant pathway
+                                via radiofrequency ablation.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0020">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0270">Atrial fibrillation with a fast ventricular response (‘fast AF’)
+                                        is easily confused with a regular tachycardia when assessing the pulse.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+    </ce:sections>
+</chapter>

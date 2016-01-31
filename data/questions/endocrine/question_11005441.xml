@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11005441" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 46-year-old woman is admitted to hospital with episodes of headaches, sweatiness and dizziness. On examination you find a mass in the abdomen and a meta-iodobenzylguanidine (MIBG) scan confirms the diagnosis of phaeochromocytoma. Four hours later she reports another episode of a similar feeling. Her blood pressure (BP) is 210/105 mmHg.</p>
+        <p>What should be the immediate management in this situation?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Metadrenaline test</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Phentolamine</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Surgery</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Thiazides</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Watchful waiting</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Optio n B (Phentolamine) is Correct.</b>
+      2–5 mg IV; repeat until safe BP. Labetalol can be used as an alternative.
+    </p>
+    <p>
+      <b>Option A (Metadrenaline test) is Incorrect.</b>
+      The diagnosis of phaeochromocytoma has already been established; controls need to be made for the blood pressure.
+    </p>
+    <p>
+      <b>Option C (Surgery) is Incorrect.</b>
+      Often done electively after 4–5 weeks.
+    </p>
+    <p>
+      <b>Option D (Thiazides) is Incorrect.</b>
+      This would take too long to stabilize the dangerously high blood pressures.
+    </p>
+    <p>
+      <b>Option E (Watchful waiting) is Incorrect.</b>
+      This is a hypertensive emergency and emergency treatment should be given.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Optio n B (Phentolamine) is Correct.</b>
+      2–5 mg IV; repeat until safe BP. Labetalol can be used as an alternative.
+    </p>
+    <p>
+      <b>Option A (Metadrenaline test) is Incorrect.</b>
+      The diagnosis of phaeochromocytoma has already been established; controls need to be made for the blood pressure.
+    </p>
+    <p>
+      <b>Option C (Surgery) is Incorrect.</b>
+      Often done electively after 4–5 weeks.
+    </p>
+    <p>
+      <b>Option D (Thiazides) is Incorrect.</b>
+      This would take too long to stabilize the dangerously high blood pressures.
+    </p>
+    <p>
+      <b>Option E (Watchful waiting) is Incorrect.</b>
+      This is a hypertensive emergency and emergency treatment should be given.
+    </p>
+  </modalFeedback>
+</assessmentItem>

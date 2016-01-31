@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11008312" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 60-year-old male smoker presents with weight loss, dyspnoea, polydipsia and thoracic vertebral pain. His serum calcium is 3.4 mmol/L (normal range 2.1–2.6 mmol/L) and erythrocyte sedimentation rate (ESR) is 7 mm/hr (normal 0-10mm/hr). A chest X-ray shows mediastinal widening and a ‘coin’ lesion in the right middle lobe.</p>
+        <p>What is the most appropriate diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Hyperparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyperthyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Multiple myeloma</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sarcoidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Squamous cell carcinoma</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Squamous cell carcinoma) is Correct.</b>
+      The patient has symptoms of lung carcinoma. Squamous cell carcinoma has ectopic parathyroid hormone related protein that causes hypercalcaemia.
+    </p>
+    <p>
+      <b>Option A (Hyperparathyroidism) is Incorrect.</b>
+      This causes hypercalcaemia and is often asymptomatic. It can present with hypercalcaemic symptoms of bones, groans, stones and psychic moans. Against this option are the features of weight loss and dyspnoea.
+    </p>
+    <p>
+      <b>Option B (Hyperthyroidism) is Incorrect.</b>
+      This causes hypercalcaemia by stimulation of osteoclasts which result in bone resorption. This patient does not have features of hyperthyroidism.
+    </p>
+    <p>
+      <b>Option C (Multiple myeloma) is Incorrect.</b>
+      Multiple myeloma X-ray changes in long bones would be more in keeping with this diagnosis (lytic lesions). Lung parenchymal changes on chest X-ray are more indicative of a different pathology.
+    </p>
+    <p>
+      <b>Option D (Sarcoidosis) is Incorrect.</b>
+      This is asymptomatic in up to 40% of cases and is diagnosed after a routine chest X-ray. In sarcoidosis, there is bilateral hilar node enlargement and pulmonary infiltrates can be present. Symptoms may be progressive dyspnoea, dry cough and chest pain.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Squamous cell carcinoma) is Correct.</b>
+      The patient has symptoms of lung carcinoma. Squamous cell carcinoma has ectopic parathyroid hormone related protein that causes hypercalcaemia.
+    </p>
+    <p>
+      <b>Option A (Hyperparathyroidism) is Incorrect.</b>
+      This causes hypercalcaemia and is often asymptomatic. It can present with hypercalcaemic symptoms of bones, groans, stones and psychic moans. Against this option are the features of weight loss and dyspnoea.
+    </p>
+    <p>
+      <b>Option B (Hyperthyroidism) is Incorrect.</b>
+      This causes hypercalcaemia by stimulation of osteoclasts which result in bone resorption. This patient does not have features of hyperthyroidism.
+    </p>
+    <p>
+      <b>Option C (Multiple myeloma) is Incorrect.</b>
+      Multiple myeloma X-ray changes in long bones would be more in keeping with this diagnosis (lytic lesions). Lung parenchymal changes on chest X-ray are more indicative of a different pathology.
+    </p>
+    <p>
+      <b>Option D (Sarcoidosis) is Incorrect.</b>
+      This is asymptomatic in up to 40% of cases and is diagnosed after a routine chest X-ray. In sarcoidosis, there is bilateral hilar node enlargement and pulmonary infiltrates can be present. Symptoms may be progressive dyspnoea, dry cough and chest pain.
+    </p>
+  </modalFeedback>
+</assessmentItem>

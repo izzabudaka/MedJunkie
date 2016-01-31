@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11006873" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 55-year-old man presents to his GP complaining of difficulty getting up his stairs and generalized weakness. He has gained weight and denies dyspnoea but has a reduced exercise tolerance. His past medical history includes asthma and his medication includes salbutamol and long-term oral prednisolone. On examination there is reduced muscle power and bulk. His face seems puffy.</p>
+        <p>What is the cause of his proximal myopathy?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Alcoholic myopathy</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Cushing's syndrome</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Diabetes mellitus</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Hyperthyroidism</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Motor neuron disease</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Cushing's syndrome) is Correct.</b>
+      Iatrogenic use of steroid on a long-term basis causes Cushing's syndrome. Catabolism effects of the steroid cause reduction in muscle bulk.
+    </p>
+    <p>
+      <b>Option A (Alcoholic myopathy) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option D (Hyperthyrodism) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option E (Motor neuron disease) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Cushing's syndrome) is Correct.</b>
+      Iatrogenic use of steroid on a long-term basis causes Cushing's syndrome. Catabolism effects of the steroid cause reduction in muscle bulk.
+    </p>
+    <p>
+      <b>Option A (Alcoholic myopathy) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option C (Diabetes mellitus) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option D (Hyperthyrodism) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+    <p>
+      <b>Option E (Motor neuron disease) is Incorrect.</b>
+      There are no features of this disease.
+    </p>
+  </modalFeedback>
+</assessmentItem>

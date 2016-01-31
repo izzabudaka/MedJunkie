@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10999340" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 20-year-old man presents complaining of polydipsia, polyuria, weakness and fatigue. His test results are:</p>
+        <p>2 hour value in oral glucose tolerance test 6.0 mmol/L(normal range &lt;7.8 mmol/L)</p>
+        <p>Serum adjusted calcium 2.4 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+        <p>Serum urea 10 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+        <p>Serum creatinine 130 μmol/L (normal range 60–120 μmol/L)</p>
+        <p>Serum sodium 154 mmol/L(normal range 135–145 mmol/L)</p>
+        <p>Serum potassium 5.7 mmol/L(normal range 3.6–5.1 mmol/L)</p>
+        <p>Plasma osmolality 500 mmol/kg (normal range 280–296 mmol/kg)</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Diabetes insipidus (DI)</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Diabetes mellitus (DM)</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hyperparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hyperthyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Syndrome of inappropriate antidiuretic hormone syndrome (SIADH)</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Diabetes insipidus) is Correct.</b>
+      The glucose tolerance test is normal (&lt;7.8 mmol/L is normal, >11.1 mmol/L is diabetes mellitus). Serum calcium is normal; however, creatinine, urea, sodium and potassium are high with a high plasma osmolality. The opposite occurs in SIADH. Urine osmolality postdesmopressin increases (800 mmol/kg) in cranial DI but remains low (300 mmol/kg) in nephrogenic DI.
+    </p>
+    <p>
+      <b>Option B (Diabetes mellitus) is Incorrect.</b>
+      The glucose in this patient is normal and not hyperglycaemic as expected in diabetes mellitus.
+    </p>
+    <p>
+      <b>Option C (Hyperparathyroidism) is Incorrect.</b>
+      The adjusted calcium level is in the normal range.
+    </p>
+    <p>
+      <b>Option D (Hyperthryroidism) is Incorrect.</b>
+      The features present do not suggest this diagnosis.
+    </p>
+    <p>
+      <b>Option E (SIADH) is Incorrect.</b>
+      Investigation would show a low creatinine, urea, sodium, potassium and plasma osmolality.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Diabetes insipidus) is Correct.</b>
+      The glucose tolerance test is normal (&lt;7.8 mmol/L is normal, >11.1 mmol/L is diabetes mellitus). Serum calcium is normal; however, creatinine, urea, sodium and potassium are high with a high plasma osmolality. The opposite occurs in SIADH. Urine osmolality postdesmopressin increases (800 mmol/kg) in cranial DI but remains low (300 mmol/kg) in nephrogenic DI.
+    </p>
+    <p>
+      <b>Option B (Diabetes mellitus) is Incorrect.</b>
+      The glucose in this patient is normal and not hyperglycaemic as expected in diabetes mellitus.
+    </p>
+    <p>
+      <b>Option C (Hyperparathyroidism) is Incorrect.</b>
+      The adjusted calcium level is in the normal range.
+    </p>
+    <p>
+      <b>Option D (Hyperthryroidism) is Incorrect.</b>
+      The features present do not suggest this diagnosis.
+    </p>
+    <p>
+      <b>Option E (SIADH) is Incorrect.</b>
+      Investigation would show a low creatinine, urea, sodium, potassium and plasma osmolality.
+    </p>
+  </modalFeedback>
+</assessmentItem>

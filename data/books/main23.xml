@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0025" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3869-4.00005-7</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3869-4.00005-7</ce:doi>
+        <ce:isbn>978-0-7234-3869-4</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 5.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010" role="title">Flowchart of different types of study design.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f05-01-9780723437352" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 5.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015" role="title">Study design timeline.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f05-02-9780723437352" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 5.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020" role="title">Association versus causation.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f05-03-9780723437352" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 5.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025" role="title">Flowchart for choosing the right type of study.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f05-04-9780723437352" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 5.5</ce:label>
+            <ce:caption id="ca0030">
+                <ce:simple-para id="sp0030" role="title">Evidence of causality: choosing the right type of study.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f05-05-9780723437352" id="lk0030"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>Chapter 5</ce:label>
+    <ce:title>Research design</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">By the end of this chapter you should:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">Understand the steps involved in obtaining data to answer a research question.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Be able to explain the differences between an interventional and an
+                        observational study design.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">Know the definition of a clinical trial and the differences between the various
+                        clinical trial phases.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0030">Understand the differences between association and causality.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0030">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0035">Know the steps involved in assessing whether there is a causal relationship
+                        between an exposure and an outcome.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0035">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0040">Be able to discuss the factors that determine when a particular study design is
+                        indicated.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0040">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0045">Understand the steps involved in writing up a research study and be able to
+                        apply this knowledge to your own work.
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">OBTAINING DATA</ce:section-title>
+            <ce:para id="p0050">
+                <ce:list id="l0015">
+                    <ce:list-item id="u0045">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0055">Before even thinking about how to summarise, display or analyse your data,
+                            you must first decide on how you are going to collect your data!
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0050">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0060">It is crucial to choose the best study design to investigate your research
+                            question.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0055">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0065">Poorly designed studies may yield misleading results, wasting time, money
+                            and resources in the process.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0060">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0070">There may be a number of possible study designs for any research question.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0065">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0075">Over the next few chapters you will learn about the major epidemiological
+                            study designs currently being used in evidence-based practice today.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0070">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0080">Research studies can be classified into two types:
+                            <ce:list id="l0020">
+                                <ce:list-item id="o0010">
+                                    <ce:label>1.</ce:label>
+                                    <ce:para id="p0085">Interventional studies (or experimental studies)</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0015">
+                                    <ce:label>2.</ce:label>
+                                    <ce:para id="p0090">Observational studies.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0075">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0095">The flowchart presented in
+                            <ce:cross-ref refid="f0010">Fig. 5.1</ce:cross-ref>
+                            <ce:float-anchor refid="f0010"/>
+                            summarises the different types of interventional and observational study designs.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0080">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0100">
+                            <ce:cross-ref refid="f0015">Figure 5.2</ce:cross-ref>
+                            <ce:float-anchor refid="f0015"/>
+                            uses a timeline to illustrate the time points at which exposure and outcome data are
+                            collected for some of the common types of study designs.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0085">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0105">Qualitative research can be carried out on its own or incorporated into a
+                            quantitative study design.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0090">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0110">Each study design will be discussed in extensive detail in their respective
+                            chapters.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">INTERVENTIONAL STUDIES</ce:section-title>
+            <ce:para id="p0115">
+                <ce:list id="l0025">
+                    <ce:list-item id="u0095">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0120">An interventional (or experimental) study is when the investigator tests
+                            whether intervening in some way leads to a measurable variation in the outcome.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0100">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0125">Interventional studies underpin clinical trials that compare two or more
+                            treatments (see below).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0105">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0130">A laboratory study is another type of interventional study and may involve
+                            carrying out research using animal models.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0110">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0135">Interventional studies provide data with a high degree of internal validity
+                            (discussed in<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00001-X" id="ia0010">Chapter
+                                1</ce:intra-ref>), as it is generally possible to control for factors that may affect
+                            the outcome.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0115">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0140">A high level of validity may be needed for studying an intervention that is
+                            expected to have a small effect on the outcome. This small effect is usually defined as a
+                            difference of up to 20% between the two intervention groups.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0120">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0145">When the difference between the two groups is relatively small, confounding
+                            or bias may produce invalid findings, i.e. mask or create an effect.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0125">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0150">However, interventional studies are not always feasible, for example, due to
+                            high running costs, patients’ reluctance to participate or ethical issues.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0130">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0155">The different types of interventional studies that will be reviewed in this
+                            book are:
+                            <ce:list id="l0030">
+                                <ce:list-item id="u0135">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0160">Parallel randomised controlled trials (RCTs)</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0140">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0165">Crossover RCTs</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0145">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0170">Factorial RCTs</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u9000">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p9000">Cluster RCTs</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u9005">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p9005">Superiority RCTs</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u9010">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p9010">Equivalence RCTs</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u9015">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p9015">Non-inferiority RCTs</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0150">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0175">In RCTs, only the play of chance (randomisation) determines the intervention
+                            that is allocated to a particular subject. Consequently, large, well-designed RCTs provide
+                            strong evidence that an association between an intervention and outcome is causal. We will
+                            discuss this concept in greater detail in<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3869-4.00006-9" id="ia0015">Chapter 6</ce:intra-ref>.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0020">
+            <ce:section-title id="st0025">OBSERVATIONAL STUDIES</ce:section-title>
+            <ce:para id="p0180">
+                <ce:list id="l0035">
+                    <ce:list-item id="u0155">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0185">An observational study is when the investigator collects data on exposures
+                            and outcomes without attempting to alter a subject's exposure status.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0160">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0190">Patterns and associations between exposures and outcomes are identified
+                            using naturally occurring variation in the population.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0165">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0195">Compared to interventional studies, observational studies can be used to
+                            study the effect of a wider range of exposures, including studying the natural history,
+                            prevention and treatment of a disease. Consequently, there is a role for observational
+                            studies in clinical trials (see below).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0170">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0200">Investigating the natural history of a disease may involve collecting data
+                            on:
+                            <ce:list id="l0040">
+                                <ce:list-item id="u0175">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0205">the causes of disease incidence</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0180">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0210">the determinants of disease progression.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0185">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0215">Understanding the natural history of a disease can allow us to predict the
+                            future healthcare needs of a population.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0190">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0220">However, observational studies have lower internal validity than
+                            interventional studies. This is because the investigator has no control over factors that
+                            may affect the outcome.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0195">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0225">Despite this limitation, in some situations, observational studies are the
+                            only types of study that are practical.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0200">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0230">The different types of observational studies that will be reviewed in this
+                            book are:
+                            <ce:list id="l0045">
+                                <ce:list-item id="u0205">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0235">Cohort studies</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0210">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0240">Case–control studies</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0215">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0245">Cross-sectional studies</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0220">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0250">Ecological studies</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0225">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0255">Case studies and case series.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt1" id="b0010">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                            <ce:subtitle>When would you choose an observational study design over an interventional
+                                study design?
+                            </ce:subtitle>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0260">You may consider using an observational study design to answer a
+                                    specific research question if the equivalent interventional study design is:
+                                    <ce:list id="l0050">
+                                        <ce:list-item id="u0230">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0265">unethical, e.g. randomly allocating healthy people to
+                                                radiation, to investigate whether exposure to radiation leads to a
+                                                higher risk of cancer.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0235">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0270">inappropriate, e.g. are homosexual men at higher risk of
+                                                acquiring HIV infection than heterosexual men?
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0240">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0275">too expensive.</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0245">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0280">unlikely to yield a significant result, e.g. for
+                                                studying rare events such as a rare side effect of a drug.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0250">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0285">impracticable (unfeasible), e.g. is working on regular
+                                                night shifts associated with a higher risk of ischaemic heart disease?
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0025">
+            <ce:section-title id="st0030">CLINICAL TRIALS</ce:section-title>
+            <ce:para id="p0290">
+                <ce:list id="l0055">
+                    <ce:list-item id="u0255">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0295">Although there are many definitions of clinical trials, according to the
+                            National Institutes of Health ClinicalTrials.gov website (2012), they are ‘generally
+                            considered to be biomedical or health-related research studies in human beings that follow a
+                            pre-defined protocol’. They include ‘both interventional and observational types of
+                            studies’.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">Types of clinical trials</ce:section-title>
+                <ce:para id="p0300">
+                    <ce:list id="l0060">
+                        <ce:list-item id="u0260">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0305">The National Institutes of Health defines five different types of
+                                clinical trials:
+                                <ce:list id="l0065">
+                                    <ce:list-item id="o0020">
+                                        <ce:label>1.</ce:label>
+                                        <ce:para id="p0310">
+                                            <ce:italic>Treatment trials</ce:italic>
+                                            – Involve testing new interventions (e.g. drugs, a new surgery procedure, a
+                                            new radiological approach) or a combination of interventions
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="o0025">
+                                        <ce:label>2.</ce:label>
+                                        <ce:para id="p0315">
+                                            <ce:italic>Prevention trials</ce:italic>
+                                            – Involve investigating methods for the primary prevention (methods for
+                                            preventing healthy people from developing a disease), secondary prevention
+                                            (methods for slowing down the progression of a disease or for treating it in
+                                            its early stage whilst the patient is still asymptomatic) and tertiary
+                                            prevention (methods for preventing further physical deterioration in chronic
+                                            symptomatic disease states) of a disease. These methods may include drugs,
+                                            vaccines, lifestyle changes, etc.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="o0030">
+                                        <ce:label>3.</ce:label>
+                                        <ce:para id="p0320">
+                                            <ce:italic>Diagnostic trials</ce:italic>
+                                            – Involve investigating better procedures or tests for diagnosing a
+                                            particular disease or condition.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="o0035">
+                                        <ce:label>4.</ce:label>
+                                        <ce:para id="p0325">
+                                            <ce:italic>Screening trials</ce:italic>
+                                            – Involve investigating ways for detecting a particular disease or health
+                                            condition.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="o0040">
+                                        <ce:label>5.</ce:label>
+                                        <ce:para id="p0330">
+                                            <ce:italic>Quality of life trials</ce:italic>
+                                            – Involve exploring ways for improving the quality of life for individuals
+                                            with a chronic disease.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0035">
+                <ce:section-title id="st0040">Clinical trial phases</ce:section-title>
+                <ce:para id="p0335">
+                    <ce:list id="l0070">
+                        <ce:list-item id="u0265">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0340">Several clinical trial phases must be followed to ensure new drugs or
+                                treatments are safe and effective prior to incorporating them into clinical guidelines.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0270">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0345">The trials at each phase have a different purpose, helping
+                                scientists/clinicians answer different questions.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0275">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0350">We will go through the stages involved in turn, using the example of a
+                                new drug therapy to illustrate our points.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+                <ce:section id="s0040">
+                    <ce:section-title id="st0045">Pre-clinical trials</ce:section-title>
+                    <ce:para id="p0355">
+                        <ce:list id="l0075">
+                            <ce:list-item id="u0280">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0360">Prior to starting clinic trials on a novel drug in humans, the first
+                                    step is to show that it has some potential to be the next big thing! We demonstrate
+                                    this by using in vitro (test tube experiments) and in vivo (animal studies)
+                                    techniques at a laboratory to obtain preliminary toxicity, efficacy and
+                                    pharmacokinetic information.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0045">
+                    <ce:section-title id="st0050">Phase I trials</ce:section-title>
+                    <ce:para id="p0365">
+                        <ce:list id="l0080">
+                            <ce:list-item id="u0285">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0370">Once laboratory experiments show that a new drug has promise, the
+                                    next step is to test its safety in humans.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0290">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0375">Phase I trials often involve only a small number of individuals
+                                    (20–60), some of whom may be healthy volunteers.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0295">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0380">Phase I cancer trials often involve patients with advanced cancer
+                                    who have already exhausted all current treatment options available to them, without
+                                    much benefit.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0300">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0385">The protocol may involve giving very low doses of the new drug to
+                                    the first group (or ‘cohort’) of patients and gradually increasing the doses for
+                                    later groups.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0305">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0390">Using this dose escalation protocol allows researchers to identify:
+                                    <ce:list id="l0085">
+                                        <ce:list-item id="o0045">
+                                            <ce:label>1.</ce:label>
+                                            <ce:para id="p0395">the safe dose range in humans</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="o0050">
+                                            <ce:label>2.</ce:label>
+                                            <ce:para id="p0400">the side-effect profile of the drug.</ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0310">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0405">These studies also involve investigating the most effective way of
+                                    delivering the new drug, e.g. orally, intramuscularly, intravenously,
+                                    subcutaneously, etc.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0315">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0410">If the new drug has been found to be reasonably safe, it can
+                                    subsequently be tested in phase II clinical trials.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">Phase II trials</ce:section-title>
+                    <ce:para id="p0415">
+                        <ce:list id="l0090">
+                            <ce:list-item id="u0320">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0420">Phase II trials test the new drug in a larger group of people
+                                    (100–300) to investigate whether it is effective (at least in the short term) and to
+                                    further evaluate its safety profile.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0325">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0425">The methods used to assess how well the new treatment works depends
+                                    on the disease type. For example, imaging techniques (e.g. X-rays, CT scans, MRI
+                                    etc.) may be used to show whether a tumour is shrinking.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0330">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0430">The people chosen for phase II trials usually have the disease for
+                                    which the drug is targeted.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0335">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0435">If the new drug shows an effect, and is shown to be safe enough, it
+                                    can be then tested in phase III clinical trials.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0055">
+                    <ce:section-title id="st0060">Phase III trials</ce:section-title>
+                    <ce:para id="p0440">
+                        <ce:list id="l0095">
+                            <ce:list-item id="u0340">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0445">Phase III trials usually involve comparing the new drug with the
+                                    gold standard treatment (discussed in<ce:intra-ref
+                                            xlink:href="pii:B978-0-7234-3869-4.00014-8" id="ia0020">Chapter
+                                        14</ce:intra-ref>) currently in use, or with a placebo.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0345">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0450">Often these trials use a ‘randomised controlled trial’ study design
+                                    whereby participants have an equal chance of being assigned to either the new drug
+                                    or gold standard treatment (or placebo). Please refer to
+                                    <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00006-9" id="ia0025">Chapter 6
+                                    </ce:intra-ref>
+                                    for an in-depth discussion on RCTs.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0350">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0455">The main objective is to learn whether the new drug is better than,
+                                    the same as or worse than the standard treatment.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0355">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0460">They also build on knowledge from the previous two trial phases
+                                    regarding the safety and side-effect profile of the new drug.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0360">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0465">Phase III trials involve several thousand patients (1000–3000 or
+                                    more), sometimes across different hospitals in different countries.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0365">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0470">The smaller the expected difference in effect size between the new
+                                    drug and the standard treatment (or placebo), the greater the number of participants
+                                    required for the trial to show this difference.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0370">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0475">Underpinned by ethical principle, an RCT will be stopped early if
+                                    the side effects of the new treatment are too severe or if the outcome in one group
+                                    (not necessarily the new treatment group) is better than the outcome in the other
+                                    group(s).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0375">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0480">Phase III trials are needed before the new drug can be considered
+                                    for use in routine clinical practice.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0060">
+                    <ce:section-title id="st0065">Phase IV trials</ce:section-title>
+                    <ce:para id="p0485">
+                        <ce:list id="l0100">
+                            <ce:list-item id="u0380">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0490">Phase IV trials are carried out after the drug has been licensed,
+                                    marketed and made available for all patients.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0385">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0495">The main objective of phase IV trials is to gather information on:
+                                    <ce:list id="l0105">
+                                        <ce:list-item id="u0390">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0500">how well the drug works in various populations.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0395">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0505">the long-term risks and benefits of taking the drug.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0400">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0510">the side effects and safety of the drug in larger
+                                                populations.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0405">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0515">whether the drug can be used in combination with other
+                                                treatments.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0410">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0520">These studies typically use an observational study design.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0065">
+            <ce:section-title id="st0070">BRADFORD-HILL CRITERIA FOR CAUSATION</ce:section-title>
+            <ce:para id="p0525">
+                <ce:list id="l0110">
+                    <ce:list-item id="u0415">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0530">Due to the nature of the study design, consistent evidence from RCTs will
+                            usually lead us to conclude that there is a causal relationship between the intervention
+                            (exposure) and the disease outcome.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0420">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0535">However, due to issues regarding the internal validity of observational
+                            studies, assessing for causation is less straightforward.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0425">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0540">Suppose we carry out an observational study to investigate whether smoking
+                            causes lung cancer. We use a cohort study design and collect the relevant data, comparing
+                            the incidence of lung cancer in smokers and in non-smokers. To exclude the role of chance we
+                            carry out a statistical test, which yields a<ce:italic>P</ce:italic>-value<ce:hsp
+                                    sp="0.12"/>&lt;<ce:hsp sp="0.12"/>0.05, thus providing evidence that the study is
+                            externally valid. Can we therefore conclude that smoking causes lung cancer? NOOOOOOOO!!!
+                            Well, not yet!
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0430">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0545">As discussed in<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00001-X"
+                                                                         id="ia0030">Chapter 1</ce:intra-ref>, we must
+                            first determine the internal validity of the study. This involves ensuring that the study
+                            was run carefully (research design, how variables were measured, etc.) and that the observed
+                            effect(s) are likely to be produced solely by the intervention being assessed (and not by
+                            another factor).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0435">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0550">The three main threats to internal validity are:
+                            <ce:list id="l0115">
+                                <ce:list-item id="u0440">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0555">confounding</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0445">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0560">bias</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0450">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0565">causality.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0455">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0570">We exclude bias (discussed in<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3869-4.00007-0" id="ia0035">Chapter 7</ce:intra-ref>) and
+                            confounding (discussed in<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00013-6"
+                                                                   id="ia0040">Chapter 13</ce:intra-ref>) as the likely
+                            explanation for our findings. At this stage, we can safely conclude that there is a true
+                            <ce:italic>association</ce:italic>
+                            between smoking and lung cancer.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0460">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0575">Association, however, does not mean causation.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0465">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0580">In 1965, Austin Bradford-Hill proposed a series of considerations to help
+                            assess evidence of causation, which are known as the ‘Bradford-Hill criteria’.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0470">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0585">These criteria serve as a guide and do not all need to be fulfilled before
+                            concluding that the relationship between two variables is causal.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0475">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0590">Observational studies can never establish that the relationship between two
+                            variables is causal. To demonstrate this point, let's return to the cohort study example
+                            discussed in
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00007-0" id="ia0045">Chapter 7
+                            </ce:intra-ref>
+                            under the ‘Confounding’ subsection. A well-conducted cohort study showed that taking hormone
+                            replacement therapy (HRT) was associated with a reduced risk of coronary heart disease
+                            (CHD). However, a subsequent RCT showed that HRT does not reduce the risk of CHD. It turned
+                            out that women who took HRT were also more likely to be living a healthy lifestyle, and it
+                            was this that led to a reduction in CHD. Therefore, due to issues regarding the internal
+                            validity of observational studies, we must rely on well-conducted RCTs to establish a causal
+                            relationship between two variables.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0480">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0595">
+                            <ce:cross-ref refid="f0020">Figure 5.3</ce:cross-ref>
+                            <ce:float-anchor refid="f0020"/>
+                            summarises the steps involved in assessing whether there is an association or causation
+                            between two variables. You must rely on evidence from multiple studies when assessing for
+                            evidence of causation. Let's go through the checklist of criteria in turn.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0070">
+                <ce:section-title id="st0075">Strength of association</ce:section-title>
+                <ce:para id="p0600">
+                    <ce:list id="l0120">
+                        <ce:list-item id="u0485">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0605">The strength of the association is defined by the actual size of the
+                                association between two variables, as measured using the appropriate statistical test.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0490">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0610">The stronger the association:
+                                <ce:list id="l0125">
+                                    <ce:list-item id="u0495">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0615">the more likely that the relationship between the two
+                                            variables is causal.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0500">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0620">the less likely the relationship is due to confounding or
+                                            bias.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0505">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0625">A small association does not rule out a casual effect. There is still an
+                                association!
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0510">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0630">Regarding risk ratios (discussed in<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3869-4.00007-0" id="ia0050">Chapter 7</ce:intra-ref>),
+                                those under 1.5 are generally regarded as pretty weak whilst those greater than 4.0 are
+                                strong.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0075">
+                <ce:section-title id="st0080">Consistency</ce:section-title>
+                <ce:para id="p0635">
+                    <ce:list id="l0130">
+                        <ce:list-item id="u0515">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0640">The association is consistent when the results are replicated:
+                                <ce:list id="l0135">
+                                    <ce:list-item id="u0520">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0645">by different people</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0525">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0650">in different places</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0530">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0655">using different populations</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0535">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0660">using different study designs.</ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0540">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0665">Numerous studies must be carried out before a statement can be made
+                                about the causal relationship between two variables. However, because different exposure
+                                levels and other parameters may reduce the effect of the causal factor, a lack of
+                                consistency doesn't automatically rule out a causal association.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0080">
+                <ce:section-title id="st0085">Specificity</ce:section-title>
+                <ce:para id="p0670">
+                    <ce:list id="l0140">
+                        <ce:list-item id="u0545">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0675">An association is specific if there is a one-to-one relationship between
+                                the cause and outcome. In other words, in the ideal situation, a single putative cause
+                                produces a specific effect. However, this is not always the case in medicine, where most
+                                exposures (e.g. smoking, diet) lead to numerous outcomes (e.g. lung cancer, heart
+                                disease).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0550">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0680">Absence of specificity in no way negates a causal relationship.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0085">
+                <ce:section-title id="st0090">Temporal sequence</ce:section-title>
+                <ce:para id="p0685">
+                    <ce:list id="l0145">
+                        <ce:list-item id="u0555">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0690">The exposure
+                                <ce:italic>must</ce:italic>
+                                always precede the outcome. If there is an expected delay between the exposure and
+                                effect, then the effect must occur after that delay. This is the only absolutely
+                                essential criterion.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0560">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0695">The study design sometimes dictates whether it is easy to establish
+                                temporality. For example, as the exposure is measured at the start of the study, the
+                                temporal relationship between exposure and outcome is clear in prospective cohort
+                                studies.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0565">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0700">When measurements of the putative cause and the effect are made at the
+                                same time, as is the case in cross-sectional and case–control studies, it is difficult
+                                to establish a temporal sequence between the exposure and outcome; therefore, ‘reverse
+                                causality’ may be an issue. For example, case–control studies have shown that the
+                                inflammatory marker C-reactive protein (CRP) is higher in patients who have had a
+                                myocardial infarction. For a while, there was a feasible hypothesis that CRP levels
+                                could be used as a biomarker of myocardial infarction risk. However, clever Mendelian
+                                randomisation studies refuted this hypothesis. Instead, the inflammatory process
+                                associated with myocardial infarction was causing an increase in the levels of CRP (not
+                                the other way around).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0090">
+                <ce:section-title id="st0095">Biological gradient (dose–response)</ce:section-title>
+                <ce:para id="p0705">
+                    <ce:list id="l0150">
+                        <ce:list-item id="u0570">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0710">There should be a direct relationship between the level of exposure and
+                                the risk of disease (or incidence of effect). This relationship may not be a simple
+                                linear relationship.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0575">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0715">In some cases, greater exposure leads to a lower incidence of effect.
+                                The presence of a dose–response relationship provides strong evidence that a causal
+                                relationship exists.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0580">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0720">However, as with specificity (discussed above), the absence of a
+                                dose–response relationship does not rule out a causal relationship. This is because in
+                                some cases, the mere presence of the exposure can trigger the effect.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0585">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0725">Conversely, a relationship may only exist above a certain exposure
+                                threshold.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0095">
+                <ce:section-title id="st0100">Biological plausibility</ce:section-title>
+                <ce:para id="p0730">
+                    <ce:list id="l0155">
+                        <ce:list-item id="u0590">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0735">The apparent cause and effect must be plausible in the light of current
+                                knowledge. For example, is there a biological mechanism by which the exposure alters the
+                                risk of a disease?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0595">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0740">If a biological explanation appears to be outside the scope of current
+                                scientific knowledge, additional studies may be required before a true mechanism can be
+                                postulated. Consequently, the lack of a known mechanism should not rule out causality.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0100">
+                <ce:section-title id="st0105">Coherence</ce:section-title>
+                <ce:para id="p0745">
+                    <ce:list id="l0160">
+                        <ce:list-item id="u0600">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0750">The association must be coherent with our existing knowledge within the
+                                relevant field.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0605">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0755">There should be no competing or conflicting information.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0105">
+                <ce:section-title id="st0110">Reversibility (experimental evidence)</ce:section-title>
+                <ce:para id="p0760">
+                    <ce:list id="l0165">
+                        <ce:list-item id="u0610">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0765">Removing the exposure should reduce or prevent the disease outcome.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0615">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0770">Ideally, such evidence should come from RCTs.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0110">
+                <ce:section-title id="st0115">Analogy</ce:section-title>
+                <ce:para id="p0775">
+                    <ce:list id="l0170">
+                        <ce:list-item id="u0620">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0780">It is necessary to determine whether other factors similar (or
+                                analogous) to the putative cause may also be causing the effect. For example, does a
+                                similar drug have the same effect on the disease outcome?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0625">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0785">Bradford-Hill suggests that existing similar associations would support
+                                causation.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0115">
+            <ce:section-title id="st0120">CHOOSING THE RIGHT STUDY DESIGN</ce:section-title>
+            <ce:para id="p0790">
+                <ce:list id="l0175">
+                    <ce:list-item id="u0630">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0795">There are a number of factors that must be taken into account when choosing
+                            the best study design to investigate your research question.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0635">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0800">In reality, the following four key issues are usually taken into account:
+                            <ce:list id="l0180">
+                                <ce:list-item id="o0055">
+                                    <ce:label>1.</ce:label>
+                                    <ce:para id="p0805">The aim of the study</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0060">
+                                    <ce:label>2.</ce:label>
+                                    <ce:para id="p0810">The advantages and disadvantages of different study designs
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0065">
+                                    <ce:label>3.</ce:label>
+                                    <ce:para id="p0815">The resources available</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0070">
+                                    <ce:label>4.</ce:label>
+                                    <ce:para id="p0820">Ethical considerations.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0640">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0825">The advantages and disadvantages of the various types of studies covered
+                            above will be discussed in their respective chapters.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0645">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0830">Earlier in this chapter we introduced the idea that both interventional and
+                            observational studies play a role in clinical research. Once you've decided on your broad
+                            study design, the next step is to determine which type of study (e.g. cohort, case–control)
+                            best answers the research question.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0650">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0835">The flowchart shown in
+                            <ce:cross-ref refid="f0025">Fig. 5.4</ce:cross-ref>
+                            <ce:float-anchor refid="f0025"/>
+                            may assist you in choosing among the different types of study designs.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0655">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0840">As shown in<ce:cross-ref refid="f0025">Fig. 5.4</ce:cross-ref>, it would be
+                            sensible to use a case–control or retrospective cohort study rather than a prospective
+                            cohort study:
+                            <ce:list id="l0185">
+                                <ce:list-item id="u0660">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0845">if the outcome is rare.</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0665">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0850">if there is a relatively long time lag between the exposure and
+                                        the outcome. This is also known as a long induction and latent period.
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0670">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0855">if there is a dynamic population due, for instance, to people
+                                        moving in or out of the area. This is because it would be difficult to keep
+                                        track of study participants who live in a population that is constantly
+                                        changing; a fixed source population is preferred for cohort studies.
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0120">
+                <ce:section-title id="st0125">Using the hierarchy of evidence</ce:section-title>
+                <ce:para id="p0860">
+                    <ce:list id="l0190">
+                        <ce:list-item id="u0675">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0865">If a lot of research has already been carried out on the research
+                                question but there is no obvious answer, it may be appropriate to carry out a systematic
+                                review and meta-analysis.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0680">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0870">If observational studies show there is an association between two
+                                variables, but you are unsure whether there is a causal link between them, it may be
+                                appropriate to carry out an interventional study.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0685">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0875">If ecological or case–control studies have shown that there may be an
+                                association between two variables, moving up the hierarchy of evidence (discussed in
+                                <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00001-X" id="ia0055">Chapter
+                                    1</ce:intra-ref>), the next step may be to carry out a cohort study. However, if a
+                                number of case reports suggest that there may be an association between two variables,
+                                jumping straight to a cohort study would not be rational. It would be sensible to first
+                                gather additional evidence of association using a cheaper and less resource intensive
+                                study, such as using an ecological or cross-sectional study design. The graph shown in
+                                <ce:cross-ref refid="f0030">Fig. 5.5</ce:cross-ref>
+                                <ce:float-anchor refid="f0030"/>, which is based on the hierarchy of evidence,
+                                illustrates this point.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0690">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0880">Referring to<ce:cross-ref refid="f0030">Fig. 5.5</ce:cross-ref>, it is
+                                important to understand the following key points:
+                                <ce:list id="l0195">
+                                    <ce:list-item id="u0695">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0885">You are able to obtain more reliable evidence of causality
+                                            from studies which are higher up in the hierarchy of evidence.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0700">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0890">The initial discovery of a possible association between two
+                                            variables doesn't always come from a case report. In other words, the
+                                            starting point on the time axis (horizontal axis) isn't fixed.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0705">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0895">If a study shows there may be an association between two
+                                            variables, studies higher up in the hierarchy of evidence don't always agree
+                                            with this finding. Therefore, time doesn't always equate to gathering more
+                                            evidence of causality (despite the graph showing otherwise).
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0125">
+            <ce:section-title id="st0130">WRITING UP A RESEARCH STUDY</ce:section-title>
+            <ce:para id="p0900">
+                <ce:list id="l0200">
+                    <ce:list-item id="u0710">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0905">The following guideline can be used for writing most types of research
+                            studies (e.g. cohort, case–control, cross-sectional).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0715">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0910">There are separate specific guidelines on how to report systematic reviews (
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00004-5" id="ia0060">Chapter
+                                4</ce:intra-ref>), RCTs (<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00006-9"
+                                                                       id="ia0065">Chapter 6</ce:intra-ref>) and case
+                            reports (<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00011-2" id="ia0070">Chapter
+                                11</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0720">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0915">The following guideline will cover the following sections:
+                            <ce:list id="l0205">
+                                <ce:list-item id="u0725">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0920">Title</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0730">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0925">Abstract</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0735">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0930">Introduction</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0740">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0935">Methods</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0745">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0940">Results</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0750">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0945">Discussion</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0755">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0950">References.</ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0130">
+                <ce:section-title id="st0135">Title</ce:section-title>
+                <ce:para id="p0955">
+                    <ce:list id="l0210">
+                        <ce:list-item id="u0760">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0960">The title is essentially a highly condensed version of the abstract.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0765">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0965">Your objective is to use the fewest number of words to accurately
+                                describe the content of the paper.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0135">
+                <ce:section-title id="st0140">Abstract</ce:section-title>
+                <ce:para id="p0970">
+                    <ce:list id="l0215">
+                        <ce:list-item id="u0770">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0975">There is usually a strict word limit for the abstract, so carefully read
+                                the journal guidelines before you begin!
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0775">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0980">The abstract will help readers discern whether they are interested (or
+                                not) in reading the research report.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0780">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0985">For obvious reasons, the abstract is written after the rest of the paper
+                                is completed.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0785">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0990">As it is a summary of the work done, it should be written in the past
+                                tense.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0790">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0995">Complete sentences should be used to summarise the following elements of
+                                the study:
+                                <ce:list id="l0220">
+                                    <ce:list-item id="u0795">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1000">Purpose of the study – Background to the study, research
+                                            question and objectives.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0800">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1005">Methods – Brief description of the study protocol.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0805">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1010">Results – Specific summarised data should be included; the
+                                            results of any important statistical tests should be stated, including the
+                                            confidence interval and<ce:italic>P</ce:italic>-value.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0810">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1015">Discussion – Important reflective points.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0815">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1020">Conclusion – Key finding/s from the study; any questions
+                                            that follow from the study.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0820">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1025">The abstract should be engaging and to the point, highlighting only the
+                                key details from the main text.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0140">
+                <ce:section-title id="st0145">Introduction</ce:section-title>
+                <ce:para id="p1030">
+                    <ce:list id="l0225">
+                        <ce:list-item id="u0825">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1035">You should grab the readers' attention at the start of the introduction,
+                                highlighting the important issues that your paper addresses.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0830">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1040">The purpose of the Introduction is to discuss the rationale behind the
+                                study.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0835">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1045">The opening sentence should take the reader straight to the issue.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0840">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1050">It is important to refrain from describing everything that is known
+                                about the topic. Instead, you should set the scene, citing the best evidence available,
+                                ideally from systematic reviews.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0845">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1055">By the end of the introduction, the reader should understand:
+                                <ce:list id="l0230">
+                                    <ce:list-item id="u0850">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1060">why your research was needed.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0855">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1065">what was innovative about your work.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0860">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1070">whether any controversies were addressed.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0865">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1075">who will potentially benefit from the research.</ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0870">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1080">The Introduction should end with a clear research question, i.e. a
+                                specific hypothesis/objective.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0875">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1085">You should write the various sections of the paper using the active
+                                voice rather than the passive voice. For example, ‘We compared the effect of drug A with
+                                …’ rather than ‘The effect of drug A was compared to …’.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0145">
+                <ce:section-title id="st0150">Methods</ce:section-title>
+                <ce:para id="p1090">
+                    <ce:list id="l0235">
+                        <ce:list-item id="u0880">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1095">The objective of this section is to document all the methods used in
+                                your study, so that a reader would know exactly how to repeat the study.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0885">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1100">If necessary, you should include a clear statement of ethics committee
+                                approval and that subjects gave their informed consent for participating in the study.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0890">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1105">For studies handling quantitative data, you should:
+                                <ce:list id="l0240">
+                                    <ce:list-item id="u0895">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1110">specify the study design (e.g. observational or
+                                            interventional, prospective or retrospective, controlled or uncontrolled).
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0900">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1115">describe how and why you chose the study sample, including
+                                            details on:
+                                            <ce:list id="l0245">
+                                                <ce:list-item id="u0905">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1120">how the sample size was determined. Was a sample
+                                                        size calculation performed prior to starting the study?
+                                                    </ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0910">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1125">how participants were recruited for the study.
+                                                    </ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0915">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1130">the sampling strategy, i.e. how you ensured the
+                                                        sample was representative of the population you chose to study.
+                                                    </ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0920">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1135">your inclusion and exclusion criteria.</ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0925">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1140">any steps taken to ensure selection bias was
+                                                        avoided.
+                                                    </ce:para>
+                                                </ce:list-item>
+                                            </ce:list>
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0930">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1145">describe the intervention and the comparison group.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0935">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1150">identify the main study outcome variables, including
+                                            specific details on:
+                                            <ce:list id="l0250">
+                                                <ce:list-item id="u0940">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1155">what outcome was measured. Were there primary
+                                                        and secondary outcomes?
+                                                    </ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0945">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1160">when the outcome was measured.</ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u0950">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1165">any steps taken to ensure measurement bias was
+                                                        avoided.
+                                                    </ce:para>
+                                                </ce:list-item>
+                                            </ce:list>
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0955">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1170">state which statistical methods were used to analyse your
+                                            data.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0960">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1175">For studies handling qualitative data, you should:
+                                <ce:list id="l0255">
+                                    <ce:list-item id="u0965">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1180">explain why a qualitative approach was appropriate for
+                                            answering your research question (as opposed to a quantitative approach).
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0970">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1185">explain how you selected the study participants and in which
+                                            setting.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0975">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1190">describe what methods were used for collecting data.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0980">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1195">describe what methods were used for analysing the data, and
+                                            whether any quality control measures were implemented.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0985">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1200">include specific details on any steps taken to avoid bias
+                                            when collecting or analysing the data.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0015">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1205">The primary outcome variable is the outcome of greatest
+                                        importance. Data on secondary outcomes are used to evaluate any additional
+                                        effects caused by the intervention/exposure. It is usually the primary outcome
+                                        on which sample size calculations are based.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0150">
+                <ce:section-title id="st0155">Results</ce:section-title>
+                <ce:para id="p1210">
+                    <ce:list id="l0260">
+                        <ce:list-item id="u0990">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1215">The purpose of the Results section is to present and illustrate your
+                                findings.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0995">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1220">This section should be a completely
+                                <ce:italic>objective</ce:italic>
+                                report of the results.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1000">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1225">In summary, you should:
+                                <ce:list id="l0265">
+                                    <ce:list-item id="u1005">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1230">summarise your data in the main text and illustrate them, if
+                                            appropriate, with tables and figures.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u1010">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1235">provide some context to a statistical test before describing
+                                            the result, i.e. describe the question that is going to be addressed by a
+                                            particular statistical test.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u1015">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1240">analyse the data using appropriate statistical tests,
+                                            stating:
+                                            <ce:list id="l0270">
+                                                <ce:list-item id="u1020">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1245">the<ce:italic>P</ce:italic>-value
+                                                    </ce:para>
+                                                </ce:list-item>
+                                                <ce:list-item id="u1025">
+                                                    <ce:label>•</ce:label>
+                                                    <ce:para id="p1250">the 95% confidence interval of the mean (or
+                                                        proportion).
+                                                    </ce:para>
+                                                </ce:list-item>
+                                            </ce:list>
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1030">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1255">You should avoid:
+                                <ce:list id="l0275">
+                                    <ce:list-item id="u1035">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1260">presenting the data more than once.</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u1040">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1265">interpreting the results (save this for the Discussion
+                                            section).
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1045">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1270">The text should complement any tables or figures, not repeat the same
+                                information.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1050">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1275">As always, you should use the past tense when referring to your
+                                results.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0020">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p1280">For each figure or table, you should remember to include a
+                                        legend which:
+                                        <ce:list id="l0280">
+                                            <ce:list-item id="u1055">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p1285">is numbered consecutively.</ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u1060">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p1290">consists of a title.</ce:para>
+                                            </ce:list-item>
+                                            <ce:list-item id="u1065">
+                                                <ce:label>•</ce:label>
+                                                <ce:para id="p1295">conveys information about what the table or figure
+                                                    tells the reader.
+                                                </ce:para>
+                                            </ce:list-item>
+                                        </ce:list>
+                                    </ce:para>
+                                    <ce:para id="p1300">Each table or figure must be sufficiently complete so that it
+                                        stands on its own, separate from the text.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0155">
+                <ce:section-title id="st0160">Discussion</ce:section-title>
+                <ce:para id="p1305">
+                    <ce:list id="l0285">
+                        <ce:list-item id="u1070">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1310">The objective of the Discussion is to provide an interpretation of your
+                                results, using evidence from the literature to make your conclusions.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1075">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1315">The Discussion should start with a sentence that describes your
+                                principal finding.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1080">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1320">The strengths and weaknesses of the study design should both be
+                                discussed to help you interpret the validity of the findings.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1085">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1325">The results should be discussed with reference to previous research. Do
+                                your results:
+                                <ce:list id="l0290">
+                                    <ce:list-item id="u1090">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1330">fit in with what is already known about the topic?</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u1095">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1335">reach different conclusions to those stated in the
+                                            literature? If so, why?
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1100">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1340">It is important to explain all your observations as much as possible.
+                                For example:
+                                <ce:list id="l0295">
+                                    <ce:list-item id="u1105">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1345">what are the possible mechanisms linking one variable to
+                                            another?
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u1110">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p1350">what are the policy and practice implications of your
+                                            results?
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1115">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1355">You should end the Discussion with a paragraph highlighting any
+                                questions left unanswered and ideas for future research.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1120">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1360">Again, refer to work done by specific individuals (including yourself)
+                                in the past tense.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0160">
+                <ce:section-title id="st0165">References</ce:section-title>
+                <ce:para id="p1365">
+                    <ce:list id="l0300">
+                        <ce:list-item id="u1125">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1370">All sources of information referred to in the research paper should be
+                                acknowledged in the references section at the end of the paper.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u1130">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p1375">The Harvard Referencing System is a collection of rules that
+                                standardises the format in which common types of material (e.g. books, journal articles,
+                                websites) are referenced.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+                <ce:section id="s0165">
+                    <ce:section-title id="st0170">Journal articles</ce:section-title>
+                    <ce:para id="p1380">Journal articles are usually laid out like this:</ce:para>
+                    <ce:para id="p1385">Authors(s). (Year) Title of article.<ce:italic>Title of journal</ce:italic>.
+                        Volume number (part/issue): Page number.
+                    </ce:para>
+                    <ce:para id="p1390">The title of the journal is usually abbreviated. For example,</ce:para>
+                    <ce:para id="p1395">Doll R and Hill AB. (1954) The mortality of doctors in relation to their smoking
+                        habits.<ce:italic>Br Med J</ce:italic>. 1(4877): 1451–1455.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0170">
+                    <ce:section-title id="st0175">Books</ce:section-title>
+                    <ce:para id="p1400">Books are usually laid out like this:</ce:para>
+                    <ce:para id="p1405">Authors(s). (Year)<ce:italic>Title of book</ce:italic>. Edition. Place of
+                        publication: Publisher.
+                    </ce:para>
+                    <ce:para id="p1410">For books with one or more editors, you include the abbreviation (ed.) or (eds)
+                        after their surname. You only include the edition if the book is not in its first edition. For
+                        example,
+                    </ce:para>
+                    <ce:para id="p1415">Khot A and Polmear A. (eds) (2010)<ce:italic>Practical General Practice:
+                        Guidelines for Effective Clinical Management</ce:italic>. 6th edn. Edinburgh: Elsevier,
+                        Churchill Livingstone.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0175">
+                    <ce:section-title id="st0180">Chapters in books</ce:section-title>
+                    <ce:para id="p1420">Chapters in books are usually laid out like this:</ce:para>
+                    <ce:para id="p1425">Authors(s). (Year) Title of chapter. In: Author(s)/Editor(s).<ce:italic>Title of
+                        book</ce:italic>. Edition. Place of publication: Publisher.
+                    </ce:para>
+                    <ce:para id="p1430">For example,</ce:para>
+                    <ce:para id="p1435">Jeremy JY, Kaura A, Sablayrolles JL and Angelini GD. (2010) Saphenous vein graft
+                        attrition. In: Escaned J and Serruys PW (eds)<ce:italic>Coronary Stenosis. Imaging, Structure
+                            and Physiology</ce:italic>. Toulouse, France: PCR Publishing.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0180">
+                    <ce:section-title id="st0185">Websites</ce:section-title>
+                    <ce:para id="p1440">A website should be treated similarly to a print work; i.e. it should have an
+                        author or editor and a title. You should include the
+                        <ce:italic>full</ce:italic>
+                        address of the website and also the date on which the page was accessed. Websites are usually
+                        laid out like this:
+                    </ce:para>
+                    <ce:para id="p1445">Authors(s). (Year) Website title. Web address [accessed day month year].
+                    </ce:para>
+                    <ce:para id="p1450">For example,</ce:para>
+                    <ce:para id="p1455">The foundation programme. (2012) Academic Programmes.
+                        <ce:inter-ref xlink:href="http://www.foundationprogramme.nhs.uk/pages/academic-programmes"
+                                      id="ir0010">http://www.foundationprogramme.nhs.uk/pages/academic-programmes
+                        </ce:inter-ref>
+                        [accessed 14 May 2012].
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0185">
+                    <ce:section-title id="st0190">Dissertations and theses</ce:section-title>
+                    <ce:para id="p1460">These are usually laid out like this:</ce:para>
+                    <ce:para id="p1465">Authors(s). (Year)<ce:italic>Title</ce:italic>. Designation (Level, e.g. MSc,
+                        PhD), Institution.
+                    </ce:para>
+                    <ce:para id="p1470">If the piece of work has not been published, you include this after the title.
+                        For example,
+                    </ce:para>
+                    <ce:para id="p1475">Wayne B. (2012)
+                        <ce:italic>How I Became Batman!</ce:italic>
+                        Unpublished dissertation (MSc), DC University.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0190">
+                    <ce:section-title id="st0195">Verbal materials: interviews</ce:section-title>
+                    <ce:para id="p1480">Interviews are usually laid out like this:</ce:para>
+                    <ce:para id="p1485">Named Person(s). (Year)<ce:italic>Title for interview</ce:italic>. Conducted by
+                        (name) on (date) at (location).
+                    </ce:para>
+                    <ce:para id="p1490">For example,</ce:para>
+                    <ce:para id="p1495">Simpson H. (2012)<ce:italic>Interview on the World's Best Doughnut</ce:italic>.
+                        Conducted by Kaura A, on 21 November 2010 at Springfield nuclear power plant, USA.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0195">
+                    <ce:section-title id="st0200">Unpublished material: lecture notes</ce:section-title>
+                    <ce:para id="p1500">Lecture notes are usually laid out like this:</ce:para>
+                    <ce:para id="p1505">Lecturer(s). (Year)<ce:italic>Title of lecture</ce:italic>. Course/module name,
+                        Institution where delivered, Date delivered [Lecture notes taken by (name)].
+                    </ce:para>
+                    <ce:para id="p1510">For example,</ce:para>
+                    <ce:para id="p1515">Parker P. (1984)
+                        <ce:italic>How to Become a Spiderman (or Spiderwoman)!</ce:italic>
+                        BSc Genetics, Marvel University, 14 June 1984 [Lecture notes taken by Kaura A].
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+    </ce:sections>
+</chapter>

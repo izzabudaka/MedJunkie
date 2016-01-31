@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10952291" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Red cell enzymes maintain the integrity of red cells. Defects can lead to haemolysis.</p>
+        <p>What is the commonest red cell enzyme defect?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">5' nucleotidase</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Cytochrome b5 reductase</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Glucose-6-phosphate dehydrogenase</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Lactic dehydrogenase</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Pyruvate kinase</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Glucose-6-phosphate dehydrogenase) is Correct.</b>
+      G6PD deficiency is the commonest red cell enzyme defect leading to haemolytic anaemia. The enzyme plays an important role as part of the pentose phosphate pathway (hexose monophosphate shunt), reducing NADP to NADPH.
+      <br/>
+      <br/>
+      Oxidative damage leading to a haemolytic crisis may be caused by various factors:
+    </p>
+    <ul>
+      <li>drug interaction, such as analgesics, antimalarials (primaquine) and antibiotics</li>
+      <li>ingestion of fava beans</li>
+      <li>sepsis.</li>
+    </ul>
+    <p>
+      G6PD deficiency is inherited in an X-linked recessive manner, so males are affected more frequently than females, although females who are heterozygous may still show features of the disorder. The condition is commonest in the tropics but has become increasingly common in Northern Europe, the UK, and North and South America.
+      <br/>
+      <br/>
+      Typically in haemolytic anaemia, the red cells often show particular characteristics:
+    </p>
+    <ul>
+      <li>Heinz bodies are seen with particular stains where haemoglobin has been rendered unstable due to oxidant damage.</li>
+      <li>Bite cells are thought to result from the processing of cells through the spleen and removal of Heinz bodies.</li>
+    </ul>
+    <p>
+      <b>Option A (5’ nucleotidase) is Incorrect.</b>
+      5’ nucleotidase is a laboratory test for hepatic cholestasis.
+      <br/>
+      <br/>
+      <b>Option B (Cytochrome b5 reductase) is Incorrect.</b>
+      Cytochrome b5 reductase is a membrane protein.
+      <br/>
+      <br/>
+      <b>Option D (Lactic dehydrogenase) is Incorrect.</b>
+      Lactic dehydrogenase is an enzyme found in many tissues, including the liver. It is used as a liver function test.
+      <br/>
+      <br/>
+      <b>Option E (Pyruvate kinase) is Incorrect.</b>
+      Pyruvate kinase causes haemolytic anaemia, but is not common.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Glucose-6-phosphate dehydrogenase) is Correct.</b>
+      G6PD deficiency is the commonest red cell enzyme defect leading to haemolytic anaemia. The enzyme plays an important role as part of the pentose phosphate pathway (hexose monophosphate shunt), reducing NADP to NADPH.
+      <br/>
+      <br/>
+      Oxidative damage leading to a haemolytic crisis may be caused by various factors:
+    </p>
+    <ul>
+      <li>drug interaction, such as analgesics, antimalarials (primaquine) and antibiotics</li>
+      <li>ingestion of fava beans</li>
+      <li>sepsis.</li>
+    </ul>
+    <p>
+      G6PD deficiency is inherited in an X-linked recessive manner, so males are affected more frequently than females, although females who are heterozygous may still show features of the disorder. The condition is commonest in the tropics but has become increasingly common in Northern Europe, the UK, and North and South America.
+      <br/>
+      <br/>
+      Typically in haemolytic anaemia, the red cells often show particular characteristics:
+    </p>
+    <ul>
+      <li>Heinz bodies are seen with particular stains where haemoglobin has been rendered unstable due to oxidant damage.</li>
+      <li>Bite cells are thought to result from the processing of cells through the spleen and removal of Heinz bodies.</li>
+    </ul>
+    <p>
+      <b>Option A (5’ nucleotidase) is Incorrect.</b>
+      5’ nucleotidase is a laboratory test for hepatic cholestasis.
+      <br/>
+      <br/>
+      <b>Option B (Cytochrome b5 reductase) is Incorrect.</b>
+      Cytochrome b5 reductase is a membrane protein.
+      <br/>
+      <br/>
+      <b>Option D (Lactic dehydrogenase) is Incorrect.</b>
+      Lactic dehydrogenase is an enzyme found in many tissues, including the liver. It is used as a liver function test.
+      <br/>
+      <br/>
+      <b>Option E (Pyruvate kinase) is Incorrect.</b>
+      Pyruvate kinase causes haemolytic anaemia, but is not common.
+    </p>
+  </modalFeedback>
+</assessmentItem>

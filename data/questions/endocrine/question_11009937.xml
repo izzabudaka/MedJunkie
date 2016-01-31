@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11009937" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          A 37-year-old woman with type 1 diabetes for 20 years is seen with an erythematous non-tender left foot. On examination pus can be seen to be draining from the plantar surface of the second metatarsal head. She has a weak but palpable dorsalis pedis pulse. She is feverish with a temperature of 38.5
+          <sup>o</sup>
+          C.
+        </p>
+        <p>The most likely factor predisposing to the original ulceration is:</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Arterial insufficiency</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Infection</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Insect bite</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Neuropathy</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Self-mutilation</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Neuropathy) is Correct.</b>
+      The presence of the plantar ulceration strongly indicates that this is a classic neuropathic ulcer which has become secondarily infected.
+    </p>
+    <p>
+      <b>Option A (Arterial insufficiency) is Incorrect.</b>
+      The presence of the dorsalis pedis pulse indicates that arterial insufficiency is not the cause.
+    </p>
+    <p>
+      <b>Option B (Infection) is Incorrect.</b>
+      The presence of pus indicates a bacterial infection secondary to the original cause of the ulceration.
+    </p>
+    <p>
+      <b>Option C (Insect bite) is Incorrect.</b>
+      This would be extremely unlikely.
+    </p>
+    <p>
+      <b>Option E (Self-mutilation) is Incorrect.</b>
+      This would be extremely unlikely.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Neuropathy) is Correct.</b>
+      The presence of the plantar ulceration strongly indicates that this is a classic neuropathic ulcer which has become secondarily infected.
+    </p>
+    <p>
+      <b>Option A (Arterial insufficiency) is Incorrect.</b>
+      The presence of the dorsalis pedis pulse indicates that arterial insufficiency is not the cause.
+    </p>
+    <p>
+      <b>Option B (Infection) is Incorrect.</b>
+      The presence of pus indicates a bacterial infection secondary to the original cause of the ulceration.
+    </p>
+    <p>
+      <b>Option C (Insect bite) is Incorrect.</b>
+      This would be extremely unlikely.
+    </p>
+    <p>
+      <b>Option E (Self-mutilation) is Incorrect.</b>
+      This would be extremely unlikely.
+    </p>
+  </modalFeedback>
+</assessmentItem>

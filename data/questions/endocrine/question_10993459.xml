@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10993459" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 2-day-old male baby on the postnatal ward is found to be pale, floppy, dehydrated and unresponsive. At the time of birth, the baby was diagnosed as having ambiguous genitalia. Earlier in the day, the baby had a seizure. Observations reveal a BP of 60/40 mmHg and a heart rate of 200 beats/min. Temperature is 37.2°C.</p>
+        <p>What investigation is essential?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Blood cultures</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Calcium level</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Haemoglobin</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sodium level</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">White cell count</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sodium level) is Correct.</b>
+      This baby has congenital adrenal hyperplasia and is presenting with an adrenocortical crisis. Seizures are due to hyponatraemia.
+    </p>
+    <p>
+      <b>Option A (Blood cultures) is Incorrect.</b>
+      The baby does not present with a fever.
+    </p>
+    <p>
+      <b>Option B (Calcium level) is Incorrect.</b>
+      The history of seizures and ambiguous genitalia suggest a diagnosis of congenital adrenal hyperplasia, which is associated with low sodium levels.
+    </p>
+    <p>
+      <b>Option C (Haemoglobin) is Incorrect.</b>
+      There is no suggestion that this will be helpful.
+    </p>
+    <p>
+      <b>Option E (White cell count) is Incorrect.</b>
+      The presentation given does not suggest a history of infection.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sodium level) is Correct.</b>
+      This baby has congenital adrenal hyperplasia and is presenting with an adrenocortical crisis. Seizures are due to hyponatraemia.
+    </p>
+    <p>
+      <b>Option A (Blood cultures) is Incorrect.</b>
+      The baby does not present with a fever.
+    </p>
+    <p>
+      <b>Option B (Calcium level) is Incorrect.</b>
+      The history of seizures and ambiguous genitalia suggest a diagnosis of congenital adrenal hyperplasia, which is associated with low sodium levels.
+    </p>
+    <p>
+      <b>Option C (Haemoglobin) is Incorrect.</b>
+      There is no suggestion that this will be helpful.
+    </p>
+    <p>
+      <b>Option E (White cell count) is Incorrect.</b>
+      The presentation given does not suggest a history of infection.
+    </p>
+  </modalFeedback>
+</assessmentItem>

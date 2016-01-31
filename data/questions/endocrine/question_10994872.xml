@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10994872" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 19-year-old woman with type 1 diabetes mellitus is seen in the outpatients’ clinic. She has been on subcutaneous insulin for 4 years. Her diary of home fingerstick glucose levels is very variable. A glycosylated haemoglobin is 11.2%.</p>
+        <p>To prevent long-term vascular complications what should her glycosylated haemoglobin be?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Aim for a glycosylated haemoglobin of less than 4.0%</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Aim for a glycosylated haemoglobin of 4.0–6.9%</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Aim for a glycosylated haemoglobin of 7–7.5%</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Aim for a glycosylated haemoglobin of 7.6–11.0%</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Aim for a glycosylated haemoglobin of greater than 11.0%</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The National Institute for Health and Clinical Excellence (NICE) recommends a target level of glycosylated haemoglobin of less than 7.5% in patients with type 1 and type 2 diabetes mellitus.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This target glycosylated haemoglobin is too low and would be associated with a significant risk of episodes of hypoglycaemia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Whilst the National Institute for Health and Clinical Excellence (NICE) recommends a target glycosylated haemoglobin level of less than 6.5% in those at increased arterial risk (e.g. previous stroke or myocardial infarction), this patient does not fit this criterion.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This target glycosylated haemoglobin is too high and would be associated with an increased long-term risk of vascular complications.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This target glycosylated haemoglobin is too high and would be associated with an increased long-term risk of vascular complications.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The National Institute for Health and Clinical Excellence (NICE) recommends a target level of glycosylated haemoglobin of less than 7.5% in patients with type 1 and type 2 diabetes mellitus.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This target glycosylated haemoglobin is too low and would be associated with a significant risk of episodes of hypoglycaemia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Whilst the National Institute for Health and Clinical Excellence (NICE) recommends a target glycosylated haemoglobin level of less than 6.5% in those at increased arterial risk (e.g. previous stroke or myocardial infarction), this patient does not fit this criterion.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This target glycosylated haemoglobin is too high and would be associated with an increased long-term risk of vascular complications.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This target glycosylated haemoglobin is too high and would be associated with an increased long-term risk of vascular complications.
+    </p>
+  </modalFeedback>
+</assessmentItem>

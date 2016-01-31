@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11004870" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 70-year-old woman presents with 6-month history of sweating, palpitations, weakness and diplopia. She also has a history of tonic-clonic seizures and has undergone investigations for epilepsy. Her family have also noted that her behaviour has been rather odd recently. Her symptoms tend to get worse with exercise and before breakfast. The primary care physician asked the patient to keep a diary of her blood glucose levels and has noted that these episodes are associated with hypoglycaemia and resolve with the ingestion of glucose.</p>
+        <p>What is the likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acute intermittent porphyria</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Amyloidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Fanconi syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Insulinoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Pseudodementia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      Whipple's triad is required for the diagnosis of insulinoma: symptoms are associated with fasting/exercise, hypoglycaemia is confirmed during episodes, and glucose relieves symptoms. Insulinomas can have bizarre presenting features and are often confused with pseudodementia, epilepsy and cerebrovascular disease. Massive tumours like sarcomas can also cause hypoglycaemia due to secretion of insulin-like growth factor (IGF)1. Fulminant hepatic failure and end-stage renal failure may also induce hypoglycaemia.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Acute porphyrias are due to errors in haem biosynthesis and toxic accumulation of porphyrin precursors. During an attack the patient typically experiences abdominal pain, vomiting and fever. Acute porphyria can cause psychosis and seizures, but does not cause hypoglycaemia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Amyloidosis refers to a variety of conditions in which amyloid protein is deposited in organs. Primary amyloid is due to production of amyloid from clonal B cells. Secondary amyloid occurs in chronic inflammatory states (rheumatoid arthritis, inflammatory bowel disease, bronchiectasis) due the amyloid derived from an acute phase protein, serum amyloid A. Amyloidosis can cause renal impairment, restrictive cardiomyopathy, neuropathy, gut malabsorption and purpura.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Fanconi syndrome refers to a defect in the proximal renal tubule, resulting in impairment of the reabsorption of amino acids, electrolytes and glucose. It causes dehydration, failure to thrive and rickets.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Pseudodementia is a symptom of major depression. Apparent memory impairment is due to apathy and failure to respond to questions.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      Whipple's triad is required for the diagnosis of insulinoma: symptoms are associated with fasting/exercise, hypoglycaemia is confirmed during episodes, and glucose relieves symptoms. Insulinomas can have bizarre presenting features and are often confused with pseudodementia, epilepsy and cerebrovascular disease. Massive tumours like sarcomas can also cause hypoglycaemia due to secretion of insulin-like growth factor (IGF)1. Fulminant hepatic failure and end-stage renal failure may also induce hypoglycaemia.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Acute porphyrias are due to errors in haem biosynthesis and toxic accumulation of porphyrin precursors. During an attack the patient typically experiences abdominal pain, vomiting and fever. Acute porphyria can cause psychosis and seizures, but does not cause hypoglycaemia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Amyloidosis refers to a variety of conditions in which amyloid protein is deposited in organs. Primary amyloid is due to production of amyloid from clonal B cells. Secondary amyloid occurs in chronic inflammatory states (rheumatoid arthritis, inflammatory bowel disease, bronchiectasis) due the amyloid derived from an acute phase protein, serum amyloid A. Amyloidosis can cause renal impairment, restrictive cardiomyopathy, neuropathy, gut malabsorption and purpura.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Fanconi syndrome refers to a defect in the proximal renal tubule, resulting in impairment of the reabsorption of amino acids, electrolytes and glucose. It causes dehydration, failure to thrive and rickets.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Pseudodementia is a symptom of major depression. Apparent memory impairment is due to apathy and failure to respond to questions.
+    </p>
+  </modalFeedback>
+</assessmentItem>

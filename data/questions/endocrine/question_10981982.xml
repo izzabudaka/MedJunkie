@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10981982" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_009</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 67-year-old man presents to Accident and Emergency with burns to 50% of his body after a traffic accident. His ECG shows tented T waves and small P waves.</div>
+          </li>
+          <li>
+            <div>A 75-year-old woman is admitted to hospital with increasing lethargy, polyuria and polydipsia. She has a history of advanced lung cancer.</div>
+          </li>
+          <li>
+            <div>A 57-year-old man at preoperative clerking is shown to have U waves. He is on furosemide for high blood pressure.</div>
+          </li>
+          <li>
+            <div>A 65-year-old man is diagnosed with pneumonia. Subsequent to his admission to hospital he reports having headaches and nausea. On examination he seems slightly confused.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Hypercalcaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Hypocalcaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Hyperkalaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Hypokalaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Hyperglycaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Hypoglycaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Hypermagnesia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Hypomagnesia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Hypernatremia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Hyponatremia</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option J (Hyponatremia) is Correct.</b>
+      SIADH (syndrome of inappropriate ADH secretion) is a condition mostly found in patients diagnosed with small cell lung cancer, brain tumours, chest infections and strokes. The result is hyponatremia, and consequently headaches, nausea, vomiting and confusion.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option J (Hyponatremia) is Correct.</b>
+      SIADH (syndrome of inappropriate ADH secretion) is a condition mostly found in patients diagnosed with small cell lung cancer, brain tumours, chest infections and strokes. The result is hyponatremia, and consequently headaches, nausea, vomiting and confusion.
+    </p>
+  </modalFeedback>
+</assessmentItem>

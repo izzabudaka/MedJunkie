@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10963866" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Monocytes and macrophages are types of leucocytes (white cells).</p>
+        <p>What percentage of circulating white cells are represented by monocytes?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">50–70%</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">20–40%</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">25%</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">5%</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">0.2%</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (5%) is Correct.</b>
+      Monocytes are larger than neutrophils and make up around 5% of circulating white cells. The nucleus is characteristically kidney-shaped (indented), with vacuoles within the cytoplasm. Monocytes contain granules that store acid hydrolases and myeloperoxidase. Monocytes and macrophages can ingest pathogenic material; degrade it and present peptides or peptide fragments to T lymphocytes. Because of this function, monocytes and macrophages are called antigen-presenting cells
+      <i>,</i>
+      since they present antigen to T cells. Monocytes circulate for about 10 h in the blood before they mature into tissue macrophages. Their main role is to kill intracellular microorganisms, such as
+      <i>Listeria</i>
+      , mycobacteria and some fungi.
+    </p>
+    <p>
+      <b>Option A (50–70%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option B (20–40%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option C (25%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option E (0.2%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (5%) is Correct.</b>
+      Monocytes are larger than neutrophils and make up around 5% of circulating white cells. The nucleus is characteristically kidney-shaped (indented), with vacuoles within the cytoplasm. Monocytes contain granules that store acid hydrolases and myeloperoxidase. Monocytes and macrophages can ingest pathogenic material; degrade it and present peptides or peptide fragments to T lymphocytes. Because of this function, monocytes and macrophages are called antigen-presenting cells
+      <i>,</i>
+      since they present antigen to T cells. Monocytes circulate for about 10 h in the blood before they mature into tissue macrophages. Their main role is to kill intracellular microorganisms, such as
+      <i>Listeria</i>
+      , mycobacteria and some fungi.
+    </p>
+    <p>
+      <b>Option A (50–70%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option B (20–40%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option C (25%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+    <p>
+      <b>Option E (0.2%) is Incorrect.</b>
+      Monocytes make up about 5% of circulating white cells.
+    </p>
+  </modalFeedback>
+</assessmentItem>

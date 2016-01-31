@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10989647" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              <p>A 38-year-old man presents with pain from right loin to groin and haematuria. He also complains of headaches. His observations include a blood pressure 220/180 mmHg. A CT KUB (kidney, ureter, bladder) demonstrates no calculus but a right adrenal mass is shown. Haematological investigation reveals:</p>
+              <p>Haemoglobin: 13 g/dL (normal range 13–18 g/dL)</p>
+              <p>
+                White cell count: 5.0 × 10
+                <sup>9</sup>
+                /L (normal range 4.0–11.0 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>
+                Platelets: 200 × 10
+                <sup>9</sup>
+                /L (normal range 150–350 × 10
+                <sup>9</sup>
+                /L)
+              </p>
+              <p>Sodium: 134 mmol/L (normal range 135–145 mmol/L)</p>
+              <p>Potassium: 3.5 mmol/L (normal range 3.3–4.7 mmol/L)</p>
+              <p>Urea: 7.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+              <p>Creatinine: 89 μmol/L (normal range 60–120 μmol/L)</p>
+              <p>Calcium: 2.94 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+              <p>
+                Phosphate (PO
+                <sub>4</sub>
+                <sup>–</sup>
+                ): 0.7 mmol/L (normal range 0.8–1.4 mmol/L)
+              </p>
+              <p>Urate: 0.3 mmol/L (normal range 0.12–0.42 mmol/L)</p>
+              <p>Parathyroid hormone (PTH): 25 pmol/L (normal range 1.0–6.5 pmol/L)</p>
+              <p>
+                Thyroxine (free) (free T
+                <sub>4</sub>
+                ): 15 pmol/L (normal range 9–21 pmol/L)
+              </p>
+              <p>Thyroid-stimulating hormone (TSH): 0.3 mU/L (normal range 0.2–4.5 mU/L)</p>
+              <p>Urinary catecholamines are raised</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 24-year-old woman who is 5 months pregnant presents with a slow-growing, anterior neck swelling. She denies heat intolerance, sweating, palpitations, tremor or diarrhoea. On examination there is a smooth, enlarged anterior triangle mass that moves on swallowing. Haematological investigation reveals:</p>
+              <p>
+                Triiodothyronine (T
+                <sub>3</sub>
+                ): 2.2 nmol/L (normal range 0.9–2.4 nmol/L)
+              </p>
+              <p>
+                Thyroxine (free) (free T
+                <sub>4</sub>
+                ): 17 pmol/L (normal range 9–21 pmol/L)
+              </p>
+              <p>Thyroid-stimulating hormone (TSH): 5.3 mU/L (normal range 0.2–4.5 mU/L)</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 26-year-old man presents with a 4-month history of weight loss, heat intolerance, tremor and diarrhoea. He presented because his partner was finding him increasingly intolerant and irritable over seemingly trivial problems. On examination there is a diffuse, enlarged smooth anterior neck swelling that rises on swallowing. On auscultation there is an audible hum over the neck swelling. Haematological investigation reveals:</p>
+              <p>
+                Triiodothyronine (T
+                <sub>3</sub>
+                ): 12.2 nmol/L (normal range 0.9–2.4 nmol/L)
+              </p>
+              <p>
+                Thyroxine (free) (free T
+                <sub>4</sub>
+                ): 170 pmol/L (normal range 9–21 pmol/L)
+              </p>
+              <p>Thyroid-stimulating hormone (TSH): &lt;0.1 mU/L (normal range 0.2–4.5 mU/L)</p>
+              <p>TSH antibodies are present</p>
+            </div>
+          </li>
+          <li>
+            <div>
+              <p>A 71-year-old man complains of an anterior neck swelling of 4 months’ duration. Over the last 3 weeks he has developed hoarseness, dysphagia and dyspnoea. On examination there is some mild inspiratory stridor and a bovine cough. There is an anterior neck swelling that is irregular and hard. There is bilateral cervical lymphadenopathy. Haematological investigation reveals:</p>
+              <p>
+                Triiodothyronine (T
+                <sub>3</sub>
+                ): 2.2 nmol/L (normal range 0.9–2.4 nmol/L)
+              </p>
+              <p>
+                Thyroxine (free) (free T
+                <sub>4</sub>
+                ): 10 pmol/L (normal range 9–21 pmol/L)
+              </p>
+              <p>Thyroid-stimulating hormone (TSH): 2.1 mU/L (normal range 0.2–4.5 mU/L)</p>
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Anaplastic carcinoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Follicular carcinoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Graves’ disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Hashimoto's thyroiditis</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Medullary carcinoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Multinodular goitre</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Papillary carcinoma</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Simple colloid goitre</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Thyroglossal cyst</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Thyroid adenoma</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Graves’ disease) is Correct.</b>
+      The patient has symptoms and signs of thyrotoxicosis. The audible hum is due to gland hypervascularity. The diffuse nature of the swelling rules out adenoma or multinodular goitre.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Graves’ disease) is Correct.</b>
+      The patient has symptoms and signs of thyrotoxicosis. The audible hum is due to gland hypervascularity. The diffuse nature of the swelling rules out adenoma or multinodular goitre.
+    </p>
+  </modalFeedback>
+</assessmentItem>

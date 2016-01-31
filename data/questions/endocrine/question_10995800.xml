@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10995800" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 43-year-old man presents with tiredness, headaches, sweats and a change in his vision. His wife states that his clothes do not fit him any more. The man concerned is shown in the figure.</p>
+        <p>What investigation would be most appropriate for this patient?</p>
+        <img src="1_MD147_web.jpg"/>
+        <p>
+          Swartz,
+          <i>Textbook of Physical Diagnosis: History and Examination</i>
+          , 6
+          <sup>th</sup>
+          edn.
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">24-hour urinary cortisol</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Random urinary glucose</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Serum insulin growth factor-1</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Short synacthen test</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid function test</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Serum insulin growth factor-1) is Correct.</b>
+      Acromegaly is usually due to a pituitary adenoma. Growth hormone excess will cause an increase in insulin growth factor-1. It is a stimulator of cell proliferation and growth. The figure shows that this patient has an enlarged mandible and nose, and  prominent supraorbital ridge.
+    </p>
+    <p>
+      [Fig. reproduced from Swartz,
+      <i>Textbook of Physical Diagnosis: History and Examination</i>
+      , 6
+      <sup>th</sup>
+      edn., 2009, with permission from Elsevier. Fig. 1.2 Acromegaly]
+    </p>
+    <p>
+      <b>Option A (24-hour urinary cortisol) is Incorrect.</b>
+      This is used to detect excess cortisol in Cushing's syndrome. Cushing's can cause truncal obesity and, if due to a pituitary adenoma, could cause visual field changes.
+    </p>
+    <p>
+      <b>Option B (Random urinary glucose) is Incorrect.</b>
+      Glycosuria is present in diabetes mellitus. It causes an osmotic diuresis leading to polyuria and polydipsia, ultimately causing weight loss due to dehydration and a tissue catabolism (fat/muscle) due to insulin deficiency.
+    </p>
+    <p>
+      <b>Option D (Short synacthen test) is Incorrect.</b>
+      This is used in Addison's disease. After administration it causes plasma cortisol levels to rise in a normal individual. It does not cause coarse facial features.
+    </p>
+    <p>
+      <b>Option E (Thyroid function test) is Incorrect.</b>
+      This is used to measure thyroid function. Tiredness would occur in hypothyroidism and sweating in hyperthyroidism. It does not cause coarse facial features.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Serum insulin growth factor-1) is Correct.</b>
+      Acromegaly is usually due to a pituitary adenoma. Growth hormone excess will cause an increase in insulin growth factor-1. It is a stimulator of cell proliferation and growth. The figure shows that this patient has an enlarged mandible and nose, and  prominent supraorbital ridge.
+    </p>
+    <p>
+      [Fig. reproduced from Swartz,
+      <i>Textbook of Physical Diagnosis: History and Examination</i>
+      , 6
+      <sup>th</sup>
+      edn., 2009, with permission from Elsevier. Fig. 1.2 Acromegaly]
+    </p>
+    <p>
+      <b>Option A (24-hour urinary cortisol) is Incorrect.</b>
+      This is used to detect excess cortisol in Cushing's syndrome. Cushing's can cause truncal obesity and, if due to a pituitary adenoma, could cause visual field changes.
+    </p>
+    <p>
+      <b>Option B (Random urinary glucose) is Incorrect.</b>
+      Glycosuria is present in diabetes mellitus. It causes an osmotic diuresis leading to polyuria and polydipsia, ultimately causing weight loss due to dehydration and a tissue catabolism (fat/muscle) due to insulin deficiency.
+    </p>
+    <p>
+      <b>Option D (Short synacthen test) is Incorrect.</b>
+      This is used in Addison's disease. After administration it causes plasma cortisol levels to rise in a normal individual. It does not cause coarse facial features.
+    </p>
+    <p>
+      <b>Option E (Thyroid function test) is Incorrect.</b>
+      This is used to measure thyroid function. Tiredness would occur in hypothyroidism and sweating in hyperthyroidism. It does not cause coarse facial features.
+    </p>
+  </modalFeedback>
+</assessmentItem>

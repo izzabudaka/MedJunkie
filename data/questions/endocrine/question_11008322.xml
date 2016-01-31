@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11008322" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 35-year-old patient is being investigated for secondary hypertension and is found to have primary hyperaldosteronism (Conn's syndrome).</p>
+        <p>What diagnostic key finding is likely on investigation?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Low renin levels</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyperglycaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypokalaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hyponatraemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Metabolic acidosis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Low renin levels) is Correct.</b>
+      Renin stimulates aldosterone production through the renin-angiotensin-aldosterone axis but aldosterone production in Conn's is independent of this axis and levels would be suppressed through the effects of high aldosterone on salt and water retention.
+    </p>
+    <p>
+      <b>Option B (Hyperglycaemia) is Incorrect.</b>
+      Aldosterone is a mineralocorticoid without glucocorticoid action.
+    </p>
+    <p>
+      <b>Option C (Hypokalaemia) is Incorrect.</b>
+      A characteristic finding in Conn's due to renal potassium loss.
+    </p>
+    <p>
+      <b>Option D (Hyponatraemia) is Incorrect.</b>
+      Hypokalaemia is the characteristic finding.
+    </p>
+    <p>
+      <b>Option E (Metabolic acidosis) is Incorrect.</b>
+      No change in acid–base balance is expected.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Low renin levels) is Correct.</b>
+      Renin stimulates aldosterone production through the renin-angiotensin-aldosterone axis but aldosterone production in Conn's is independent of this axis and levels would be suppressed through the effects of high aldosterone on salt and water retention.
+    </p>
+    <p>
+      <b>Option B (Hyperglycaemia) is Incorrect.</b>
+      Aldosterone is a mineralocorticoid without glucocorticoid action.
+    </p>
+    <p>
+      <b>Option C (Hypokalaemia) is Incorrect.</b>
+      A characteristic finding in Conn's due to renal potassium loss.
+    </p>
+    <p>
+      <b>Option D (Hyponatraemia) is Incorrect.</b>
+      Hypokalaemia is the characteristic finding.
+    </p>
+    <p>
+      <b>Option E (Metabolic acidosis) is Incorrect.</b>
+      No change in acid–base balance is expected.
+    </p>
+  </modalFeedback>
+</assessmentItem>

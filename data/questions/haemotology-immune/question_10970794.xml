@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10970794" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          Biological buffer systems, consisting of weak acids, prevent large changes in the hydrogen (H
+          <sup>+</sup>
+          ) concentration in the blood.
+        </p>
+        <p>Which protein has the most significant effect on buffering the pH?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Albumin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Myoglobin</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Globin</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Haemoglobin</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Ferritin</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Haemoglobin) is Correct.</b>
+      There are three major buffer systems that are involved in maintaining a relatively constant pH in body fluids. They are:
+    </p>
+    <ol>
+      <li>Bicarbonate/carbon dioxide</li>
+      <li>Proteins, particularly haemoglobin</li>
+      <li>Phosphate.</li>
+    </ol>
+    <br/>
+    <p>
+      <b>Option A (Albumin) is Incorrect.</b>
+      Albumin can act as buffer, but not the main protein.
+      <br/>
+      <br/>
+      <b>Option B (Myoglobin) is Incorrect.</b>
+      Myoglobin is not the main protein.
+      <br/>
+      <br/>
+      <b>Option C (Globin) is Incorrect.</b>
+      Globin is not the main protein.
+      <br/>
+      <br/>
+      <b>Option E (Ferritin) is Incorrect.</b>
+      Ferritin is not the main protein.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Haemoglobin) is Correct.</b>
+      There are three major buffer systems that are involved in maintaining a relatively constant pH in body fluids. They are:
+    </p>
+    <ol>
+      <li>Bicarbonate/carbon dioxide</li>
+      <li>Proteins, particularly haemoglobin</li>
+      <li>Phosphate.</li>
+    </ol>
+    <br/>
+    <p>
+      <b>Option A (Albumin) is Incorrect.</b>
+      Albumin can act as buffer, but not the main protein.
+      <br/>
+      <br/>
+      <b>Option B (Myoglobin) is Incorrect.</b>
+      Myoglobin is not the main protein.
+      <br/>
+      <br/>
+      <b>Option C (Globin) is Incorrect.</b>
+      Globin is not the main protein.
+      <br/>
+      <br/>
+      <b>Option E (Ferritin) is Incorrect.</b>
+      Ferritin is not the main protein.
+    </p>
+  </modalFeedback>
+</assessmentItem>

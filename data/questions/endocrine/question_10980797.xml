@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10980797" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 23-year-old African man who underwent total thyroidectomy 3 years ago presents with an unsightly swelling over the scar of the surgery. He complains of needle-like pains and itching over the swelling.</div>
+          </li>
+          <li>
+            <div>A 35-year-old woman underwent a total thyroidectomy. On the fourth post-operative day she complains of tingling and numbness in the face and fingers.</div>
+          </li>
+          <li>
+            <div>A 65-year-old man presents to his GP with a history of lethargy and weight gain. He underwent total thyroidectomy 6 months ago for thyroid carcinoma.</div>
+          </li>
+          <li>
+            <div>A 35-year-old man who underwent lobectomy of the thyroid gland is found to have a weak hoarse voice a few days after surgery.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Hypercalcaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Hyperparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Hypocalcaemia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Hypothyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Injury to external branch of superior laryngeal nerve</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Injury to the recurrent laryngeal nerve</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Keloid scar</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Tracheomalacia</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Wound dehiscence</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Hypothyroidism) is Correct.</b>
+      Hypothyroidism. Thyroid levels are normally monitored after the surgery in case replacement surgery is needed. After total thyroidectomy, thyroxine replacement therapy may commence the following day.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Hypothyroidism) is Correct.</b>
+      Hypothyroidism. Thyroid levels are normally monitored after the surgery in case replacement surgery is needed. After total thyroidectomy, thyroxine replacement therapy may commence the following day.
+    </p>
+  </modalFeedback>
+</assessmentItem>

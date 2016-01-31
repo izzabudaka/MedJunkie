@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10968771" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 40-year-old man coming to your surgery complains of tiredness and lethargy.</p>
+        <p>On examination he has conjunctival and palmar crease pallor.</p>
+        <p>A full blood count reveals decreased haemoglobin and platelets, but a very raised white cell count. He is diagnosed with a leukaemia.</p>
+        <p>If the patient were to respond rapidly and potently to All-trans retinoic acid (ATRA) therapy, what condition are they likely to be suffering from?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Chronic myelogenous leukaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Acute lymphoblastic leukaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hodgkin's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Acute promyelocytic leukaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Chronic myelogenous leukaemia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Acute promyelocytic leukaemia) is Correct.</b>
+      ATRA promotes their differentiation, reducing APML neoplastic potential.
+      <br/>
+      <br/>
+      <b>Option A (Chronic myelogenous leukaemia) is Incorrect.</b>
+      Is chronic and so wouldn't respond acutely to any chemotherapy.
+      <br/>
+      <br/>
+      <b>Option B (Acute lymphoblastic leukaemia) is Incorrect.</b>
+      This occurs mostly in children.
+      <br/>
+      <br/>
+      <b>Option C (Hodgkin's disease) is Incorrect.</b>
+      This is a lymphoma, not leukaemia.
+      <br/>
+      <br/>
+      <b>Option E (Chronic myelogenous leukaemia) is Incorrect.</b>
+      This is chronic and so wouldn't respond acutely to any chemotherapy.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Acute promyelocytic leukaemia) is Correct.</b>
+      ATRA promotes their differentiation, reducing APML neoplastic potential.
+      <br/>
+      <br/>
+      <b>Option A (Chronic myelogenous leukaemia) is Incorrect.</b>
+      Is chronic and so wouldn't respond acutely to any chemotherapy.
+      <br/>
+      <br/>
+      <b>Option B (Acute lymphoblastic leukaemia) is Incorrect.</b>
+      This occurs mostly in children.
+      <br/>
+      <br/>
+      <b>Option C (Hodgkin's disease) is Incorrect.</b>
+      This is a lymphoma, not leukaemia.
+      <br/>
+      <br/>
+      <b>Option E (Chronic myelogenous leukaemia) is Incorrect.</b>
+      This is chronic and so wouldn't respond acutely to any chemotherapy.
+    </p>
+  </modalFeedback>
+</assessmentItem>

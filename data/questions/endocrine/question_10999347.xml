@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10999347" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 60-year-old woman has a routine pre-operative ECG which shows flattened T waves, prolonged QT interval and U waves.</p>
+        <p>Which is the most likely of the following?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acute myocardial infarction</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyperkalaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypernatraemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hypokalaemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Hypothermia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This typically causes ST elevation, T wave inversion and Q waves.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This typically causes tall tented T waves, widened QRS complex and small P waves.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not usually causes ECG changes.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      The ECG may show J waves.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This typically causes ST elevation, T wave inversion and Q waves.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This typically causes tall tented T waves, widened QRS complex and small P waves.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not usually causes ECG changes.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      The ECG may show J waves.
+    </p>
+  </modalFeedback>
+</assessmentItem>

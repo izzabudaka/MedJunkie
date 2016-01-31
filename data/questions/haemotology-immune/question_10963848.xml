@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10963848" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Endothelial cells line all blood vessels and these play a central role in preventing unwanted thrombosis. The endothelium provides an effective barrier between the thrombogenic subendothelial cells and the blood coagulation factors</p>
+        <p>What is the function of thrombomodulin?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Encourages platelet aggregation</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Inhibits thrombin</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Involved in the control of thrombin</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Potent inhibitor of platelet aggregation</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Released from the activated platelet and causes vasoconstriction</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Involved in the control of thrombin) is Correct.</b>
+      Agents produced by endothelium include:
+    </p>
+    <ul>
+      <li>Thrombomodulin: this is a protein involved in the control of thrombin.</li>
+      <li>Heparin sulphate: this is a naturally occurring heparin that leads to inhibition of thrombin.</li>
+      <li>Enzymes: these degrade platelet-derived molecules, such as adenosine triphosphate (ADP), the latter encouraging platelets to aggregate.</li>
+      <li>Prostacyclin and nitric oxide (NO), which are potent inhibitors of platelet aggregation, discouraging platelets from sticking to the vessel wall.</li>
+    </ul>
+    <p>
+      <b>Option A (Encourages platelet aggregation) is Incorrect.</b>
+      ADP encourages platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Inhibits thrombin) is Incorrect.</b>
+      Heparin sulphate inhibits thrombin.
+      <br/>
+      <br/>
+      <b>Option D (Potent inhibitor of platelet aggregation) is Incorrect.</b>
+      Prostacyclin and NO are potent inhibitors of platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option E (Released from the activated platelet and causes vasoconstriction) is Incorrect.</b>
+      Thrombomodulin is present on endothelial cells.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Involved in the control of thrombin) is Correct.</b>
+      Agents produced by endothelium include:
+    </p>
+    <ul>
+      <li>Thrombomodulin: this is a protein involved in the control of thrombin.</li>
+      <li>Heparin sulphate: this is a naturally occurring heparin that leads to inhibition of thrombin.</li>
+      <li>Enzymes: these degrade platelet-derived molecules, such as adenosine triphosphate (ADP), the latter encouraging platelets to aggregate.</li>
+      <li>Prostacyclin and nitric oxide (NO), which are potent inhibitors of platelet aggregation, discouraging platelets from sticking to the vessel wall.</li>
+    </ul>
+    <p>
+      <b>Option A (Encourages platelet aggregation) is Incorrect.</b>
+      ADP encourages platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option B (Inhibits thrombin) is Incorrect.</b>
+      Heparin sulphate inhibits thrombin.
+      <br/>
+      <br/>
+      <b>Option D (Potent inhibitor of platelet aggregation) is Incorrect.</b>
+      Prostacyclin and NO are potent inhibitors of platelet aggregation.
+      <br/>
+      <br/>
+      <b>Option E (Released from the activated platelet and causes vasoconstriction) is Incorrect.</b>
+      Thrombomodulin is present on endothelial cells.
+    </p>
+  </modalFeedback>
+</assessmentItem>

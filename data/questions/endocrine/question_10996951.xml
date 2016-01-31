@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10996951" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 25-year-old woman complains of a gradual increase in a painless neck swelling. The history reveals that she has felt warm and had some weight loss. Inspection of her neck is shown in the figure.</p>
+        <p>What features of this swelling would you expect to elicit on clinical examination?</p>
+        <img src="0_MD143_web.jpg"/>
+        <p>
+          Douglas et al,
+          <i>Macleod's Clinical Examination</i>
+          , 12
+          <sup>th</sup>
+          edn.
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Elevation of swelling on swallowing</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Elevation of swelling on tongue protrusion</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Presence of a sinus</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">The swelling gurgles on palpation</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">The swelling is pulsatile on palpation</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      This patient has a thyroid nodule.
+    </p>
+    <p>
+      [Fig. reproduced from Douglas et al,
+      <i>Macleod's Clinical Examination</i>
+      , 12
+      <sup>th</sup>
+      edn., 2009, with permission from Elsevier. Fig. 5.3(C) Goitre (Uninodular – toxic nodule)]
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This occurs with a thyroglossal cyst due to its embryological connection to the foramen caecum of the tongue. It also tends to be a midline swelling.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      A brachial cyst may have a sinus and may be tender if infected. The patient would not display heat intolerance.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This occurs with a pharyngeal pouch. It is more prevalent in men and the elderly. The patient's history does not fit this diagnosis.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A carotid swelling will be pulsatile (a glomus tumour).
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      This patient has a thyroid nodule.
+    </p>
+    <p>
+      [Fig. reproduced from Douglas et al,
+      <i>Macleod's Clinical Examination</i>
+      , 12
+      <sup>th</sup>
+      edn., 2009, with permission from Elsevier. Fig. 5.3(C) Goitre (Uninodular – toxic nodule)]
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This occurs with a thyroglossal cyst due to its embryological connection to the foramen caecum of the tongue. It also tends to be a midline swelling.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      A brachial cyst may have a sinus and may be tender if infected. The patient would not display heat intolerance.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This occurs with a pharyngeal pouch. It is more prevalent in men and the elderly. The patient's history does not fit this diagnosis.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A carotid swelling will be pulsatile (a glomus tumour).
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10993424" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 38-year-old man presents with a 3-month history of worsening muscle spasms and palpitations. He also complains of numbness around the mouth and lips. Examination reveals twitching of the facial muscles when tapping over the parotid gland and you suspect he may have hypocalcaemia. Blood investigation reveals:</p>
+        <p>Total serum calcium: 1.9 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+        <p>Serum phosphate: 4.5 mg/L (normal range (fasting) 0.8–1.4 mmol/L)</p>
+        <p>Serum parathyroid hormone (PTH) : 0.3 pmol/L (normal range 1.0–6.5 pmol/L)</p>
+        <p>What could be the cause of his hypocalcaemia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Chronic renal failure</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyperventilation</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypoparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Pseudohypoparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Pseudohypoparathyroidism</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Hypoparathyroidism is most commonly seen after neck or thyroid surgery or due to autoimmune disease such as haemochromatosis. Serum phosphate increases, while serum PTH falls.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      While CRF can cause hypocalcaemia, serum phosphate would increase, as would serum PTH.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This leads to a respiratory alkalosis which may cause hypocalcaemia. However, total serum calcium would be normal, as would serum phosphate.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Pseudohypoparathyroidism would cause an increase in both serum phosphate and PTH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Vitamin D deficiency would lead to a high serum PTH and low serum phosphate.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Hypoparathyroidism is most commonly seen after neck or thyroid surgery or due to autoimmune disease such as haemochromatosis. Serum phosphate increases, while serum PTH falls.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      While CRF can cause hypocalcaemia, serum phosphate would increase, as would serum PTH.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This leads to a respiratory alkalosis which may cause hypocalcaemia. However, total serum calcium would be normal, as would serum phosphate.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Pseudohypoparathyroidism would cause an increase in both serum phosphate and PTH.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Vitamin D deficiency would lead to a high serum PTH and low serum phosphate.
+    </p>
+  </modalFeedback>
+</assessmentItem>

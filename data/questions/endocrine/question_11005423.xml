@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11005423" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 35-year-old man presents to his GP complaining of tiredness and lethargy. He feels dizzy on standing from a sitting position. The GP notices a perioral lesion and examines the oral cavity (see figure). Recent haematological investigation reveals:</p>
+        <p>Haemoglobin 13.8 g/dL (normal range 13.0–18.0 g/dL)</p>
+        <p>
+          White cell count 10.2 × 10
+          <sup>9</sup>
+          /L (normal range 4.5-11 × 10
+          <sup>9</sup>
+          /L)
+        </p>
+        <p>
+          Platelets 202 × 10
+          <sup>9</sup>
+          /L (normal range 150–350 × 10
+          <sup>9</sup>
+          /L)
+        </p>
+        <p>Glucose 2.1 (normal range 3.3-5.5 mmol)</p>
+        <p>Calcium 2.22 mmol/L (normal range 2.1–2.6 mmol/L)</p>
+        <p>Sodium 131 mmol/L (normal range 135–145 mmol/L)</p>
+        <p>Potassium 5.1 mmol/L (normal range 3.5-5.0 mmol/L)</p>
+        <p>Urea 4.0 mmol/L (normal range 2.5–6.6 mmol/L)</p>
+        <p>Creatinine 90 μmol/L (normal range 60–120 μ mol/L)</p>
+        <p>What is the most likely diagnosis?</p>
+        <img src="2_MD146_web.jpg"/>
+        <p>
+          Douglas et al.,
+          <i>Macleod's Clinical Examination</i>
+          , 11
+          <sup>th</sup>
+          edn.
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acromegaly</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Addison's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Conn's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Cushing syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Diabetes mellitus</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Addison's disease) is Correct.</b>
+      Addison's disease is characterised by mineralocorticoid deficiency causing hyponatraemia, hyperkalaemia and hypoglycaemia. Pituiatry adrenocorticotroph hormone (ACTH) increases in response to  adrenal corticoid deficiency, Hyperpigmentation can be a sign of Addison's disease and is due to the increase of alpha-melanocyte-stimulating hormone which accompanies the increase in ACTH.
+    </p>
+    <p>
+      [Fig. reproduced from Douglas et al.,
+      <i>Macleod's Clinical Examination</i>
+      , 11
+      <sup>th</sup>
+      edn., 2005, with permission from Elsevier. Fig. 2.8(B) Addison's disease (buccal pigmentation)]
+    </p>
+    <p>
+      <b>Option A (Acromegaly) is Incorrect.</b>
+      This can present with tiredness, headaches and sweats. There is no buccal or perioral pigmentation. Development of facial features occurs over years.
+    </p>
+    <p>
+      <b>Option C (Conn's syndrome) is Incorrect.</b>
+      An adrenal adenoma would cause hypertension, hypernatraemia and hypokalaemia due to mineralocorticoid excess. It can present with muscle weakness, polydipsia and polyuria.
+    </p>
+    <p>
+      <b>Option D (Cushing syndrome) is Incorrect.</b>
+      An excess of glucocorticoid results in weight gain, hypertension, hyperglycaemia, hypernatraemia and hypokalaemia.
+    </p>
+    <p>
+      <b>Option E (Diabetes mellitus) is Incorrect.</b>
+      This presents with weakness, lethargy, polyuria and polydipsia or even coma. The patient would be hyperglycaemic. There is no pigmentation present.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Addison's disease) is Correct.</b>
+      Addison's disease is characterised by mineralocorticoid deficiency causing hyponatraemia, hyperkalaemia and hypoglycaemia. Pituiatry adrenocorticotroph hormone (ACTH) increases in response to  adrenal corticoid deficiency, Hyperpigmentation can be a sign of Addison's disease and is due to the increase of alpha-melanocyte-stimulating hormone which accompanies the increase in ACTH.
+    </p>
+    <p>
+      [Fig. reproduced from Douglas et al.,
+      <i>Macleod's Clinical Examination</i>
+      , 11
+      <sup>th</sup>
+      edn., 2005, with permission from Elsevier. Fig. 2.8(B) Addison's disease (buccal pigmentation)]
+    </p>
+    <p>
+      <b>Option A (Acromegaly) is Incorrect.</b>
+      This can present with tiredness, headaches and sweats. There is no buccal or perioral pigmentation. Development of facial features occurs over years.
+    </p>
+    <p>
+      <b>Option C (Conn's syndrome) is Incorrect.</b>
+      An adrenal adenoma would cause hypertension, hypernatraemia and hypokalaemia due to mineralocorticoid excess. It can present with muscle weakness, polydipsia and polyuria.
+    </p>
+    <p>
+      <b>Option D (Cushing syndrome) is Incorrect.</b>
+      An excess of glucocorticoid results in weight gain, hypertension, hyperglycaemia, hypernatraemia and hypokalaemia.
+    </p>
+    <p>
+      <b>Option E (Diabetes mellitus) is Incorrect.</b>
+      This presents with weakness, lethargy, polyuria and polydipsia or even coma. The patient would be hyperglycaemic. There is no pigmentation present.
+    </p>
+  </modalFeedback>
+</assessmentItem>

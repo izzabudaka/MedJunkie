@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10995345" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 34-year-old woman presents with lower abdominal pain of sudden onset. There has been no nausea, vomiting or change in bowel habit. She is currently 2 weeks into her menstrual cycle. On examination her abdomen is soft with lower abdominal tenderness. Haematological investigation reveals:</p>
+        <p>Hb 120 g/l (normal range 115–165 g/l)</p>
+        <p>
+          WCC 8.6 ′ 10
+          <sup>9</sup>
+          /l (normal range 4.0–11.0 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>
+          Platelets 250 ′ 10
+          <sup>9</sup>
+          /l (normal range 150–350 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>MCV 90 fl (normal range 78–98 fl)</p>
+        <p>
+          Neutrophils 6.5 ′ 10
+          <sup>9</sup>
+          /l (normal range 2.0–7.5 ′ 10
+          <sup>9</sup>
+          /l)
+        </p>
+        <p>Sodium 135 mmol/l (normal range 135–145 mmol/l)</p>
+        <p>Potassium 4.0 mmol/l (normal range 3.6–5.1 mmol/l)</p>
+        <p>Urea 7.0 mmol/l (normal range 2.5–6.6 mmol/l)</p>
+        <p>Creatinine 70 μmol/l (normal range 60–120 μmol/l)</p>
+        <p>Alkaline phosphatase 30 iu/l (normal range 40–125 iu/l)</p>
+        <p>Alanine aminotransferase (ALT) 35 iu/l (normal range 10–50 iu/l)</p>
+        <p>Albumin 42 g/l (normal range 30–50 g/l)</p>
+        <p>Gamma-glutamyl transferase (GGT) 30 iu/l (normal range 5–35 iu/l)</p>
+        <p>Bilirubin 14 μmol/l (normal range 3–16 μmol/l)</p>
+        <p>An ultrasound scan reveals multiple cystic lesions of the ovaries and free fluid in the pelvis.</p>
+        <p>What medication is the cause of the patient's presentation?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <b>Alendronate</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <b>Carbimazole</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <b>Clomifene</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <b>Metformin</b>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <b>Octreotide</b>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Clomifene) is Correct.</b>
+      Clomifene is used in the treatment of anovulatory infertility. This anti-oestrogen can cause ovarian hyperstimulation leading to lower abdominal pain.
+    </p>
+    <p>
+      <b>Option A (Alendronate) is Incorrect.</b>
+      Is a bisphosphonate that is used in osteoporosis. Tablets can cause erosion of the gastrointestinal tract, e.g. oesophagitis or gastric ulceration.
+    </p>
+    <p>
+      <b>Option B (Carbimazole) is Incorrect.</b>
+      Agranulocytosis is a complication of this medication used to treat hyperthyroidism. Patients are warned to seek medical attention if they become ill with symptoms and sign of infection.
+    </p>
+    <p>
+      <b>Option D (Metformin) is Incorrect.</b>
+      Rarely can cause lactic acidosis which requires withdrawal of this treatment. It can occur in the presence of renal impairment, dehydration, shock, infection or myocardial infarction.
+    </p>
+    <p>
+      <b>Option E (Octreotide) is Incorrect.</b>
+      Is used in acromegaly or down regulation of the exocrine pancreas after pancreatic surgery. This somatostatin analogue causes cholelithiasis and can result in gallstone formation.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Clomifene) is Correct.</b>
+      Clomifene is used in the treatment of anovulatory infertility. This anti-oestrogen can cause ovarian hyperstimulation leading to lower abdominal pain.
+    </p>
+    <p>
+      <b>Option A (Alendronate) is Incorrect.</b>
+      Is a bisphosphonate that is used in osteoporosis. Tablets can cause erosion of the gastrointestinal tract, e.g. oesophagitis or gastric ulceration.
+    </p>
+    <p>
+      <b>Option B (Carbimazole) is Incorrect.</b>
+      Agranulocytosis is a complication of this medication used to treat hyperthyroidism. Patients are warned to seek medical attention if they become ill with symptoms and sign of infection.
+    </p>
+    <p>
+      <b>Option D (Metformin) is Incorrect.</b>
+      Rarely can cause lactic acidosis which requires withdrawal of this treatment. It can occur in the presence of renal impairment, dehydration, shock, infection or myocardial infarction.
+    </p>
+    <p>
+      <b>Option E (Octreotide) is Incorrect.</b>
+      Is used in acromegaly or down regulation of the exocrine pancreas after pancreatic surgery. This somatostatin analogue causes cholelithiasis and can result in gallstone formation.
+    </p>
+  </modalFeedback>
+</assessmentItem>

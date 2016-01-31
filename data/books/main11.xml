@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0045" version="5.2" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3863-2.00009-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3863-2.00009-X</ce:doi>
+        <ce:isbn>978-0-7234-3863-2</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 9.1</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0010" role="caption">Outline of classification of hallucinations</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-01-9780723436362" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 9.2</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0015" role="caption">Classification of delusions by content</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-02-9780723436362" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 9.3</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0020" role="caption">Thought disorder: simplified representation</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-03-9780723436362" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 9.4</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0025" role="caption">Motor symptoms in schizophrenia</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-04-9780723436362" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 9.5</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0030" role="caption">Differential diagnosis for the psychotic patient
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-05-9780723436362" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 9.6</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0035" role="caption">ICD-10 diagnostic guidelines for schizophrenia
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-06-9780723436362" id="lk0035"/>
+        </ce:figure>
+        <ce:figure id="f0040">
+            <ce:label>Fig. 9.7</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0040" role="caption">Schneider's first-rank symptoms of schizophrenia
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-07-9780723436362" id="lk0040"/>
+        </ce:figure>
+        <ce:figure id="f0045">
+            <ce:label>Fig. 9.8</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0045" role="caption">Medical and substance-related causes of psychotic symptoms
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-08-9780723436362" id="lk0045"/>
+        </ce:figure>
+        <ce:figure id="f0050">
+            <ce:label>Fig. 9.9</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0050" role="caption">Algorithm for the diagnosis of a patient presenting with
+                    psychotic symptoms
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f09-09-9780723436362" id="lk0050"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>9</ce:label>
+    <ce:title>The psychotic patient</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0105">After this chapter you should have an understanding of:
+            <ce:list id="l0105">
+                <ce:list-item id="u0060">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0110">The definition of psychosis</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0065">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0115">The definitions of: hallucination, pseudohallucination and illusion</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0070">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0120">The definitions of: delusion, overvalued idea and obsession</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0075">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0125">The phenomenology of psychosis</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0080">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0130">The differential diagnosis of psychosis</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0085">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0135">How to assess someone presenting with psychotic features</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:para id="p0140">
+            <ce:display>
+                <ce:textbox role="alt2" id="b0010">
+                    <ce:textbox-head>
+                        <ce:title>Case summary</ce:title>
+                    </ce:textbox-head>
+                    <ce:textbox-body>
+                        <ce:sections>
+                            <ce:para id="p0145">Mr PP, aged 23 years, was assessed by his general practitioner (GP)
+                                because his family had become concerned about his behaviour. Over the last 6 months his
+                                college attendance had been uncharacteristically poor and he had terminated his
+                                part-time work. He had also become increasingly reclusive, spending more time alone in
+                                his flat, refusing to answer the door or see his friends. After some inappropriate
+                                suspiciousness, he allowed the GP into his flat and then disclosed that government
+                                scientists had started to perform experiments on him over the last year. These involved
+                                the insertion of an electrode into his brain that detected gamma rays transmitted from
+                                government headquarters, which issued him with commands and ‘planted’ strange ideas in
+                                his head. When the GP asked how he knew this, he replied that he heard the ‘men's
+                                voices’ as ‘clear as day’ and that they continually commented on what he was thinking.
+                                He explained that his suspicion that ‘all was not right’ was confirmed when he heard the
+                                neighbour's dog barking in the middle of the night – at that point he knew ‘for certain’
+                                that he was being interfered with. Prompted by the GP, Mr PP also mentioned that a man
+                                in his local pub knew of his plight and had sent him a ‘covert signal’ when he overheard
+                                the man conversing about the dangers of nuclear experiments. He also admitted to
+                                ‘receiving coded information’ from the radio whenever it was turned on. The GP found no
+                                evidence of abnormal mood, incoherence of speech or disturbed motor function. Mr PP
+                                denied use of illicit drugs and appeared physically well. After the GP discussed the
+                                case with a psychiatrist, Mr PP was admitted to a psychiatric hospital. He agreed to a
+                                voluntary admission, as he was now afraid of staying alone at home.
+                            </ce:para>
+                            <ce:para id="p0150">
+                                <ce:italic>(For a discussion of the case study see the end of the chapter)</ce:italic>
+                            </ce:para>
+                        </ce:sections>
+                    </ce:textbox-body>
+                </ce:textbox>
+            </ce:display>
+        </ce:para>
+        <ce:para id="p0155">The psychotic patient can present in many varied ways. It is often very difficult to elicit
+            and describe specific symptoms when a patient is speaking or behaving in a grossly disorganized fashion.
+            Therefore, it is important to approach the psychotic patient in a logical and systematic fashion as well as
+            to have a good understanding of the psychopathology involved.
+        </ce:para>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">DEFINITIONS AND CLINICAL FEATURES</ce:section-title>
+            <ce:para id="p0160">Psychosis refers to a mental state in which reality is grossly distorted, resulting in
+                symptoms such as delusions, hallucinations and thought disorder. However, patients with schizophrenia
+                and other psychotic disorders often have other symptoms too, e.g. psychomotor abnormalities, mood/affect
+                disturbance, cognitive deficits and disorganized behaviour.
+            </ce:para>
+            <ce:para id="p0165">There are many classifications that attempt to describe all the symptoms seen in
+                schizophrenia and psychosis. So, in order to simplify matters it is useful to approach psychotic
+                psychopathology using five somewhat interrelated parameters:
+                <ce:list id="l0110">
+                    <ce:list-item id="o0055">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0170">Perception.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0060">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0175">Abnormal beliefs.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0065">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0180">Thought disorder.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0070">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0185">Negative symptoms.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0075">
+                        <ce:label>5.</ce:label>
+                        <ce:para id="p0190">Psychomotor function.</ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0015">
+                <ce:section-title id="st0020">Perceptual disturbance</ce:section-title>
+                <ce:para id="p0195">
+                    <ce:italic>Perception</ce:italic>
+                    is the process of making sense of the physical information we receive from our five sensory
+                    modalities.
+                </ce:para>
+                <ce:para id="p0200">
+                    <ce:italic>Hallucinations</ce:italic>
+                    are perceptions occurring in the absence of an external physical stimulus, which have the following
+                    important characteristics:
+                    <ce:list id="l0115">
+                        <ce:list-item id="u0090">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0205">To the patient, the nature of a hallucination is exactly the same as a
+                                normal sensory experience – i.e. it appears real. Therefore, patients often have little
+                                insight into their abnormal experience.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0095">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0210">They are experienced as external sensations from any one of the five
+                                sensory modalities (hearing, vision, smell, taste, touch) and should be distinguished
+                                from ideas, thoughts, images or fantasies which originate in the patient's own mind.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0100">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0215">They occur without an external stimulus and are not merely distortions
+                                of an existing physical stimulus (see illusions).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:italic>Illusions</ce:italic>
+                    are misperceptions of real external stimuli, e.g. in a dark room, a dressing gown hanging on a
+                    bedroom wall is perceived as a person. Illusions often occur in healthy people and are usually
+                    associated with inattention or strong emotion.
+                </ce:para>
+                <ce:para id="p0225">A
+                    <ce:italic>pseudohallucination</ce:italic>
+                    is a perceptual experience which differs from a hallucination in that it appears to arise in the
+                    subjective inner space of the mind, not through one of the external sensory organs. Patients tend to
+                    describe these sensations as being perceived with the ‘inner eye’ or ‘mind's eye’ (or ear). Although
+                    experienced in internal space they are not under conscious control. Examples include: distressing
+                    flashbacks in post-traumatic stress disorder or someone hearing a voice inside their own head
+                    telling them to harm themselves. These are not viewed as true psychotic experiences. Note that some
+                    psychiatrists define pseudohallucinations to mean hallucinations that patients actually recognize as
+                    false perceptions, i.e. they have insight into the fact that they are hallucinating. The former
+                    definition is probably more widely used.
+                </ce:para>
+                <ce:para id="p0230">According to which sense organ they appear to arise from, hallucinations are
+                    classified as auditory, visual, olfactory, gustatory or somatic. Special forms of hallucinations
+                    will also be discussed. See
+                    <ce:cross-ref refid="f0010">Figure 9.1</ce:cross-ref>
+                    <ce:float-anchor refid="f0010"/>
+                    for an outline of the classification of hallucinations.
+                </ce:para>
+                <ce:section id="s0020">
+                    <ce:section-title id="st0025">Auditory hallucinations</ce:section-title>
+                    <ce:para id="p0235">These are hallucinations of the hearing modality and are the most common type of
+                        hallucinations in clinical psychiatry. Elementary hallucinations are simple, unstructured
+                        sounds, e.g. whirring, buzzing, whistling or single words; this type of hallucination commonly
+                        occurs in acute organic states. Complex hallucinations occur as spoken phrases, sentences or
+                        even dialogue that are classified as:
+                        <ce:list id="l0120">
+                            <ce:list-item id="u0105">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0240">
+                                    <ce:italic>Audible thoughts</ce:italic>
+                                    (<ce:italic>first person</ce:italic>): patients hear their own thoughts spoken out
+                                    loud as they think them. When patients experience their thoughts as echoed by a
+                                    voice after they have thought them, it is termed thought echo.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0110">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0245"><ce:italic>Second person auditory hallucinations</ce:italic>:
+                                    patients hear a voice or voices talking directly to them. Second person
+                                    hallucinations can be persecutory, highly critical, complimentary or issue commands
+                                    to the patient (command hallucinations). Second person hallucinations are often
+                                    associated with mood disorders with psychotic features and so will be critical or
+                                    persecutory in a depressed patient or complimentary in a manic patient, i.e.
+                                    mood-congruent hallucinations.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0115">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0250"><ce:italic>Third person auditory hallucinations</ce:italic>:
+                                    patients hear a voice or voices speaking about them, referring to them in the third
+                                    person. This may take the form of two or more voices arguing or discussing the
+                                    patient among themselves; or one or more voices giving a running commentary on the
+                                    patient's thoughts or actions.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0025">
+                    <ce:section-title id="st0030">Visual hallucinations</ce:section-title>
+                    <ce:para id="p0255">These are hallucinations of the visual modality. They occur most commonly in
+                        organic brain disturbances (delirium, occipital lobe tumours, epilepsy, dementia) and in the
+                        context of psychoactive substance use (lysergic acid diethylamide (LSD), mescaline,
+                        petrol/glue-sniffing, alcoholic hallucinosis). An autoscopic hallucination is the experience of
+                        seeing an image of oneself in external space. The Charles Bonnet syndrome describes the
+                        condition where patients experience complex visual hallucinations associated with no other
+                        psychiatric symptoms or impairment in consciousness; it usually occurs in older adults and is
+                        associated with loss of vision. Lilliputian hallucinations are hallucinations of miniature
+                        people or animals.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0030">
+                    <ce:section-title id="st0035">Somatic hallucinations</ce:section-title>
+                    <ce:para id="p0260">These are hallucinations of bodily sensation and include superficial, visceral
+                        and kinaesthetic hallucinations.
+                    </ce:para>
+                    <ce:para id="p0265">
+                        <ce:italic>Superficial hallucinations</ce:italic>
+                        describe sensations on or just below the skin and may be:
+                        <ce:list id="l0125">
+                            <ce:list-item id="u0120">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0270">
+                                    <ce:italic>Tactile</ce:italic>
+                                    (<ce:italic>haptic</ce:italic>): experience of the skin being touched, pricked or
+                                    pinched. Formication is the unpleasant sensation of insects crawling on or just
+                                    below the skin; it is commonly associated with long-term cocaine use (cocaine bugs)
+                                    and alcohol withdrawal.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0125">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0275"><ce:italic>Thermal</ce:italic>: false perception of heat or cold.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0130">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0280"><ce:italic>Hygric</ce:italic>: false perception of a fluid, e.g. ‘I
+                                    can feel water sloshing in my brain’.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0135">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0285">
+                                    <ce:italic>Visceral</ce:italic>
+                                    hallucinations describe false perceptions of the internal organs. Patients may be
+                                    distressed by deep sensations of their organs throbbing, stretching, distending or
+                                    vibrating.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0140">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0290">
+                                    <ce:italic>Kinaesthetic</ce:italic>
+                                    hallucinations are false perceptions of joint or muscle sense. Patients may describe
+                                    their limbs vibrating or being twisted. The fleeting but distressing sensation of
+                                    free falling just as one is about to fall asleep is an example that most people have
+                                    experienced (see hypnagogic hallucinations below).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0035">
+                    <ce:section-title id="st0040">Olfactory and gustatory hallucinations</ce:section-title>
+                    <ce:para id="p0295">These are the false perceptions of smell and taste. Note that they commonly
+                        occur together because the two senses are closely related. Remember that in patients with
+                        olfactory or gustatory hallucinations, it is important to rule out epilepsy (especially of the
+                        temporal lobe) and other organic brain diseases.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0040">
+                    <ce:section-title id="st0045">Special forms of hallucination</ce:section-title>
+                    <ce:para id="p0300">
+                        <ce:italic>Hypnagogic hallucinations</ce:italic>
+                        are false perceptions in any modality (usually auditory or visual) that occur as a person goes
+                        to sleep; whereas, hypnopompic hallucinations occur as a person awakens. These occur in normal
+                        people and are not indicative of psychopathology.
+                    </ce:para>
+                    <ce:para id="p0305">
+                        <ce:italic>Extracampine hallucinations</ce:italic>
+                        are false perceptions that occur outside the limits of a person's normal sensory field, e.g. a
+                        patient describes hearing voices from 100 miles away. Patients often give delusional
+                        explanations for this phenomenon.
+                    </ce:para>
+                    <ce:para id="p0310">
+                        <ce:italic>A functional hallucination</ce:italic>
+                        occurs when a normal sensory stimulus is required to precipitate a hallucination in that same
+                        sensory modality, e.g. voices that are only heard when the doorbell rings. A reflex
+                        hallucination occurs when a normal sensory stimulus in one modality precipitates a hallucination
+                        in another, e.g. voices that are only heard whenever the lights are switched on.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0045">
+                <ce:section-title id="st0050">Abnormal beliefs</ce:section-title>
+                <ce:para id="p0315">Abnormal beliefs include primary and secondary delusions and overvalued ideas.
+                </ce:para>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">Delusions</ce:section-title>
+                    <ce:para id="p0320">A delusion is an unshakeable false belief that is not accepted by other members
+                        of the patient's culture. It is important to understand the following characteristics of
+                        delusional thinking:
+                        <ce:list id="l0130">
+                            <ce:list-item id="u0145">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0325">To the patient, there is no difference between a delusional belief
+                                    and a true belief – they are the same experience. Therefore, only an external
+                                    observer can diagnose a delusion. A delusion is to ideation what an hallucination is
+                                    to perception.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0150">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0330">The delusion is false because of faulty reasoning. A man's
+                                    delusional belief that his wife is having an affair may actually be true (she may
+                                    indeed be unfaithful), but it remains a delusion because the reason he gives for
+                                    this belief is undoubtedly false. For example, she ‘must’ be having an affair
+                                    because she is part of a top-secret sexual conspiracy to prove that he is a
+                                    homosexual.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0155">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0335">It is out of keeping with the patient's social and cultural
+                                    background. It is crucial to establish that the belief is not one likely to be held
+                                    by that person's subcultural group, e.g. a belief in the imminent second coming of
+                                    Christ may be appropriate for a member of a religious group, but not for a formerly
+                                    atheist, middle-aged businessman.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        It is diagnostically significant to classify delusions as:
+                        <ce:list id="l0135">
+                            <ce:list-item id="u0160">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0345">Primary or secondary.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0165">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0350">Mood congruent or mood incongruent.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0170">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0355">Bizarre or non-bizarre.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0175">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0360">According to the content of the delusion.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0365">
+                        <ce:italic>Primary delusions</ce:italic>
+                        (autochthonous delusions) do not occur in response to any previous psychopathological state;
+                        their genesis is un-understandable. They may be preceded by a delusional atmosphere (mood) where
+                        patients have a sense that the world around them has been subtly altered, often in a sinister or
+                        threatening way. In this state a fully formed delusion has not yet developed and patients appear
+                        perplexed and apprehensive. Note that when a delusion occurs after a delusional atmosphere it is
+                        still regarded as primary – the delusional atmosphere is probably a precursor to the fully
+                        developed primary delusion. A delusional perception is also a primary delusion and occurs when a
+                        delusional meaning is attached to a normal perception; e.g. a patient believed he was a
+                        terrorist target because he heard an aeroplane flying in the distance. Primary delusions occur
+                        typically in schizophrenia and other primary psychotic disorders. Secondary delusions are the
+                        consequences of pre-existing psychopathological states, usually mood disorders (see
+                        <ce:intra-ref id="ia9000" xlink:href="pii:B978-0-7234-3863-2.00007-6#s0045">p. 51</ce:intra-ref>
+                        and page<ce:intra-ref id="ia9005" xlink:href="pii:B978-0-7234-3863-2.00008-8#s0070">
+                        59</ce:intra-ref>). Many interrelated delusions that are centred on a common theme are termed
+                        systematized delusions.
+                    </ce:para>
+                    <ce:para id="p0370">In mood-congruent delusions, the contents of the delusions are appropriate to
+                        the patient's mood and are commonly seen in depression or mania with psychotic features.
+                    </ce:para>
+                    <ce:para id="p0375">Bizarre delusions are those which are completely impossible; e.g. the belief
+                        that aliens have planted radioactive detonators in the patient's brain. They are considered to
+                        be characteristic of schizophrenia.
+                    </ce:para>
+                    <ce:para id="p0380">
+                        <ce:cross-ref refid="f0015">Figure 9.2</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>
+                        lists the classification of delusions by their content. It is important that you are able to
+                        label a delusion according to its content, so take some time to familiarize yourself with this
+                        table.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0015">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0385">Note that the term ‘paranoid’ refers to any delusions or
+                                            ideas that are unduly self-referent –typically delusions or ideas of
+                                            persecution, grandeur or reference. It should not be used synonymously with
+                                            the term persecutory; i.e. when a patient has a false belief that people are
+                                            trying to harm him, do not say that he is paranoid, rather say that he has
+                                            persecutory delusions.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                    <ce:para id="p0390">Finally, beliefs that were previously held with delusional intensity but then
+                        become held with less conviction are termed partial delusions. This occurs when patients start
+                        recovering after receiving treatment.
+                        <ce:display>
+                            <ce:textbox role="alt1" id="b0020">
+                                <ce:textbox-head>
+                                    <ce:title>COMMUNICATION</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0395">Direct questioning about perceptual experience may alienate
+                                            a non-psychotic patient and raise undue suspicion in a psychotic patient. To
+                                            maintain rapport with patients begin these questions with a primer such as:
+                                            ‘I am now going to ask you some questions which may seem a little strange,
+                                            but are routine questions which I ask all patients’.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0055">
+                    <ce:section-title id="st0060">Overvalued ideas</ce:section-title>
+                    <ce:para id="p0400">An overvalued idea is a plausible belief that a patient becomes preoccupied with
+                        to an unreasonable extent. The key feature is that the pursuit of this idea causes considerable
+                        distress to the patient or those living around them – it is overvalued. Patients who hold
+                        overvalued ideas have usually had them for many years and typically have abnormalities of
+                        personality. They are distinguished from delusions by the lack of a gross abnormality in
+                        reasoning; these patients can often give fairly logical reasons for their beliefs. They differ
+                        from obsessions in that they are not seen as recurrent intrusions. However, one will frequently
+                        encounter beliefs that span definitions. Typical disorders that feature overvalued ideas are
+                        anorexia nervosa, hypochondriacal disorder, dysmorphophobia, paranoid personality disorder and
+                        morbid jealousy (this can also take the form of a delusion).
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0060">
+                <ce:section-title id="st0065">Thought disorder</ce:section-title>
+                <ce:para id="p0405">Describing the disturbance of a patient's thought form is one of the most
+                    challenging tasks facing clinicians. This problem is compounded by two factors. Firstly, it is
+                    impossible to know what patients are actually thinking – thought form has to be inferred from their
+                    speech and behaviour. Secondly, the unfortunate situation has arisen where various authors in
+                    psychiatry have described a different conceptual view of thought disorder, which has resulted in
+                    conflicting and confusing classification systems. It is probably not that important that you are
+                    able to classify and subgroup thought disorder, but rather that you have a clear understanding of
+                    the individual definitions you intend to use and are able to recognize them in the patients that you
+                    assess. In this regard, it is particularly helpful if you document and are able to cite examples of
+                    the patient's speech in their own words.
+                </ce:para>
+                <ce:para id="p0410">Many patients with delusions are able to communicate in a clear and coherent manner;
+                    although their beliefs may be false, their speech is organized. However, there is a subgroup of
+                    psychotic patients who speak in such a disorganized way that it becomes difficult to understand what
+                    they are saying. The coherency of patients with disorganized thinking varies from being mostly
+                    understandable in patients exhibiting circumstantial thinking to being completely incomprehensible
+                    in patients with a word salad phenomenon (see
+                    <ce:cross-ref refid="f0020">Fig. 9.3</ce:cross-ref>
+                    <ce:float-anchor refid="f0020"/>).
+                </ce:para>
+                <ce:para id="p0415">The following are important signs of disorganized thinking:</ce:para>
+                <ce:section id="s0065">
+                    <ce:section-title id="st0070">Circumstantial and tangential thinking</ce:section-title>
+                    <ce:para id="p0420">See page<ce:intra-ref id="ia9015"
+                                                              xlink:href="pii:B978-0-7234-3863-2.00008-8#s0070">
+                        59</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0070">
+                    <ce:section-title id="st0075">Flight of ideas</ce:section-title>
+                    <ce:para id="p0425">See page<ce:intra-ref id="ia9115"
+                                                              xlink:href="pii:B978-0-7234-3863-2.00008-8#s0070">
+                        59</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0075">
+                    <ce:section-title id="st0080">Loosening of association (derailment/knight's move thinking)
+                    </ce:section-title>
+                    <ce:para id="p0430">This is when the patient's train of thought shifts suddenly from one very
+                        loosely or unrelated idea to the next. In its worst form, speech becomes a mixture of incoherent
+                        words and phrases and is termed ‘word salad’. Loosening of association is characteristic of
+                        schizophrenia. Note that some psychiatrists, but unfortunately not all, use the term formal
+                        thought disorder synonymously with loosening of association.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0080">
+                    <ce:section-title id="st0085">Thought blocking</ce:section-title>
+                    <ce:para id="p0435">This occurs when patients experience a sudden cessation to their flow of
+                        thought, often in mid-sentence (observed as sudden breaks in speech). Patients have no recall of
+                        what they were saying or thinking and thus continue talking about a different topic.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0085">
+                    <ce:section-title id="st0090">Neologisms and idiosyncratic word use</ce:section-title>
+                    <ce:para id="p0440">Neologisms are new words created by the patient, often combining syllables of
+                        other known words. Patients can also use recognized words idiosyncratically by attributing them
+                        with a non-recognized meaning (metonyms).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0090">
+                    <ce:section-title id="st0095">Perseveration</ce:section-title>
+                    <ce:para id="p0445">This is when an initially correct response is inappropriately repeated, for
+                        example, unnecessarily repeating a previously expressed word or phrase. Palilalia describes the
+                        repetition of the last word of a sentence; logoclonia describes the repetition of the last
+                        syllable of the last word. Perseveration is highly suggestive of organic brain disease.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0095">
+                    <ce:section-title id="st0100">Echolalia</ce:section-title>
+                    <ce:para id="p0450">This is when patients senselessly repeat words or phrases spoken around them by
+                        others – like a parrot.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0100">
+                    <ce:section-title id="st0105">Irrelevant answers</ce:section-title>
+                    <ce:para id="p0455">Patients give answers that are completely unrelated to the original question.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0105">
+                <ce:section-title id="st0110">Negative symptoms</ce:section-title>
+                <ce:para id="p0460">Positive symptoms are those that are actively produced and include delusions,
+                    hallucinations, loosening of association and bizarre speech or behaviour. This is opposed to
+                    negative symptoms that indicate a clinical deficit and include marked apathy, poverty of thought and
+                    speech, blunting of affect, social isolation, poor self-care and cognitive deficits. Patients can
+                    have positive and negative symptoms simultaneously or, as often happens, develop a negative
+                    presentation after initially presenting with predominantly positive symptoms. Remember that patients
+                    with a depressed mood or those experiencing significant side-effects from psychotropic medication
+                    may also present with negative symptoms.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0110">
+                <ce:section-title id="st0115">Psychomotor function</ce:section-title>
+                <ce:para id="p0465">Although a relatively rare phenomenon in industrialized countries, some psychotic
+                    patients will present with abnormalities of motor function. Motor system dysfunction in
+                    schizophrenia is usually due to the extrapyramidal side-effects of neuroleptic medication (see
+                    <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00002-7" id="ia0010">Ch. 2</ce:intra-ref>).
+                    However, psychotic patients can occasionally present with impressive motor signs that are not caused
+                    by psychiatric medication or a known organic brain disease. Although undoubtedly associated with the
+                    patient's abnormal mental state, the cause of this psychomotor dysfunction is far from clarified.
+                    The term ‘catatonia’ literally means extreme muscular tone or rigidity; however, it commonly
+                    describes any excessive or decreased motor activity that is apparently purposeless and includes
+                    abnormalities of movement, tone or position. Note that catatonic symptoms are not diagnostic of
+                    schizophrenia; they may also be caused by brain diseases, metabolic abnormalities or psychoactive
+                    substances, and can also occur in mood disorders.
+                    <ce:cross-ref refid="f0025">Figure 9.4</ce:cross-ref>
+                    <ce:float-anchor refid="f0025"/>
+                    describes the common motor symptoms seen in schizophrenia.
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0115">
+            <ce:section-title id="st0120">DIFFERENTIAL DIAGNOSIS</ce:section-title>
+            <ce:para id="p0470">Psychotic symptoms are non-specific and are associated with many primary psychiatric
+                illnesses. They can also present secondary to a general medical condition or psychoactive substance use.
+                See
+                <ce:cross-ref refid="f0030">Figure 9.5</ce:cross-ref>
+                <ce:float-anchor refid="f0030"/>
+                for the differential diagnosis for the psychotic patient.
+            </ce:para>
+            <ce:section id="s0120">
+                <ce:section-title id="st0125">Psychotic disorders</ce:section-title>
+                <ce:section id="s0125">
+                    <ce:section-title id="st0130">Schizophrenia</ce:section-title>
+                    <ce:para id="p0475">There are no pathognomonic or singularly defining symptoms of schizophrenia; it
+                        is a syndrome characterized by a heterogeneous cluster of symptoms and signs. The ICD-10 has set
+                        out diagnostic guidelines based on the most commonly occurring symptom groups, which have been
+                        discussed in the preceding section (
+                        <ce:cross-ref refid="f0035">Fig. 9.6</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>). It is also important to establish that there has been a clear
+                        and marked deterioration in the patient's social and work functioning.
+                    </ce:para>
+                    <ce:para id="p0480">In the past, psychiatrists used Schneider's first-rank symptoms to make the
+                        diagnosis of schizophrenia. Kurt Schneider suggested that the presence of one or more first-rank
+                        symptoms in the absence of organic disease was of pragmatic value in making the diagnosis of
+                        schizophrenia. First-rank symptoms are still referred to so you should familiarize yourself with
+                        them; they are presented in
+                        <ce:cross-ref refid="f0040">Figure 9.7</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/>.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0025">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0485">Memory aid: if you add ‘bizarre delusions’ and
+                                            ‘hallucinations coming from a part of the body’ to Schneider's first-rank
+                                            symptoms you will have the (a) to (d) criteria of the ICD-10 diagnostic
+                                            guidelines for schizophrenia.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0130">
+                    <ce:section-title id="st0135">Schizophrenia subtypes</ce:section-title>
+                    <ce:para id="p0490">Due to the differing presentations of schizophrenia, researchers have tried to
+                        identify schizophrenia subtypes. The importance of these subtypes is that they vary in their
+                        prognosis and treatment response. The ICD-10 has coded the following subtypes, which are not
+                        necessarily exclusive:
+                        <ce:list id="l0140">
+                            <ce:list-item id="u0180">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0495"><ce:italic>Paranoid schizophrenia</ce:italic>: dominated by the
+                                    presence of delusions and hallucinations (positive symptoms). Negative and catatonic
+                                    symptoms as well as thought disorganization are not prominent. The prognosis is
+                                    usually better and the onset of illness later than the other subtypes.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0185">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0500">
+                                    <ce:italic>Hebephrenic</ce:italic>
+                                    (<ce:italic>disorganized</ce:italic>)<ce:italic>schizophrenia</ce:italic>:
+                                    characterized by thought disorganization, disturbed behaviour and inappropriate or
+                                    flat affect. Delusions and hallucination are fleeting or not prominent. Onset of
+                                    illness is earlier (15 to 25 years of age) and the prognosis poorer than paranoid
+                                    schizophrenia.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0190">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0505"><ce:italic>Catatonic schizophrenia</ce:italic>: a rare form
+                                    characterized by one or more catatonic symptoms (see<ce:cross-ref refid="f0025">Fig.
+                                        9.4</ce:cross-ref>).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0195">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0510"><ce:italic>Residual schizophrenia</ce:italic>: 1 year of
+                                    predominantly chronic negative symptoms which must have been preceded by at least
+                                    one clear cut psychotic episode in the past.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0135">
+                    <ce:section-title id="st0140">Schizophrenia-like psychotic disorders</ce:section-title>
+                    <ce:para id="p0515">Some psychotic episodes with schizophrenia-like symptoms seem to have an abrupt
+                        onset (without a prodromal phase), to be precipitated by an acute life stress or to have a
+                        duration of symptoms less than that usually observed in schizophrenia. The ICD-10 codes these as
+                        acute and transient psychotic disorders. The DSM-IV, on the other hand, suggests diagnoses of
+                        schizophreniform disorder and brief psychotic disorder. Often these diagnoses are superseded by
+                        a later diagnosis of schizophrenia as the clinical picture evolves.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0140">
+                    <ce:section-title id="st0145">Schizoaffective disorder</ce:section-title>
+                    <ce:para id="p0520">Schizoaffective disorder describes the presentation of both schizophrenic and
+                        mood (depressed or manic) symptoms that present in the same episode of illness, either
+                        simultaneously or within a few days of each other. The mood symptoms should meet the criteria
+                        for either a depressive or manic episode. Patients should also have at least one, preferably
+                        two, of the typical schizophrenic symptoms – symptoms (a) to (d) as specified in the ICD-10
+                        schizophrenia diagnostic guidelines (see<ce:cross-ref refid="f0035">Fig. 9.6</ce:cross-ref>).
+                        Depending on the particular mood symptoms displayed, this disorder can be coded in the ICD-10 as
+                        schizoaffective disorder, manic type or schizoaffective disorder, depressed type.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0030">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0525">When psychiatrists talk about the typical symptoms of
+                                            schizophrenia, they are generally referring to (a) to (d) of the ICD-10
+                                            criteria for schizophrenia (or Schneider's first-rank symptoms), e.g.
+                                            delusions of control, running commentary hallucinations, etc.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0145">
+                    <ce:section-title id="st0150">Delusional disorder</ce:section-title>
+                    <ce:para id="p0530">In this disorder, the development of a single or set of delusions for the period
+                        of at least 3 months is the most prominent or only symptom. It usually has its onset in middle
+                        age and expressed delusions may persist throughout the patient's life and include persecutory,
+                        grandiose and hypochondriacal delusions. Typically schizophrenic delusions, such as delusions of
+                        thought control or passivity, exclude this diagnosis. Hallucinations, if present, tend to be
+                        only fleeting and are not typically schizophrenic in nature; brief depressive symptoms may also
+                        be evident. Affect, speech and behaviour are all normal and these patients usually have
+                        well-preserved personal and social skills. Rarely, patients may present with an induced
+                        delusional disorder (<ce:italic>folie à deux</ce:italic>), which occurs when a non-psychotic
+                        patient with close emotional ties to another person suffering from delusions (usually a dominant
+                        figure) begins to share those delusional ideas themselves. The delusions in the non-psychotic
+                        patient tend to resolve when the two are separated.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0150">
+                <ce:section-title id="st0155">Mood (affective) disorders</ce:section-title>
+                <ce:section id="s0155">
+                    <ce:section-title id="st0160">Manic episode with psychotic features</ce:section-title>
+                    <ce:para id="p0535">See<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00008-8" id="ia0015">Chapter
+                        8</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0160">
+                    <ce:section-title id="st0165">Depressive episode, severe with psychotic features</ce:section-title>
+                    <ce:para id="p0540">See<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00007-6" id="ia0020">Chapter
+                        7</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0165">
+                <ce:section-title id="st0170">Psychotic episodes secondary to a general medical condition or
+                    psychoactive substance use
+                </ce:section-title>
+                <ce:para id="p0545">A medical or psychoactive substance cause of psychosis should always be sought for
+                    and ruled out.
+                    <ce:cross-ref refid="f0045">Figure 9.8</ce:cross-ref>
+                    <ce:float-anchor refid="f0045"/>
+                    lists the medical and substance-related causes of psychotic episodes. The medical condition or
+                    substance use should predate the development of the psychosis and symptoms should resolve with
+                    treatment of the condition or abstinence from the offending substance. Absence of previous psychotic
+                    episodes and absence of a family history of schizophrenia also supports this diagnosis.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0170">
+                <ce:section-title id="st0175">Delirium and dementia</ce:section-title>
+                <ce:para id="p0550">Visual hallucinations and delusions are common in delirium and may also occur in
+                    dementia, particularly diffuse Lewy body dementia (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3863-2.00014-3" id="ia0025">Ch. 14</ce:intra-ref>).
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0175">
+                <ce:section-title id="st0180">Personality disorder</ce:section-title>
+                <ce:para id="p0555">In general, schizophrenia presents with a clear change in behaviour and functioning,
+                    sometimes with a prodrome, whereas patients with a personality or neurodevelopmental disorder have
+                    never achieved a normal baseline. Schizotypal (personality) disorder is characterized by eccentric
+                    behaviour and peculiarities of thinking and appearance. Although there are no clear psychotic
+                    symptoms evident and its course resembles that of a personality disorder, the ICD-10 actually
+                    describes schizotypal disorder in the chapter on psychotic disorders. This is because it is more
+                    prevalent among relatives of patients with schizophrenia and, occasionally, it progresses to overt
+                    schizophrenia. Borderline, paranoid and schizoid personality disorders also share similar features
+                    to schizophrenia without displaying clear-cut psychotic symptoms. Personality disorders are
+                    discussed in greater detail in<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00016-7" id="ia0030">
+                        Chapter 16</ce:intra-ref>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0180">
+                <ce:section-title id="st0185">Neurodevelopmental disorder</ce:section-title>
+                <ce:para id="p0560">Social difficulties and rigid thinking are found in both autistic spectrum disorders
+                    and schizophrenia. See<ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00027-1" id="ia0035">Chapter
+                        27</ce:intra-ref>.
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0185">
+            <ce:section-title id="st0190">ALGORITHM FOR THE DIAGNOSIS OF PSYCHOTIC DISORDERS</ce:section-title>
+            <ce:para id="p0565">See
+                <ce:cross-ref refid="f0050">Figure 9.9</ce:cross-ref>
+                <ce:float-anchor refid="f0050"/>.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0190">
+            <ce:section-title id="st0195">ASSESSMENT</ce:section-title>
+            <ce:section id="s0195">
+                <ce:section-title id="st0200">History</ce:section-title>
+                <ce:para id="p0570">The following questions may be helpful in eliciting psychotic phenomena on mental
+                    state examination:
+                </ce:para>
+                <ce:section id="s0200">
+                    <ce:section-title id="st0205">Hallucinations</ce:section-title>
+                    <ce:para id="p0575">
+                        <ce:list id="l0145">
+                            <ce:list-item id="u0200">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0580">Do you ever hear strange noises or voices when there is no one else
+                                    about?
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0205">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0585">Do you ever hear your own thoughts spoken aloud such that someone
+                                    standing next to you might possibly hear them? (audible thoughts – first person
+                                    auditory hallucinations)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0590">Do you ever hear your thoughts echoed just after you have thought
+                                    them? (thought echo)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0215">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0595">Do these voices talk directly to you or give you commands? (second
+                                    person auditory hallucinations)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0220">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0600">Do these voices ever talk about you with each other or make comments
+                                    about what you are doing? (third person auditory hallucinations/running commentary)
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0205">
+                    <ce:section-title id="st0210">Delusions</ce:section-title>
+                    <ce:para id="p0605">
+                        <ce:list id="l0150">
+                            <ce:list-item id="u0225">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0610">Are you afraid that someone is trying to harm or poison you?
+                                    (persecutory delusions)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0230">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0615">Have you noticed that people are doing or saying things that have a
+                                    special meaning for you? (delusions of reference)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0620">Do you have any special abilities or powers? (grandiose delusions)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0240">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0625">Does it seem as though you are being controlled or influenced by
+                                    some external force? (delusions of control)
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0245">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0630">Are thoughts that don't belong to you being put into your head?
+                                    (thought insertion)
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0635">It is important to obtain collateral information from the patient's GP, family
+                        and care coordinator (if they have one) to establish premorbid personality and functioning as
+                        well as pattern of deterioration.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0210">
+                <ce:section-title id="st0215">Examination</ce:section-title>
+                <ce:para id="p0640">A basic physical examination including a thorough neurological and endocrine system
+                    examination should be performed on all patients with psychotic symptoms.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0215">
+                <ce:section-title id="st0220">Investigations</ce:section-title>
+                <ce:para id="p0645">
+                    <ce:list id="l0155">
+                        <ce:list-item id="u0250">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0650">Blood investigations are performed to:
+                                <ce:list id="l8000">
+                                    <ce:list-item id="u0255">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0655">Exclude possible medical or substance-related causes of
+                                            psychosis
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0260">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0660">Establish baseline values before administering
+                                            antipsychotics and other psychotropic drugs that may alter blood composition
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0265">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0665">Assess renal and liver functioning which may affect
+                                            elimination of drugs that are likely to be taken long-term and possibly in
+                                            depot form.
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0270">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0670">If the patient presents with a first episode of psychosis, a good basic
+                                screen comprises full blood count, erythrocyte sedimentation rate, urea and
+                                electrolytes, thyroid function, liver function tests, glucose, serum calcium, and a
+                                syphilis serology test if syphilis is suspected.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0275">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0675">A urine drug screen should always be done because illicit drugs both
+                                cause and exacerbate a psychosis.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0280">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0680">An electrocardiogram (ECG) should be done in patients with cardiac
+                                problems as many antipsychotics prolong the QT interval and have the potential to cause
+                                lethal ventricular arrhythmia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0285">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0685">The use of a routine EEG or CT scan to help exclude an organic psychosis
+                                (e.g. temporal lobe epilepsy, brain tumour) varies between psychiatric units; they
+                                should always be considered in atypical cases, cases with treatment resistance, or if
+                                there are cognitive or neurological abnormalities.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0220">
+            <ce:section-title id="st0225">DISCUSSION OF CASE STUDY</ce:section-title>
+            <ce:para id="p0690">Mr PP meets the ICD-10 criteria for schizophrenia, paranoid subtype. He has had a marked
+                deterioration in his social and work functioning. He has delusions of persecution (believing he was a
+                victim of government experiments), thought control (believing that ideas were being planted in his head
+                (thought insertion)) and reference (believing that the man in pub was referring specifically to him).
+                His claim that he knew these things after hearing the neighbour's dog bark suggests delusional
+                perception. He also has second person command hallucinations and third person, running commentary
+                hallucinations. ‘Receiving coded information’ from the radio might be a hallucination or a delusion of
+                reference depending on how Mr PP described this experience subjectively. Mr PP's description that ‘all
+                was not right’ could indicate the presence of a delusional atmosphere, prior to the development of the
+                full-blown delusions.
+            </ce:para>
+            <ce:para id="p0695">It is imperative that a substance-induced psychotic disorder or psychotic disorder
+                secondary to a medical condition is excluded. It would be important to ascertain the duration of Mr PP's
+                psychotic symptoms. It seems as though he has had schizophrenic symptoms for over a month. If the
+                duration of symptoms had been less than a month, it would be advisable to diagnose a schizophrenia-like
+                psychotic disorder, e.g. acute and transient psychotic disorder. It is important to rule out a mood
+                disorder with psychotic features. The presence of a mood episode associated with simultaneous
+                schizophrenic symptoms would suggest a schizoaffective episode. Prominent hallucinations militate
+                against a diagnosis of delusional disorder.
+            </ce:para>
+            <ce:para id="p0700">Now go on to
+                <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00019-2" id="ia0040">Chapter 19</ce:intra-ref>
+                to read more about the psychotic disorders and their management.
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

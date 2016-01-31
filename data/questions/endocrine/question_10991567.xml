@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10991567" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_010" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_011" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>
+              A 19-year-old man presents with generalized aches and pains. He has been treated by his general practitioner for gastritis in the past and by a urologist for a renal calculus. Investigation results are as follows: haemoglobin: 13 g/dL (normal range 13–18 g/dL); white cell count: 4.6 × 10
+              <sup>9</sup>
+              /L (normal range 4.0–11.0 × 10
+              <sup>9</sup>
+              /L); platelets: 250 × 10
+              <sup>9</sup>
+              /L (normal range 150–350 × 10
+              <sup>9</sup>
+              /L); glucose 5.5 mmol/L (normal range 3.6–5.8 mmol/L); calcium 3.26 mmol/L (normal range 2.1–2.6 mmol/L); sodium 136 mmol/L (normal range 135–145 mmol/L); potassium 4.0 mmol/L (normal range 3.6–5.1 mmol/L); urea 6.0 mmol/L (normal range 2.5–6.6 mmol/L); creatinine 90 μmol/L (normal range 60–120 μmol/L).
+            </div>
+          </li>
+          <li>
+            <div>
+              A 31-year-old man presents with muscle weakness, polydipsia and polyuria. His blood pressure is 170/89 mmHg. Haematological investigation reveals the following: haemoglobin: 14 g/L (normal range 13–18 g/dL); white cell count: 6.2 × 10
+              <sup>9</sup>
+              /L (normal range 4.0–11.0 × 10
+              <sup>9</sup>
+              /L); platelets: 302 × 10
+              <sup>9</sup>
+              /L (normal range 150–350 × 10
+              <sup>9</sup>
+              /L); glucose 4.9 mmol/L (normal range 3.6–5.8 mmol/L); calcium 2.22 mmol/L (normal range 2.1–2.6 mmol/L); sodium 155 mmol/L (normal range 135–145 mmol/L); potassium 2.6 mmol/L (normal range 3.6–5.1 mmol/L); urea 6.0 mmol/L (normal range 2.5–6.6 mmol/L); creatinine 80 μmol/L (normal range 60–120 μmol/L).
+            </div>
+          </li>
+          <li>
+            <div>
+              A 20-year-old man presents with muscle weakness. On examination he has buccal mucosa pigmentation. Investigations show: haemoglobin: 13.8 g/dL (normal range 13–18 g/dL); white cell count: 10.2 × 10
+              <sup>9</sup>
+              /L (normal range 4.0–11.0 × 10
+              <sup>9</sup>
+              /L); platelets: 202 × 10
+              <sup>9</sup>
+              /L (normal range 150–350 × 10
+              <sup>9</sup>
+              /L); glucose 2.1 mmol/L (normal range 3.6–5.8 mmol/L); calcium 2.22 mmol/L (normal range 2.1–2.6 mmol/L); sodium 131 mmol/L (normal range 135–145 mmol/L); potassium 5.2 mmol/L (normal range 3.6–5.1 mmol/L); urea 4.0 mmol/L (normal range 2.5–6.6 mmol/L); creatinine 90 μmol/L (normal range 60–120 μmol/L).
+            </div>
+          </li>
+          <li>
+            <div>
+              A 16-year-old man presents with weight gain, polyuria, hirsutism and striae. On examination he has bitemporal hemianopia. Investigations show: haemoglobin: 14.8 g/dL (normal range 13–18 g/dL); white cell count: 8.2 × 10
+              <sup>9</sup>
+              /L (normal range 4.0–11.0 × 10
+              <sup>9</sup>
+              /L); platelets: 302 × 10
+              <sup>9</sup>
+              /L (normal range 150–350 × 10
+              <sup>9</sup>
+              /L); glucose 6.1 mmol/L (normal range 3.6–5.8 mmol/L); calcium 2.22 mmol/L (normal range 2.1–2.6 mmol/L); sodium 146 mmol/L (normal range 135–145 mmol/L); potassium 2.6 mmol/L (normal range 3.6–5.1 mmol/L); urea 5.0 mmol/L (normal range 2.5–6.6 mmol/L); creatinine 80 μmol/L (normal range 60–120 μmol/L).
+            </div>
+          </li>
+          <li>
+            <div>
+              A 34-year-old woman presents with weight gain and constipation. On examination her hands are cold and her pulse is 65 beats/min. Investigations show: haemoglobin: 11.3 g/dL (normal range 11.5–16.5 g/dL); white cell count: 5.0 × 10
+              <sup>9</sup>
+              /L (normal range 4.0–11.0 × 10
+              <sup>9</sup>
+              /L); platelets: 302 × 10
+              <sup>9</sup>
+              /L (normal range 150–350 × 10
+              <sup>9</sup>
+              /L); mean cell volume 105 fl (normal range 78–98 fl); sodium 136 mmol/L (normal range 135–145 mmol/L); potassium 3.6 mmol/L (normal range 3.6–5.1 mmol/L); urea 5.0 mmol/L (normal range 2.5–6.6 mmol/L); creatinine 80 μmol/L (normal range 60–120 μmol/L).
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Acromegaly</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Addison's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Conn's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Cushing's disease</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Cushing's syndrome</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Diabetes insipidus</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Diabetes mellitus type I</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Diabetes mellitus type II</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Hyperparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Hypoparathyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_010">
+        <div>Hyperthyroidism</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_011">
+        <div>Hypothroidism</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Cushing's disease) is Correct.</b>
+      Excess glucocorticoid is resulting in hyperglycaemia, hypernatraemia, hypokalaemia, weight gain, and  striae. The visual defect is due to a pituitary adenoma.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Cushing's disease) is Correct.</b>
+      Excess glucocorticoid is resulting in hyperglycaemia, hypernatraemia, hypokalaemia, weight gain, and  striae. The visual defect is due to a pituitary adenoma.
+    </p>
+  </modalFeedback>
+</assessmentItem>

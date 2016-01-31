@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10985888" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_007</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>A 16-year-old girl is admitted with a 2-day history of vomiting and abdominal pain. She has no previous past medical history but volunteers that she has been feeling increasingly lethargic and losing weight for the past 4 months. On examination she is clinically dehydrated. Her blood sugar is 45 mmol/L (normal range (fasting) 3.6–5.8 mmol/L) and urinalysis reveals glucose 4+, ketones 4+ and nil else. A pregnancy test is negative.</div>
+          </li>
+          <li>
+            <div>
+              A 66-year-old woman is admitted with acute pulmonary oedema secondary to left ventricular failure. Her admission blood sugar is 13.2 mmol/L (normal range (fasting) 3.6–5.8 mmol/L). An echocardiogram confirms an ejection fraction of 35%. Her renal function is normal. Her heart failure is treated and subsequent oral glucose tolerance testing 6 weeks later confirms the diagnosis of diabetes. Her HbA
+              <sub>1C</sub>
+              level at that time is 7.2% (normal range 4.0–6.0%).
+            </div>
+          </li>
+          <li>
+            <div>You are called to the surgical ward to see a patient who has become acutely confused. He is a 45-year-old gentleman admitted for a Hartmann's procedure the following day with a past history of diabetes and is currently on a sliding scale. Blood sugar is measured at 1.4 mmol/L (normal range (fasting) 3.6–5.8 mmol/L).</div>
+          </li>
+          <li>
+            <div>
+              A 75-year-old woman attends for routine diabetic review. She is currently taking metformin 850 mg t.i.d. and gliclazide 160 mg b.i.d. Her blood sugar diary reveals morning blood sugars of 14–20 mmol/L (normal range (fasting) 3.6–5.8 mmol/L) pre-breakfast and she has some osmotic symptoms. Her HbA
+              <sub>1C</sub>
+              is 10.9% (normal range 4.0–6.0%).
+            </div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>10% dextrose IV at 80 mL/hr</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>50 mL 50% dextrose</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Actrapid 1 unit/hr IV</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Actrapid 6 units SC stat</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Gliclazide 80 mg b.i.d.</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Glucagon 1 mg IM</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Insulin sliding scale</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Lantus SC nocte</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Metformin 500 mg b.i.d.</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option H (Lantus SC nocte) is Correct.</b>
+      This lady requires insulin therapy. In the first instance, the most suitable option is a nocturnal intermediate-acting insulin but she may require a twice-daily regimen of a mixture of short- and long-acting insulin if this provides inadequate control.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option H (Lantus SC nocte) is Correct.</b>
+      This lady requires insulin therapy. In the first instance, the most suitable option is a nocturnal intermediate-acting insulin but she may require a twice-daily regimen of a mixture of short- and long-acting insulin if this provides inadequate control.
+    </p>
+  </modalFeedback>
+</assessmentItem>

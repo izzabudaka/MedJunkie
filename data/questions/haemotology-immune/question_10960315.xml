@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10960315" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Iron is a key component of haemoglobin. Haemosiderin is an insoluble form of storage iron.</p>
+        <p>In which of the following cells is haemosiderin found?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Erythrocytes</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Macrophages</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Basophils</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Eosinophils</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Platelets</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Macrophages) is Correct.</b>
+      Once absorbed from the bowel, iron is transported across the mucosal cell to the blood, where it is carried by the protein transferrin to developing red cells in the bone marrow.
+      <br/>
+      <br/>
+      Our bodies have two main types of iron store:
+    </p>
+    <ul>
+      <li>(i) ferritin, a readily accessible source of iron, and</li>
+      <li>(ii) Haemosiderin, an insoluble form of storage iron found mainly in macrophages.</li>
+    </ul>
+    <p>
+      Unbound transferrin, measured as the total iron binding capacity (TIBC) in plasma will be increased when iron levels are low.
+      <br/>
+      <br/>
+      <b>Option A (Erythrocytes) is Incorrect.</b>
+      Haemosiderin is not stored in erythrocytes, but mainly in macrophages.
+      <br/>
+      <br/>
+      <b>Option C (Basophils) is Incorrect.</b>
+      Haemosiderin is not stored in basophils, which are white cells, but mainly in macrophages.
+      <br/>
+      <br/>
+      <b>Option D (Eosinophils) is Incorrect.</b>
+      Eosinophlis are white cells. Haemosiderin is mainly stored in macrophages.
+      <br/>
+      <br/>
+      <b>Option E (Platelets) is Incorrect.</b>
+      Haemosiderin is not stored in platelets but mainly in macrophages.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Macrophages) is Correct.</b>
+      Once absorbed from the bowel, iron is transported across the mucosal cell to the blood, where it is carried by the protein transferrin to developing red cells in the bone marrow.
+      <br/>
+      <br/>
+      Our bodies have two main types of iron store:
+    </p>
+    <ul>
+      <li>(i) ferritin, a readily accessible source of iron, and</li>
+      <li>(ii) Haemosiderin, an insoluble form of storage iron found mainly in macrophages.</li>
+    </ul>
+    <p>
+      Unbound transferrin, measured as the total iron binding capacity (TIBC) in plasma will be increased when iron levels are low.
+      <br/>
+      <br/>
+      <b>Option A (Erythrocytes) is Incorrect.</b>
+      Haemosiderin is not stored in erythrocytes, but mainly in macrophages.
+      <br/>
+      <br/>
+      <b>Option C (Basophils) is Incorrect.</b>
+      Haemosiderin is not stored in basophils, which are white cells, but mainly in macrophages.
+      <br/>
+      <br/>
+      <b>Option D (Eosinophils) is Incorrect.</b>
+      Eosinophlis are white cells. Haemosiderin is mainly stored in macrophages.
+      <br/>
+      <br/>
+      <b>Option E (Platelets) is Incorrect.</b>
+      Haemosiderin is not stored in platelets but mainly in macrophages.
+    </p>
+  </modalFeedback>
+</assessmentItem>

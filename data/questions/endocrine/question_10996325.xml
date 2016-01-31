@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10996325" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>You see a 35-year-old man in clinic who presents with new onset polydipsia and polyuria. He tells you he drinks at least 2 litres of water a day and feels irritable and thirsty if he does not. He is well, although you note he had meningitis last year and was involved in a car crash 3 months ago, sustaining a fractured skull. You note a recent sodium level of 150 mmol/l (normal range 135–145 mmol/l); potassium is normal at 3.8 mmol/l (normal range 3.3–4.7 mmol/l). You decide to perform a random urine and serum osmolality, as he tells you the colour of his urine is always very pale. The results obtained are:</p>
+        <p>Serum osmolality: 305 mOsm/kg (normal range 280–296 mOsm/kg)</p>
+        <p>Urine osmolality: 250 mOsm/kg (normal range 500–800 mOsm/kg</p>
+        <p>What is the diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Addison's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Conn's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Cushing's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Diabetes insipidus</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Syndrome of inappropriate secretion of antidiuretic hormone (ADH)</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      Causes of cranial diabetes insipidus include meningitis and head injury. Diabetes insipidus is due to impaired water resorption by the kidney because of reduced ADH secretion from the posterior pituitary.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This causes hyponatraemic hypovolaemia, with postural hypotension and pigmentation. In addition, potassium here is normal.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Conn's Syndrome leads to primary hyperaldosteronism causing increased salt and water retention and decreased renin release. This would cause a low potassium level, and does not explain the polydipsia.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Cushing's syndrome leads to excessive mineralocorticoid release. However, this patient does not present with classic signs or symptoms of Cushing's syndrome.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This leads to increased ADH secretion from the pituitary gland, which leads to hyponatraemia and water retention.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      Causes of cranial diabetes insipidus include meningitis and head injury. Diabetes insipidus is due to impaired water resorption by the kidney because of reduced ADH secretion from the posterior pituitary.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This causes hyponatraemic hypovolaemia, with postural hypotension and pigmentation. In addition, potassium here is normal.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Conn's Syndrome leads to primary hyperaldosteronism causing increased salt and water retention and decreased renin release. This would cause a low potassium level, and does not explain the polydipsia.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Cushing's syndrome leads to excessive mineralocorticoid release. However, this patient does not present with classic signs or symptoms of Cushing's syndrome.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This leads to increased ADH secretion from the pituitary gland, which leads to hyponatraemia and water retention.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010921" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 52-year-old woman presents to the general surgical outpatient department with a 10 × 15 cm nodular lump arising from her neck. It is situated in the midline of her neck, is non-tender and moves on swallowing. She has been under the care of the endocrinologists with hyperthyroidism and has received carbimazole and radioactive iodine with no overall benefit in her symptoms. It is deemed appropriate that she undergo a thyroidectomy and you are requested to organize a series of preoperative investigations.</p>
+        <p>From the following list, what is the most essential preoperative investigation required in this patient who is to undergo a total thyroidectomy?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">CT neck</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Flexible laryngoscopy</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Oesophagogastroduodenoscopy</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Technetium scan</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">USS neck</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      This is an essential preoperative investigation for patients who are undergoing a thyroidectomy. There is a risk of injury or neuropraxia to the recurrent laryngeal nerve, responsible for adduction of the vocal cords and early documentation of vocal cord function is therefore required, especially in this lady with a very large thyroid swelling.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This is useful to examine retrosternal extension or airway compression; however, it is not essential.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not examine the vocal cords which are at risk of paralysis in this surgery.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is used to assess iodine uptake.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Ultrasound of the neck is used to determine the consistency of a thyroid lump – cystic or solid.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B is Correct.</b>
+      This is an essential preoperative investigation for patients who are undergoing a thyroidectomy. There is a risk of injury or neuropraxia to the recurrent laryngeal nerve, responsible for adduction of the vocal cords and early documentation of vocal cord function is therefore required, especially in this lady with a very large thyroid swelling.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This is useful to examine retrosternal extension or airway compression; however, it is not essential.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This does not examine the vocal cords which are at risk of paralysis in this surgery.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is used to assess iodine uptake.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Ultrasound of the neck is used to determine the consistency of a thyroid lump – cystic or solid.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10968326" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Human genes are located on 22 pairs of autosomal chromosomes, sex chromosomes X and Y and a small number of genes are on mitochondrial DNA. Mutations in genes can result in very severe diseases. There are several patterns of inheritance of genetic diseases, dependent on the chromosomal location of the gene involved and whether the mutated copy of the gene (a mutant allele) is dominant or not over the normal allele.</p>
+        <p>Which of the following is correct when describing Haemophilia A?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">It is an autosomal dominant genetic disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">It is an autosomal recessive genetic disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">It is an X-linked recessive genetic disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">It is an X-linked dominant genetic disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">It is a mitochondrially transmitted genetic disease</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (It is an X-linked recessive genetic disease) is Correct.</b>
+      In humans, gender is determined by the sex chromosome system: X and Y chromosomes. Females inherit two copies of the X chromosome, and males inherit chromosomes X and Y. X-linked disorders are due to the defective gene being located on the X sex chromosome.
+      <br/>
+      X-linked disorders are most common in males as there is no second X chromosome carrying the normal copy to compensate. In males therefore a recessive gene can cause a genetic disorder.
+      <br/>
+      Females are less likely to be affected as they have the non-affected X chromosome as well. However only one X chromosome is active in each female cell at a time.
+      <br/>
+      Haemophilia A is caused by a recessive mutation(s) in the gene coding for a blood clotting protein Factor VIII which is located on the X chromosome and therefore it is an X-linked recessive genetic disease.
+    </p>
+    <p>
+      <b>Option A (It is an autosomal dominant genetic disease) is Incorrect.</b>
+      Humans have in their gametes 23 chromosomes, 22 autosomes and one sex chromosome (either X or Y). However, in body (somatic) cells, which are diploid, humans have two complements of chromosomes (46), one complement from the mother and one from the father. Therefore each gene exists in two copies (alleles), one from the mother and one from the father. Monogenic autosomal dominant disorders are due to the inheritance of a single copy (allele) of the mutated gene located on a non-sex chromosome. The product (usually a protein) of the mutated allele over-rides the normal allele/product function.
+    </p>
+    <p>
+      <b>Option B (It is an autosomal recessive genetic disease) is Incorrect.</b>
+      Monogenic autosomal recessive disorders are due to the inheritance of both defective/mutated copies of the same single gene (alleles), one from each parent. If only one inherited allele is defective/mutated, the single functional copy is sufficient to over-ride the defective allele and this results in a person being a carrier of the condition, not a sufferer.
+    </p>
+    <p>
+      <b>Option D (It is an X-linked dominant genetic disease) is Incorrect.</b>
+      X-linked dominant diseases are due to a defective/mutated gene located on the X chromosome and only one copy of the gene (allele) needs to be mutated to cause the disorder when inherited from a parent who has the disorder.
+    </p>
+    <p>
+      <b>Option E (It is a mitochondrially transmitted genetic disease) is Incorrect.</b>
+      There are several inherited diseases (usually myopathies) which are caused by mutations in genes located on the mitochondrial DNA.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (It is an X-linked recessive genetic disease) is Correct.</b>
+      In humans, gender is determined by the sex chromosome system: X and Y chromosomes. Females inherit two copies of the X chromosome, and males inherit chromosomes X and Y. X-linked disorders are due to the defective gene being located on the X sex chromosome.
+      <br/>
+      X-linked disorders are most common in males as there is no second X chromosome carrying the normal copy to compensate. In males therefore a recessive gene can cause a genetic disorder.
+      <br/>
+      Females are less likely to be affected as they have the non-affected X chromosome as well. However only one X chromosome is active in each female cell at a time.
+      <br/>
+      Haemophilia A is caused by a recessive mutation(s) in the gene coding for a blood clotting protein Factor VIII which is located on the X chromosome and therefore it is an X-linked recessive genetic disease.
+    </p>
+    <p>
+      <b>Option A (It is an autosomal dominant genetic disease) is Incorrect.</b>
+      Humans have in their gametes 23 chromosomes, 22 autosomes and one sex chromosome (either X or Y). However, in body (somatic) cells, which are diploid, humans have two complements of chromosomes (46), one complement from the mother and one from the father. Therefore each gene exists in two copies (alleles), one from the mother and one from the father. Monogenic autosomal dominant disorders are due to the inheritance of a single copy (allele) of the mutated gene located on a non-sex chromosome. The product (usually a protein) of the mutated allele over-rides the normal allele/product function.
+    </p>
+    <p>
+      <b>Option B (It is an autosomal recessive genetic disease) is Incorrect.</b>
+      Monogenic autosomal recessive disorders are due to the inheritance of both defective/mutated copies of the same single gene (alleles), one from each parent. If only one inherited allele is defective/mutated, the single functional copy is sufficient to over-ride the defective allele and this results in a person being a carrier of the condition, not a sufferer.
+    </p>
+    <p>
+      <b>Option D (It is an X-linked dominant genetic disease) is Incorrect.</b>
+      X-linked dominant diseases are due to a defective/mutated gene located on the X chromosome and only one copy of the gene (allele) needs to be mutated to cause the disorder when inherited from a parent who has the disorder.
+    </p>
+    <p>
+      <b>Option E (It is a mitochondrially transmitted genetic disease) is Incorrect.</b>
+      There are several inherited diseases (usually myopathies) which are caused by mutations in genes located on the mitochondrial DNA.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10999841" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 14-year-old athletic female has not undergone menarche. On average she runs 20 miles a week and eats a balanced diet (verified by her mother). Physical examination is normal with a body mass index (BMI) of 18. Haematological investigation reveals reduced gonadotrophins and oestradiol levels.</p>
+        <p>What is the most appropriate diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Anorexia nervosa</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Kallmann's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypogonadotrophic hypogonadism</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Testicular feminization syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Hypogonadotrophic hypogonadism) is Correct.</b>
+      This is either functional or organic. In this case it is functional leading to a reduction in serum gonadotrophin and oestradiol levels. It is seen in high-performance athletes with a low body weight.
+    </p>
+    <p>
+      <b>Option A (Anorexia nervosa) is Incorrect.</b>
+      Indicated by body mass index &lt;17.5 kg/m
+      <sup>2</sup>
+      , an overvalued idea of body weight, endocrine disturbance and self-induced weight loss.
+    </p>
+    <p>
+      <b>Option B (Kallmann's syndrome) is Incorrect.</b>
+      Kallmann's syndrome is the presence of anosmia, delayed puberty and amenorrhoea. Low gonadotrophins and oestradiol levels are due to gonadotrophin-releasing hormone impaired release.
+    </p>
+    <p>
+      <b>Option D (Testicular feminization syndrome) is Incorrect.</b>
+      Androgen intracellular receptor deficiency results in end-organ resistance to testosterone. Phenotypically female, these individuals have an absent uterus and blind ending vagina.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      The patient has a karyotype 45XO, elevated gonadotrophins and low levels of oestradiol due to ovarian failure.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Hypogonadotrophic hypogonadism) is Correct.</b>
+      This is either functional or organic. In this case it is functional leading to a reduction in serum gonadotrophin and oestradiol levels. It is seen in high-performance athletes with a low body weight.
+    </p>
+    <p>
+      <b>Option A (Anorexia nervosa) is Incorrect.</b>
+      Indicated by body mass index &lt;17.5 kg/m
+      <sup>2</sup>
+      , an overvalued idea of body weight, endocrine disturbance and self-induced weight loss.
+    </p>
+    <p>
+      <b>Option B (Kallmann's syndrome) is Incorrect.</b>
+      Kallmann's syndrome is the presence of anosmia, delayed puberty and amenorrhoea. Low gonadotrophins and oestradiol levels are due to gonadotrophin-releasing hormone impaired release.
+    </p>
+    <p>
+      <b>Option D (Testicular feminization syndrome) is Incorrect.</b>
+      Androgen intracellular receptor deficiency results in end-organ resistance to testosterone. Phenotypically female, these individuals have an absent uterus and blind ending vagina.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      The patient has a karyotype 45XO, elevated gonadotrophins and low levels of oestradiol due to ovarian failure.
+    </p>
+  </modalFeedback>
+</assessmentItem>

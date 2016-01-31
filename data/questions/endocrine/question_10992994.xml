@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10992994" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 28-year-old female health fanatic who is normally well presents to her GP complaining of polydipsia, polyuria and weakness. She consumes fortified milk and supplements daily. Her serum calcium is 2.83 mmol/L  (normal range 2.1–2.6 mmol/L) urine analysis is negative and haemoglobin is 120 g/L (normal range 115–165 g/L).</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Diabetes mellitus</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyperparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hyperthyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sarcoidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Vitamin D toxicity</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Vitamin D toxicity) is Correct.</b>
+      T his is iatrogenic due to increased dietary supplementation (vitamin D tablets and calcium) which leads to hypercalcaemia. Treatment is supplementation cessation and hydration.
+    </p>
+    <p>
+      <b>Option A (Diabetes mellitus) is Incorrect.</b>
+      This does not cause hypercalcaemia. Features that it does share that are present are polydipsia, polyuria and weakness. Against this is the absence of glycosuria.
+    </p>
+    <p>
+      <b>Option B (Hyperparathyroidism) is Incorrect.</b>
+      This causes hypercalcaemia and is often asymptomatic. It can present with hypercalcaemic symptoms of bones, groans, stones and psychic moans. Against this option are the features of consumption of supplements.
+    </p>
+    <p>
+      <b>Option C (Hyperthyroidism) is Incorrect.</b>
+      This causes hypercalcaemia by stimulation of osteoclasts which result in bone resorption. This patient does not have features of hyperthyroidism.
+    </p>
+    <p>
+      <b>Option D (Sarcoidosis) is Incorrect.</b>
+      Sarcoidosis usually has hilar lymphadenopathy or parenchymal shadowing or both on chest X-ray. Hypercalcaemia is due to macrophage production of 1,23-dihydroxyvitamin D.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Vitamin D toxicity) is Correct.</b>
+      T his is iatrogenic due to increased dietary supplementation (vitamin D tablets and calcium) which leads to hypercalcaemia. Treatment is supplementation cessation and hydration.
+    </p>
+    <p>
+      <b>Option A (Diabetes mellitus) is Incorrect.</b>
+      This does not cause hypercalcaemia. Features that it does share that are present are polydipsia, polyuria and weakness. Against this is the absence of glycosuria.
+    </p>
+    <p>
+      <b>Option B (Hyperparathyroidism) is Incorrect.</b>
+      This causes hypercalcaemia and is often asymptomatic. It can present with hypercalcaemic symptoms of bones, groans, stones and psychic moans. Against this option are the features of consumption of supplements.
+    </p>
+    <p>
+      <b>Option C (Hyperthyroidism) is Incorrect.</b>
+      This causes hypercalcaemia by stimulation of osteoclasts which result in bone resorption. This patient does not have features of hyperthyroidism.
+    </p>
+    <p>
+      <b>Option D (Sarcoidosis) is Incorrect.</b>
+      Sarcoidosis usually has hilar lymphadenopathy or parenchymal shadowing or both on chest X-ray. Hypercalcaemia is due to macrophage production of 1,23-dihydroxyvitamin D.
+    </p>
+  </modalFeedback>
+</assessmentItem>

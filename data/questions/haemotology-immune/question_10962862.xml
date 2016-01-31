@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10962862" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Biological buffer systems use weak acids to prevent large changes in pH.</p>
+        <p>Which of the following is not a major contributor to the pH buffer system?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Bicarbonate</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Carbon dioxide</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Proteins</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Phosphate</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">White blood cells</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (White blood cells) is Correct.</b>
+      There are three major buffer systems that are involved in maintaining a relatively constant pH in body fluids. They are:
+    </p>
+    <ol>
+      <li>Bicarbonate/carbon dioxide</li>
+      <li>Proteins, particularly haemoglobin</li>
+      <li>Phosphate.</li>
+    </ol>
+    <br/>
+    <p>
+      <b>Option A (Bicarbonate) is Incorrect.</b>
+      Bicarbonate is a biological buffer.
+      <br/>
+      <br/>
+      <b>Option B (Carbon dioxide) is Incorrect.</b>
+      Carbon dioxide is a biological buffer.
+      <br/>
+      <br/>
+      <b>Option C (Proteins) is Incorrect.</b>
+      Proteins are a biological buffer.
+      <br/>
+      <br/>
+      <b>Option D (Phosphate) is Incorrect.</b>
+      Phosphate is a biological buffer.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (White blood cells) is Correct.</b>
+      There are three major buffer systems that are involved in maintaining a relatively constant pH in body fluids. They are:
+    </p>
+    <ol>
+      <li>Bicarbonate/carbon dioxide</li>
+      <li>Proteins, particularly haemoglobin</li>
+      <li>Phosphate.</li>
+    </ol>
+    <br/>
+    <p>
+      <b>Option A (Bicarbonate) is Incorrect.</b>
+      Bicarbonate is a biological buffer.
+      <br/>
+      <br/>
+      <b>Option B (Carbon dioxide) is Incorrect.</b>
+      Carbon dioxide is a biological buffer.
+      <br/>
+      <br/>
+      <b>Option C (Proteins) is Incorrect.</b>
+      Proteins are a biological buffer.
+      <br/>
+      <br/>
+      <b>Option D (Phosphate) is Incorrect.</b>
+      Phosphate is a biological buffer.
+    </p>
+  </modalFeedback>
+</assessmentItem>

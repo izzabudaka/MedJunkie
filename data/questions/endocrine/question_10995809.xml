@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10995809" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>You are asked to see a 7-year old boy in clinic. He presents with acne, rapid recent growth of his penis and testes, and has developed pubic hair. His parents express surprise at this presentation as when he was born there was some difficulty deciding his sex due to ambiguous genitalia. There is no other relevant history, other than the fact that he was noted to have seizures as an infant.</p>
+        <p>What is your working diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Congenital adrenal hyperplasia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hyponatraemia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypospadias</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Physiological puberty</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (CAH) is Correct.</b>
+      CAH is due to excess secretion of androgens, which can lead to precocious puberty. At birth, babies may present with hyponatraemia and collapse or ambiguous genitalia.
+    </p>
+    <p>
+      <b>Option B (Hyponatraemia) is Incorrect.</b>
+      Hyponatraemia is a manifestation of congenital adrenal hyperplasia and may present clinically with fits or as circulatory collapse in an infant. In itself, it is not associated with precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Hypospadias) is Incorrect.</b>
+      There is no association between hypospadias and precocious puberty.
+    </p>
+    <p>
+      <b>Option D (Physiological puberty) is Incorrect.</b>
+      Precocious puberty is defined as an onset before the age of 8 in girls and 9 in boys.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome affects girls and is associated with amenorrhoea.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (CAH) is Correct.</b>
+      CAH is due to excess secretion of androgens, which can lead to precocious puberty. At birth, babies may present with hyponatraemia and collapse or ambiguous genitalia.
+    </p>
+    <p>
+      <b>Option B (Hyponatraemia) is Incorrect.</b>
+      Hyponatraemia is a manifestation of congenital adrenal hyperplasia and may present clinically with fits or as circulatory collapse in an infant. In itself, it is not associated with precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Hypospadias) is Incorrect.</b>
+      There is no association between hypospadias and precocious puberty.
+    </p>
+    <p>
+      <b>Option D (Physiological puberty) is Incorrect.</b>
+      Precocious puberty is defined as an onset before the age of 8 in girls and 9 in boys.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome affects girls and is associated with amenorrhoea.
+    </p>
+  </modalFeedback>
+</assessmentItem>

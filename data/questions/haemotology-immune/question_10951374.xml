@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10951374" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Reed–Sternberg cells are B lymphocytes that originate in the lymph node germinal centre but have lost the ability to produce antibodies.</p>
+        <p>In which of the following conditions are Reed–Sternberg cells seen?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Multiple myeloma</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Hodgkin's lymphoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">CML</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">ALL</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Plasmacytoma</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Hodgkin's lymphoma) is Correct.</b>
+      The cause of Hodgkin's disease is unknown, but Epstein-Barr virus (EBV) infection may play a role. The annual incidence is two or three per 100,000 with two incidence peaks: one in young adults, and the second in older individuals. Reed–Sternberg cells are characteristically seen when lymph nodes are biopsied. These cells are B lymphocytes that originate in the lymph node germinal centre but have lost the ability to produce antibodies.
+    </p>
+    <p>
+      <b>Option A (Multiple myeloma) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option C (CML) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option D (ALL) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option E (Plasmacytoma) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Hodgkin's lymphoma) is Correct.</b>
+      The cause of Hodgkin's disease is unknown, but Epstein-Barr virus (EBV) infection may play a role. The annual incidence is two or three per 100,000 with two incidence peaks: one in young adults, and the second in older individuals. Reed–Sternberg cells are characteristically seen when lymph nodes are biopsied. These cells are B lymphocytes that originate in the lymph node germinal centre but have lost the ability to produce antibodies.
+    </p>
+    <p>
+      <b>Option A (Multiple myeloma) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option C (CML) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option D (ALL) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+    <p>
+      <b>Option E (Plasmacytoma) is Incorrect.</b>
+      Reed–Sternberg cells are typically seen in Hodgkin's lymphoma.
+    </p>
+  </modalFeedback>
+</assessmentItem>

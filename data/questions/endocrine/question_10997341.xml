@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997341" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 29-year-old woman complains of anterior triangle tender swelling. She is recovering from a recent viral chest infection. She feels lethargic, her pulse is 90 beats/min and her temperature is 37.8°C. On examination, she has an enlarged tender thyroid gland.</p>
+        <p>What is the most appropriate management?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Aspirin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Levothyroxine</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Propranolol</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Propylthiouracil</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Radioiodine</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Aspirin) is Correct.</b>
+      This patient has a De Quervain's thyroiditis due to a self-limiting upper respiratory tract infection. Mild causes can be treated with a non-steroidal anti-inflammatory drug. A severe case may require prednisolone in the short term.
+    </p>
+    <p>
+      <b>Option B (Levothyroxine) is Incorrect.</b>
+      This is used to treat hypothyroidism. The patient has a pulse that is not bradycardic, which is a feature of hypothyroidism.
+    </p>
+    <p>
+      <b>Option C (Propranolol) is Incorrect.</b>
+      This is used in hyperthyroidism and thyroid crisis. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option D (Propylthiouracil) is Incorrect.</b>
+      This is used to treat hyperthyroidism. It decreases thyroxine. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option E (Radioiodine) is Incorrect.</b>
+      Iodine 131 is used to treat thyrotoxicosis and thyroid carcinoma. Its use may cause thyroiditis.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Aspirin) is Correct.</b>
+      This patient has a De Quervain's thyroiditis due to a self-limiting upper respiratory tract infection. Mild causes can be treated with a non-steroidal anti-inflammatory drug. A severe case may require prednisolone in the short term.
+    </p>
+    <p>
+      <b>Option B (Levothyroxine) is Incorrect.</b>
+      This is used to treat hypothyroidism. The patient has a pulse that is not bradycardic, which is a feature of hypothyroidism.
+    </p>
+    <p>
+      <b>Option C (Propranolol) is Incorrect.</b>
+      This is used in hyperthyroidism and thyroid crisis. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option D (Propylthiouracil) is Incorrect.</b>
+      This is used to treat hyperthyroidism. It decreases thyroxine. Such a patient would be tachycardic, i.e. have a pulse rate >100 beats/min.
+    </p>
+    <p>
+      <b>Option E (Radioiodine) is Incorrect.</b>
+      Iodine 131 is used to treat thyrotoxicosis and thyroid carcinoma. Its use may cause thyroiditis.
+    </p>
+  </modalFeedback>
+</assessmentItem>

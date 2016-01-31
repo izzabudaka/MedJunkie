@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10950235" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          Which of the following factors is
+          <b>NOT</b>
+          vitamin K-dependent?
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Factor X</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Factor IX</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Factor VIII</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Factor VII</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Factor II</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Factor VIII) is Correct.</b>
+      This is not a vitamin K-dependent factor.
+    </p>
+    <p>
+      <b>Option A (Factor X) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option B (Factor IX) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option D (Factor VII) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option E (Factor II) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Factor VIII) is Correct.</b>
+      This is not a vitamin K-dependent factor.
+    </p>
+    <p>
+      <b>Option A (Factor X) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option B (Factor IX) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option D (Factor VII) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+    <p>
+      <b>Option E (Factor II) is Incorrect.</b>
+      Factors X, IX, VII, II are vitamin K-dependent and form the extrinsic pathway of the coagulation pathway along with protein C and S. Warfarin affects the vitamin K-dependent factors.
+    </p>
+  </modalFeedback>
+</assessmentItem>

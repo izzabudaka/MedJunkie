@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10953264" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>The rate of production of red cells is governed by erythropoietin.</p>
+        <p>From which organ is erythropoietin secreted?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Kidney</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Bone marrow</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Spleen</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Heart</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Lungs</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Kidney) is Correct.</b>
+      Erythropoietin is a glycosylated protein of 165 amino acids produced by the kidney (90%), and to a lesser extent by the liver.
+    </p>
+    <p>
+      <b>Option B (Bone marrow) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option C (Spleen) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option D (Heart) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option E (Lungs) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Kidney) is Correct.</b>
+      Erythropoietin is a glycosylated protein of 165 amino acids produced by the kidney (90%), and to a lesser extent by the liver.
+    </p>
+    <p>
+      <b>Option B (Bone marrow) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option C (Spleen) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option D (Heart) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+      <br/>
+      <br/>
+      <b>Option E (Lungs) is Incorrect.</b>
+      Erythropoietin is produced by the kidney.
+    </p>
+  </modalFeedback>
+</assessmentItem>

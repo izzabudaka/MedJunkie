@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11002930" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 44-year-old type 1 diabetic is admitted for an elective right hemicolectomy for suspected cancer the evening before surgery. She normally takes Novorapid 10–12 U t.i.d. with glargine 18 U nocte and is on no other medication. She is otherwise well and first on the list for the morning so will be starved from 2 am.</p>
+        <p>What is the most appropriate management of her diabetes peri-operatively while she is fasting?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Allow to eat until goes to theatre</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Give reduced dose of insulin in the morning</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Give usual dose of insulin in the morning</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Omit insulin until returns from theatre</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Start sliding scale insulin from 2 am</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      This is the most appropriate step. Careful peri-operative glycaemic control has been shown to improve outcomes.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      She should be starved for 6 hours preoperatively due to the risk of aspiration at induction of anaesthesia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Even with a reduced dose there is a significant risk of hypoglycaemia given the period of starvation.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Without a source of carbohydrate there is the significant risk of hypoglycaemia with this strategy.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      There is a risk of ketoacidosis with this strategy. While omitting insulin and careful monitoring of blood sugars may be reasonable for more minor procedures this is not appropriate for major abdominal surgery.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      This is the most appropriate step. Careful peri-operative glycaemic control has been shown to improve outcomes.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      She should be starved for 6 hours preoperatively due to the risk of aspiration at induction of anaesthesia.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Even with a reduced dose there is a significant risk of hypoglycaemia given the period of starvation.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Without a source of carbohydrate there is the significant risk of hypoglycaemia with this strategy.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      There is a risk of ketoacidosis with this strategy. While omitting insulin and careful monitoring of blood sugars may be reasonable for more minor procedures this is not appropriate for major abdominal surgery.
+    </p>
+  </modalFeedback>
+</assessmentItem>

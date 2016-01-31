@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11000962" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 47-year-old man presents with a history of feeling unwell and excessive sweating. He tells you he has recently increased in shoe size and his wedding ring no longer fits, although his weight has remained stable. He is being referred to the Orthopaedic team for carpal tunnel syndrome. On examination, you notice that he has a prominent lower jaw, with poor occlusion of the teeth. The hands are large and spade-shaped, with thickened skin. The patient is sweating at rest. Secondary sexual characteristics are normal.</p>
+        <p>What is your diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acromegaly</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Congenital adrenal hyperplasia</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hypothyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Kleinfelter's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acromegaly) is Correct.</b>
+      This is a classic presentation of acromegaly.
+    </p>
+    <p>
+      <b>Option B (Congenital adrenal hyperplasia) is Incorrect.</b>
+      This may present with hypospadias at birth, or adrenocortical crisis. Later on in life, presentation includes precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Hypothyroidism) is Incorrect.</b>
+      Patients with hypothyroidism generally feel cold and lethargic.
+    </p>
+    <p>
+      <b>Option D (Kleinfelter's syndrome) is Incorrect.</b>
+      Kleinfelter's syndrome presents clinically with small firm testes, with sexual underdevelopment.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome is characterized by the XO genotype and affects females only.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Acromegaly) is Correct.</b>
+      This is a classic presentation of acromegaly.
+    </p>
+    <p>
+      <b>Option B (Congenital adrenal hyperplasia) is Incorrect.</b>
+      This may present with hypospadias at birth, or adrenocortical crisis. Later on in life, presentation includes precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Hypothyroidism) is Incorrect.</b>
+      Patients with hypothyroidism generally feel cold and lethargic.
+    </p>
+    <p>
+      <b>Option D (Kleinfelter's syndrome) is Incorrect.</b>
+      Kleinfelter's syndrome presents clinically with small firm testes, with sexual underdevelopment.
+    </p>
+    <p>
+      <b>Option E (Turner's syndrome) is Incorrect.</b>
+      Turner's syndrome is characterized by the XO genotype and affects females only.
+    </p>
+  </modalFeedback>
+</assessmentItem>

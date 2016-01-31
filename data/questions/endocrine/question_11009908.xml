@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11009908" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 52-year-old woman presents to the General Surgical outpatient department with a lump in the anterior triangle of her neck. It is painless and asymptomatic. She has no past medical history or drug history of note. On examination, she is well with no signs of stridor. Palpation of her thyroid gland revealed a nodule on the upper pole of the right lobe. It is rubbery in consistency and irregular in outline. There is no evidence of any cervical lymphadenopathy. Her serum thyroglobulin levels are elevated. A fine needle aspiration is performed in the outpatient department for cytology which returns as follicular cells of uncertain significance.</p>
+        <p>From the following list, select the appropriate management plan of choice given the clinical findings and fine needle aspiration and cytology result.</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Active surveillance with serum thyroglobulin</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Excision biopsy of lump</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hemithyroidectomy</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Radioiodine thyroid ablation</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Repeat fine needle aspiration</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Follicular carcinoma of the thyroid is a histopathological diagnosis and not a cytological diagnosis. It is impossible to distinguish between follicular adenoma and carcinoma on cytological grounds. If fine needle aspiration cytology suggests follicular neoplasm, thyroid lobectomy should be performed to establish the histopathological diagnosis. If on hemithyroidectomy the specimen returns as follicular carcinoma, then a total thyroidectomy is performed with postoperative radioiodine ablation.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Thyroglobulin has no role in this context.  It may be of use in tumour surveillance.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Although it is possible to obtain a histopathological sample, this is technically challenging and fraught with the risk of severe bleeding. Vascular control is better secured with hemithyroidectomy or total thyroidectomy.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      The diagnosis of follicular carcinoma has not been obtained and needs excision to include the basement membrane. If it is an adenoma, then radioiodine ablation is an unnecessary treatment.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A fine needle aspiration in the context of follicular neoplasm is not of diagnostic value. For follicular cells to be diagnosed as carcinoma then the basement membrane is required to identify breach. This is only achievable by excision – hemithyroidectomy or total thyroidectomy.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Follicular carcinoma of the thyroid is a histopathological diagnosis and not a cytological diagnosis. It is impossible to distinguish between follicular adenoma and carcinoma on cytological grounds. If fine needle aspiration cytology suggests follicular neoplasm, thyroid lobectomy should be performed to establish the histopathological diagnosis. If on hemithyroidectomy the specimen returns as follicular carcinoma, then a total thyroidectomy is performed with postoperative radioiodine ablation.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Thyroglobulin has no role in this context.  It may be of use in tumour surveillance.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Although it is possible to obtain a histopathological sample, this is technically challenging and fraught with the risk of severe bleeding. Vascular control is better secured with hemithyroidectomy or total thyroidectomy.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      The diagnosis of follicular carcinoma has not been obtained and needs excision to include the basement membrane. If it is an adenoma, then radioiodine ablation is an unnecessary treatment.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      A fine needle aspiration in the context of follicular neoplasm is not of diagnostic value. For follicular cells to be diagnosed as carcinoma then the basement membrane is required to identify breach. This is only achievable by excision – hemithyroidectomy or total thyroidectomy.
+    </p>
+  </modalFeedback>
+</assessmentItem>

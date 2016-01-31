@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0115" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3864-9.00023-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3864-9.00023-X</ce:doi>
+        <ce:isbn>978-0-7234-3864-9</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 23.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010">Differential diagnosis of delirium.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f23-01-9780723436331" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 23.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015">Differential diagnosis of dementia (see<ce:italic>Crash Course:
+                    Psychiatry</ce:italic>).
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f23-02-9780723436331" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 23.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020">Examining the confused patient.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f23-03-9780723436331" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 23.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025">The abbreviated mental test score.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f23-04-9780723436331" id="lk0025"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>23</ce:label>
+    <ce:title>Confusional states</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">The key learning points for this chapter:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">The definition and causes of confusional states.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">How to assess a confused patient.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">How to approach the investigation of confusional states.</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">INTRODUCTION</ce:section-title>
+            <ce:para id="p0030">Confusion can be acute, subacute, or chronic, and may be reversible or progressive. It
+                is often divided into delirium (acute or subacute onset of fluctuating disturbance of consciousness with
+                change in cognition) or dementia (progressive disease of the brain causing impairment of higher cortical
+                function without impairment of consciousness). Any cause of delirium can precipitate an acute
+                exacerbation of dementia – ‘acute on chronic confusion’. Confusional states are very common,
+                particularly in the elderly, and are often worsened by admission to hospital.
+            </ce:para>
+            <ce:para id="p0035">
+                <ce:display>
+                    <ce:textbox id="b0010" role="alt1">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0040">When a patient presents with confusion it is essential to talk to
+                                    family members or carers. Try to establish whether the problem is long-standing and
+                                    getting worse or is a new presentation.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">DIFFERENTIAL DIAGNOSIS OF CONFUSIONAL STATE</ce:section-title>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Delirium</ce:section-title>
+                <ce:para id="p0045">There are many causes of delirium in the elderly patient; the most common are
+                    summarized in
+                    <ce:cross-ref refid="f0010">Fig. 23.1</ce:cross-ref>
+                    <ce:float-anchor refid="f0010"/>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Dementia</ce:section-title>
+                <ce:para id="p0050">The causes of dementia are summarized in
+                    <ce:cross-ref refid="f0015">Fig. 23.2</ce:cross-ref>
+                    <ce:float-anchor refid="f0015"/>.
+                </ce:para>
+                <ce:para id="p0055">
+                    <ce:display>
+                        <ce:textbox id="b0015" role="alt0">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0060">It is important to remember that depression can sometimes mimic
+                                        dementia (‘pseudodementia’). Other psychiatric illnesses causing psychosis and
+                                        severe anxiety may present in a very similar manner to acute confusional states
+                                        with an organic cause.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0030">
+            <ce:section-title id="st0035">HISTORY IN THE CONFUSED PATIENT</ce:section-title>
+            <ce:para id="p0065">The first step is to establish whether the patient is newly confused or if there is a
+                history of dementia, and if so whether the confusion is worse than normal. A good account from
+                relatives, carers or close friends is almost always the only way of getting a true picture of the
+                pattern of disease. The previous hospital notes can be an invaluable source of information, and a
+                thorough social history is essential to put the patient's problems in context. The history should then
+                focus on possible underlying causes.
+            </ce:para>
+            <ce:section id="s0035">
+                <ce:section-title id="st0040">Pattern of confusion</ce:section-title>
+                <ce:para id="p0070">
+                    <ce:display>
+                        <ce:textbox id="b0020" role="alt0">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0075">Severe symptoms of ‘delirium tremens’ due to alcohol withdrawal
+                                        may occur 24–48<ce:hsp sp="0.25"/>h after the patient's last drink, and long
+                                        after their admission to hospital.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+                <ce:para id="p0080">Delirium develops over hours or days. It is characterized by clouding of
+                    consciousness that fluctuates in severity, often worse at night with lucid periods in the day. It
+                    can be accompanied by poor recent memory, disorientation and hallucinations. As a result, the
+                    patient may be agitated, uncooperative and sometimes paranoid, though behaviour may also be
+                    underactive.
+                </ce:para>
+                <ce:para id="p0085">Dementia usually has a gradual onset over months or years. It is characterized by a
+                    global deterioration in higher cerebral function with no change in level of consciousness, tends to
+                    be progressive and is often exacerbated when the patient is removed from familiar surroundings, such
+                    as by admission to hospital. Vascular dementia may present as ‘multi-infarct’ dementia, progressing
+                    in a stepwise fashion, or slowly and gradually in a manner indistinguishable from Alzheimer's
+                    disease.
+                </ce:para>
+                <ce:para id="p0090">A more rapid onset is seen in Creutzfeldt–Jakob disease (CJD), hydrocephalus and
+                    depression. The depressed patient often complains of memory loss (unlike patients with early
+                    dementia, who may not be aware of the problem), makes poor effort at testing and may have a personal
+                    or family history of depression.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0040">
+                <ce:section-title id="st0045">Possible underlying causes</ce:section-title>
+                <ce:para id="p0095">The following should be assessed, as they may reveal an underlying cause:
+                    <ce:list id="l0015">
+                        <ce:list-item id="u0025">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0100">Age: dementia becomes increasingly common after the age of 60 years. A
+                                thorough search for a treatable underlying cause should be made, particularly in younger
+                                patients.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0030">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0105">Symptoms of focal infection (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00008-3" id="ia0020">Ch. 8</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0035">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0110">Symptoms of raised intracranial pressure (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00018-6" id="ia0025">Ch. 18</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0040">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0115">Risk factors for, or known, vascular disease (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00030-7" id="ia0030">Ch. 30</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0045">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0120">Dietary history: vitamin deficiency.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0050">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0125">Alcohol intake: while chronic alcohol abuse can cause dementia in its
+                                own right, it may also be associated with thiamine deficiency (Wernicke–Korsakoff
+                                syndrome) as well as folate and B
+                                <ce:inf>12</ce:inf>
+                                deficiency, both of which may increase the risk of dementia.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0055">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0130">Previous head injury or evidence of falls: subdural haematoma.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0060">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0135">Other neurological symptoms: cerebrovascular disease, multiple
+                                sclerosis, cerebral tumour/abscess, inflammatory or autoimmune neurological disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0140">Symptoms of endocrine disease, particularly hypo- or hyperthyroidism.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0070">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0145">Previous medical history of any disease may be relevant: long-standing
+                                renal disease (uraemia), liver disease (encephalopathy), malignancy (cerebral
+                                metastases, hypercalcaemia or paraneoplastic syndromes, e.g. encephalitis), diabetes
+                                (insulin overdose), endocrine disease (thyroid disorders, Addison's disease).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0075">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0150">Drug history: particular attention should be given to sedatives,
+                                anticonvulsants and steroids. Has the patient ever used illegal drugs?
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0080">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0155">Family history: Wilson's disease (autosomal recessive); Huntington's
+                                chorea (autosomal dominant); depression.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0085">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0160">Brief psychiatric history: notably for features of depression.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0090">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0165">Sexual history may provide information regarding the possibility of HIV,
+                                hepatitis or syphilis.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0045">
+            <ce:section-title id="st0050">EXAMINING THE CONFUSED PATIENT</ce:section-title>
+            <ce:para id="p0170">Since the causes of confusion are so varied, a thorough clinical examination is
+                mandatory. This approach is summarized in
+                <ce:cross-ref refid="f0020">Fig. 23.3</ce:cross-ref>
+                <ce:float-anchor refid="f0020"/>. Particular attention should be given to the following:
+                <ce:list id="l0020">
+                    <ce:list-item id="u0095">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0175">Consciousness: the level of consciousness should be recorded using the
+                            Glasgow coma scale (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00022-8#f0025"
+                                                                 id="ia0035">Fig. 22.4</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0100">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0180">Blood pressure: hypotension may be due to sepsis or cardiac failure.
+                            Hypertension is a risk factor for cerebrovascular events and can also be a response to
+                            raised intracranial pressure.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0105">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0185">Cyanosis: hypoxia is a common cause of confusion in patients in hospital.
+                            The oxygen saturation should be measured.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0110">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0190">Capillary glucose: hypoglycaemia or hyperglycaemia (DKA and HONK
+                            syndrome).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0115">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0195">Evidence of head injury: subdural haematoma.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0120">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0200">Signs of infection: measure temperature, look for neck stiffness,
+                            consolidation in the chest, signs of endocarditis, abdominal tenderness, otitis media on
+                            otoscopy, pressure areas and skin for evidence of cellulitis (see<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00008-3" id="ia0040">Ch. 8</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0125">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0205">Mental state: The 10-point abbreviated mental test score (see
+                            <ce:cross-ref refid="f0025">Fig. 23.4</ce:cross-ref>
+                            <ce:float-anchor refid="f0025"/>) is useful for confirming confusion and may be used
+                            serially to monitor progress. The 30-point MMSE (mini-mental state examination) is mandatory
+                            if querying a new diagnosis of dementia, to document cognitive function and provide a
+                            baseline for future assessment. In many cases more comprehensive assessment is required in
+                            due course, for instance with the Addenbrooke's cognitive examination.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0130">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0210">Focal neurological deficit and the pattern of signs may give important clues
+                            as to the diagnosis (see
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00024-1" id="ia0045">Chs 24</ce:intra-ref>
+                            and<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00026-5" id="ia0050">26</ce:intra-ref>):
+                            fundoscopy should be performed looking for papilloedema (raised intracranial pressure),
+                            optic atrophy (demyelination) or subhyaloid haemorrhages (subarachnoid haemorrhage).
+                            Parkinsonism may be present in Parkinson's disease and Parkinson plus syndromes. Myoclonus,
+                            extrapyramidal signs and aphasia are features of CJD.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0135">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0215">Signs of chronic liver disease, particularly a liver flap (asterixis):
+                            hepatic encephalopathy commonly causes confusion. Chronic liver disease may also indicate
+                            chronic alcohol abuse or rare disorders such as Wilson's disease.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0140">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0220">Malignancy: examine thoroughly – breasts, digital rectal examination for
+                            prostate and bowel pathology, lymph nodes and skin for dermatological malignancy and
+                            cutaneous manifestations of malignancy.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0145">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0225">Signs of endocrine disorders, particularly thyroid disease and Addison's
+                            disease (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00035-6" id="ia0055">Ch.
+                                35</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:para id="p0230">
+                <ce:display>
+                    <ce:textbox id="b0025" role="alt1">
+                        <ce:textbox-head>
+                            <ce:title>COMMUNICATION</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0235">It is often difficult to examine confused patients and signs can be
+                                    missed. Having a family member or nurse present may help to calm and position the
+                                    patient.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0050">
+            <ce:section-title id="st0055">INVESTIGATING THE CONFUSED PATIENT</ce:section-title>
+            <ce:para id="p0240">There is much overlap in the investigation of delirium and dementia despite the
+                difference in urgency. The following tests should be considered.
+            </ce:para>
+            <ce:section id="s0055">
+                <ce:section-title id="st0060">Initial tests</ce:section-title>
+                <ce:para id="p0245">Routine observations, including oxygen saturation, capillary glucose, urinalysis and
+                    ECG, can all be performed quickly and may give an almost immediate clue as to the underlying cause.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0060">
+                <ce:section-title id="st0065">Blood tests</ce:section-title>
+                <ce:para id="p0250">
+                    <ce:list id="l0025">
+                        <ce:list-item id="u0150">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0255">Full blood count: reactive blood picture in malignancy, infection or
+                                inflammation; anaemia with raised mean corpuscular volume in vitamin B
+                                <ce:inf>12</ce:inf>
+                                or folate deficiency.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0155">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0260">Erythrocyte sedimentation rate: raised in malignancy, infection,
+                                inflammation.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0160">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0265">Urea and electrolytes: hypo- or hypernatraemia and renal failure.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0165">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0270">Liver function tests: abnormal in liver disease.
+                                Gamma-glutamyltransferase may indicate recent excess alcohol consumption.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0170">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0275">Thyroid function tests: thyroid stimulating hormone (TSH) usually raised
+                                in hypothyroidism and low in hyperthyroidism.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0175">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0280">Serum calcium: hyper- or hypocalcaemia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0180">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0285">Serum glucose: hypoglycaemia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0185">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0290">Arterial blood gases for hypoxia.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0190">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0295">Blood cultures if considering infection.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0195">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0300">Vitamin B
+                                <ce:inf>12</ce:inf>
+                                and folate levels: deficiency. Red blood cell folate is a more reliable indicator of
+                                long-term deficiency than serum folate.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0200">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0305">Syphilis serology: tertiary syphilis may cause dementia.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0065">
+                <ce:section-title id="st0070">Radiology</ce:section-title>
+                <ce:para id="p0310">A chest X-ray may show pneumonia, cardiac failure or malignancy. Computed tomography
+                    scanning or magnetic resonance imaging of the head should be considered to look for tumour,
+                    infarction, haematoma, hydrocephalus and abscess.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0070">
+                <ce:section-title id="st0075">Further tests</ce:section-title>
+                <ce:para id="p0315">Consider the following when clinically indicated:
+                    <ce:list id="l0030">
+                        <ce:list-item id="u0205">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0320">Urine: toxicology screen, culture for urinary infection.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0210">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0325">Red cell transketolase for thiamine deficiency.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0215">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0330">Electroencephalogram: typical temporal lobe seizure foci of herpes
+                                simplex encephalitis.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0220">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0335">Lumbar puncture and cerebrospinal fluid examination: protein, glucose,
+                                microscopy, culture and oligoclonal bands.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0225">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0340">Autoimmune screen including autoimmune encephalitis antibodies.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0230">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0345">Ammonia – often raised in liver disease. Also caused by defects in
+                                metabolism (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00034-4#c0170"
+                                                             id="ia9510">Ch. 34</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0235">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0350">Serum copper and caeruloplasmin (reduced) and 24-h urinary copper
+                                excretion (increased): Wilson's disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0240">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0355">
+                                <ce:italic>Borrelia</ce:italic>
+                                serology for Lyme's disease.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0245">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0360">Thick and thin blood films: malaria.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0250">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0365">HIV serology.</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+    </ce:sections>
+</chapter>

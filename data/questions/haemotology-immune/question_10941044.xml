@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10941044" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_009" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_010" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_011" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>Which clotting factor is activated when there is trauma to the blood or exposure of the blood to collagen from a traumatized blood vessel wall?</div>
+          </li>
+          <li>
+            <div>Which clotting factor activates factor IX to IXa and also activates Factor VIII, calcium and phospholipid?</div>
+          </li>
+          <li>
+            <div>Which clotting factor activates XIII to XIIIa?</div>
+          </li>
+          <li>
+            <div>Which factor activates X to Xa (along with tissue factor and calcium)?</div>
+          </li>
+          <li>
+            <div>Which factor, along with Factor V and activated platelets, converts prothrombin to thrombin?</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Factor VIIa</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Prothrombin</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Vitamin K</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Platelets</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Factor XIa</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Factor XIIa</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Factor IX</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Thrombin</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Factor Xa</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_009">
+        <div>Factor V</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_010">
+        <div>Factor VIII</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_011">
+        <div>Factor XII</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Factor VIIa) is correct.</b>
+      Factor VII is activated to Factor VIIa when bound to tissue factor. Factor VIIa has a role in the activation of Factor X, as does the Factor VIIIa/Factor IXa complex, minor at first but then accelerated through further activation of Factor VII by small amounts of Factor Xa. This is the end of the extrinsic pathway where it joins with the intrinsic pathway.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (Factor VIIa) is correct.</b>
+      Factor VII is activated to Factor VIIa when bound to tissue factor. Factor VIIa has a role in the activation of Factor X, as does the Factor VIIIa/Factor IXa complex, minor at first but then accelerated through further activation of Factor VII by small amounts of Factor Xa. This is the end of the extrinsic pathway where it joins with the intrinsic pathway.
+    </p>
+  </modalFeedback>
+</assessmentItem>

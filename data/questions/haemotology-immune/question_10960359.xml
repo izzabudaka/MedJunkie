@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10960359" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>The binding of oxygen to the haemoglobin molecule follows a sigmoid curve: the oxygen dissociation curve.</p>
+        <p>Which of the following is correct when the oxygen-haemoglobin dissociation curve shifts to the right?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">A higher partial pressure of oxygen is required for haemoglobin to bind to a given amount of oxygen</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">It becomes harder to oxygenate the blood in the pulmonary capillaries</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">The oxygen saturation of haemoglobin is higher for a given partial pressure of oxygen</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">It becomes easier for the blood in the capillaries to deliver oxygen to the tissues</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">It is almost always clinically undesirable</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (A higher partial pressure of oxygen is required for haemoglobin to bind to a given amount of oxygen) is Correct.</b>
+      In the oxygen-haemoglobin dissociation curve, the partial pressure of oxygen is represented on the horizontal axis, whilst the percentage oxygen saturation is represented on the vertical axis. If the curve is shifted to the right, the oxygen saturation of haemoglobin is lower for a given partial pressure of oxygen. Conversely, a higher partial pressure of oxygen is required for haemoglobin to bind to a given amount of oxygen. In other words, the haemoglobin molecule holds less tightly to the oxygen molecules.
+      <br/>
+      <br/>
+      <b>Option B (It becomes harder to oxygenate the blood in the pulmonary capillaries) is Incorrect.</b>
+      It becomes easier to oxygenate the blood in the pulmonary capillaries.
+      <br/>
+      <br/>
+      <b>Option C (The oxygen saturation of haemoglobin is higher for a given partial pressure of oxygen) is Incorrect.</b>
+      The oxygen saturation is lower for a given partial pressure of oxygen.
+      <br/>
+      <br/>
+      <b>Option D (It becomes easier for the blood in the capillaries to deliver oxygen to the tissues) is Incorrect.</b>
+      When the oxygen-haemoglobin dissociation curve shifts to the right, it becomes more difficult for the blood in the capillaries to deliver oxygen to the tissues.
+      <br/>
+      <br/>
+      <b>Option E (It is almost always clinically undesirable) is Incorrect.</b>
+      Clinically, it is more desirable.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (A higher partial pressure of oxygen is required for haemoglobin to bind to a given amount of oxygen) is Correct.</b>
+      In the oxygen-haemoglobin dissociation curve, the partial pressure of oxygen is represented on the horizontal axis, whilst the percentage oxygen saturation is represented on the vertical axis. If the curve is shifted to the right, the oxygen saturation of haemoglobin is lower for a given partial pressure of oxygen. Conversely, a higher partial pressure of oxygen is required for haemoglobin to bind to a given amount of oxygen. In other words, the haemoglobin molecule holds less tightly to the oxygen molecules.
+      <br/>
+      <br/>
+      <b>Option B (It becomes harder to oxygenate the blood in the pulmonary capillaries) is Incorrect.</b>
+      It becomes easier to oxygenate the blood in the pulmonary capillaries.
+      <br/>
+      <br/>
+      <b>Option C (The oxygen saturation of haemoglobin is higher for a given partial pressure of oxygen) is Incorrect.</b>
+      The oxygen saturation is lower for a given partial pressure of oxygen.
+      <br/>
+      <br/>
+      <b>Option D (It becomes easier for the blood in the capillaries to deliver oxygen to the tissues) is Incorrect.</b>
+      When the oxygen-haemoglobin dissociation curve shifts to the right, it becomes more difficult for the blood in the capillaries to deliver oxygen to the tissues.
+      <br/>
+      <br/>
+      <b>Option E (It is almost always clinically undesirable) is Incorrect.</b>
+      Clinically, it is more desirable.
+    </p>
+  </modalFeedback>
+</assessmentItem>

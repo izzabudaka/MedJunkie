@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010365" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 5-year-old boy is brought to his GP by his mother who has noticed a painless lump in his neck. There is no change in his voice and no difficulty swallowing. On examination, there is a 3 × 3 cm lump in the midline of his neck in the anterior triangle. It is painless and fluctuant in nature. It lies above the thyroid cartilage. There is some evidence of transillumination on shining a light behind the lump. It also moves up and down on the boy sticking his tongue out and swallowing. There is no evidence of cervical lymphadenopathy.</p>
+        <p>From the following list, select the most likely diagnosis of this lump from this case presentation.</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Cervical lymph node</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Chemodectoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Multicystic thyroid goitre</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Pharyngeal pouch (Zenker's diverticulum)</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroglossal cyst</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      This is the likeliest diagnosis. It is a remnant fibrous cyst that forms from a persistent thyroglossal duct. This marks the descent of the thyroid gland from the back of the tongue to the anterior neck overlying the thyroid cartilage. The cyst is painless, often identified in childhood and is a midline structure which moves on swallowing and protrusion of the tongue.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      The cervical lymph node chains can enlarge and tend to enlarge in groups in children. The most common cause of this is reactive after a viral or bacterial pharyngitis. They are often painful and only the high submental lymph nodes are truly midline in nature.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is a carotid body tumour which arises at the level of the carotid bifurcation in the neck lateral to the thyroid cartilage. It is not a midline structure and affects an older patient group.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This is a midline structure which moves on swallowing. The case vignette only alludes to a single cystic structure. A multicystic thyroid goitre does not tend to occur in childhood.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is a weakening of the pharyngeal constrictor muscles as they wrap around the oesophagus. The resultant diverticulum appears lateral to the midline in the anterior triangle and tends to be an acquired defect in older patients (greatest frequency in those over 50 years).
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      This is the likeliest diagnosis. It is a remnant fibrous cyst that forms from a persistent thyroglossal duct. This marks the descent of the thyroid gland from the back of the tongue to the anterior neck overlying the thyroid cartilage. The cyst is painless, often identified in childhood and is a midline structure which moves on swallowing and protrusion of the tongue.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      The cervical lymph node chains can enlarge and tend to enlarge in groups in children. The most common cause of this is reactive after a viral or bacterial pharyngitis. They are often painful and only the high submental lymph nodes are truly midline in nature.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This is a carotid body tumour which arises at the level of the carotid bifurcation in the neck lateral to the thyroid cartilage. It is not a midline structure and affects an older patient group.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      This is a midline structure which moves on swallowing. The case vignette only alludes to a single cystic structure. A multicystic thyroid goitre does not tend to occur in childhood.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      This is a weakening of the pharyngeal constrictor muscles as they wrap around the oesophagus. The resultant diverticulum appears lateral to the midline in the anterior triangle and tends to be an acquired defect in older patients (greatest frequency in those over 50 years).
+    </p>
+  </modalFeedback>
+</assessmentItem>

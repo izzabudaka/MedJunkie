@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11000330" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A young patient presents with polyuria and excessive thirst for water. She is producing large amounts of very dilute urine with a low specific gravity (no ketones or glucose). A water deprivation test does not reduce the urine output, nor does it respond to desmopressin.</p>
+        <p>Which of the following is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Central diabetes insipidus</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Diabetes mellitus</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Nephrogenic diabetes insipidus</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Psychogenic polydipsia</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Space-occupying lesion</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This is due to the failure of the pituitary to produce antidiuretic hormone (ADH). Therefore giving desmopressin (synthetic ADH) would reduce urine volume.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Urine dipstick is normal.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Patients with psychogenic polydipsia typically have a normal physiological response to water deprivation. Urine volume is reduced and urine is more concentrated.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This can cause syndrome of inappropriate secretion of antidiuretic hormone (SIADH) which causes hyponatremia. SIADH would not cause polyuria, and a water deprivation test would not improve this symptom.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This is due to the failure of the pituitary to produce antidiuretic hormone (ADH). Therefore giving desmopressin (synthetic ADH) would reduce urine volume.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Urine dipstick is normal.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Patients with psychogenic polydipsia typically have a normal physiological response to water deprivation. Urine volume is reduced and urine is more concentrated.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This can cause syndrome of inappropriate secretion of antidiuretic hormone (SIADH) which causes hyponatremia. SIADH would not cause polyuria, and a water deprivation test would not improve this symptom.
+    </p>
+  </modalFeedback>
+</assessmentItem>

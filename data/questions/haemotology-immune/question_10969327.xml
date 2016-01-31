@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10969327" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Haemoglobin plays an important role in carrying oxygen in the red blood cells.</p>
+        <p>Which of the following statements about the reaction of haemoglobin and oxygen is true?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Haemoglobin increases the oxygen-carrying capacity of the blood by about two-fold</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">The globin molecules bind to the oxygen molecules</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Each haemoglobin molecule is capable of binding up to four oxygen molecules</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Binding of the haemoglobin with the first oxygen molecule reduces the affinity for binding to a second oxygen molecule</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Binding to an oxygen molecule increases the likelihood of the haem moieties assuming a tense (T) state</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Each haemoglobin molecule is capable of binding up to four oxygen molecules) is Correct.</b>
+      Haemoglobin increases the oxygen-carrying capacity of the blood by about 70-fold. The haem moiety binds to the oxygen molecules. Since there are four haem moieties per haemoglobin molecule, up to four oxygen molecules may bind to one haemoglobin molecule. The haem moieties may assume either a relaxed (R) or tense (T) state, depending on the distance between the two β chains. Binding to an oxygen molecule increases the likelihood of an R state, which favours further oxygen binding. Hence, binding to an oxygen molecule increases the affinity for binding to a second oxygen molecule. This explains the sigmoid-shaped oxygen–haemoglobin dissociation curve.
+      <br/>
+      <br/>
+      <b>Option A (Haemoglobin increases the oxygen-carrying capacity of the blood by about two-fold) is Incorrect.</b>
+      Haemoglobin increases the oxygen-carrying capacity of the blood by around seventy-fold.
+      <br/>
+      <br/>
+      <b>Option B (The globin molecules bind to the oxygen molecules) is Incorrect.</b>
+      The haem moiety binds to the oxygen molecules.
+      <br/>
+      <br/>
+      <b>Option D (Binding of the haemoglobin with the first oxygen molecule reduces the affinity for binding to a second oxygen molecule) is Incorrect.</b>
+      Binding to an oxygen molecule increases the affinity for binding to a second oxygen molecule.
+      <br/>
+      <br/>
+      <b>Option E (Binding to an oxygen molecule increases the likelihood of the haem moieties assuming a tense (T) state) is Incorrect.</b>
+      Binding to an oxygen molecule increases the likelihood of a relaxed (R) state.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Each haemoglobin molecule is capable of binding up to four oxygen molecules) is Correct.</b>
+      Haemoglobin increases the oxygen-carrying capacity of the blood by about 70-fold. The haem moiety binds to the oxygen molecules. Since there are four haem moieties per haemoglobin molecule, up to four oxygen molecules may bind to one haemoglobin molecule. The haem moieties may assume either a relaxed (R) or tense (T) state, depending on the distance between the two β chains. Binding to an oxygen molecule increases the likelihood of an R state, which favours further oxygen binding. Hence, binding to an oxygen molecule increases the affinity for binding to a second oxygen molecule. This explains the sigmoid-shaped oxygen–haemoglobin dissociation curve.
+      <br/>
+      <br/>
+      <b>Option A (Haemoglobin increases the oxygen-carrying capacity of the blood by about two-fold) is Incorrect.</b>
+      Haemoglobin increases the oxygen-carrying capacity of the blood by around seventy-fold.
+      <br/>
+      <br/>
+      <b>Option B (The globin molecules bind to the oxygen molecules) is Incorrect.</b>
+      The haem moiety binds to the oxygen molecules.
+      <br/>
+      <br/>
+      <b>Option D (Binding of the haemoglobin with the first oxygen molecule reduces the affinity for binding to a second oxygen molecule) is Incorrect.</b>
+      Binding to an oxygen molecule increases the affinity for binding to a second oxygen molecule.
+      <br/>
+      <br/>
+      <b>Option E (Binding to an oxygen molecule increases the likelihood of the haem moieties assuming a tense (T) state) is Incorrect.</b>
+      Binding to an oxygen molecule increases the likelihood of a relaxed (R) state.
+    </p>
+  </modalFeedback>
+</assessmentItem>

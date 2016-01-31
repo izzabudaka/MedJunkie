@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0130" version="5.2" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3863-2.00026-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3863-2.00026-X</ce:doi>
+        <ce:isbn>978-0-7234-3863-2</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 26.1</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0010" role="caption">Prevalence of mental illness in people over the age of 65
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f26-01-9780723436362" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 26.2</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0015">Age-related changes in drug handling and effects</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f26-02-9780723436362" id="lk0015"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>26</ce:label>
+    <ce:title>Older adult psychiatry</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">After this chapter you should have an understanding of:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">The most prevalent psychiatric disorders in people over the age of 65</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Which features are particularly prominent in depression in older adults
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">The dangers of prescribing tricyclic antidepressants to older adults</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0030">How late-onset schizophrenia differs from early-onset schizophrenia</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0030">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0035">The role of home assessments in older adult psychiatry</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0035">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0040">Factors to consider before prescribing a benzodiazepine to an older adult
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:para id="p0045">The most common psychiatric disorders in older adults are dementia and delirium (see
+            <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00025-8" id="ia0010">Ch. 25</ce:intra-ref>). This chapter
+            considers other psychiatric disorders in older adults.
+        </ce:para>
+        <ce:para id="p0050">Patients arbitrarily come under the care of older adult psychiatrists at the age of 65
+            years, as it is the average age of retirement. Services for older adults face a huge increase in demand over
+            coming decades. Currently, one in six of the UK population is aged over 65 but by 2050 one in four people
+            are projected to be over 65. The number of ‘very old’ (aged over 80) is set to almost triple by 2050.
+        </ce:para>
+        <ce:para id="p0055">Ageing is associated with an increased prevalence of both mental and physical health
+            problems. Older adults may also face new social challenges such as coming to terms with retirement; income
+            reduction; living alone or being separated from family; death of spouse, siblings and peers; and coping with
+            deteriorating physical health and mobility.
+        </ce:para>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">MENTAL ILLNESS IN OLDER ADULTS</ce:section-title>
+            <ce:section id="s0015">
+                <ce:section-title id="st0020">Epidemiology</ce:section-title>
+                <ce:para id="p0060">The prevalence of all mental illness tends to increase with age and is about 25–30%
+                    in people over the age of 65. The prevalence of mental illness tends to be higher in residential
+                    homes.
+                    <ce:cross-ref refid="f0010">Figure 26.1</ce:cross-ref>
+                    <ce:float-anchor refid="f0010"/>
+                    summarizes the prevalence of the individual psychiatric disorders in older adults.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0020">
+                <ce:section-title id="st0025">Depressive disorders</ce:section-title>
+                <ce:para id="p0065">Depression in older adults presents similarly to that in younger people, although
+                    certain features seem more prevalent:
+                    <ce:list id="l0015">
+                        <ce:list-item id="u0040">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0070">Severe psychomotor agitation or retardation.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0045">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0075">Cognitive impairment (‘depressive pseudodementia’).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0050">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0080">Poor concentration.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0055">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0085">Generalized anxiety.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0060">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0090">Excessive concerns about physical health (hypochondriasis).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0065">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0095">When psychotic, older adults are particularly likely to have
+                                hypochondriacal delusions, delusions of poverty and nihilistic delusions (see
+                                <ce:intra-ref id="ia9000" xlink:href="pii:B978-0-7234-3863-2.00009-X#p0415">p.
+                                    69</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    Depression is often under-diagnosed in older adults, so a high index of suspicion is needed. This is
+                    important considering that older adults are at high risk for completed suicide, even though the
+                    prevalence of self-harm in this group is lower than in younger adults.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0010">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0105">Self-harm in an older adult should be considered to be with
+                                        suicidal intent until proven otherwise.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+                <ce:para id="p0110">The principles of treatment are the same as for younger adults, although medication
+                    should be introduced cautiously as older adults have an increased risk of developing adverse
+                    side-effects and generally need lower doses. Tricyclic antidepressants should be avoided if possible
+                    as postural hypotension and cognitive impairment are very common side-effects in older adults.
+                    Response to antidepressants is often slower in older adults, with benefits taking 6–8 weeks to
+                    emerge.
+                </ce:para>
+                <ce:para id="p0115">Electroconvulsive therapy (ECT) is a very effective treatment for depression in this
+                    population group and should be considered for severe depression, suicidal ideation, severe
+                    psychomotor retardation, failure to respond to or tolerate medication and previous good response to
+                    ECT. Lithium augmentation may be used in treatment-resistant cases, although the dose is generally
+                    lower than that used in younger adults. Patients in this age group often need lifelong
+                    antidepressant treatment to reduce the chance of relapse. Psychosocial intervention in the form of
+                    social support and possibly cognitive-behavioural therapy are also important.
+                </ce:para>
+                <ce:para id="p0120">Poor prognostic factors include comorbid physical illness, late detection of illness
+                    and poor concordance with antidepressant medication. Depressed older adults have a higher mortality
+                    than the non-depressed do, even when physical illness is taken into account.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0015">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0125">Cotard's syndrome describes the presence of nihilistic and
+                                        hypochondriacal delusions as part of a depressive psychosis and is typically
+                                        seen in older adults.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Mania</ce:section-title>
+                <ce:para id="p0130">Unlike depression, the incidence of bipolar affective disorder does not increase
+                    with age, although late onset cases seem to be less influenced by genetic factors (fewer of these
+                    patients have positive family histories for mood disorders). In a fifth of cases, mania is
+                    precipitated by an acute medical condition, e.g. stroke or myocardial infarction. The presentation
+                    and treatment is similar to that of younger adults.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">Late-onset schizophrenia (late paraphrenia)</ce:section-title>
+                <ce:para id="p0135">Older adult psychiatrists in the UK use the term
+                    <ce:italic>late-onset schizophrenia</ce:italic>
+                    or
+                    <ce:italic>late paraphrenia</ce:italic>
+                    to denote a group of patients who develop psychotic symptoms late in life, usually over the age of
+                    60. Late-onset schizophrenia is characterized predominantly by delusional thinking, usually of a
+                    persecutory or grandiose nature. These delusions tend not to be as bizarre as they sometimes are in
+                    earlier onset schizophrenia (e.g. rather than believing that secret agents are monitoring them by
+                    satellite, a patient with paraphrenia may assert that the neighbours have been poisoning their water
+                    supply). Hallucinations may occur but disorganized thinking, inappropriate affect and catatonic
+                    features almost never feature.
+                </ce:para>
+                <ce:para id="p0140">The aetiology of late-onset schizophrenia seems different to early-onset
+                    schizophrenia in that sufferers are less likely to have a family history of schizophrenia. Also,
+                    late-onset schizophrenia is far more common in women than men – unlike early-onset schizophrenia,
+                    which is slightly more likely to arise in men. Sensory deprivation, particularly hearing loss and
+                    social isolation, is also implicated in its aetiology.
+                </ce:para>
+                <ce:para id="p0145">The treatment is with antipsychotics but some work is needed in building up a
+                    therapeutic relationship as these patients are often difficult to engage and poor concordance is
+                    associated with a poor treatment response. Note that although late-onset schizophrenia does seem to
+                    be a distinct entity, it is not a term used by the ICD-10 or DSM-IV; here, these patients would be
+                    classified as having schizophrenia or delusional disorder.
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0020">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0150">Diogenes' syndrome, or ‘senile squalor’, is the term used to
+                                        describe an elderly recluse who lives in a state of perpetual filth and gross
+                                        self-neglect, often with the hoarding of rubbish. This is purely a descriptive
+                                        term and may occur in individuals with alcohol abuse, frontal lobe dysfunction,
+                                        personality disorder and chronic psychotic illness. It may also occur at a
+                                        younger age.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0035">
+            <ce:section-title id="st0040">ASSESSMENT CONSIDERATIONS IN OLDER ADULTS</ce:section-title>
+            <ce:para id="p0155">
+                <ce:list id="l0020">
+                    <ce:list-item id="u0070">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0160">Home assessments are a very important part of older adult psychiatry.
+                            Patients can be assessed in their normal environment and collateral information can be
+                            obtained from family members. It is important to ascertain whether the patient can be
+                            managed at home (i.e. risk of harm to self and others; ability to carry out activities of
+                            daily living (ADL), drive, manage financial affairs, etc.), or whether additional community
+                            support or hospitalization is needed.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0075">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0165">Collateral information from the patient's general practitioner (GP), family
+                            and neighbours is an important part of history taking.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0080">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0170">Mental state examination follows the same format as for all adults, although
+                            extra consideration should be given to the assessment of cognitive functioning and it is
+                            advisable to always do a standardized test, e.g. a Mini-Mental State Examination. (see
+                            <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00014-3#f0065" id="ia0015">Fig. 14.12
+                            </ce:intra-ref>
+                            for alternatives).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0085">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0175">A thorough physical examination is very important. Do not forget to assess
+                            hearing and vision as well as tremors and involuntary movements.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0090">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0180">Routine investigations in the newly diagnosed or hospitalized older adult
+                            include: full blood count, urea and electrolytes, liver function tests, thyroid function
+                            tests, calcium, glucose, urinalysis (with mid-stream urine microscopy and culture if
+                            indicated), chest X-ray, electrocardiogram (ECG) and consideration of serum magnesium,
+                            phosphate, vitamin B
+                            <ce:inf>12</ce:inf>
+                            and folate and a CT or MRI head. Remember that the chances of a physical illness causing or
+                            aggravating a mental deterioration are significant in older adults.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0040">
+            <ce:section-title id="st0045">TREATMENT CONSIDERATIONS IN OLDER ADULTS</ce:section-title>
+            <ce:section id="s0045">
+                <ce:section-title id="st0050">Physiological changes with ageing</ce:section-title>
+                <ce:para id="p0185">There are a number of physiological changes that occur with ageing, which may affect
+                    the way the body handles certain drugs.
+                    <ce:cross-ref refid="f0015">Figure 26.2</ce:cross-ref>
+                    <ce:float-anchor refid="f0015"/>
+                    describes the most important changes and their effects. The net result of these changes is that the
+                    tissue concentration of a drug may be increased by over 50%, especially in malnourished, dehydrated
+                    and debilitated patients. Therefore the adage, ‘start low and go slow’ applies especially to the use
+                    of psychotropic drugs in the older adult.
+                </ce:para>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">Polypharmacy</ce:section-title>
+                    <ce:para id="p0190">Those aged over 65 receive 45% of all prescriptions issued in the UK and many of
+                        these are for five drugs or more. This increases the risk of adverse reactions, drug
+                        interactions and poor concordance. Prescribing psychotropic drugs for common symptoms such as
+                        insomnia and headache should be avoided as they may lead to further non-specific symptoms, e.g.
+                        confusion, drowsiness and light-headedness. Medication should not be a substitute for adequate
+                        social care, the lack of which often underlies many of these symptoms.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0055">
+                    <ce:section-title id="st0060">Concordance</ce:section-title>
+                    <ce:para id="p0195">Concordance is often a problem in older adults, especially with those who are
+                        visually impaired, cognitively impaired, take numerous drugs and live alone. This may be
+                        improved by simplifying medication regimens, taking time to explain dosing schedules, using
+                        large font prescription labels or concordance aids such as dosette boxes. Organizing supervision
+                        of medication taking by a relative, friend or support worker may be necessary.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0060">
+                    <ce:section-title id="st0065">Psychosocial interventions</ce:section-title>
+                    <ce:para id="p0200">Psychological treatments, such as cognitive-behavioural therapy can be used with
+                        success in older adults as with younger adults. Reality orientation and reminiscence therapies
+                        have been used to reduce disorientation and stimulate remote memories in patients with dementia.
+                        Practical psychosocial interventions such as memory aids (e.g. notebooks, calendars) and
+                        assistance with mobility and daily activities by a support worker should not be underestimated.
+                        Occupational therapy assessment of activities of daily living (ADL), which assess skills such as
+                        washing, dressing, eating, shopping, etc., give carers an indication of patients' strengths and
+                        weaknesses and enable a care package to be tailored that caters specifically for these.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+    </ce:sections>
+</chapter>

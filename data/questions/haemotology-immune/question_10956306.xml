@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10956306" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Dietary deficiency is seldom the cause of iron deficiency anaemia.</p>
+        <p>Which of the following infections can lead to iron deficiency?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Pneumonia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Meningitis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hookworm infestation</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hepatitis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Japanese encephalitis.</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Hookworm infestation) is Correct.</b>
+      Hookworm infestation is the commonest infestation to cause iron deficiency anaemia.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td colspan="2">Causes of iron deficiency</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Blood loss</b>
+          </td>
+          <td>Heavy periods are the most likely cause in young females</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Gastrointestinal</b>
+          </td>
+          <td>
+            Bleeding peptic ulcer
+            <br/>
+            Inflammatory bowel disease
+            <br/>
+            Carcinoma of stomach, colon or rectum
+            <br/>
+            Abnormal blood vessels in gut (angiodysplasia)
+            <br/>
+            Malabsorption, e.g. coeliac disease
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>Dietary</b>
+          </td>
+          <td>Vegans and elderly</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Infection</b>
+          </td>
+          <td>Hookworm infestation is commonest worldwide cause</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Normal</b>
+          </td>
+          <td>
+            Physiological demands e.g. growth spurts in children
+            <br/>
+            Pregnancy
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <p>
+      <b>Option A (Pneumonia) is Incorrect.</b>
+      Pneumonia per se does not cause iron deficiency anaemia, but prolonged debility can.
+    </p>
+    <p>
+      <b>Option B (Meningitis) is Incorrect.</b>
+      Meningitis per se does not cause anaemia, but prolonged illness can.
+    </p>
+    <p>
+      <b>Option D (Hepatitis) is Incorrect.</b>
+      Hepatitis by itself does not cause anaemia, but chronic liver disease can lead to a variety of anaemias.
+    </p>
+    <p>
+      <b>Option E (Japanese encephalitis) is Incorrect.</b>
+      Japanese encephalitis is caused by the mosquito-borne Japanese encephalitis virus. It is not associated with iron deficiency anaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C (Hookworm infestation) is Correct.</b>
+      Hookworm infestation is the commonest infestation to cause iron deficiency anaemia.
+    </p>
+    <table>
+      <tbody>
+        <tr>
+          <td colspan="2">Causes of iron deficiency</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Blood loss</b>
+          </td>
+          <td>Heavy periods are the most likely cause in young females</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Gastrointestinal</b>
+          </td>
+          <td>
+            Bleeding peptic ulcer
+            <br/>
+            Inflammatory bowel disease
+            <br/>
+            Carcinoma of stomach, colon or rectum
+            <br/>
+            Abnormal blood vessels in gut (angiodysplasia)
+            <br/>
+            Malabsorption, e.g. coeliac disease
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>Dietary</b>
+          </td>
+          <td>Vegans and elderly</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Infection</b>
+          </td>
+          <td>Hookworm infestation is commonest worldwide cause</td>
+        </tr>
+        <tr>
+          <td>
+            <b>Normal</b>
+          </td>
+          <td>
+            Physiological demands e.g. growth spurts in children
+            <br/>
+            Pregnancy
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br/>
+    <p>
+      <b>Option A (Pneumonia) is Incorrect.</b>
+      Pneumonia per se does not cause iron deficiency anaemia, but prolonged debility can.
+    </p>
+    <p>
+      <b>Option B (Meningitis) is Incorrect.</b>
+      Meningitis per se does not cause anaemia, but prolonged illness can.
+    </p>
+    <p>
+      <b>Option D (Hepatitis) is Incorrect.</b>
+      Hepatitis by itself does not cause anaemia, but chronic liver disease can lead to a variety of anaemias.
+    </p>
+    <p>
+      <b>Option E (Japanese encephalitis) is Incorrect.</b>
+      Japanese encephalitis is caused by the mosquito-borne Japanese encephalitis virus. It is not associated with iron deficiency anaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

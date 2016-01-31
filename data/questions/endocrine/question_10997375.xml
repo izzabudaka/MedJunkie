@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10997375" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 16-year-old girl presents in clinic with primary amenorrhoea. Her height is 1.4 m and direct questioning confirms that her secondary sexual characteristics have yet to develop. She was born by a normal delivery and achieved her developmental milestones appropriately. She does not suffer from any medical problems and is doing well at school.</p>
+        <p>Examination reveals a short webbed neck, with cubitus valgus. She has a shield-like chest with widely separated nipples. On listening to the chest, a murmur can be heard.</p>
+        <p>What is your diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Congenital adrenal hyperplasia</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">McCune–Albright syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Trisomy 18</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Trisomy 21</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Turner's syndrome</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Turner's syndrome) is Correct.</b>
+      Patients with Turner's syndrome often have streak gonads which are dysfunctional. Cardiovascular defects include coarctation of the aorta, atrial septal defect, ventricular septal defect and aortic stenosis.
+    </p>
+    <p>
+      <b>Option A (Congenital adrenal hyperplasia) is Incorrect.</b>
+      Presentation is usually with vomiting, dehydration, seizures and ambiguous genitalia in the neonate. Precocious puberty is seen in boys.
+    </p>
+    <p>
+      <b>Option B (McCune-Albright syndrome) is Incorrect.</b>
+      This syndrome presents with skin pigmentation and precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Trisomy 18) is Incorrect.</b>
+      The majority of infants affected with trisomy 18 die within the first year of life.
+    </p>
+    <p>
+      <b>Option D (Trisomy 21) is Incorrect.</b>
+      While patients with Down syndrome often have short stature and congenital heart disease, a low IQ is common.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Turner's syndrome) is Correct.</b>
+      Patients with Turner's syndrome often have streak gonads which are dysfunctional. Cardiovascular defects include coarctation of the aorta, atrial septal defect, ventricular septal defect and aortic stenosis.
+    </p>
+    <p>
+      <b>Option A (Congenital adrenal hyperplasia) is Incorrect.</b>
+      Presentation is usually with vomiting, dehydration, seizures and ambiguous genitalia in the neonate. Precocious puberty is seen in boys.
+    </p>
+    <p>
+      <b>Option B (McCune-Albright syndrome) is Incorrect.</b>
+      This syndrome presents with skin pigmentation and precocious puberty.
+    </p>
+    <p>
+      <b>Option C (Trisomy 18) is Incorrect.</b>
+      The majority of infants affected with trisomy 18 die within the first year of life.
+    </p>
+    <p>
+      <b>Option D (Trisomy 21) is Incorrect.</b>
+      While patients with Down syndrome often have short stature and congenital heart disease, a low IQ is common.
+    </p>
+  </modalFeedback>
+</assessmentItem>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11002924" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 56-year-old man presents in clinic with a 3-month history of gynaecomastia. Past medical history includes a myocardial infarction at the age of 41, followed by coronary artery bypass surgery. He is currently taking atenolol, aspirin and cimetidine for gastric reflux. His cholesterol levels remain high and he takes simvastatin regularly. He has recently been on a course of trimethoprim for a urinary tract infection. Examination is unremarkable and you note his body mass index (BMI) is 28.</p>
+        <p>What is the likely cause of his gynaecomastia?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Coronary artery bypass graft (CABG)</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Cimetidine</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Obesity</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Simvastatin</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Trimethoprim</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Cimetidine) is Correct.</b>
+      H
+      <sub>2</sub>
+      antagonists such as cimetidine are associated with gynaecomastia.
+    </p>
+    <p>
+      <b>Option A (CABG) is Incorrect.</b>
+      A CABG is not associated with gynaecomastia.
+    </p>
+    <p>
+      <b>Option C (Obesity) is Incorrect.</b>
+      Clinical obesity is diagnosed as a BMI above 30. This patient is not obese.
+    </p>
+    <p>
+      <b>Option D (Simvastatin) is Incorrect.</b>
+      Side effects of simvastatin include myopathies and nausea.
+    </p>
+    <p>
+      <b>Option E (Trimethoprim) is Incorrect.</b>
+      Trimethoprim is not associated with gynaecomastia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Cimetidine) is Correct.</b>
+      H
+      <sub>2</sub>
+      antagonists such as cimetidine are associated with gynaecomastia.
+    </p>
+    <p>
+      <b>Option A (CABG) is Incorrect.</b>
+      A CABG is not associated with gynaecomastia.
+    </p>
+    <p>
+      <b>Option C (Obesity) is Incorrect.</b>
+      Clinical obesity is diagnosed as a BMI above 30. This patient is not obese.
+    </p>
+    <p>
+      <b>Option D (Simvastatin) is Incorrect.</b>
+      Side effects of simvastatin include myopathies and nausea.
+    </p>
+    <p>
+      <b>Option E (Trimethoprim) is Incorrect.</b>
+      Trimethoprim is not associated with gynaecomastia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

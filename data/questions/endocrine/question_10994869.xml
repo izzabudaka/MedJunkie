@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10994869" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 22-year-old female student presents to her general practitioner with a painful midline neck swelling and fever. She also complains of diarrhoea and fatigue. The week previously she had coryzal symptoms.</p>
+        <p>Whatis the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">De Quervain's thyroiditis</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Drug-induced thyroiditis</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Hashimoto's thyroiditis</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Ord's thyroiditis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Riedel's thyroiditis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      De Quervain's thyroiditis can occur following an upper respiratory tract infection. The patient may be hyper or hypothyroid before returning to euthyroid.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Amiodarone or interferon can cause thyroiditis. This patient is unlikely to be on these medications.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Hashimoto's thyroiditis is a painless goitre resulting from an autoimmune process.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Ord's thyroiditis is an autoimmune condition that causes hypothyroidism. There is reduction in gland volume.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Riedel's thyroiditis is a painless goitre resulting from fibrosis of this and other structures (salivary gland, mediastinal or retroperitoneal fibrosis).
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A is Correct.</b>
+      De Quervain's thyroiditis can occur following an upper respiratory tract infection. The patient may be hyper or hypothyroid before returning to euthyroid.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Amiodarone or interferon can cause thyroiditis. This patient is unlikely to be on these medications.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Hashimoto's thyroiditis is a painless goitre resulting from an autoimmune process.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Ord's thyroiditis is an autoimmune condition that causes hypothyroidism. There is reduction in gland volume.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Riedel's thyroiditis is a painless goitre resulting from fibrosis of this and other structures (salivary gland, mediastinal or retroperitoneal fibrosis).
+    </p>
+  </modalFeedback>
+</assessmentItem>

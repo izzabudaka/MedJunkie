@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0005" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3864-9.00001-0</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3864-9.00001-0</ce:doi>
+        <ce:isbn>978-0-7234-3864-9</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 1.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010">Units of alcohol. These refer to a standard pub measure of wine (12% alcohol
+                    by volume), a small pub measure of spirits (40% alcohol by volume) and standard strength beer (3–4%
+                    alcohol by volume). An easy way to work out the units for a drink is to remember that the alcohol
+                    percentage is equivalent to the number of units in one litre of the drink (e.g. a litre of 40%
+                    whiskey contains 40 units and a 330-mL bottle of 6% lager contains 2 units).
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-01-9780723436331" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 1.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015">Causes of pruritus.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-02-9780723436331" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 1.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020">Causes of dysphagia.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-03-9780723436331" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 1.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025">Causes of rectal bleeding.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-04-9780723436331" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 1.5</ce:label>
+            <ce:caption id="ca0030">
+                <ce:simple-para id="sp0030">Causes and features of abnormalities of speech arising from lesions at
+                    specific anatomical sites.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-05-9780723436331" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 1.6</ce:label>
+            <ce:caption id="ca0035">
+                <ce:simple-para id="sp0035">Differences in the history between hyperthyroidism and hypothyroidism.
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-06-9780723436331" id="lk0035"/>
+        </ce:figure>
+        <ce:figure id="f0040">
+            <ce:label>Fig. 1.7</ce:label>
+            <ce:caption id="ca0040">
+                <ce:simple-para id="sp0040">Symptoms of diabetes mellitus.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-07-9780723436331" id="lk0040"/>
+        </ce:figure>
+        <ce:figure id="f0045">
+            <ce:label>Fig. 1.8</ce:label>
+            <ce:caption id="ca0045">
+                <ce:simple-para id="sp0045">Causes of bone pain.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-08-9780723436331" id="lk0045"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>1</ce:label>
+    <ce:title>Taking a history</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">The key learning points for this chapter:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">Take a history from a patient.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Use open questions initially, followed by more specific questions based on your
+                        developing differential diagnosis.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">Ask relevant questions for each organ system.</ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">GENERAL PRINCIPLES: THE BEDSIDE MANNER</ce:section-title>
+            <ce:para id="p0030">Medical students are often told that ‘90% of the diagnosis is in the history’. Although
+                there is a large amount of truth in this statement, this is only the case if your history-taking skills
+                are accurate and relevant. This, in turn, is largely dependent on your bedside manner and the ability to
+                build up a good rapport with your patient. There is no easy recipe for developing a good bedside manner
+                but courtesy, patience and letting the patient express their ideas, concerns and expectations are
+                essential ingredients. The mnemonic ‘PEAS’ (Pause, Empathize, Acknowledge, Summarize) can be used to
+                remember the basis of good communication.
+            </ce:para>
+            <ce:para id="p0035">Whenever you meet a patient, introduce yourself politely and do not forget relatives or
+                friends who may also be present. Try to put the patient at ease, as visiting the doctor is very
+                stressful for most people, particularly if they think that they have a serious illness. If you cannot
+                speak the same language, try to get an interpreter. If a patient has hearing difficulties, sit closer,
+                write things down or speak louder!
+            </ce:para>
+            <ce:para id="p0040">The aims of the history are as follows:
+                <ce:list id="l0015">
+                    <ce:list-item id="u0025">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0045">To establish rapport with the patient.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0030">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0050">To obtain an accurate, sequential account of the patient's symptoms through
+                            open questions and create a differential diagnosis.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0035">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0055">To ask specific questions to focus on the most likely diagnoses.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0040">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0060">To determine risk factors for these possible diagnoses.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0045">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0065">To put this problem or problems into the context of the patient's life.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:para id="p0070">This chapter provides a framework for taking a comprehensive history. However, the
+                important thing is that you develop an approach with which you are comfortable and then practise it
+                again and again. In this way you will not miss things out and you will be able to concentrate more on
+                what the patient is telling you rather than what comes next. With experience you will recognize patterns
+                and explore different avenues in the history.
+            </ce:para>
+            <ce:para id="p0075">Make sure not to miss out on non-verbal clues, as facial expression and body posture can
+                sometimes tell you more than the words themselves. If you are looking up, they will also feel that you
+                are genuinely listening to what they are saying. It is important to strike a good balance between
+                recording the history accurately and maintaining eye contact.
+            </ce:para>
+            <ce:para id="p0080">As a general principle, start the consultation by asking very open-ended questions, such
+                as ‘How are you?’ or ‘What symptoms have made you come to the clinic today?’ This gives the patient the
+                opportunity to say what they want. Then ask more specific questions to clarify important aspects.
+            </ce:para>
+            <ce:para id="p0085">Try to take the history and then write it down afterwards; it enables you to listen and
+                appear to be listening without distraction, plus you can organize your thoughts before committing them
+                to paper. However, when you are learning it may be easier to make notes as you go along; you can also
+                have prompts on your paper to enable you to fill in all sections. As you gain experience, you will find
+                it easier to memorize the patient's history and write it down later.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">THE HISTORY</ce:section-title>
+            <ce:para id="p0090">At the start of every history you should always:
+                <ce:list id="l0020">
+                    <ce:list-item id="u0050">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0095">Document the date, time and place of consultation. This should be done on
+                            both sides and each subsequent sheet of paper. (Remember that the clerking is a legal
+                            document.)
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0055">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0100">Record the age, sex and occupation of the patient.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0060">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0105">Document who referred the patient and if they were seen as an emergency.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0065">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0110">Document your name, grade and role (e.g. CT1 van Boxel, Gen Surg SHO on
+                            call)
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0020">
+            <ce:section-title id="st0025">PRESENTING COMPLAINT (PC)</ce:section-title>
+            <ce:para id="p0115">This is a sentence or short list explaining the reason the patient has seen you today.
+                Resist the temptation to write the entire history in this section, particularly when there are multiple
+                symptoms; however, mentioning an obvious background condition can be helpful (e.g. ‘One week increasing
+                shortness of breath and productive cough. Background: 10-year history of COPD’).
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0025">
+            <ce:section-title id="st0030">HISTORY OF THE PRESENTING COMPLAINT (HPC)</ce:section-title>
+            <ce:para id="p0120">This is where the presenting complaint is explored in great detail. It is impossible to
+                describe a system that will work for all complaints in every situation. You will need to develop your
+                own techniques, likes and dislikes. Inadequate relevant detail in this section is the commonest problem
+                in medical student histories:
+                <ce:list id="l0025">
+                    <ce:list-item id="u0070">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0125">Aim to obtain a coherent, sequential chronological description of the events
+                            leading to the consultation.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0075">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0130">Ask the relevant questions to the symptoms (e.g. for pain, ‘Where is it?’,
+                            ‘What is its character?’)
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0080">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0135">Keep the differential diagnoses for a symptom in your mind and seek evidence
+                            to confirm or refute them.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0085">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0140">Use the review of symptoms questions for the system you suspect to fill in
+                            extra detail (e.g. if the complaint is a cough, ask about dyspnoea, pain, sputum, etc., and
+                            record it in the presenting complaint).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0090">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0145">Ask about the relevant risk factors (e.g. if pulmonary embolus is suspected
+                            ask about immobility, travel, etc.).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0095">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0150">Recapitulate the history back to the patient, as this helps cement the story
+                            in your mind and reassures the patient that you are listening.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0100">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0155">If the history is long, or vague, using the opening question ‘So when did
+                            you last feel well?’ gives a platform to begin from.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0105">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0160">Seek collateral history from witnesses, friends or family where necessary
+                            (e.g. after a seizure). It is always worth asking the patient first whether they mind you
+                            speaking to family or friends.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0110">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0165">With chronic complaints, it is vital to ask about how the symptoms are
+                            affecting the patient's life.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0115">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0170">Document relevant negative findings (e.g. headache, but no photophobia or
+                            neck stiffness).
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:para id="p0175">Finally, ask if they have any thoughts or worries as to what the diagnosis might be;
+                this can be very enlightening and will help you build a good working relationship as you will be
+                addressing their concerns. What the doctor is interested in and what the patient is interested in can be
+                diametrically different.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0010">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0180">If the patient presents with pain, the SOCRATES principle is a
+                                    useful framework for remembering to ask all the relevant information: Site, Onset,
+                                    Character, Radiation, Associated features, Timing, Exacerbating/relieving factors,
+                                    Severity.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0030">
+            <ce:section-title id="st0035">PAST MEDICAL HISTORY</ce:section-title>
+            <ce:para id="p0185">Ask the patient if they have had any previous operations or medical problems. It is
+                prudent to probe a little about each illness and how the diagnosis was made. Lists of past history are
+                commonly and sometimes wrongly carried forward from one hospital visit to the next. Record the history
+                in chronological order and, where possible, record the year, hospital and consultant involved for each
+                episode. Many patients may forget past illnesses, particularly if anxious, and it is worth developing a
+                routine to ask them specifically about diabetes, hypertension, angina or heart disease, rheumatic fever,
+                tuberculosis, epilepsy, asthma/emphysema/bronchitis, jaundice, stroke or transient ischaemic attacks.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0015">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0190">MJTHREADS is a useful mnemonic for remembering to ask about specific
+                                    medical conditions: Myocardial infarction, Jaundice, Tuberculosis, Hypertension,
+                                    Rheumatic fever, Epilepsy, Asthma, Diabetes, Stroke.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0035">
+            <ce:section-title id="st0040">MEDICATIONS AND ALLERGIES (DHX)</ce:section-title>
+            <ce:para id="p0195">Record which medications the patient is currently taking, how often and at what dose. If
+                the prescribed medications are not being taken, ask why. Ask if there have been any recent changes in
+                medication. Always ask what drugs the patient has taken in the past. For example, a patient with
+                pulmonary fibrosis as a consequence of amiodarone may well have stopped taking it years before! Finally,
+                ask about any non-prescription medications that may be obtained from a chemist or health food shop.
+            </ce:para>
+            <ce:para id="p0200">Does the patient have any allergies to any medications or anything else at all, no
+                matter how trivial? If yes, what was the exact nature of the reaction? Was it anaphylaxis or did they
+                experience a rash? It is worth asking about penicillin directly as many patients state they have a
+                penicillin allergy but on closer questioning, they may describe a non-specific symptom and a beta-lactam
+                antibiotic can be given safely if the need is there.
+            </ce:para>
+            <ce:para id="p0205">If the patient says they have no allergies it is traditional to write ‘No known drug
+                allergies’ (NKDA).
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0040">
+            <ce:section-title id="st0045">FAMILY HISTORY (FHX)</ce:section-title>
+            <ce:para id="p0210">Do any diseases ‘run’ in the patient's family – in particular ischaemic heart disease,
+                cancer, diabetes and autoimmune disorders? Record illnesses in close relatives, including age of death
+                where relevant. Generally speaking, family members affected before the age of 60 are deemed to be
+                relevant. Drawing a family tree can be helpful in some patients.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0045">
+            <ce:section-title id="st0050">SOCIAL HISTORY (SHX)</ce:section-title>
+            <ce:para id="p0215">The importance of this part of the history is to establish how the illness affects the
+                patient's life and how they are coping at home. Ask about:
+                <ce:list id="l0030">
+                    <ce:list-item id="u0120">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0220">Who is at home? If they have a partner, are they fit and well?</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0125">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0225">What is the home like? If the patient is elderly, is there a warden?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0130">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0230">If the patient is disabled, have appropriate modifications been made?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0135">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0235">Do they need help with daily tasks, such as washing, dressing, feeding,
+                            cleaning or shopping?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0140">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0240">Do they have dependent children? Who is looking after them at the moment?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0145">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0245">Is there a nearby relative who helps or does the patient have
+                            meals-on-wheels, a home help or a district nurse?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0150">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0250">What is their occupation? Details of their past and present occupation can
+                            be important (e.g. industrial lung disease).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0155">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0255">Are they still able to work despite the current problem?</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0160">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0260">Some diagnoses can be particularly important in relation to work, such as
+                            heavy goods vehicle drivers and epilepsy.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0165">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0265">Do they, or did they, smoke? Smoking is a significant cause of many
+                            diseases. Record smoking in pack/years
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0170">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0270">Alcohol past and present. Record as units per week (
+                            <ce:cross-ref refid="f0010">Fig. 1.1</ce:cross-ref>
+                            <ce:float-anchor refid="f0010"/>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0175">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0275">Do they use ‘recreational’ drugs? These have health, social and financial
+                            implications.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0180">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0280">Have they recently been abroad? They may have been exposed to different
+                            infective agents.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0185">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0285">Do they have pets (particularly budgerigars, pigeons and parrots)?</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0190">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0290">Sexual history is not appropriate in every history but may be important
+                            (e.g. for hepatitis or human immunodeficiency virus (HIV)).
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0050">
+            <ce:section-title id="st0055">SYSTEMS REVIEW</ce:section-title>
+            <ce:para id="p0295">Patients occasionally focus on one minor symptom while omitting to tell you of another
+                more significant symptom. In fact, this can be a deliberate act, asking the doctor to deal with a simple
+                problem (e.g. sore throat) while deciding whether to ask for help with the real worry such as impotence
+                or rectal bleeding. Performing a quick systems review will prevent you from missing other important
+                diseases.
+            </ce:para>
+            <ce:para id="p0300">Alternatively, if the symptoms are multiple and non-specific, a review of systems can
+                shine light on the consultation and aid a differential diagnosis.
+            </ce:para>
+            <ce:para id="p0305">The symptoms to ask about in each system are outlined below. This list cannot be
+                exhaustive and some symptoms are repeated as they cross organ systems though with different emphasis.
+            </ce:para>
+            <ce:section id="s0055">
+                <ce:section-title id="st0060">General symptoms</ce:section-title>
+                <ce:section id="s0060">
+                    <ce:section-title id="st0065">Fatigue</ce:section-title>
+                    <ce:para id="p0310">This is a non-specific symptom that can accompany many organic as well as
+                        psychiatric diseases. Look particularly for evidence of anaemia or hypothyroidism.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0065">
+                    <ce:section-title id="st0070">Appetite</ce:section-title>
+                    <ce:para id="p0315">Anorexia is a feature of many diseases, again organic and psychiatric; increased
+                        appetite despite weight loss is seen in hyperthyroidism. Distinguish between reduced appetite,
+                        nausea or dysphagia
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0070">
+                    <ce:section-title id="st0075">Weight change</ce:section-title>
+                    <ce:para id="p0320">Weight loss can be deliberate (dieting) or due to chronic disease. The causes
+                        are discussed in detail in<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00012-5" id="ia0010">
+                            Ch. 12</ce:intra-ref>.
+                    </ce:para>
+                    <ce:para id="p0325">Weight gain is seen in pregnancy, hypothyroidism, Cushing's syndrome, polycystic
+                        ovarian disease and ‘comfort eating’ due to anxiety or depression.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0075">
+                    <ce:section-title id="st0080">Sweats</ce:section-title>
+                    <ce:para id="p0330">Drenching sweats occurring at night are seen in lymphoma, chronic leukaemia and
+                        tuberculosis. This is commonly referred to as B-symptoms (and addition to weight loss and
+                        fever).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0080">
+                    <ce:section-title id="st0085">Pruritus (itching)</ce:section-title>
+                    <ce:para id="p0335">Pruritus can be due to local skin disease or systemic disease, as shown in
+                        <ce:cross-ref refid="f0015">Fig. 1.2</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0085">
+                    <ce:section-title id="st0090">Sleep pattern</ce:section-title>
+                    <ce:para id="p0340">If there is difficulty in sleeping, ask if the problem is in going to sleep or
+                        in waking early. Difficulty in getting off to sleep is often due to worry or anxiety, whereas
+                        early morning wakening is a feature of depression. Sleep apnoea is common and can be
+                        debilitating as hypersomnolence limits daytime function. The commonest medical condition
+                        affecting sleep is obstructive sleep apnoea (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00030-7" id="ia0015">Ch. 30</ce:intra-ref>). Ask
+                        about snoring, whether sleep is refreshing, morning headaches and restless leg movements. The
+                        patient's partner is often the best source of information.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0090">
+                <ce:section-title id="st0095">Cardiovascular symptoms</ce:section-title>
+                <ce:section id="s0095">
+                    <ce:section-title id="st0100">Chest pain</ce:section-title>
+                    <ce:para id="p0345">Establish the site, radiation, character, exacerbating and relieving factors,
+                        and severity; discussed in detail in<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00004-6"
+                                                                          id="ia0020">Ch. 4</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0100">
+                    <ce:section-title id="st0105">Shortness of breath (dyspnoea) and exercise tolerance
+                    </ce:section-title>
+                    <ce:para id="p0350">Exertional dyspnoea can be due to poor left ventricular function, pulmonary
+                        oedema, arrhythmia or valvular disease (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00030-7" id="ia0025">Ch. 30</ce:intra-ref>).
+                    </ce:para>
+                    <ce:para id="p0355">Orthopnoea is breathlessness on lying flat, usually from increased pulmonary
+                        venous congestion. This symptom can be present in diaphragm palsy and even in chronic
+                        obstructive pulmonary disease, as diaphragmatic input to ventilation is less efficient when the
+                        patient is lying flat.
+                    </ce:para>
+                    <ce:para id="p0360">Paroxysmal nocturnal dyspnoea (PND) is waking during the night due to severe
+                        breathlessness (pulmonary oedema).
+                    </ce:para>
+                    <ce:para id="p0365">Sudden onset of breathlessness, irrespective of body position or exercise, is
+                        often due to arrhythmia, pneumothorax or pulmonary embolism (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00005-8" id="ia0030">Ch. 5</ce:intra-ref>).
+                    </ce:para>
+                    <ce:para id="p0370">Taking a relevant exercise tolerance history is important. Ask the patient
+                        whether they can walk up a set of stairs (in one go, without being out of breath once upstairs)
+                        and how far they can walk on the flat. Remember that joint problems may be the limiting factor
+                        rather than cardiorespiratory reserve.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0105">
+                    <ce:section-title id="st0110">Blackouts (syncope)</ce:section-title>
+                    <ce:para id="p0375">Syncope is the transient loss of consciousness and motor tone, which may be due
+                        to arrhythmia, valvular heart disease, postural hypotension or vertebrobasilar insufficiency
+                        (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00022-8" id="ia0035">Ch. 22</ce:intra-ref>
+                        ).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0110">
+                    <ce:section-title id="st0115">Palpitations</ce:section-title>
+                    <ce:para id="p0380">Palpitations mean different things to different people and they should be
+                        explored carefully as they may be insignificant or they may be life-threatening. Most commonly
+                        they refer to awareness of one's heart beating (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00006-X" id="ia0040">Ch. 6</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0115">
+                    <ce:section-title id="st0120">Ankle and calf swelling</ce:section-title>
+                    <ce:para id="p0385">This can be due to right ventricular failure, low plasma oncotic pressure (e.g.
+                        decreased albumin levels) or drugs (e.g. calcium channel blockers), or it can be gravitational.
+                    </ce:para>
+                    <ce:para id="p0390">Calf swelling can be due to:
+                        <ce:list id="l0035">
+                            <ce:list-item id="u0195">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0395">Deep vein thrombosis: recent travel, immobility or surgery,
+                                    pregnancy, combined oral contraceptive pill, family history, malignancy.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0200">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0400">Ruptured Baker's cyst: in the elderly, secondary to osteoarthritis
+                                    of the knee.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0205">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0405">Muscle trauma.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0410">Cellulitis.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0215">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0415">Tumour: sarcoma (rare).</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0120">
+                    <ce:section-title id="st0125">Calf, thigh or buttock pain on exertion (claudication)
+                    </ce:section-title>
+                    <ce:para id="p0420">Intermittent claudication due to peripheral vascular disease causes calf, thigh
+                        or buttock pain on exercise. The amount of exercise required to cause pain tends to be
+                        consistent although it often deteriorates slowly. It is relieved within a predictable period of
+                        time on rest.
+                    </ce:para>
+                    <ce:para id="p0425">Spinal claudication due to spinal stenosis also causes calf, thigh or buttock
+                        pain on exertion, possibly by causing occlusion of the spinal arteries. However, the
+                        claudication distance tends to be variable.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0125">
+                <ce:section-title id="st0130">Respiratory symptoms</ce:section-title>
+                <ce:section id="s0130">
+                    <ce:section-title id="st0135">Dyspnoea</ce:section-title>
+                    <ce:para id="p0430">Clarify the degree of dyspnoea and its consequences for everyday tasks; try and
+                        separate respiratory dyspnoea from cardiac causes though there is much overlap (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00005-8" id="ia0045">Ch. 5</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0135">
+                    <ce:section-title id="st0140">Cough</ce:section-title>
+                    <ce:para id="p0435">The causes of cough are multiple. Associated features will help in developing a
+                        sensible differential diagnosis (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00007-1"
+                                                                          id="ia0050">Ch. 7</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0140">
+                    <ce:section-title id="st0145">Sputum</ce:section-title>
+                    <ce:para id="p0440">How much sputum is produced? Ask about its colour, texture and time course:
+                        <ce:list id="l0040">
+                            <ce:list-item id="u0220">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0445">Yellow/green: usually infection, acute asthma (due to
+                                    eosinophils).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0225">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0450">Frothy: pulmonary oedema.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0230">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0455">Rusty: lobar pneumonia (pneumococcal).</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0460">Blood: pulmonary embolism, lung cancer, pneumonia (see<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00007-1" id="ia0055">Ch. 7</ce:intra-ref>).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0240">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0465">Taste: foul in bronchiectasis and abscess.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0245">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0470">Smell: foul in bronchiectasis.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0145">
+                    <ce:section-title id="st0150">Chest pain</ce:section-title>
+                    <ce:para id="p0475">Needs a careful assessment of character, position, timing, precipitating
+                        factors, etc. Chest pain is usually pleuritic in respiratory disease (<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00004-6" id="ia0060">Ch. 4</ce:intra-ref>) and is
+                        potentially due to pneumonia, pneumothorax or pulmonary embolus.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0150">
+                    <ce:section-title id="st0155">Wheeze</ce:section-title>
+                    <ce:para id="p0480">Patients with airways obstruction sometimes notice an audible expiratory
+                        wheeze.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0155">
+                    <ce:section-title id="st0160">Hoarse voice</ce:section-title>
+                    <ce:para id="p0485">This may be caused, for example, by recurrent laryngeal nerve palsy in bronchial
+                        carcinoma.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0160">
+                <ce:section-title id="st0165">Gastrointestinal disease</ce:section-title>
+                <ce:section id="s0165">
+                    <ce:section-title id="st0170">Abdominal pain</ce:section-title>
+                    <ce:para id="p0490">Establish the site, radiation, character, exacerbating and relieving factors,
+                        and severity. This is discussed in detail in<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00014-9" id="ia0065">Ch. 14</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0170">
+                    <ce:section-title id="st0175">Dysphagia</ce:section-title>
+                    <ce:para id="p0495">Dysphagia means difficulty in swallowing. Ask about:
+                        <ce:list id="l0045">
+                            <ce:list-item id="u0250">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0500">The onset and progression of symptoms</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0255">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0505">Where do things get stuck? This may give a clue as to the site of
+                                    the lesion.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0260">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0510">Is there difficulty with solids, fluids or both? Neuromuscular
+                                    disorders tend to present with dysphagia for fluids at onset, whereas mechanical
+                                    obstruction results in dysphagia for solids at onset.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0515">The causes of dysphagia are outlined in
+                        <ce:cross-ref refid="f0020">Fig. 1.3</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0175">
+                    <ce:section-title id="st0180">Nausea and vomiting</ce:section-title>
+                    <ce:para id="p0520">What does the vomitus look like?
+                        <ce:list id="l0050">
+                            <ce:list-item id="u0265">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0525">Yellow-green: upper gastrointestinal (GI) contents plus bile.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0270">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0530">Brown (faeculant): lower small bowel contents.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0275">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0535">Bright-red blood: active upper GI bleeding (<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3864-9.00010-1" id="ia0070">Ch. 10</ce:intra-ref>).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0280">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0540">‘Coffee grounds’: ‘old’ upper GI bleeding.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0545">How ‘violent’ was the vomiting? Projectile vomiting indicates pyloric stenosis,
+                        most commonly seen in infants, but may arise as a consequence of duodenal ulceration in adults.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0180">
+                    <ce:section-title id="st0185">Indigestion</ce:section-title>
+                    <ce:para id="p0550">‘Heartburn’ or ‘dyspepsia’ is due to reflux of the gastric contents into the
+                        oesophagus. Be aware that heartburn can easily be confused with cardiac chest pain. Always
+                        explore these symptoms carefully.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0185">
+                    <ce:section-title id="st0190">Change in bowel habit or stools</ce:section-title>
+                    <ce:para id="p0555">Has there been a change? Ask about diarrhoea and constipation, or the presence
+                        of one alternating with the other (see<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00011-3"
+                                                                            id="ia0075">Ch. 11</ce:intra-ref>).
+                    </ce:para>
+                    <ce:para id="p0560">Is there any rectal bleeding? Is the bleeding with or without mucus? The causes
+                        of rectal bleeding are summarized in
+                        <ce:cross-ref refid="f0025">Fig. 1.4</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. Anal and rectal lesions result in fresh blood on the outside
+                        of the stool, on the paper on wiping, or in the pan. Higher lesions result in blood intermixed
+                        with the stool. Melaena implies upper GI bleeding and the passage of altered blood originating
+                        proximal to the hepatic flexure.
+                    </ce:para>
+                    <ce:para id="p0565">Inquire about tenesmus. Tenesmus is the painful desire to defecate when there is
+                        no stool in the rectum. This is due to a lesion in the lumen or wall of the rectum mimicking
+                        faeces.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0190">
+                <ce:section-title id="st0195">Jaundice and itch</ce:section-title>
+                <ce:para id="p0570">Jaundice can be insidious or acute and the patient may therefore not have noticed
+                    it. Ask family or friends whether they have noticed a change in skin colour. Itching is caused by
+                    build-up of bile salts in the skin and is a feature of obstructice jaundice (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00013-7" id="ia0080">Ch. 13</ce:intra-ref>). It can be
+                    asked about directly and may even be evident on clinical examination through scratch marks. Jaundice
+                    may indicate liver impairment and bruising and should therefore be asked about directly as clotting
+                    factor biosynthesis may be impaired.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0195">
+                <ce:section-title id="st0200">Abdominal swelling</ce:section-title>
+                <ce:para id="p0575">Ask whether the patient has noticed a change to the size of their abdomen (be
+                    careful not to offend patients by assuming they have an acutely distended abdomen!). Remember the 7
+                    <ce:hsp sp="0.25"/>F's: Foetus, Flatus, Fat, Fluid, Flipping great mass, Faeces and Full bladder.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0200">
+                <ce:section-title id="st0205">Genitourinary symptoms</ce:section-title>
+                <ce:section id="s0205">
+                    <ce:section-title id="st0210">Dysuria</ce:section-title>
+                    <ce:para id="p0580">This is discomfort during or after micturition due to urinary tract infection or
+                        recent urethral instrumentation (catheter or cystoscope).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0210">
+                    <ce:section-title id="st0215">Change in urine appearance</ce:section-title>
+                    <ce:para id="p0585">What does the urine look like?
+                        <ce:list id="l0055">
+                            <ce:list-item id="u0285">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0590">Cloudy: infection, precipitated urates or phosphates.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0290">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0595">Frothy: proteinuria.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0295">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0600">Orange: very concentrated urine, bilirubin, rifampicin.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0300">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0605">Red/smoky: haematuria, haemoglobinuria, myoglobinuria, rifampicin,
+                                    ‘black water fever’ due to haemolysis in
+                                    <ce:italic>Plasmodium falciparum</ce:italic>
+                                    malaria, eating beetroot.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0305">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0610">Dark on standing: porphyria.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0310">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0615">Green: drugs containing methylene blue (commercial analgesics).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0620">See
+                        <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00016-2" id="ia0085">Ch. 16</ce:intra-ref>
+                        for the causes of haematuria and proteinuria.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0215">
+                    <ce:section-title id="st0220">Frequency and nocturia</ce:section-title>
+                    <ce:para id="p0625">Increased frequency of micturition can be due to:
+                        <ce:list id="l0060">
+                            <ce:list-item id="u0315">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0630">Bladder irritation: infection, stones, tumour.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0320">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0635">Outflow obstruction: prostatic hypertrophy, urethral stricture.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0325">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0640">Neurological: multiple sclerosis, cauda equina syndrome.</ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0645">Note that, in polyuria, there is an increased volume of urine as well as
+                        frequency of micturition.
+                    </ce:para>
+                    <ce:para id="p0650">Nocturia can be due to any of the causes of polyuria (see<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00015-0" id="ia0090">Ch. 15</ce:intra-ref>) and increased
+                        frequency.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0220">
+                    <ce:section-title id="st0225">Hesitancy</ce:section-title>
+                    <ce:para id="p0655">Hesitancy followed by a poor stream with terminal dribbling are features of
+                        prostatic enlargement. These symptoms are often associated with benign prostatic hypertrophy,
+                        but could indicate carcinoma of the prostate.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0225">
+                    <ce:section-title id="st0230">Loin pain</ce:section-title>
+                    <ce:para id="p0660">This can be associated with renal disease (<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00012-5" id="ia0095">Ch. 14</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0230">
+                    <ce:section-title id="st0235">Incontinence</ce:section-title>
+                    <ce:para id="p0665">This can be either urge incontinence (e.g. detrusor instability) or stress
+                        incontinence (e.g. weak pelvic musculature following childbirth). It can be functional, as
+                        people with mobility problems may not be able to get to the loo quickly enough.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0235">
+                    <ce:section-title id="st0240">Menstruation</ce:section-title>
+                    <ce:para id="p0670">Determine the pattern of the normal cycle. Then ask about flow (heavy or light),
+                        intermenstrual bleeding, postcoital bleeding or dysmenorrhoea.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0240">
+                    <ce:section-title id="st0245">Discharge</ce:section-title>
+                    <ce:para id="p0675">Vaginal or penile discharge can indicate infection.</ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0245">
+                <ce:section-title id="st0250">Neurological symptoms</ce:section-title>
+                <ce:section id="s0250">
+                    <ce:section-title id="st0255">Headache</ce:section-title>
+                    <ce:para id="p0680">This is a difficult symptom for the doctor, with the diagnosis ranging from the
+                        trivial to the fatal. Ask about red flag symptoms (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3864-9.00018-6" id="ia0100">Ch. 18</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0255">
+                    <ce:section-title id="st0260">Dizziness</ce:section-title>
+                    <ce:para id="p0685">This can also be unsteadiness (
+                        <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00022-8" id="ia0105">Chs 22</ce:intra-ref>
+                        and<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00026-5" id="ia0110">26</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0260">
+                    <ce:section-title id="st0265">Blackouts</ce:section-title>
+                    <ce:para id="p0690">See<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00022-8" id="ia0115">Ch.
+                        22</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0265">
+                    <ce:section-title id="st0270">Visual disturbance</ce:section-title>
+                    <ce:para id="p0695">Vision can be affected by lesions of the optic pathway, of the nerves
+                        controlling eye movements (third, fourth, sixth) or conjugate gaze.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0270">
+                    <ce:section-title id="st0275">Altered hearing</ce:section-title>
+                    <ce:para id="p0700">Ask about deafness, tinnitus and vertigo (<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00027-7" id="ia0120">Ch. 27</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0275">
+                    <ce:section-title id="st0280">Altered smell</ce:section-title>
+                    <ce:para id="p0705">Anosmia can result from head injury, nasal polyps, following viral upper
+                        respiratory tract infections or frontal lobe tumours.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0280">
+                    <ce:section-title id="st0285">Speech disturbance</ce:section-title>
+                    <ce:para id="p0710">There are three types of disordered speech:
+                        <ce:list id="l0065">
+                            <ce:list-item id="u0330">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0715">Dysarthria: difficulty in articulating speech but language content
+                                    is completely normal.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0335">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0720">Dysphonia: difficulty in voice production.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0340">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0725">Dysphasia: difficulty in understanding or expressing language,
+                                    caused by lesions affecting the dominant cerebral hemisphere (usually the left).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                    <ce:para id="p0730">
+                        <ce:cross-ref refid="f0030">Fig. 1.5</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>
+                        shows the characteristic speech abnormalities that result from lesions at specific anatomical
+                        sites.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0285">
+                <ce:section-title id="st0290">Limb weakness, paraesthesiae and sensory loss</ce:section-title>
+                <ce:para id="p0735">These are covered in detail in<ce:intra-ref
+                        xlink:href="pii:B978-0-7234-3864-9.00034-4" id="ia0125">Ch. 34</ce:intra-ref>.
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0290">
+                <ce:section-title id="st0295">Metabolic and endocrine symptoms</ce:section-title>
+                <ce:para id="p0740">Symptoms associated with metabolic and endocrine problems are varied and multiple –
+                    these symptoms are described in detail in<ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00035-6"
+                                                                           id="ia0130">Ch. 35</ce:intra-ref>. The two
+                    most common endocrine conditions to consider and ask about are disorders of the thyroid (
+                    <ce:cross-ref refid="f0035">Fig. 1.6</ce:cross-ref>
+                    <ce:float-anchor refid="f0035"/>) and diabetes (
+                    <ce:cross-ref refid="f0040">Fig. 1.7</ce:cross-ref>
+                    <ce:float-anchor refid="f0040"/>).
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0295">
+                <ce:section-title id="st0300">Musculoskeletal symptoms</ce:section-title>
+                <ce:section id="s0300">
+                    <ce:section-title id="st0305">Weakness</ce:section-title>
+                    <ce:para id="p0745">This is covered in detail in<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00034-4" id="ia0135">Ch. 34</ce:intra-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0305">
+                    <ce:section-title id="st0310">Pain</ce:section-title>
+                    <ce:para id="p0750">Pain can arise in the muscles (<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00024-1" id="ia0140">Ch. 24</ce:intra-ref>), joints (
+                        <ce:intra-ref xlink:href="pii:B978-0-7234-3864-9.00019-8" id="ia0145">Ch. 19</ce:intra-ref>), or
+                        bones (
+                        <ce:cross-ref refid="f0045">Fig. 1.8</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0310">
+                    <ce:section-title id="st0315">Stiffness</ce:section-title>
+                    <ce:para id="p0755">Stiffness, particularly after inactivity (e.g. early morning stiffness), is a
+                        feature of inflammation.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0315">
+                    <ce:section-title id="st0320">Joint swelling</ce:section-title>
+                    <ce:para id="p0760">This can be caused by infection, inflammation, blood (haemarthrosis) or crystal
+                        deposition.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0320">
+                    <ce:section-title id="st0325">Disability</ce:section-title>
+                    <ce:para id="p0765">How do the symptoms affect lifestyle? This is extremely important in patients
+                        with rheumatological diseases.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0325">
+                <ce:section-title id="st0330">Skin symptoms</ce:section-title>
+                <ce:section id="s0330">
+                    <ce:section-title id="st0335">Rash</ce:section-title>
+                    <ce:para id="p0770">The distribution may be very helpful in determining the diagnosis (<ce:intra-ref
+                            xlink:href="pii:B978-0-7234-3864-9.00021-6" id="ia0150">Ch. 21</ce:intra-ref>).
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0335">
+                    <ce:section-title id="st0340">Pruritus</ce:section-title>
+                    <ce:para id="p0775">For the causes of pruritus, see<ce:cross-ref refid="f0015">Fig.
+                        1.2</ce:cross-ref>.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0340">
+                    <ce:section-title id="st0345">Precipitants</ce:section-title>
+                    <ce:para id="p0780">Has there been any recent change in detergents, soap, shampoo, etc.?</ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0345">
+                <ce:section-title id="st0350">Haematological symptoms</ce:section-title>
+                <ce:para id="p0785">These can be summarized as follows:
+                    <ce:list id="l0070">
+                        <ce:list-item id="u0345">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0790">Symptoms of anaemia: low haemoglobin (<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00029-0" id="ia0155">Ch. 29</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0350">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0795">Recurrent infections: low white cell count.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0355">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0800">Bleeding or bruising: low platelets (<ce:intra-ref
+                                    xlink:href="pii:B978-0-7234-3864-9.00028-9" id="ia0160">Ch. 28</ce:intra-ref>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0360">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0805">Any recent glandular swelling?</ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0350">
+            <ce:section-title id="st0355">CONCLUSION OF HISTORY TAKING</ce:section-title>
+            <ce:para id="p0810">The way to become skilled in history taking for both clinical practice and examinations
+                is to try and clerk as many patients as you can with the range of listed presentations. It is important
+                to write these up with a list of diagnoses and a plan, then practise presenting to other people. Then
+                ask yourself how you could do it better next time.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0020">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0815">At the end of the history ask two questions:</ce:para>
+                                <ce:para id="p0820">‘Is there anything else you are worried about or want to tell me?’
+                                    It is possible that the patient may now feel ready to tell you about their main
+                                    concern.
+                                </ce:para>
+                                <ce:para id="p0825">‘Is there anything that you are worried this might be?’ There is
+                                    often visible relief when this question is asked and it enables you to address the
+                                    patient's real feelings about their illness.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0025">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0830">Good history taking is not easily taught or learnt the night before
+                                    an examination. It is acquired through experience, lots of it!
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0030">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0835">Be careful not to label a patient's symptoms as ‘functional’. All
+                                    organic causes must be ruled out before making this diagnosis – it is a diagnosis of
+                                    exclusion.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

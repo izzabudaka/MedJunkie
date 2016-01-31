@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11010348" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 30-year-old woman presents to the ENT Outpatient Clinic with a painless, progressively enlarging midline neck swelling. On examination, there is a 2 × 2 cm midline neck swelling that moves on protrusion of the tongue.</p>
+        <p>What is the diagnosis?</p>
+        <img src="6_MJP163_CC2_web.jpg"/>
+        <p>
+          Henry and Thompson,
+          <i>Clinical Surgery</i>
+          , 2
+          <sup>nd</sup>
+          edn.
+        </p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Cystic hygroma</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Lymphadenopathy</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Pharyngeal pouch</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Thyroglossal cyst</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid nodule</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Thyroglossal cyst) is Correct.</b>
+      This forms from a patent thyroglossal duct. The thyroglossal duct is the embryological tract through which the thyroid gland descends from its developmental position in the oropharynx at the base of the tongue. Thyroglossal cysts form at any point along the duct.
+    </p>
+    <p>
+      [Fig. reproduced from Henry and Thompson,
+      <i>Clinical Surgery</i>
+      , 2
+      <sup>nd</sup>
+      edn., 2005, with permission from Elsevier. Fig. 31.1 Thyroglossal cyst overlying the hyoid bone]
+    </p>
+    <p>
+      <b>Option A (Cystic hygroma) is Incorrect.</b>
+      This is a benign congenital posterior triangle neck swelling arising from lymphatic tissue. It is not found in the midline.
+    </p>
+    <p>
+      <b>Option B (Lymphadenopathy) is Incorrect.</b>
+      Cervical lymphadenopathy can present as an anterior triangle neck swelling, but is not found in the midline.
+    </p>
+    <p>
+      <b>Option C (Pharyngeal pouch) is Incorrect.</b>
+      This is a diverticulum of the pharyngeal mucosa at the cricopharyngeal muscle. It is an anterior triangle neck swelling, not found in the midline.
+    </p>
+    <p>
+      <b>Option E (Thyroid nodule) is Incorrect.</b>
+      Thyroid nodules can be located in either lobe or as midline swellings. They characteristically move on swallowing. They may be multifocal or single.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Thyroglossal cyst) is Correct.</b>
+      This forms from a patent thyroglossal duct. The thyroglossal duct is the embryological tract through which the thyroid gland descends from its developmental position in the oropharynx at the base of the tongue. Thyroglossal cysts form at any point along the duct.
+    </p>
+    <p>
+      [Fig. reproduced from Henry and Thompson,
+      <i>Clinical Surgery</i>
+      , 2
+      <sup>nd</sup>
+      edn., 2005, with permission from Elsevier. Fig. 31.1 Thyroglossal cyst overlying the hyoid bone]
+    </p>
+    <p>
+      <b>Option A (Cystic hygroma) is Incorrect.</b>
+      This is a benign congenital posterior triangle neck swelling arising from lymphatic tissue. It is not found in the midline.
+    </p>
+    <p>
+      <b>Option B (Lymphadenopathy) is Incorrect.</b>
+      Cervical lymphadenopathy can present as an anterior triangle neck swelling, but is not found in the midline.
+    </p>
+    <p>
+      <b>Option C (Pharyngeal pouch) is Incorrect.</b>
+      This is a diverticulum of the pharyngeal mucosa at the cricopharyngeal muscle. It is an anterior triangle neck swelling, not found in the midline.
+    </p>
+    <p>
+      <b>Option E (Thyroid nodule) is Incorrect.</b>
+      Thyroid nodules can be located in either lobe or as midline swellings. They characteristically move on swallowing. They may be multifocal or single.
+    </p>
+  </modalFeedback>
+</assessmentItem>

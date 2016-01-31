@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11007439" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 30-year-old man presents with a neck lump. The fine-needle aspiration biopsy is positive and a thyroid malignancy is suspected.</p>
+        <p>What is the most likely type of thyroid malignancy to occur in young people?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Anaplastic</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Follicular</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Lymphoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Medullary cell</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Papillary</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      Papillary malignancies make up 70% of thyroid carcinomas and tend to occur in young people, with local spread and sometimes lung/bone secondaries. The other types are rare.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Anaplastic malignancies are rare and typically occur in the elderly. They respond poorly to treatment.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Follicular malignancies are, however, the next most common type of thyroid carcinoma after papillary. They make up 20% of all thyroid carcinomas.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Lymphoma makes up approximately 5% of all thyroid carcinomas.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Medullary malignancies make up approximately 5% of all thyroid carcinomas. They occur sporadically or as part of the multiple endocrine neoplasia (MEN) syndrome.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E is Correct.</b>
+      Papillary malignancies make up 70% of thyroid carcinomas and tend to occur in young people, with local spread and sometimes lung/bone secondaries. The other types are rare.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Anaplastic malignancies are rare and typically occur in the elderly. They respond poorly to treatment.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Follicular malignancies are, however, the next most common type of thyroid carcinoma after papillary. They make up 20% of all thyroid carcinomas.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Lymphoma makes up approximately 5% of all thyroid carcinomas.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Medullary malignancies make up approximately 5% of all thyroid carcinomas. They occur sporadically or as part of the multiple endocrine neoplasia (MEN) syndrome.
+    </p>
+  </modalFeedback>
+</assessmentItem>

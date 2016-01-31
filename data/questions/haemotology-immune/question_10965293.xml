@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10965293" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_000</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Red cells are transported to tissues in arterial blood, and returned to the lungs (via the heart) in venous blood.</p>
+        <p>Which of the following is a feature of red cells in venous blood, compared to red cells in arterial blood?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">They contain more bicarbonate ions</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">They contain less chloride ions</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">They contain less hydrogen ions</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">They contain more oxygen</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">They are smaller</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (They contain more bicarbonate ions) is Correct.</b>
+      Carbon dioxide enters the red blood cell, and is converted to H
+      <sub>2</sub>
+      CO
+      <sub>3</sub>
+      with the action of carbonic anhydrase. It is then dissociated into hydrogen and bicarbonate ions. Hence venous blood contains more bicarbonate and hydrogen ions. About 70% of the excess bicarbonate ions move out of the red blood cells and are exchanged for chloride ions. Hence, there are more chloride ions in the red blood cells in the venous than the arterial blood. Since the red cell in the venous blood contains extra osmotically active particles (chloride or bicarbonate ions), the cells swell.
+      <br/>
+      <br/>
+      <b>Option B (They contain less chloride ions) is Incorrect.</b>
+      Red cells in venous blood contain more chloride ions.
+      <br/>
+      <br/>
+      <b>Option C (They contain less hydrogen ions) is Incorrect.</b>
+      Red cells in venous blood contain more hydrogen ions.
+      <br/>
+      <br/>
+      <b>Option D (They contain more oxygen) is Incorrect.</b>
+      Red cells in venous blood contain less oxygen.
+      <br/>
+      <br/>
+      <b>Option E (They are smaller) is Incorrect.</b>
+      Red cells in venous blood are larger than red cells in arterial blood.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option A (They contain more bicarbonate ions) is Correct.</b>
+      Carbon dioxide enters the red blood cell, and is converted to H
+      <sub>2</sub>
+      CO
+      <sub>3</sub>
+      with the action of carbonic anhydrase. It is then dissociated into hydrogen and bicarbonate ions. Hence venous blood contains more bicarbonate and hydrogen ions. About 70% of the excess bicarbonate ions move out of the red blood cells and are exchanged for chloride ions. Hence, there are more chloride ions in the red blood cells in the venous than the arterial blood. Since the red cell in the venous blood contains extra osmotically active particles (chloride or bicarbonate ions), the cells swell.
+      <br/>
+      <br/>
+      <b>Option B (They contain less chloride ions) is Incorrect.</b>
+      Red cells in venous blood contain more chloride ions.
+      <br/>
+      <br/>
+      <b>Option C (They contain less hydrogen ions) is Incorrect.</b>
+      Red cells in venous blood contain more hydrogen ions.
+      <br/>
+      <br/>
+      <b>Option D (They contain more oxygen) is Incorrect.</b>
+      Red cells in venous blood contain less oxygen.
+      <br/>
+      <br/>
+      <b>Option E (They are smaller) is Incorrect.</b>
+      Red cells in venous blood are larger than red cells in arterial blood.
+    </p>
+  </modalFeedback>
+</assessmentItem>

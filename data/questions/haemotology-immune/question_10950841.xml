@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10950841" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>
+          Sickle cell disease is highly variable. Many patients have few symptoms, since Hb S has reduced O
+          <sub>2</sub>
+          affinity and oxygen is given up more easily, although they are often severely anaemic. The anaemia is chronic, however, and patients are generally well adapted until an episode of decompensation occurs, resulting in a sickle cell crisis and an accompanying severe haemolytic anaemia.
+        </p>
+        <p>Which of the following can precipitate sickle cell crisis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Weight gain</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Ingestion of fava beans</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Severely anaemic infant failing to thrive</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Inhalation of 100% oxygen</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Hypoxia</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Hypoxia) is Correct.</b>
+      Precipitants of sickle cell crisis include:
+    </p>
+    <ul>
+      <li>Infection</li>
+      <li>Dehydration</li>
+      <li>Cold</li>
+      <li>Hypoxia</li>
+      <li>Acidosis</li>
+    </ul>
+    <p>
+      Specialist tests are also available to confirm the presence of haemoglobin S.
+      <br/>
+      <br/>
+      <b>Option A (Weight gain) is Incorrect.</b>
+      Weight gain is not associated with sickling.
+      <br/>
+      <br/>
+      <b>Option B (Ingestion of fava beans) is Incorrect.</b>
+       Haemolytic anaemia associated with fava bean ingestion is due to glucose-6 dehydrogenase (G6PD) deficiency.
+      <br/>
+      <br/>
+      <b>Option C (Severely anaemic infant failing to thrive) is Incorrect.</b>
+      Infants with thalassaemia major are severely anaemic and fail to thrive.
+      <br/>
+      <br/>
+      <b>Option D (Inhalation of 100% oxygen) is Incorrect.</b>
+      Inhalation of oxygen is sometimes used to relieve the symptoms in a sickling crisis.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Hypoxia) is Correct.</b>
+      Precipitants of sickle cell crisis include:
+    </p>
+    <ul>
+      <li>Infection</li>
+      <li>Dehydration</li>
+      <li>Cold</li>
+      <li>Hypoxia</li>
+      <li>Acidosis</li>
+    </ul>
+    <p>
+      Specialist tests are also available to confirm the presence of haemoglobin S.
+      <br/>
+      <br/>
+      <b>Option A (Weight gain) is Incorrect.</b>
+      Weight gain is not associated with sickling.
+      <br/>
+      <br/>
+      <b>Option B (Ingestion of fava beans) is Incorrect.</b>
+       Haemolytic anaemia associated with fava bean ingestion is due to glucose-6 dehydrogenase (G6PD) deficiency.
+      <br/>
+      <br/>
+      <b>Option C (Severely anaemic infant failing to thrive) is Incorrect.</b>
+      Infants with thalassaemia major are severely anaemic and fail to thrive.
+      <br/>
+      <br/>
+      <b>Option D (Inhalation of 100% oxygen) is Incorrect.</b>
+      Inhalation of oxygen is sometimes used to relieve the symptoms in a sickling crisis.
+    </p>
+  </modalFeedback>
+</assessmentItem>

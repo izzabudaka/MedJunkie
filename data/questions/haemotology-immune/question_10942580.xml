@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10942580" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_005" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_006" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_007" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_008" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <ol>
+          <li>
+            <div>Haemophilia.</div>
+          </li>
+          <li>
+            <div>Vitamin K deficiency.</div>
+          </li>
+          <li>
+            <div>Thrombocytopenia.</div>
+          </li>
+          <li>
+            <div>Disseminated intravascular coagulation.</div>
+          </li>
+          <li>
+            <div>Von Willebrand's Disease.</div>
+          </li>
+        </ol>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">
+        <div>Prolonged prothrombin and partial thromboplastin time</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_001">
+        <div>Prolonged prothrombin time</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_002">
+        <div>Prolonged partial thromboplastin time</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        <div>Prolonged partial thromboplastin time and low platelet count</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">
+        <div>Prolonged prothrombin, partial thromboplastin and bleeding time with low platelet count</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_005">
+        <div>Low platelet count</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_006">
+        <div>Prolonged prothrombin and bleeding time</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_007">
+        <div>Prolonged partial thromboplastin and bleeding time</div>
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_008">
+        <div>Prolonged bleeding time and low platelets</div>
+      </simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Prolonged prothrombin time) is correct.</b>
+      Although Vitamin K is needed for all these factors, a deficiency would be evident first in the increased prothrombin time because Factor VII is the most vulnerable here with its short half-life. Prolonged deficiency would also affect the other factors and could increase the PTT but factors VIIIa and IXa are robust factors in the clotting cascade and any increase would not be marked.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Prolonged prothrombin time) is correct.</b>
+      Although Vitamin K is needed for all these factors, a deficiency would be evident first in the increased prothrombin time because Factor VII is the most vulnerable here with its short half-life. Prolonged deficiency would also affect the other factors and could increase the PTT but factors VIIIa and IXa are robust factors in the clotting cascade and any increase would not be marked.
+    </p>
+  </modalFeedback>
+</assessmentItem>

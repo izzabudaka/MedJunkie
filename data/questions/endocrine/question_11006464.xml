@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11006464" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A patient presents with headaches and muscle aches and pains. On examination he is hypertensive and blood tests reveal a low potassium and metabolic alkalosis. On further blood testing he has high levels of aldosterone and low levels of renin.</p>
+        <p>Which of the following is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Acromegaly</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Addison's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Conn's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Cushing's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Phaeochromocytoma</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This can cause secondary hypertension but with no electrolyte disturbance.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This causes hypotension, hyponatraemia and hyperkalaemia.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      In Cushing's disease pituitary adenoma causes bilateral adrenal hyperplasia resulting in increased cortisol and androgen production. While increased cortisol has some weak mineralocorticoid activity (resulting in hypertension), renin and aldosterone should be suppressed.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is a catecholamine-secreting adrenal tumour which can cause episodes of hypertension, sweating and palpitations. There is usually no electrolyte disturbance.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      See Targeted Learning for further information.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      This can cause secondary hypertension but with no electrolyte disturbance.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This causes hypotension, hyponatraemia and hyperkalaemia.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      In Cushing's disease pituitary adenoma causes bilateral adrenal hyperplasia resulting in increased cortisol and androgen production. While increased cortisol has some weak mineralocorticoid activity (resulting in hypertension), renin and aldosterone should be suppressed.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is a catecholamine-secreting adrenal tumour which can cause episodes of hypertension, sweating and palpitations. There is usually no electrolyte disturbance.
+    </p>
+  </modalFeedback>
+</assessmentItem>

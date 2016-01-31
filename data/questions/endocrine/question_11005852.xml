@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11005852" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 31-year-old librarian presents with a 6-month history of weight loss, despite an increased appetite, having returned from a trip to Africa. Direct questioning also reveals a history of heat intolerance, tremor and weakness. She also complains of double vision. Examination reveals proptosis. You note her heart rate appears irregular.</p>
+        <p>What is the diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Bacterial endocarditis</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Cushing's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Graves’ disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Hyperthyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Malaria</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Diplopia, proptosis, chemosis and periorbital oedema are signs specific to Graves’ disease.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Bacterial endocarditis does not present with eyelid retraction and lid lag.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Cushing's syndrome is not associated with diplopia or weight loss.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Of the options given, option C is more accurate given the ocular signs and symptoms described in the question.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Although malaria may present with weight loss, tremor, weakness and palpitations, it does not cause proptosis or atrial fibrillation. These symptoms are consistent with Graves’ disease.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      Diplopia, proptosis, chemosis and periorbital oedema are signs specific to Graves’ disease.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Bacterial endocarditis does not present with eyelid retraction and lid lag.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Cushing's syndrome is not associated with diplopia or weight loss.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Of the options given, option C is more accurate given the ocular signs and symptoms described in the question.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Although malaria may present with weight loss, tremor, weakness and palpitations, it does not cause proptosis or atrial fibrillation. These symptoms are consistent with Graves’ disease.
+    </p>
+  </modalFeedback>
+</assessmentItem>

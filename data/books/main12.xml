@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0060" version="5.2" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3863-2.00012-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3863-2.00012-X</ce:doi>
+        <ce:isbn>978-0-7234-3863-2</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 12.1</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0010">Dissociative (‘conversion’) disorders</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f12-01-9780723436362" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 12.2</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0015" role="caption">Parkes's stages of normal bereavement</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f12-02-9780723436362" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 12.3</ce:label>
+            <ce:caption>
+                <ce:simple-para id="sp0020">Differential diagnosis for patients presenting with a reaction to stress or
+                    trauma
+                </ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f12-03-9780723436362" id="lk0020"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>12</ce:label>
+    <ce:title>The patient with a reaction to a stressful event or bereavement</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0025">After this chapter you should have an understanding of:
+            <ce:list id="l0025">
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0030">The definition of a stressful event</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0030">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0035">The different psychiatric disorders that can be induced by stressful or adverse
+                        events
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0035">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0040">How to distinguish between stress-induced psychiatric disorders</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0040">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0045">How to distinguish stress-induced psychiatric disorders from other psychiatric
+                        disorders
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:para id="p0050">
+            <ce:display>
+                <ce:textbox role="alt2" id="b0010">
+                    <ce:textbox-head>
+                        <ce:title>Case summary</ce:title>
+                    </ce:textbox-head>
+                    <ce:textbox-body>
+                        <ce:sections>
+                            <ce:para id="p0055">Mrs PT, a 28-year-old divorced woman, was referred to a psychiatrist.
+                                She was well and working as a cleaner until 3 months ago when, on her way to work one
+                                evening, two men cornered her at a secluded bus shelter. They pushed her to the ground
+                                and raped her, threatening to ‘slit her throat’ if she screamed. The men ran off when
+                                they heard someone approaching, leaving Mrs PT shaken but with only superficial cuts and
+                                bruises. She felt low in mood for a few days after the assault, but attempted to carry
+                                on with her job and forget what had happened. In the month that followed, Mrs PT avoided
+                                all attempts by her family and friends to talk about the incident. She became socially
+                                withdrawn, only leaving the house to go to work. After a month, she started having
+                                nightmares about the incident and would wake up drenched in sweat. Her work colleagues
+                                noticed that she had become ‘jumpy and quick-tempered’ and that sudden movements or
+                                noises startled her. She had also started avoiding public transportation and refused to
+                                watch television for fear that something might remind her of the rape. Mrs PT finally
+                                sought medical help after her work supervisor found her lying on the floor, seemingly in
+                                a trance, screaming ‘Leave me alone!’ repeatedly. She recounted to her psychiatrist how
+                                she ‘re-lived’ the rape in her mind and thought she could hear the the men threatening
+                                her, just like they did during the incident. The psychiatrist noticed that Mrs PT could
+                                not recall certain important aspects of the assault.
+                            </ce:para>
+                            <ce:para id="p8050">
+                                <ce:italic>(For a discussion of the case study see the end of the chapter)</ce:italic>
+                            </ce:para>
+                        </ce:sections>
+                    </ce:textbox-body>
+                </ce:textbox>
+            </ce:display>
+        </ce:para>
+        <ce:para id="p0065">It is not unusual to have some psychological symptoms after a stressful event or
+            bereavement. However, in some cases, these symptoms may be more severe than expected, and impact upon
+            everyday functioning. It is important to be able to distinguish a normal reaction to a difficult life event
+            from a specific constellation of symptoms that denote psychopathology requiring clinical attention.
+        </ce:para>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">DEFINITIONS AND CLINICAL FEATURES</ce:section-title>
+            <ce:para id="p0070">When assessing someone who may have had a pathological response to a stressful event, it
+                is important to explore two variables: (1) the nature and severity of the life event; and (2) the nature
+                and severity of the person's reaction to the life event.
+            </ce:para>
+            <ce:section id="s0015">
+                <ce:section-title id="st0020">Nature and severity of the life event</ce:section-title>
+                <ce:section id="s0020">
+                    <ce:section-title id="st0025">Stress</ce:section-title>
+                    <ce:para id="p0075">‘Psychosocial stressor’ is the term used for any life event, condition or
+                        circumstance that places a strain on a person's current coping skills. It is important to
+                        remember that what constitutes a ‘stressor’ is subjective, and dependent on the specific
+                        person's ability to adapt or respond to a specific life challenge. For example, one student may
+                        breeze through an exam without experiencing any stress, while another may feel incredibly
+                        strained because of a perceived (or actual) mismatch between their ability and the demands of
+                        the situation. Also note that the same person's coping skills vary throughout their
+                        developmental life: the death of a distant relative may be far more stressful for a middle-aged
+                        man contemplating his own mortality than for an ‘invincible’ adolescent.
+                        <ce:display>
+                            <ce:textbox id="b0015" role="alt1">
+                                <ce:textbox-head>
+                                    <ce:title>COMMUNICATION</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0080">Whenever a patient presents with low mood or anxiety, always
+                                            check for possible psychosocial stressors and establish how (if at all) they
+                                            relate to the onset of symptoms. If the stressor seemed insignificant,
+                                            verify how it was perceived by the patient. Remember, a seemingly innocuous
+                                            life event may be a significant psychosocial stressor for a vulnerable
+                                            patient (e.g. a change of accommodation for an elderly widow).
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0025">
+                    <ce:section-title id="st0030">Traumatic stress</ce:section-title>
+                    <ce:para id="p0085">A traumatic stressor occurs outside the range of normal human experience, and
+                        its magnitude means that it would be experienced as traumatic by most people. This type of
+                        stress occurs in situations where a person feels that their own (or a loved one's) physical or
+                        psychological integrity is under serious threat. These include natural disasters, physical or
+                        sexual assaults, serious road traffic accidents, terrorist attacks, torture and military combat.
+                        Bereavement is a special case of traumatic stress that will be discussed later.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">Nature and severity of patient's reaction</ce:section-title>
+                <ce:para id="p0090">Some people seem to experience stressful or traumatic life events with minimal
+                    symptoms, while others seem more susceptible to developing a diagnosable disorder. Depending on the
+                    severity of the stressor and their underlying vulnerability, patients may develop: (1) an adjustment
+                    disorder; (2) an acute stress reaction or post-traumatic stress disorder (PTSD); (3) a dissociative
+                    disorder; or (4) another major mental illness such as a depressive, anxiety or psychotic disorder.
+                </ce:para>
+                <ce:section id="s0035">
+                    <ce:section-title id="st0040">Adjustment disorder</ce:section-title>
+                    <ce:para id="p0095">Feeling unable to cope is common at times of psychosocial stresses to which we
+                        need to adapt or adjust (such as moving house, changing job or becoming a parent). However, when
+                        symptoms are considered significant enough to be out of proportion to the original stressor, or
+                        cause disturbance of social or occupational functioning, this can be described as an adjustment
+                        disorder. For this diagnosis to be made, the emotional and/or behavioural symptoms need to occur
+                        within 3 months (according to DSM-IV; ICD-10 states 1 month) of the original stressor. Although
+                        it is assumed that the disorder would not have arisen without the original stressor, an
+                        individual's personality and vulnerability to stress play an important contributing role.
+                        Symptoms usually fully resolve within 6 months of onset, and if this is not the case,
+                        consideration should be given to a different diagnosis.
+                    </ce:para>
+                    <ce:para id="p0100">Usually, adjustment disorder is characterized by mood and/or anxiety symptoms,
+                        and this can occasionally be of severity sufficient to cause disturbances of conduct (e.g.
+                        reckless driving, aggressive behaviour). Many people with adjustment disorder also experience
+                        suicidal ideation.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0020">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0105">You should only diagnose an adjustment disorder when
+                                            patients do not meet the criteria for a more specific diagnosis such as
+                                            mood, psychotic or anxiety disorder (including PTSD), or a normal
+                                            bereavement reaction.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0040">
+                    <ce:section-title id="st0045">Acute stress reaction</ce:section-title>
+                    <ce:para id="p0110">The symptoms of an acute stress reaction (combat fatigue, psychic shock) develop
+                        immediately after, or within a few minutes of, a traumatic stressor. Typically, sufferers will
+                        experience an initial ‘dazed’ state followed by possible disorientation and a narrowing of
+                        attention with inability to process external stimuli. In some cases, this may be followed either
+                        by a period of diminished responsiveness (to the extreme of a dissociative stupor) or
+                        psychomotor agitation and overactivity. Patients may also have amnesia for the episode (see
+                        <ce:cross-ref refid="f0010">Fig. 12.1</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>
+                        for dissociative amnesia and stupor). These symptoms normally begin to diminish after 24–48
+                        hours, and are usually minimal after 3 days.
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0045">
+                    <ce:section-title id="st0050">Post-traumatic stress disorder</ce:section-title>
+                    <ce:para id="p0115">The symptoms of post-traumatic stress disorder (PTSD) usually develop after 1
+                        month but within 6 months of a traumatic stressor, and lead to significant distress or
+                        functional impairment. Symptoms include all of the following:
+                        <ce:list id="l0030">
+                            <ce:list-item id="u0045">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0120">Repetitive re-experiencing of the traumatic event in the form of:
+                                    <ce:list id="l9000">
+                                        <ce:list-item id="u0050">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0125">Flashbacks (intrusive, unwanted memories; vivid mental
+                                                images or dreams of the original experience)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0055">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0130">Distress caused by internal or external cues that
+                                                resemble the stressor (at times, patients may dissociate and experience
+                                                the original event as though it were happening at that moment)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0060">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0135">Patients may also experience hallucinations and
+                                                illusions.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0065">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0140">Avoidance of stimuli associated with the stressor, amnesia for
+                                    aspects of the trauma, as well as emotional numbness and social withdrawal.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0070">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0145">Increased arousal (insomnia, angry outbursts, hypervigilance, poor
+                                    concentration, exaggerated<ce:italic>startle response</ce:italic>).
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0025">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0150">When assessing a patient with suspected PTSD, remember that
+                                            head injuries and epilepsy are important differential diagnoses that may
+                                            present with similar symptoms, and may also have been caused by the initial
+                                            trauma. Patients with PTSD also have a high rate of comorbid substance
+                                            misuse, and it is important to be vigilant for symptoms of alcohol or drug
+                                            intoxication/withdrawal.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">Dissociation</ce:section-title>
+                    <ce:para id="p0155">In clinical psychiatry, ‘dissociation’ describes a disruption in the usually
+                        integrated functions of consciousness and cognition. In this phenomenon, memories of the past,
+                        awareness of identity, thoughts, emotions, movement, sensation and/or control of behaviour
+                        become separated from the rest of an individual's personality such that they function
+                        independently and are not open to voluntary control.
+                        <ce:cross-ref refid="f0010">Figure 12.1</ce:cross-ref>
+                        describes the more common dissociative disorders.
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0030">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0160">Depersonalization is feeling yourself to be strange or
+                                            unreal. Derealization is feeling that external reality is strange or unreal.
+                                            These can be considered as types of dissociation, and may be caused by
+                                            psychiatric illness (e.g. depression, anxiety, schizophrenia), physical
+                                            illness (e.g. epilepsy), psychosocial stress and substance abuse.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                    <ce:para id="p0165">The ICD-10 requires that there be some evidence of a psychological causation
+                        (stressful events or disturbed relationships) in association with the onset of the dissociative
+                        symptoms. Also note that the diagnosis of dissociative disorder should not be made if there is
+                        evidence of a physical or psychiatric disorder that might explain the symptoms.
+                    </ce:para>
+                    <ce:para id="p0170">Historically, dissociative disorders have been termed ‘hysteria’; however, this
+                        term is seldom used in modern psychiatry. The term ‘conversion disorder’ is often but not always
+                        used synonymously with dissociative disorders, so it is wise to clarify what exact symptoms are
+                        being described if this diagnosis is encountered. Also, it is worth noting that DSM-IV
+                        categorizes some dissociative disorders as somatoform disorders (see<ce:intra-ref
+                                xlink:href="pii:B978-0-7234-3863-2.00013-1" id="ia0015">Ch. 13</ce:intra-ref>).
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0035">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0175">Before accepting the diagnosis of a dissociative disorder, a
+                                            neurological affliction or other psychiatric illness should be aggressively
+                                            sought for and excluded.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0055">
+                    <ce:section-title id="st0060">Precipitation or exacerbation of an existing mental illness
+                    </ce:section-title>
+                    <ce:para id="p0180">The influence of a patient's environment on their mental health cannot be
+                        overemphasized. Almost all forms of mental illness (e.g. depression, psychotic illness, anxiety)
+                        can be precipitated or exacerbated by psychosocial (‘life events’) or traumatic stressors.
+                        However, unlike the above reactions in this group, there need not be a direct aetiological link
+                        with the stressor involved.
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0060">
+            <ce:section-title id="st0065">BEREAVEMENT</ce:section-title>
+            <ce:para id="p0185">Bereavement is a unique kind of stress experienced by most people during their life, and
+                is considered a normal human experience. A bereavement reaction usually occurs after the loss of a loved
+                person but can also result from other losses, like the loss of a national figure, or a beloved pet. The
+                normal course of grief after bereavement occurs in five phases (
+                <ce:cross-ref refid="f0015">Fig. 12.2</ce:cross-ref>
+                <ce:float-anchor refid="f0015"/>), although these should not be regarded as a rigid sequence that is
+                passed through only once.
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0040">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0190">The length of a normal bereavement reaction is variable and tends to
+                                    be longer if the death was sudden and unexpected.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+            <ce:para id="p0195">Although most people will meet the criteria for a depressive episode at some stage
+                during the grieving process, bereavement reactions are not pathological and so no psychiatric diagnosis
+                should be made in these cases. However, patients who have been bereaved are at higher risk for
+                developing a depressive illness requiring treatment. The DSM-IV notes the following symptoms are not
+                characteristic of a normal bereavement reaction and suggest the development of a major depressive
+                episode:
+                <ce:list id="l0035">
+                    <ce:list-item id="o0010">
+                        <ce:label>1.</ce:label>
+                        <ce:para id="p0200">Guilt (other than events surrounding the death of the loved one).</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0015">
+                        <ce:label>2.</ce:label>
+                        <ce:para id="p0205">Suicidal ideation (other than feeling better off dead or wanting to be with
+                            the deceased).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0020">
+                        <ce:label>3.</ce:label>
+                        <ce:para id="p0210">Preoccupation with worthlessness.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0025">
+                        <ce:label>4.</ce:label>
+                        <ce:para id="p0215">Marked psychomotor retardation.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0030">
+                        <ce:label>5.</ce:label>
+                        <ce:para id="p0220">Prolonged and marked functional impairment.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="o0035">
+                        <ce:label>6.</ce:label>
+                        <ce:para id="p0225">Hallucinatory experiences (other than transiently seeing or hearing the
+                            deceased).
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                If a bereavement reaction is abnormal, assess for depression. If criteria for a depressive episode are
+                not met, then a diagnosis of adjustment disorder is made.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0065">
+            <ce:section-title id="st0070">DIFFERENTIAL DIAGNOSIS</ce:section-title>
+            <ce:para id="p0235">The diagnosis is usually clear following thorough exploration of the nature and severity
+                of both the life event and patient's reaction (see
+                <ce:cross-ref refid="f0020">Fig. 12.3</ce:cross-ref>
+                <ce:float-anchor refid="f0020"/>
+                and
+                <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00010-6#f0030" id="ia9500">Fig. 10.5</ce:intra-ref>
+                for a diagnostic algorithm). Even if the onset of symptoms is clearly linked with a stressor, diagnosis
+                of a specific major mental illness (mood disorder, psychotic disorder) should be given if diagnostic
+                criteria are met, as major mental illnesses are often triggered by major stressors.
+            </ce:para>
+            <ce:para id="p0240">If a patient presents with psychiatric symptoms after a life-threatening event, always
+                screen for features of depression as well as features of PTSD. This is because the risk of developing
+                depression increases six fold in the 6 months that follow a stressful event.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0070">
+            <ce:section-title id="st0075">DISCUSSION OF CASE STUDY</ce:section-title>
+            <ce:para id="p0245">Mrs PT experienced a traumatic stressor in which she believed that her physical
+                integrity was under immediate threat. The event was outside the range of normal human experience and
+                would have been experienced as traumatic by most people. She subsequently developed avoidance of stimuli
+                associated with the trauma (avoided talking or thinking about it, avoided public transportation and
+                television), amnesia for aspects of the trauma and social withdrawal. Later on, she showed signs of
+                increased arousal (startle response, being ‘jumpy and quick-tempered’). Finally, Mrs PT repetitively
+                re-experienced the trauma through nightmares, flashbacks and dissociation (re-living and behaving as
+                though the trauma were occurring at that moment through mental imagery and hallucinations). All of the
+                above suggest a diagnosis of post-traumatic stress disorder.
+            </ce:para>
+            <ce:para id="p0250">Now go on to
+                <ce:intra-ref xlink:href="pii:B978-0-7234-3863-2.00020-9" id="ia0020">Chapter 20</ce:intra-ref>
+                to read about the anxiety disorders and their management.
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

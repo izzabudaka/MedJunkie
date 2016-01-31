@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11002386" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 59-year-old man complains of increasing dyspnoea over 18 months and an itchy, painful rash over the legs and ankles. On examination, there is parotid gland enlargement and hepatosplenomegaly. Chest X-ray shows bilateral hilar lymphadenopathy. Serum calcium is 2.8 mmol/L (normal range 2.1–2.6 mmol/L).</p>
+        <p>What is the most appropriate diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Hyperparathyroidism</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Multiple myeloma</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Paget's disease</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Sarcoidosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Squamous cell carcinoma</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sarcoidosis) is Correct.</b>
+      Sarcoidosis has hilar lymphadenopathy on chest X-ray and/or parenchymal lung shadowing. Hypercalcaemia is due to macrophage production of 1,25-dihydroxyvitamin D.
+    </p>
+    <p>
+      <b>Option A (Hyperparathyroidism) is Incorrect.</b>
+      Hypercalcaemia is not associated with organomegaly or chest X-ray signs.
+    </p>
+    <p>
+      <b>Option B (Multiple myeloma) is Incorrect.</b>
+      Multiple myeloma X-ray changes in long bones would be more in keeping with this diagnosis (lytic lesions). Lung parenchymal changes on chest X-ray are more indicative of a different pathology.
+    </p>
+    <p>
+      <b>Option C (Paget's disease) is Incorrect.</b>
+      This is indicated by frontal bossing, deafness and cranial nerve palsies due to uncontrolled bone turnover. Pathological fractures and platybasia are complications. Hypercalcaemia is not usually present
+    </p>
+    <p>
+      <b>Option E (Squamous cell carcinoma) is Incorrect.</b>
+      This patient has symptoms of lung carcinoma. Squamous cell carcinoma has ectopic parathyroid hormone related protein that causes hypercalcaemia.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Sarcoidosis) is Correct.</b>
+      Sarcoidosis has hilar lymphadenopathy on chest X-ray and/or parenchymal lung shadowing. Hypercalcaemia is due to macrophage production of 1,25-dihydroxyvitamin D.
+    </p>
+    <p>
+      <b>Option A (Hyperparathyroidism) is Incorrect.</b>
+      Hypercalcaemia is not associated with organomegaly or chest X-ray signs.
+    </p>
+    <p>
+      <b>Option B (Multiple myeloma) is Incorrect.</b>
+      Multiple myeloma X-ray changes in long bones would be more in keeping with this diagnosis (lytic lesions). Lung parenchymal changes on chest X-ray are more indicative of a different pathology.
+    </p>
+    <p>
+      <b>Option C (Paget's disease) is Incorrect.</b>
+      This is indicated by frontal bossing, deafness and cranial nerve palsies due to uncontrolled bone turnover. Pathological fractures and platybasia are complications. Hypercalcaemia is not usually present
+    </p>
+    <p>
+      <b>Option E (Squamous cell carcinoma) is Incorrect.</b>
+      This patient has symptoms of lung carcinoma. Squamous cell carcinoma has ectopic parathyroid hormone related protein that causes hypercalcaemia.
+    </p>
+  </modalFeedback>
+</assessmentItem>

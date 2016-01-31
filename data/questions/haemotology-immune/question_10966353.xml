@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10966353" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 65-year-old man has severe bone pain, particularly in the pelvis and lower spine. An X-ray shows multiple lytic lesions. In addition, his creatinine levels have been increasing over the last few months.</p>
+        <p>Upon serum electrophoresis, a monoclonal band is seen.</p>
+        <p>Which condition is this man likely to have?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Metastatic breast cancer</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Monoclonal gammopathy of undetermined significance (MGUS)</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Metastatic lung cancer</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Multiple myeloma</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Osteoporosis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Multiple myeloma) is Correct.</b>
+      He is most likely to have multiple myeloma. He displays the classical signs of this.
+      <br/>
+      <br/>
+      <b>Option A (Metastatic breast cancer) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+      <br/>
+      <br/>
+      <b>Option B (Monoclonal gammopathy of undetermined significance (MGUS)) is Incorrect.</b>
+      This would not result in renal failure or lytic lesions; only a monoclonal band.
+      <br/>
+      <br/>
+      <b>Option C (Metastatic lung cancer) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+      <br/>
+      <br/>
+      <b>Option E (Osteoporosis) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (Multiple myeloma) is Correct.</b>
+      He is most likely to have multiple myeloma. He displays the classical signs of this.
+      <br/>
+      <br/>
+      <b>Option A (Metastatic breast cancer) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+      <br/>
+      <br/>
+      <b>Option B (Monoclonal gammopathy of undetermined significance (MGUS)) is Incorrect.</b>
+      This would not result in renal failure or lytic lesions; only a monoclonal band.
+      <br/>
+      <br/>
+      <b>Option C (Metastatic lung cancer) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+      <br/>
+      <br/>
+      <b>Option E (Osteoporosis) is Incorrect.</b>
+      This would not result in a monoclonal band or renal failure.
+    </p>
+  </modalFeedback>
+</assessmentItem>

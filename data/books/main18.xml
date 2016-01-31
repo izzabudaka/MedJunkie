@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chapter id="c0005" version="5.3" docsubtype="chp" xml:lang="en" xmlns="http://www.elsevier.com/xml/bk/dtd"
+         xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <info>
+        <ce:pii>B978-0-7234-3869-4.00001-X</ce:pii>
+        <ce:doi>10.1016/B978-0-7234-3869-4.00001-X</ce:doi>
+        <ce:isbn>978-0-7234-3869-4</ce:isbn>
+        <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+    </info>
+    <ce:floats>
+        <ce:figure id="f0010">
+            <ce:label>Fig. 1.1</ce:label>
+            <ce:caption id="ca0010">
+                <ce:simple-para id="sp0010">PICO.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-01-9780723437352" id="lk0010"/>
+        </ce:figure>
+        <ce:figure id="f0015">
+            <ce:label>Fig. 1.2</ce:label>
+            <ce:caption id="ca0015">
+                <ce:simple-para id="sp0015">Types of scientific databases.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-02-9780723437352" id="lk0015"/>
+        </ce:figure>
+        <ce:figure id="f0020">
+            <ce:label>Fig. 1.3</ce:label>
+            <ce:caption id="ca0020">
+                <ce:simple-para id="sp0020">Boolean logic.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-03-9780723437352" id="lk0020"/>
+        </ce:figure>
+        <ce:figure id="f0025">
+            <ce:label>Fig. 1.4</ce:label>
+            <ce:caption id="ca0025">
+                <ce:simple-para id="sp0025">Documenting the search strategy.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-04-9780723437352" id="lk0025"/>
+        </ce:figure>
+        <ce:figure id="f0030">
+            <ce:label>Fig. 1.5</ce:label>
+            <ce:caption id="ca0030">
+                <ce:simple-para id="sp0030">Hierarchy of evidence.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-05-9780723437352" id="lk0030"/>
+        </ce:figure>
+        <ce:figure id="f0035">
+            <ce:label>Fig. 1.6</ce:label>
+            <ce:caption id="ca0035">
+                <ce:simple-para id="sp0035">Key stages of clinical guideline development.</ce:simple-para>
+            </ce:caption>
+            <ce:link locator="f01-06-9780723437352" id="lk0035"/>
+        </ce:figure>
+    </ce:floats>
+    <ce:label>Chapter 1</ce:label>
+    <ce:title>Evidence-based medicine</ce:title>
+    <objectives>
+        <ce:section-title id="st0010">Objectives</ce:section-title>
+        <ce:para id="p0010">By the end of this chapter you should:
+            <ce:list id="l0010">
+                <ce:list-item id="u0010">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0015">Understand the importance of evidence-based medicine in healthcare.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0015">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0020">Know how to formulate clinically relevant, answerable questions using the
+                        Patient Intervention Comparison Outcome (PICO) framework.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0020">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0025">Be able to systematically perform a literature search to identify relevant
+                        evidence.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0025">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0030">Understand the importance of assessing the quality and validity of evidence by
+                        critically appraising the literature.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0030">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0035">Know that different study designs provide varying levels of evidence.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0035">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0040">Know how to assess and implement new evidence in clinical practice.</ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0040">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0045">Understand the importance of regularly evaluating the implementation of new
+                        evidence-based practice.
+                    </ce:para>
+                </ce:list-item>
+                <ce:list-item id="u0045">
+                    <ce:label>•</ce:label>
+                    <ce:para id="p0050">Understand why clinical recommendations are regularly updated and list the steps
+                        involved in creating new clinical practice guidelines.
+                    </ce:para>
+                </ce:list-item>
+            </ce:list>
+        </ce:para>
+    </objectives>
+    <ce:sections>
+        <ce:section id="s0010">
+            <ce:section-title id="st0015">WHAT IS EVIDENCE-BASED MEDICINE?</ce:section-title>
+            <ce:para id="p0055">
+                <ce:list id="l0015">
+                    <ce:list-item id="u0050">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0060">Sackett and colleagues describe evidence-based medicine (a.k.a.
+                            ‘evidence-based practice’) as ‘the conscientious, explicit and judicious use of current best
+                            evidence in making decisions about the care of individual patients’.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0055">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0065">Considering the vast rate at which medical knowledge is advancing, it is
+                            crucial for clinicians and researchers to make sense of the wealth of data (sometimes poor)
+                            available.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0060">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0070">Evidence-based medicine involves a number of key principles which will be
+                            discussed in turn:
+                            <ce:list id="l0020">
+                                <ce:list-item id="u0065">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0075">Formulate a clinically relevant question</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0070">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0080">Identify relevant evidence</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0075">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0085">Systematically review and appraise the evidence identified
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0080">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0090">Extract the most useful results and determine whether they are
+                                        important in your clinical practice
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0085">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0095">Synthesise evidence to draw conclusions</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0090">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0100">Use the clinical research findings to generate guideline
+                                        recommendations which enable clinicians to deliver optimal clinical care to your
+                                        patients
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0095">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0105">Evaluate the implementation of evidence-based medicine.
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0010">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0110">Evidence-based practice is a systematic process primarily aimed at
+                                    improving the care of patients.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0015">
+            <ce:section-title id="st0020">FORMULATING CLINICAL QUESTIONS</ce:section-title>
+            <ce:para id="p0115">
+                <ce:list id="l0025">
+                    <ce:list-item id="u0100">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0120">In order to practise evidence-based medicine, the initial step involves
+                            converting a clinical encounter in to a clinical question.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0105">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0125">A useful approach to formatting a clinical (or research) question is using
+                            the Patient Intervention Comparison Outcome (PICO) framework (
+                            <ce:cross-ref refid="f0010">Fig. 1.1</ce:cross-ref>
+                            <ce:float-anchor refid="f0010"/>). The question is divided in to four key components:
+                            <ce:list id="l0030">
+                                <ce:list-item id="o0010">
+                                    <ce:label>1.</ce:label>
+                                    <ce:para id="p0130"><ce:italic>Patient/Population</ce:italic>: Which patients or
+                                        population group of patients are you interested in? Is it necessary to consider
+                                        any subgroups?
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0015">
+                                    <ce:label>2.</ce:label>
+                                    <ce:para id="p0135"><ce:italic>Intervention</ce:italic>: Which
+                                        intervention/treatment is being evaluated?
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0020">
+                                    <ce:label>3.</ce:label>
+                                    <ce:para id="p0140"><ce:italic>Comparison/Control</ce:italic>: What is/are the main
+                                        alternative/s compared to the intervention?
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0025">
+                                    <ce:label>4.</ce:label>
+                                    <ce:para id="p0145"><ce:italic>Outcome</ce:italic>: What is the most important
+                                        outcome for the patient? Outcomes can include short- or long-term measures,
+                                        intervention complications, social functioning or quality of life, morbidity,
+                                        mortality or costs.
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0110">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0150">Not all research questions ask whether an
+                            <ce:italic>intervention</ce:italic>
+                            is better than existing interventions or no treatment at all. From a clinical perspective,
+                            evidence-based medicine is relevant for three other key domains:
+                            <ce:list id="l0035">
+                                <ce:list-item id="o0030">
+                                    <ce:label>1.</ce:label>
+                                    <ce:para id="p0155"><ce:italic>Aetiology</ce:italic>: Is the exposure a risk factor
+                                        for developing a certain condition?
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0035">
+                                    <ce:label>2.</ce:label>
+                                    <ce:para id="p0160"><ce:italic>Diagnosis</ce:italic>: How good is the diagnostic
+                                        test (history taking, physical examination, laboratory or pathological tests and
+                                        imaging) in determining whether a patient has a particular condition? Questions
+                                        are usually asked about the clinical value or the diagnostic accuracy of using
+                                        the test (discussed in<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00014-8"
+                                                                            id="ia0010">Chapter 14</ce:intra-ref>).
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="o0040">
+                                    <ce:label>3.</ce:label>
+                                    <ce:para id="p0165"><ce:italic>Prognosis</ce:italic>: Are there factors related to
+                                        the patient that predict a particular outcome (disease progression, survival
+                                        time after diagnosis of the disease, etc.)? The prognosis is based on the
+                                        characteristics of the patient (‘prognostic factors’) (discussed in<ce:intra-ref
+                                                xlink:href="pii:B978-0-7234-3869-4.00014-8" id="ia0015">Chapter
+                                            14</ce:intra-ref>).
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0115">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0170">It is important that the patient experience is taken into account when
+                            formulating the clinical question. Understandably, the (‘p’)atient experience may vary
+                            depending on which patient population is being addressed. The following patient views should
+                            be determined:
+                            <ce:list id="l0040">
+                                <ce:list-item id="u0120">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0175">The acceptability of the proposed (‘i’)ntervention being
+                                        evaluated
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0125">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0180">Preferences for the treatment options already available (‘c’)
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0130">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0185">What constitutes an appropriate, desired or acceptable
+                                        (‘o’)utcome.
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0135">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0190">Incorporating the above patient views will ensure the clinical question is
+                            patient-centred and therefore clinically relevant.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0020">
+            <ce:section-title id="st0025">IDENTIFYING RELEVANT EVIDENCE</ce:section-title>
+            <ce:section id="s0025">
+                <ce:section-title id="st0030">Sources of information</ce:section-title>
+                <ce:para id="p0195">
+                    <ce:list id="l0045">
+                        <ce:list-item id="u0140">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0200">Evidence should be identified using systematic, transparent and
+                                reproducible database searches.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0145">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0205">While a number of medical databases exist, the particular source used to
+                                identify evidence of clinical effectiveness will depend on the clinical question.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0150">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0210">It is advisable that all core databases (
+                                <ce:cross-ref refid="f0015">Fig. 1.2</ce:cross-ref>
+                                <ce:float-anchor refid="f0015"/>) are searched for every clinical question.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0155">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0215">Depending on the subject area of the clinical question, subject-specific
+                                databases (<ce:cross-ref refid="f0015">Fig. 1.2</ce:cross-ref>) and other relevant
+                                sources should also be searched.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0015">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0220">Using Dr ‘Google’ to perform your entire literature search is
+                                        not recommended!!!
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                    <ce:list id="l0050">
+                        <ce:list-item id="u0160">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0225">It is important to take into account the strengths and weaknesses of
+                                each database prior to carrying out a literature search. For example, EMBASE, which is
+                                operated by Elsevier Publishing, is considered to have better coverage of European and
+                                non-English language publications and topics, such as toxicology, pharmacology,
+                                psychiatry and alternative medicine, compared to the MEDLINE database.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0165">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0230">Overlap in the records retrieved from different databases will exist.
+                                For example, the overlap between EMBASE and MEDLINE is estimated to be 10 to 87%,
+                                depending on the topic.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0170">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0235">Other sources of information may include:
+                                <ce:list id="l0055">
+                                    <ce:list-item id="u0175">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0240">Websites (e.g. ClinicalTrials.gov)</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0180">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0245">Registries (e.g. national or regional registers)</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0185">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0250">Conference abstracts</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0190">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0255">Checking reference lists of key publications</ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0195">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0260">Personal communication with experts in the field.</ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0020">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0265">Different scientific databases cover different time periods and
+                                        index different types of journals.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0030">
+                <ce:section-title id="st0035">The search strategy</ce:section-title>
+                <ce:para id="p0270">
+                    <ce:list id="l0060">
+                        <ce:list-item id="u0200">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0275">The PICO framework can be used to construct the terms for your search
+                                strategy. In other words, the framework can be used to devise the search terms for the
+                                population, which can be combined with search terms related to the intervention(s) and
+                                comparison(s) (if there are any).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0205">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0280">It is common that outcome terms are not often mentioned in the subject
+                                headings or abstracts of database records. Consequently, ‘outcome’ terms are often
+                                omitted from the search strategy.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+                <ce:section id="s0035">
+                    <ce:section-title id="st0040">Search terms</ce:section-title>
+                    <ce:para id="p0285">
+                        <ce:list id="l0065">
+                            <ce:list-item id="u0210">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0290">When you input search terms, you can search for:
+                                    <ce:list id="l0070">
+                                        <ce:list-item id="u0215">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0295">a specific citation (author and publication detail)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0220">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0300">‘free-text’ (text word) terms within the title and
+                                                abstract
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0225">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0305">subject headings with which relevant references have
+                                                been tagged.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0230">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0310">Subject headings can help you identify appropriate search terms and
+                                    find information on a specific topic without having to carry out further searches
+                                    under all the synonyms for the preferred subject heading. For example, using the
+                                    MEDLINE database, the subject heading ‘heart failure’ would be ‘exp Heart Failure’,
+                                    where ‘exp’ stands for explode; i.e. the function gathers all the different
+                                    subheadings within the subject heading ‘Heart Failure’.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0235">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0315">Free-text searches are carried out to complement the subject heading
+                                    searches. Free-text terms may include:
+                                    <ce:list id="l0075">
+                                        <ce:list-item id="u0240">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0320">acronyms, e.g. ‘acquired immune deficiency syndrome’
+                                                versus ‘AIDS’
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0245">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0325">synonyms, e.g. ‘shortness of breath’ versus
+                                                ‘breathlessness’
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0250">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0330">abbreviations, e.g. ‘abdominal aortic aneurysm’ versus
+                                                ‘AAA’
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0255">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0335">different spellings, e.g. ‘paediatric’ (UK spelling)
+                                                versus ‘pediatric’ (US spelling).
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0260">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0340">lay and medical terminology, e.g. ‘indigestion’ (lay)
+                                                versus ‘dyspepsia’ (medical)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0265">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0345">brand and generic drug names, e.g. ‘septrin’ (brand
+                                                name) versus ‘co-trimoxazole’ (generic name).
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0270">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0350">It is important to identify the text word syntax (symbols) specific
+                                    for each database in order to expand your results set, e.g. ‘.tw’ used in MEDLINE.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0275">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0355">If entering two text words together, you may decide to use the term
+                                    ‘adj5’, which indicates the two words must be adjacent within 5 words of each other,
+                                    e.g. ‘(ventricular adj5 dysfunction).tw’.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0280">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0360">A symbol can be added to a word root in order to retrieve variant
+                                    endings, e.g. ‘smok*’ or ‘smok$’ finds citations with the words smoked, smoker,
+                                    smoke, smokes, smoking and many more.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0285">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0365">Referring to
+                                    <ce:cross-ref refid="f0020">Fig. 1.3</ce:cross-ref>
+                                    <ce:float-anchor refid="f0020"/>:
+                                    <ce:list id="l0080">
+                                        <ce:list-item id="u0290">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0370">in order to combine terms for the same concept (e.g.
+                                                synonyms or acronyms), the Boolean operator ‘OR’ is used.
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0295">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0375">in order to combine sets of terms for different
+                                                concepts, the Boolean operator ‘AND’ is used.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                        <ce:display>
+                            <ce:textbox role="alt0" id="b0025">
+                                <ce:textbox-head>
+                                    <ce:title>HINTS AND TIPS</ce:title>
+                                </ce:textbox-head>
+                                <ce:textbox-body>
+                                    <ce:sections>
+                                        <ce:para id="p0380">While subject headings are used to identify the main theme
+                                            of an article, not all conditions will have a subject heading, so it is
+                                            important to also search for free-text terms.
+                                        </ce:para>
+                                    </ce:sections>
+                                </ce:textbox-body>
+                            </ce:textbox>
+                        </ce:display>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+            <ce:section id="s0040">
+                <ce:section-title id="st0045">Reviewing the search strategy</ce:section-title>
+                <ce:section id="s0045">
+                    <ce:section-title id="st0050">Expanding your results</ce:section-title>
+                    <ce:para id="p0385">If there are too few references following your original search you should
+                        consider the following:
+                        <ce:list id="l0085">
+                            <ce:list-item id="u0300">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0390">Add symbols ($ or *) to the word root in order to retrieve variant
+                                    endings.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0305">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0395">Ensure the text word spellings are correct.</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0310">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0400">Ensure that you have combined your search terms using the correct
+                                    Boolean logic concept (AND, OR).
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0315">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0405">Consider reducing the number and type of limits applied to the
+                                    search.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0320">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0410">Ensure you have searched for related words, i.e. synonyms,
+                                    acronyms.
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0325">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0415">Search for terms that are broader for the topic of interest.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0050">
+                    <ce:section-title id="st0055">Limiting your results</ce:section-title>
+                    <ce:para id="p0420">If there are too many references following your original search you should
+                        consider the following:
+                        <ce:list id="l0090">
+                            <ce:list-item id="u0330">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0425">Depending on the review question, you may consider limiting the
+                                    search:
+                                    <ce:list id="l0095">
+                                        <ce:list-item id="u0335">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0430">to particular study designs (e.g. searching for
+                                                systematic reviews for review questions on the effectiveness of
+                                                interventions)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0340">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0435">by age (limiting searches by sex is not usually
+                                                recommended)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0345">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0440">to studies reported only in English</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0350">
+                                            <ce:label>•</ce:label>
+                                            <ce:para id="p0445">to studies involving only humans and not animals.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0355">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0450">Consider adding another Boolean logic concept (AND).</ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0360">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0455">Ensure you have searched for appropriate text words; otherwise, it
+                                    may be appropriate to only search for subject headings.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+                <ce:section id="s0055">
+                    <ce:section-title id="st0060">Documentation of the search strategy</ce:section-title>
+                    <ce:para id="p0460">
+                        <ce:list id="l0100">
+                            <ce:list-item id="u0365">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0465">An audit trail should be documented to ensure that the strategy used
+                                    for identifying the evidence is reproducible and transparent. The following
+                                    information should be documented:
+                                    <ce:list id="l0105">
+                                        <ce:list-item id="u0370">
+                                            <ce:label>1.</ce:label>
+                                            <ce:para id="p0470">The names (and host systems) of the databases, e.g.
+                                                MEDLINE (Ovid)
+                                            </ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0375">
+                                            <ce:label>2.</ce:label>
+                                            <ce:para id="p0475">The coverage dates of the database, e.g. MEDLINE (Ovid)
+                                                &lt;1950 to week 24, 2012&gt;</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0380">
+                                            <ce:label>3.</ce:label>
+                                            <ce:para id="p0480">The date on which the search was conducted</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0385">
+                                            <ce:label>4.</ce:label>
+                                            <ce:para id="p0485">The search strategy</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0390">
+                                            <ce:label>5.</ce:label>
+                                            <ce:para id="p0490">The limits that were applied to the search</ce:para>
+                                        </ce:list-item>
+                                        <ce:list-item id="u0400">
+                                            <ce:label>6.</ce:label>
+                                            <ce:para id="p0500">The number of records retrieved at each step of your
+                                                search.
+                                            </ce:para>
+                                        </ce:list-item>
+                                    </ce:list>
+                                </ce:para>
+                            </ce:list-item>
+                            <ce:list-item id="u0405">
+                                <ce:label>•</ce:label>
+                                <ce:para id="p0505">The search strategy used for the clinical question described above (
+                                    <ce:cross-ref refid="f0010">Fig. 1.1</ce:cross-ref>) is shown in
+                                    <ce:cross-ref refid="f0025">Fig. 1.4</ce:cross-ref>
+                                    <ce:float-anchor refid="f0025"/>.
+                                </ce:para>
+                            </ce:list-item>
+                        </ce:list>
+                    </ce:para>
+                </ce:section>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0060">
+            <ce:section-title id="st0065">CRITICALLY APPRAISING THE EVIDENCE</ce:section-title>
+            <ce:para id="p0510">
+                <ce:list id="l0110">
+                    <ce:list-item id="u0410">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0515">Once all the possible studies have been identified with the literature
+                            search, each study needs to be assessed for eligibility against objective criteria for
+                            inclusion or exclusion of studies.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0415">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0520">Having identified those studies that meet the inclusion criteria, they are
+                            subsequently assessed for methodological quality using a critical appraisal framework.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0420">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0525">Despite satisfying the inclusion criteria, studies appraised as being poor
+                            in quality should also be excluded.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+            <ce:section id="s0065">
+                <ce:section-title id="st0070">Critical appraisal</ce:section-title>
+                <ce:para id="p0530">
+                    <ce:list id="l0115">
+                        <ce:list-item id="u0425">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0535">Critical appraisal is the process of systematically examining the
+                                available evidence to judge its<ce:italic>validity</ce:italic>, and
+                                <ce:italic>relevance</ce:italic>
+                                in a particular context.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0430">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0540">The appraiser should make an objective assessment of the study quality
+                                and potential for bias.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0435">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0545">It is important to determine both the internal validity and external
+                                validity of the study:
+                                <ce:list id="l0120">
+                                    <ce:list-item id="u0440">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0550"><ce:italic>External validity</ce:italic>: The extent to
+                                            which the study findings are generalisable beyond the limits of the study to
+                                            the study's target population.
+                                        </ce:para>
+                                    </ce:list-item>
+                                    <ce:list-item id="u0445">
+                                        <ce:label>•</ce:label>
+                                        <ce:para id="p0555"><ce:italic>Internal validity</ce:italic>: Ensuring that the
+                                            study was run carefully (research design, how variables were measured, etc.)
+                                            and the extent to which the observed effect(s) were produced solely by the
+                                            intervention being assessed (and not by another factor).
+                                        </ce:para>
+                                    </ce:list-item>
+                                </ce:list>
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0450">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0560">The three main threats to internal validity (confounding, bias and
+                                causality) are discussed in turn for each of the key study designs in their respective
+                                chapters.
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0455">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0565">Methodological checklists for critically appraising the key study
+                                designs covered in this book are provided in<ce:intra-ref
+                                        xlink:href="pii:B978-0-7234-3869-4.00019-7" id="ia0020">Chapter
+                                    19</ce:intra-ref>.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                </ce:para>
+            </ce:section>
+            <ce:section id="s0070">
+                <ce:section-title id="st0075">Hierarchy of evidence</ce:section-title>
+                <ce:para id="p0570">
+                    <ce:list id="l0125">
+                        <ce:list-item id="u0460">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0575">Different study designs provide varying levels of evidence of causality
+                                (
+                                <ce:cross-ref refid="f0030">Fig. 1.5</ce:cross-ref>
+                                <ce:float-anchor refid="f0030"/>).
+                            </ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0465">
+                            <ce:label>•</ce:label>
+                            <ce:para id="p0580">The rank of a study in the hierarchy of evidence is based on its
+                                potential for bias, i.e. a systematic review provides the strongest evidence for a
+                                causal relationship between an intervention and outcome.
+                            </ce:para>
+                        </ce:list-item>
+                    </ce:list>
+                    <ce:display>
+                        <ce:textbox role="alt0" id="b0030">
+                            <ce:textbox-head>
+                                <ce:title>HINTS AND TIPS</ce:title>
+                            </ce:textbox-head>
+                            <ce:textbox-body>
+                                <ce:sections>
+                                    <ce:para id="p0585">Practising medicine using unreliable evidence could lead to
+                                        patient harm or limited resources being wasted – hence the importance of
+                                        critical appraisal.
+                                    </ce:para>
+                                </ce:sections>
+                            </ce:textbox-body>
+                        </ce:textbox>
+                    </ce:display>
+                </ce:para>
+            </ce:section>
+        </ce:section>
+        <ce:section id="s0075">
+            <ce:section-title id="st0080">ASSESSING THE RESULTS</ce:section-title>
+            <ce:para id="p0590">Of the remaining studies, the reported results are extracted on to a data extraction
+                form which may include the following points:
+                <ce:list id="l0130">
+                    <ce:list-item id="u0470">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0595">Does the main outcome variable measured in the study relate to the outcome
+                            variable stated in the PICO question?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0475">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0600">How large is the effect of interest?</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0480">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0605">How precise is the effect of interest?/Have confidence intervals been
+                            provided? (Narrower confidence intervals indicate higher precision.)
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0485">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0610">If the lower limit of the confidence interval represents the true value of
+                            the effect, would you consider the observed effect to be clinically significant?
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0490">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0615">Would it be clinically significant if the upper limit of the confidence
+                            interval represented the true value of the effect?
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0080">
+            <ce:section-title id="st0085">IMPLEMENTING THE RESULTS</ce:section-title>
+            <ce:para id="p0620">Having already critically appraised the evidence, extracted the most useful results and
+                determined whether they are important, you must decide whether this evidence can be applied to your
+                individual patient or population. It is important to determine whether:
+                <ce:list id="l0135">
+                    <ce:list-item id="u0495">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0625">your patient has similar characteristics to those subjects enrolled in the
+                            studies from which the evidence was obtained
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0500">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0630">the outcomes considered in the evidence are clinically important to your
+                            patient
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0505">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0635">the study results are applicable to your patient</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0510">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0640">the evidence regarding risks is available</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0515">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0645">the intervention is available in your healthcare setting</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0520">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0650">an economic analysis has been performed.</ce:para>
+                    </ce:list-item>
+                </ce:list>
+                The evidence regarding both efficacy and risks should be discussed with the patient in order to make an
+                informed decision about their care.
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0085">
+            <ce:section-title id="st0090">EVALUATING PERFORMANCE</ce:section-title>
+            <ce:para id="p0660">Having implemented the key evidence-based medicine principles discussed above, it is
+                important to:
+                <ce:list id="l0140">
+                    <ce:list-item id="u0525">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0665">integrate the evidence into clinical practice.</ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0530">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0670">audit your performance to demonstrate whether this approach is improving
+                            patient care (discussed in<ce:intra-ref xlink:href="pii:B978-0-7234-3869-4.00016-1"
+                                                                    id="ia0025">Chapter 16</ce:intra-ref>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0535">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0675">evaluate your approach at regular intervals to determine whether there is
+                            scope for improvement in any stage of the process.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+            </ce:para>
+        </ce:section>
+        <ce:section id="s0090">
+            <ce:section-title id="st0095">CREATING GUIDELINE RECOMMENDATIONS</ce:section-title>
+            <ce:para id="p0680">
+                <ce:list id="l0145">
+                    <ce:list-item id="u0540">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0685">The evidence-based medicine approach may be used to develop clinical
+                            practice guidelines.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0545">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0690">Clinical guidelines are recommendations based on the best available
+                            evidence.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0550">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0695">They are developed taking into account the views of those affected by the
+                            recommendations in the guideline, i.e. healthcare professionals, patients, their families
+                            and carers, NHS trusts, the public and government bodies. These stakeholders play an
+                            integral part in the development of a clinical guideline and are involved in all key stages
+                            (
+                            <ce:cross-ref refid="f0035">Fig. 1.6</ce:cross-ref>
+                            <ce:float-anchor refid="f0035"/>).
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0555">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0700">Topics for national clinical guideline development are highlighted by the
+                            Department of Health, based on recommendations from panels considering topic selection.
+                            Local guidelines may be commissioned by a hospital or primary care trust.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0560">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0705">The commissioning body identifies the key areas which need to be covered,
+                            which are subsequently translated into the scope for the clinical guideline.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0565">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0710">As highlighted by the National Institute for Health and Clinical Excellence
+                            (NICE), clinical guidelines can be used to:
+                            <ce:list id="l0150">
+                                <ce:list-item id="u0570">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0715">educate and train healthcare professionals</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0575">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0720">develop standards for assessing current clinical practice
+                                    </ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0580">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0725">help patients make informed decisions</ce:para>
+                                </ce:list-item>
+                                <ce:list-item id="u0585">
+                                    <ce:label>•</ce:label>
+                                    <ce:para id="p0730">improve communication between healthcare professionals and
+                                        patients.
+                                    </ce:para>
+                                </ce:list-item>
+                            </ce:list>
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0590">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0735">Healthcare providers and organisations should implement the recommendations
+                            with use of slide sets, audit support and other tools tailored to need.
+                        </ce:para>
+                    </ce:list-item>
+                    <ce:list-item id="u0595">
+                        <ce:label>•</ce:label>
+                        <ce:para id="p0740">It is important that healthcare professionals take clinical guidelines into
+                            account when making clinical decisions. However, guidelines are intended to be flexible, and
+                            clinical judgement should also be based on clinical circumstances and patient preferences.
+                        </ce:para>
+                    </ce:list-item>
+                </ce:list>
+                <ce:display>
+                    <ce:textbox role="alt0" id="b0035">
+                        <ce:textbox-head>
+                            <ce:title>HINTS AND TIPS</ce:title>
+                        </ce:textbox-head>
+                        <ce:textbox-body>
+                            <ce:sections>
+                                <ce:para id="p0745">The goal of a clinical guideline is to improve the quality of
+                                    clinical care delivered by healthcare professionals and to ensure that the resources
+                                    used are not only efficient but also cost-effective.
+                                </ce:para>
+                            </ce:sections>
+                        </ce:textbox-body>
+                    </ce:textbox>
+                </ce:display>
+            </ce:para>
+        </ce:section>
+    </ce:sections>
+</chapter>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11012855" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_002</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 39-year-old woman presents complaining of weight gain and change in menstrual cycle. On examination there is hair loss (male-pattern baldness), and thin skin with bruises. There is truncal obesity and proximal muscle atrophy. Her blood pressure is 141/85 mmHg.</p>
+        <p>What is most likely investigation to confirm the diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Catecholamine assay</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Desmopressin test</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Dexamethasone suppression test</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">
+        Synacthen
+        <sup>®</sup>
+        test
+      </simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Thyroid function test</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The patient has features of Cushing's syndrome due to excess production of corticosteroid. Dexamethasone a synthetic corticosteroid that would suppress corticosteroid releasing hormone and ACTH, causing cortisol secretion to fall. The test is positive if this response fails. A Synacthen
+      <sup>®</sup>
+      test stimulates cortisol secretion and is used in Addison's disease. A catecholamine assay is used to test phaeochromocytoma. A desmopressin test is used in diabetes insipidus.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Used in diagnosis of phaeochromocytoma (an adrenal medulla neuroendocrine tumour). It can present as palpitations, headaches, hypertension, tachycardia and anxiety.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Used in diagnosis of diabetes inspidus. Characterized by polyuria and polydipsia.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Used to diagnose adrenal insufficiency or Addison's disease. Administration in a normal individual stimulates the adrenal cortex and results in cortisol increase, which is measured.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Used to diagnose hyperthyroidism or hypothyroidism. The features of bruising and thin skin do not occur in thyroid disorders.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option C is Correct.</b>
+      The patient has features of Cushing's syndrome due to excess production of corticosteroid. Dexamethasone a synthetic corticosteroid that would suppress corticosteroid releasing hormone and ACTH, causing cortisol secretion to fall. The test is positive if this response fails. A Synacthen
+      <sup>®</sup>
+      test stimulates cortisol secretion and is used in Addison's disease. A catecholamine assay is used to test phaeochromocytoma. A desmopressin test is used in diabetes insipidus.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Used in diagnosis of phaeochromocytoma (an adrenal medulla neuroendocrine tumour). It can present as palpitations, headaches, hypertension, tachycardia and anxiety.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Used in diagnosis of diabetes inspidus. Characterized by polyuria and polydipsia.
+    </p>
+    <p>
+      <b>Option D is Incorrect.</b>
+      Used to diagnose adrenal insufficiency or Addison's disease. Administration in a normal individual stimulates the adrenal cortex and results in cortisol increase, which is measured.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Used to diagnose hyperthyroidism or hypothyroidism. The features of bruising and thin skin do not occur in thyroid disorders.
+    </p>
+  </modalFeedback>
+</assessmentItem>

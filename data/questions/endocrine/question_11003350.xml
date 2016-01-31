@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_11003350" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 14-year-old girl attends her GP with her mother. They are concerned that she has not undergone menarche or thelarche. Her mother started menstruating at 13 years. On examination the patient has a cubitus valgus of 25°, widely spaced nipples and low set ears.</p>
+        <p>What is the most appropriate diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Kallmann's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Polycystic ovary syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Testicular feminization syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Turner's syndrome</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">XX gonadal dysgenesis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      The patient has a karyotype 45XO, elevated gonadotrophins and low levels of oestradiol due to ovarian failure.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Kallmann's syndrome is the presence of anosmia, delayed puberty and amenorrhoea. Low gonadotrophins and oestradiol levels are due to gonadotrophin-releasing hormone impaired release.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This consists of oligomenorrhoea, subfertility, obesity, hirsutism with gonadotrophin elevation and multiple ovarian cysts on ultrasound scan.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Androgen intracellular receptor deficiency results in end-organ resistance to testosterone. Phenotypically female, these individuals have an absent uterus and blind-ending vagina
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is a type of female
+      <a href="4_Hypogonadism">hypogonadism</a>
+      in which no functional ovaries are present to induce
+      <a href="5_Puberty">puberty</a>
+      in an otherwise normal girl whose karyotype is found to be 46XX.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      The patient has a karyotype 45XO, elevated gonadotrophins and low levels of oestradiol due to ovarian failure.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Kallmann's syndrome is the presence of anosmia, delayed puberty and amenorrhoea. Low gonadotrophins and oestradiol levels are due to gonadotrophin-releasing hormone impaired release.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      This consists of oligomenorrhoea, subfertility, obesity, hirsutism with gonadotrophin elevation and multiple ovarian cysts on ultrasound scan.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Androgen intracellular receptor deficiency results in end-organ resistance to testosterone. Phenotypically female, these individuals have an absent uterus and blind-ending vagina
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      This is a type of female
+      <a href="4_Hypogonadism">hypogonadism</a>
+      in which no functional ovaries are present to induce
+      <a href="5_Puberty">puberty</a>
+      in an otherwise normal girl whose karyotype is found to be 46XX.
+    </p>
+  </modalFeedback>
+</assessmentItem>

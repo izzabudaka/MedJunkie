@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10969766" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Carbon dioxide in tissues is transported to the lungs by haemoglobin in a complex way.</p>
+        <p>Which of the following statements about the transport of carbon dioxide in blood is true?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">A higher proportion of oxygen than carbon dioxide is dissolved in the plasma</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Most (90%) of the carbon dioxide is transported as bicarbonate ions</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Oxygenated blood carries more carbon dioxide than deoxygenated blood</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Carbonic anhydrase facilitates the formation of carbamino-haemoglobin</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">The role of the red blood cells in carbon dioxide transport is insignificant</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Most (90%) of the carbon dioxide is transported as bicarbonate ions) is Correct.</b>
+      Several mechanisms are responsible for carbon dioxide transport, and there are significant roles for both the plasma and the red cells. Almost 90% of the carbon dioxide is transported as bicarbonate ions, about 5% is dissolved, and about 5% is transported as carbamino-haemoglobin. A negligible amount of oxygen is dissolved, but carbon dioxide (CO
+      <sub>2</sub>
+      ) is about 20 times more soluble than oxygen. Deoxygenated blood carries more carbon dioxide than oxygenated blood (Haldane effect), and this facilitates the uptake of carbon dioxide from the tissues and its delivery to the pulmonary capillaries.
+      <br/>
+      <br/>
+      <b>Option A (A higher proportion of oxygen than carbon dioxide is dissolved in the plasma) is Incorrect.</b>
+      CO
+      <sub>2</sub>
+      is more soluble.
+      <br/>
+      <br/>
+      <b>Option C (Oxygenated blood carries more carbon dioxide than deoxygenated blood) is Incorrect.</b>
+      Deoxygenated blood carries more CO
+      <sub>2</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option D (Carbonic anhydrase facilitates the formation of carbamino-haemoglobin) is Incorrect.</b>
+      Carbonic anhydrase facilitates the formation of H
+      <sub>2</sub>
+      CO
+      <sub>3</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option E (The role of the red blood cells in carbon dioxide transport is insignificant) is Incorrect.</b>
+      It is significant (5% as carbamino-haemoglobin)
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Most (90%) of the carbon dioxide is transported as bicarbonate ions) is Correct.</b>
+      Several mechanisms are responsible for carbon dioxide transport, and there are significant roles for both the plasma and the red cells. Almost 90% of the carbon dioxide is transported as bicarbonate ions, about 5% is dissolved, and about 5% is transported as carbamino-haemoglobin. A negligible amount of oxygen is dissolved, but carbon dioxide (CO
+      <sub>2</sub>
+      ) is about 20 times more soluble than oxygen. Deoxygenated blood carries more carbon dioxide than oxygenated blood (Haldane effect), and this facilitates the uptake of carbon dioxide from the tissues and its delivery to the pulmonary capillaries.
+      <br/>
+      <br/>
+      <b>Option A (A higher proportion of oxygen than carbon dioxide is dissolved in the plasma) is Incorrect.</b>
+      CO
+      <sub>2</sub>
+      is more soluble.
+      <br/>
+      <br/>
+      <b>Option C (Oxygenated blood carries more carbon dioxide than deoxygenated blood) is Incorrect.</b>
+      Deoxygenated blood carries more CO
+      <sub>2</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option D (Carbonic anhydrase facilitates the formation of carbamino-haemoglobin) is Incorrect.</b>
+      Carbonic anhydrase facilitates the formation of H
+      <sub>2</sub>
+      CO
+      <sub>3</sub>
+      .
+      <br/>
+      <br/>
+      <b>Option E (The role of the red blood cells in carbon dioxide transport is insignificant) is Incorrect.</b>
+      It is significant (5% as carbamino-haemoglobin)
+    </p>
+  </modalFeedback>
+</assessmentItem>

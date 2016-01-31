@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10963828" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_001</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 19-year-old gap-year student has recently returned from travelling in Sub-Saharan Africa (where he took no regular medication). He presents to the Emergency Department with a history of fevers and chills for the last week. The fevers wax and wane, being at their worst every 48 h. He initially felt generally unwell with joint aches and malaise and has now developed a severe headache. While taking a history, you notice that he has become increasingly confused, vomits and has visible rigors.</p>
+        <p>On examination, his chest is clear on auscultation, his abdomen is soft, non-tender, and he has mild photophobia. He is febrile (39ºC), heart rate 110 beats/min, blood pressure 90/50 mmHg, respiratory rate: 20 breaths/min and Glasgow Coma Scale: 14/15.</p>
+        <p>What single test would be most likely to reveal the correct diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Blood cultures</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Blood film</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">CT head</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Full blood count</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Lumbar puncture</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Blood film) is Correct.</b>
+      Thick and thin films are used to diagnose malaria.
+      <br/>
+      <br/>
+      <b>Option A (Blood cultures) is Incorrect.</b>
+      Blood cultures are used to grow organisms seen in infection and are not appropriate to diagnose malaria.
+      <br/>
+      <br/>
+      <b>Option C (CT head) is Incorrect.</b>
+      CT is used to detect intracranial pathology and raised intracranial pressure.
+      <br/>
+      <br/>
+      <b>Option D (Full blood count) is Incorrect.</b>
+      Full blood count may show raised inflammatory markers but would not diagnose the source of the infection.
+      <br/>
+      <br/>
+      <b>Option E (Lumbar puncture) is Incorrect.</b>
+      Lumbar puncture is used to diagnose meningitis.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option B (Blood film) is Correct.</b>
+      Thick and thin films are used to diagnose malaria.
+      <br/>
+      <br/>
+      <b>Option A (Blood cultures) is Incorrect.</b>
+      Blood cultures are used to grow organisms seen in infection and are not appropriate to diagnose malaria.
+      <br/>
+      <br/>
+      <b>Option C (CT head) is Incorrect.</b>
+      CT is used to detect intracranial pathology and raised intracranial pressure.
+      <br/>
+      <br/>
+      <b>Option D (Full blood count) is Incorrect.</b>
+      Full blood count may show raised inflammatory markers but would not diagnose the source of the infection.
+      <br/>
+      <br/>
+      <b>Option E (Lumbar puncture) is Incorrect.</b>
+      Lumbar puncture is used to diagnose meningitis.
+    </p>
+  </modalFeedback>
+</assessmentItem>

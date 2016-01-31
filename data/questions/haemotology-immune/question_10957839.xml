@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10957839" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_004</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="1.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Binding of oxygen to the haemoglobin molecule follows a sigmoid curve: the oxygen dissociation curve.</p>
+        <p>Which of the following factors shifts the oxygen dissociation curve to the right?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Decrease in temperature</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Increase in pH (decrease in [H+])</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Decrease in 2,3-diphosphoglycerate (2,3-DPG)</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Living at sea level</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Exercise</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Exercise) is Correct.</b>
+      Shifts of the oxygen–haemoglobin dissociation curve are important mechanisms to ensure oxygen is effectively delivered to the tissues. Increase in temperature, reduction in pH and increase in 2,3-DPG shift the oxygen–haemoglobin dissociation curve to the right, reduce the affinity of haemoglobin for oxygen, and ease the delivery of oxygen to the tissues. Living at high altitude usually triggers an increase in 2,3-DPG. During exercise, a combination of a temperature increase, a reduction in pH and an increase in 2,3-DPG shifts the oxygen–haemoglobin dissociation curve to the right. Furthermore, the steep part of the curve is in operation as partial pressure of oxygen is low. Hence more oxygen is released to the tissues for the given oxygen gradient.
+      <br/>
+      <br/>
+      <b>Option A (Decrease in temperature) is Incorrect.</b>
+      An increase in temperature will shift the oxygen dissociation curve to the right.
+      <br/>
+      <br/>
+      <b>Option B (Increase in pH (decrease in [H</b>
+      <sup>+</sup>
+      <b>])) is Incorrect.</b>
+      A decrease in pH will lead to a shift to the right.
+      <br/>
+      <br/>
+      <b>Option C (Decrease in 2,3-diphosphoglycerate (2,3-DPG)) is Incorrect.</b>
+      Increase in 2,3-diphosphoglycerate (2,3-DPG) will shift the curve to the right.
+      <br/>
+      <br/>
+      <b>Option D (Living at sea level) is Incorrect.</b>
+      High altitude has the affect of shifting the oxygen dissociation curve to the right.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option E (Exercise) is Correct.</b>
+      Shifts of the oxygen–haemoglobin dissociation curve are important mechanisms to ensure oxygen is effectively delivered to the tissues. Increase in temperature, reduction in pH and increase in 2,3-DPG shift the oxygen–haemoglobin dissociation curve to the right, reduce the affinity of haemoglobin for oxygen, and ease the delivery of oxygen to the tissues. Living at high altitude usually triggers an increase in 2,3-DPG. During exercise, a combination of a temperature increase, a reduction in pH and an increase in 2,3-DPG shifts the oxygen–haemoglobin dissociation curve to the right. Furthermore, the steep part of the curve is in operation as partial pressure of oxygen is low. Hence more oxygen is released to the tissues for the given oxygen gradient.
+      <br/>
+      <br/>
+      <b>Option A (Decrease in temperature) is Incorrect.</b>
+      An increase in temperature will shift the oxygen dissociation curve to the right.
+      <br/>
+      <br/>
+      <b>Option B (Increase in pH (decrease in [H</b>
+      <sup>+</sup>
+      <b>])) is Incorrect.</b>
+      A decrease in pH will lead to a shift to the right.
+      <br/>
+      <br/>
+      <b>Option C (Decrease in 2,3-diphosphoglycerate (2,3-DPG)) is Incorrect.</b>
+      Increase in 2,3-diphosphoglycerate (2,3-DPG) will shift the curve to the right.
+      <br/>
+      <br/>
+      <b>Option D (Living at sea level) is Incorrect.</b>
+      High altitude has the affect of shifting the oxygen dissociation curve to the right.
+    </p>
+  </modalFeedback>
+</assessmentItem>

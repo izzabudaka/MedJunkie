@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10961252" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>Red cells are biconcave disc-shaped cells lacking a nucleus, since this is extruded while the cell is maturing in the bone marrow.</p>
+        <p>What is the life span of red cells?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">4 days</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">14 days</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">28 days</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">120 days</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">6 months</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (120 days) is Correct.</b>
+      The diameter of a red cell is around 6.7–7.7 μm. The principal function of red cells is to carry oxygen and carbon dioxide round the body. The biconcave shape provides an increased surface area, compared with a sphere, making gas exchange faster, and is maintained by a complex cytoskeleton system. The adult red cell survives for about 120 days with a daily attrition rate of 2 × 10
+      <sup>12</sup>
+      haemoglobin molecules per second.
+    </p>
+    <p>
+      <b>Option A (4 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option B (14 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option C (28 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option E (6 months) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D (120 days) is Correct.</b>
+      The diameter of a red cell is around 6.7–7.7 μm. The principal function of red cells is to carry oxygen and carbon dioxide round the body. The biconcave shape provides an increased surface area, compared with a sphere, making gas exchange faster, and is maintained by a complex cytoskeleton system. The adult red cell survives for about 120 days with a daily attrition rate of 2 × 10
+      <sup>12</sup>
+      haemoglobin molecules per second.
+    </p>
+    <p>
+      <b>Option A (4 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option B (14 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option C (28 days) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+    <p>
+      <b>Option E (6 months) is Incorrect.</b>
+      The adult red cell survives for about 120 days.
+    </p>
+  </modalFeedback>
+</assessmentItem>

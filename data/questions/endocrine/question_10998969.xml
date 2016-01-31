@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" identifier="question_10998969" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE">
+    <correctResponse>
+      <value>CHOICE_003</value>
+    </correctResponse>
+    <mapping lowerBound="0.0">
+      <mapEntry mapKey="CHOICE_000" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_001" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_002" mappedValue="0.0"/>
+      <mapEntry mapKey="CHOICE_003" mappedValue="1.0"/>
+      <mapEntry mapKey="CHOICE_004" mappedValue="0.0"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="FEEDBACK"/>
+  <outcomeDeclaration baseType="identifier" cardinality="single" identifier="GENERAL_FEEDBACK"/>
+  <outcomeDeclaration baseType="float" cardinality="single" identifier="SCORE">
+    <defaultValue>
+      <value>0</value>
+    </defaultValue>
+  </outcomeDeclaration>
+  <itemBody>
+    <choiceInteraction minChoices="1" maxChoices="1" shuffle="false" responseIdentifier="RESPONSE" loChoiceListingType="upper-alpha">
+      <prompt>
+        <p>A 24-year-old woman is referred by her GP with a 1 × 1 cm swelling in her left breast. The lump is smooth, rubbery and well defined, non-tender and highly mobile.</p>
+        <p>What is the most likely diagnosis?</p>
+      </prompt>
+      <simpleChoice identifier="CHOICE_000">Breast abscess</simpleChoice>
+      <simpleChoice identifier="CHOICE_001">Breast cyst</simpleChoice>
+      <simpleChoice identifier="CHOICE_002">Fat necrosis</simpleChoice>
+      <simpleChoice identifier="CHOICE_003">Fibroadenoma</simpleChoice>
+      <simpleChoice identifier="CHOICE_004">Fibroadenosis</simpleChoice>
+    </choiceInteraction>
+  </itemBody>
+  <modalFeedback identifier="CORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      A fibroadenoma is a benign solitary, solid, rubbery breast lesion, which is characteristically smooth, non-tender and freely mobile. It is common in young women.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Breast abscess presents as a tender, swollen lump. It often has a significant amount of overlying skin erythema. There may be a fluctuant area, surrounded by induration.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Breast cysts are discrete, fluid-filled swellings within the breast. They are smooth and mobile and can lead to localized tenderness. They are common in premenopausal women.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Fat necrosis occurs following trauma to the breast. It presents as a hard lump which is attached to the skin.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Fibroadenosis is a benign breast condition where one or more lumps are present with symptoms of pain and nodularity, which is characteristically associated with the patient's menstrual cycle. Presents in premenopausal women.
+    </p>
+  </modalFeedback>
+  <modalFeedback identifier="INCORRECT_FEEDBACK" outcomeIdentifier="GENERAL_FEEDBACK" showHide="show">
+    <p>
+      <b>Option D is Correct.</b>
+      A fibroadenoma is a benign solitary, solid, rubbery breast lesion, which is characteristically smooth, non-tender and freely mobile. It is common in young women.
+    </p>
+    <p>
+      <b>Option A is Incorrect.</b>
+      Breast abscess presents as a tender, swollen lump. It often has a significant amount of overlying skin erythema. There may be a fluctuant area, surrounded by induration.
+    </p>
+    <p>
+      <b>Option B is Incorrect.</b>
+      Breast cysts are discrete, fluid-filled swellings within the breast. They are smooth and mobile and can lead to localized tenderness. They are common in premenopausal women.
+    </p>
+    <p>
+      <b>Option C is Incorrect.</b>
+      Fat necrosis occurs following trauma to the breast. It presents as a hard lump which is attached to the skin.
+    </p>
+    <p>
+      <b>Option E is Incorrect.</b>
+      Fibroadenosis is a benign breast condition where one or more lumps are present with symptoms of pain and nodularity, which is characteristically associated with the patient's menstrual cycle. Presents in premenopausal women.
+    </p>
+  </modalFeedback>
+</assessmentItem>
